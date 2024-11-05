@@ -6,6 +6,8 @@ import { deduplicate } from "./util.js";
 import { parseRSS, readRSSJson } from "./rss.util.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const RssIndexFileName = path.join(__dirname, "../public/rss/index.json");
+const CharSet = "utf-8";
 
 Promise.all(
   rssLinkList.map(async (link) => {
@@ -26,35 +28,36 @@ Promise.all(
 
       const fileName = path.join(
         __dirname,
-        "../rss",
+        "../public/rss",
         `${link.replaceAll("/", "_").replaceAll(":", "_")}.json`
       );
       return readRSSJson(fileName).then((rss) => {
-        if (rss === null) {
-          return;
-        }
-
         const parsed = parseRSS(xml);
-        rss.title = parsed.title;
-        rss.link = parsed.link;
-        rss.description = parsed.description;
-        rss.lastBuildDate = parsed.lastBuildDate;
-        rss.items = deduplicate([...rss.items, ...parsed.items], (v) => v.guid);
-        return writeFile(
-          fileName,
-          JSON.stringify(parsed, null, 2),
-          "utf-8"
-        ).then(() => `./${fileName.split("/rss/")[1]}`);
+
+        const data = {
+          title: parsed.title,
+          description: parsed.description,
+          link: parsed.link,
+          lastBuildDate: parsed.lastBuildDate,
+          items: deduplicate(
+            [...(rss?.items ?? []), ...parsed.items],
+            (v) => v.guid
+          ),
+        };
+
+        return writeFile(fileName, JSON.stringify(data, null, 2), CharSet).then(
+          () => `./${fileName.split("/rss/")[1]}`
+        );
       });
     })
   )
   .then(async (v) => {
-    const str = await readFile("rss/index.json", "utf-8");
+    const str = await readFile(RssIndexFileName, CharSet).catch(() => "[]");
     const fileNameSet = new Set(JSON.parse(str));
     return await Promise.all(v)
       .then((v) => v.filter((v) => !!v).forEach((v) => fileNameSet.add(v)))
       .then(() => Array.from(fileNameSet));
   })
   .then((v) =>
-    writeFile("rss/index.json", JSON.stringify(v, null, 2), "utf-8")
+    writeFile(RssIndexFileName, JSON.stringify(v, null, 2), CharSet)
   );
