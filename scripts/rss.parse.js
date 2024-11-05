@@ -44,10 +44,17 @@ Promise.all(
           fileName,
           JSON.stringify(parsed, null, 2),
           "utf-8"
-        ).then(() => fileName);
+        ).then(() => `./${fileName.split("/rss/")[1]}`);
       });
     })
   )
-  .then((v) => {
-    readFile("../rss/index.json", "utf-8").then((str) => {});
-  });
+  .then(async (v) => {
+    const str = await readFile("rss/index.json", "utf-8");
+    const fileNameSet = new Set(JSON.parse(str));
+    return await Promise.all(v)
+      .then((v) => v.filter((v) => !!v).forEach((v) => fileNameSet.add(v)))
+      .then(() => Array.from(fileNameSet));
+  })
+  .then((v) =>
+    writeFile("rss/index.json", JSON.stringify(v, null, 2), "utf-8")
+  );
