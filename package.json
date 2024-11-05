@@ -1,0 +1,8 @@
+{
+  "name": "rss-blog",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "parse": "node scripts/rss.parse.js"
+  }
+}
