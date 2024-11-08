@@ -93,7 +93,7 @@ export default function Home() {
                 {typeof blog.description === "object"
                   ? blog.description.type === "html"
                     ? ""
-                    : blog["$text"]
+                    : blog.description["$text"]
                   : blog.description}
               </p>
               <div className={styles.articleFooter}>
