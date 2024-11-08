@@ -5,7 +5,12 @@ import * as styles from "./styles/layout.css";
 
 interface BlogItem {
   title: string;
-  description: string;
+  description:
+    | string
+    | {
+        $text: string;
+        type: string;
+      };
   link: string;
   pubDate: string;
   blogTitle?: string;
