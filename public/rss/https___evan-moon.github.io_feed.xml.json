@@ -1,0 +1,17 @@
+{
+  "title": "Evans Library",
+  "description": "개발을 잘하기 위해서가 아닌 개발을 즐기기 위해 노력하는 개발자입니다. 사소한 생각 정리부터 튜토리얼, 삽질기 정도를 주로 끄적이고 있습니다.",
+  "link": "https://evan-moon.github.io",
+  "lastBuildDate": "Wed, 26 Jun 2024 14:56:20 GMT",
+  "items": [
+    {
+      "title": "지금 프로그래밍을 하고 있는 당신은 누구인가",
+      "description": "AI는 우리의 생활을 크게 변화시키고 있다. ChatGPT 모바일 앱을 사용하면서 음성으로 대화를 주고 받다보면 이제는 영화 아이언맨에 나오는 인공지능 비서 자비스가 현실화된 것이 아닌가 하는 착각마저도 일으킬 정도이다.",
+      "link": "https://evan-moon.github.io/2024/06/23/perspective-on-ai/",
+      "guid": "",
+      "pubDate": "Sun, 23 Jun 2024 10:10:21 GMT",
+      "author": "",
+      "category": ""
+    }
+  ]
+}
