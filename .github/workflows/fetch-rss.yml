@@ -17,11 +17,15 @@ jobs:
       - name: Fetch RSS Blogs
         run: node ./scripts/rss.parse.js
 
-      - name: Commit Result
+      - name: Git Commit
         run: |
-          git --version
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config user.name sunrabbit123
+          git config user.email qudwls185@naver.com
           git add .
           git commit -s -m "CI(Github Actions Bot): update blog post list from rssList"
-          git push origin main
+
+      - name: Push changes to main branch
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
