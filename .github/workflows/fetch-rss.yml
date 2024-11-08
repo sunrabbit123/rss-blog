@@ -22,4 +22,6 @@ jobs:
           git --version
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-          git status
+          git add .
+          git commit -s -m "CI(Github Actions Bot): update blog post list from rssList"
+          git push origin main
