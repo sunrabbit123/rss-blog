@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-08T15:46:21+09:00",
+  "lastBuildDate": "2024-11-08T22:45:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -143,6 +143,32 @@
       "guid": "https://news.hada.io/topic?id=17639",
       "pubDate": "2024-11-08T07:59:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "[블룸버그] \"연봉 1억 행복 멈춤은 개소리, 돈 많을수록 행복 무한\"",
+      "description": {
+        "$text": "<ul>\n<li>돈 많을수록 행복 더 높아진다는 연구 결과</li>\n<li>소득이 오르면 삶의 만족도도 쭉쭉 상승</li>\n<li>중산층에서 초고소득층 갈수록 행복감 차이 확연</li>\n<li>연 8만 달러 넘는 소득도 행복 계속 증가</li>\n<li>돈 많을수록 일상에서 느끼는 행복감도 커짐</li>\n<li>부자일수록 ‘행복 정체’ 없이 만족도 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17650",
+      "guid": "https://news.hada.io/topic?id=17650",
+      "pubDate": "2024-11-08T22:45:34+09:00",
+      "author": "jasper1080",
+      "category": ""
+    },
+    {
+      "title": "몇 분 만에 AI가 있는 앱을 만들었습니다! OpenHands + Daytona",
+      "description": {
+        "$text": "몇 분 만에 AI가 있는 앱을 만들었습니다! OpenHands + Daytona",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17649",
+      "guid": "https://news.hada.io/topic?id=17649",
+      "pubDate": "2024-11-08T21:54:58+09:00",
+      "author": "nkkko",
       "category": ""
     }
   ]
