@@ -84,7 +84,13 @@ export default function Home() {
                 <div className={styles.blogTitle}>{blog.blogTitle}</div>
               )}
               <h2 className={styles.articleTitle}>{blog.title}</h2>
-              <p className={styles.articleDescription}>{blog.description}</p>
+              <p className={styles.articleDescription}>
+                {typeof blog.description === "object"
+                  ? blog.description.type === "html"
+                    ? ""
+                    : blog["$text"]
+                  : blog.description}
+              </p>
               <div className={styles.articleFooter}>
                 <time className={styles.articleDate}>
                   {new Date(blog.pubDate).toLocaleDateString()}
