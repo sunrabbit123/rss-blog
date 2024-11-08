@@ -2,22 +2,28 @@ import rssLinkList from "../assets/rss.link.json" with { type: "json" };
 import { readFile, writeFile } from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
+import XMLParser from "./xml.parser.js";
 import { deduplicate } from "./util.js";
-import { parseRSS, readRSSJson } from "./rss.util.js";
+import { parseRSS, readRSSJson } from "./rss.parser.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RssIndexFileName = path.join(__dirname, "../public/rss/index.json");
 const CharSet = "utf-8";
+const xmlParser = new XMLParser({
+  attributeNamePrefix: '',
+  textNodeName: '$text',
+  ignoreAttributes: false,
+});
 
 Promise.all(
   rssLinkList.map(async (link) => {
     const res = await fetch(link);
     if (!res.ok) {
       console.error(`HTTP ERROR, status: ${res.status}`);
-      return null;
+      return [null, link];
     }
 
-    return [await res.text(), link];
+    return await res.text().then(v => [xmlParser.parse(v), link]);
   })
 )
   .then((xmlList) =>
@@ -33,7 +39,6 @@ Promise.all(
       );
       return readRSSJson(fileName).then((rss) => {
         const parsed = parseRSS(xml);
-
         const data = {
           title: parsed.title,
           description: parsed.description,
