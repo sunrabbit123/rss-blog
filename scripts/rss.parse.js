@@ -1,4 +1,4 @@
-import rssLinkList from "../assets/rss.link.json" assert { type: "json" };
+import rssLinkList from "../assets/rss.link.json" with { type: "json" };
 import { readFile, writeFile } from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";

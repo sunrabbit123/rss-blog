@@ -453,6 +453,15 @@
       "pubDate": "Fri, 01 Mar 2024 09:10:59 +0900",
       "author": "pjt3591oo",
       "category": "서버"
+    },
+    {
+      "title": "[nextjs] CSR, SSR 그리고 서버 컴포넌트",
+      "description": "안녕하세요 멍개입니다. CSR, SSR과 서버 컴포넌트를 알아보겠습니다. 샘플 코드는 Next 15 버전을 기준으로 진행합니다. 본 포스팅에서는 TTFB, FCP, TTI와 같은 의미없는 단어 설명보단 샘플 코드를 기반으로 직관적인 설명을 합니다. ● CSR, SSR, 서버 컴포넌트 브라우저는 HTML을 어디서 렌더링하냐에 따라 Client Side Rendering, Server Side Rendering이라고 부릅니다. 그리고 Next의 13 버전부터는 Server Component 개념이 도입되었습니다. · CSR 먼저, CSR을 살펴보겠습니다. 참고로 해당 방식은 nextjs 팀에서는 클라이언트 컴포넌트라고도 표현합니다. CSR의 대표적인 라이브러리 / 프레임워크는 뷰와 리액트입니다. next의 app rou.......",
+      "link": "https://blog.naver.com/pjt3591oo/223649384531?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223649384531",
+      "pubDate": "Wed, 06 Nov 2024 14:58:08 +0900",
+      "author": "pjt3591oo",
+      "category": "Web"
     }
   ]
 }
