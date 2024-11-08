@@ -8,17 +8,20 @@ interface BlogItem {
   description: string;
   link: string;
   pubDate: string;
+  blogTitle?: string;
+  category?: string;
 }
 
 interface RSSFeed {
   items: BlogItem[];
+  title?: string;
 }
 
 export default function Home() {
   const [blogs, setBlogs] = useState<BlogItem[]>([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
-  const itemsPerPage = 9;
+  const itemsPerPage = 30;
 
   const loadBlogs = async () => {
     try {
@@ -30,7 +33,12 @@ export default function Home() {
       for (const url of feedUrls) {
         const feedResponse = await fetch(`/rss/${url}`);
         const feed: RSSFeed = await feedResponse.json();
-        allBlogs.push(...feed.items);
+        const items = feed.items.map((item) => ({
+          ...item,
+          category: item.category === "" ? undefined : item.category,
+          blogTitle: feed.title,
+        }));
+        allBlogs.push(...items);
       }
 
       allBlogs.sort(
@@ -72,11 +80,21 @@ export default function Home() {
         {blogs.map((blog, index) => (
           <article key={blog.link + index} className={styles.article}>
             <a href={blog.link} target="_blank" rel="noopener noreferrer">
+              {blog.blogTitle && (
+                <div className={styles.blogTitle}>{blog.blogTitle}</div>
+              )}
               <h2 className={styles.articleTitle}>{blog.title}</h2>
               <p className={styles.articleDescription}>{blog.description}</p>
-              <time className={styles.articleDate}>
-                {new Date(blog.pubDate).toLocaleDateString()}
-              </time>
+              <div className={styles.articleFooter}>
+                <time className={styles.articleDate}>
+                  {new Date(blog.pubDate).toLocaleDateString()}
+                </time>
+                {blog.category && (
+                  <div className={styles.categoryContainer}>
+                    <span className={styles.category}>{blog.category}</span>
+                  </div>
+                )}
+              </div>
             </a>
           </article>
         ))}
