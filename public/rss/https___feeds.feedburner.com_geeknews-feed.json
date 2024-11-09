@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-09T09:31:01+09:00",
+  "lastBuildDate": "2024-11-09T10:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -182,6 +182,136 @@
       "guid": "https://news.hada.io/topic?id=17651",
       "pubDate": "2024-11-09T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "FDA, 경구용 페닐에프린의 OTC 비충혈 완화제 사용 중단 제안",
+      "description": {
+        "$text": "<p>내용이 없는 경우 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17666",
+      "guid": "https://news.hada.io/topic?id=17666",
+      "pubDate": "2024-11-09T10:34:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>LLM들이 간단한 인터페이스를 통해 웹사이트와 인터랙션하게 도와주는 라이브러리</li>\n<li>유니버설 LLM 지원 - LangChain이 지원하는 모든 언어 모델과 작동함</li>\n<li>대화형 요소 탐지 - 자동으로 페이지에서 인터랙티브 요소를 찾아냄</li>\n<li>스크래핑을 위한 XPath 추출 - 더 이상 수작업으로 DevTool...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17665",
+      "guid": "https://news.hada.io/topic?id=17665",
+      "pubDate": "2024-11-09T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "하루 5분 운동으로 혈압 감소 가능성",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>연구 개요</strong></p>\n<ul>\n<li>새로운 연구에 따르면, 하루에 5분 정도의 간단한 신체 활동, 예를 들어 계단 오르기나 언덕 걷기 등이 혈압을 낮추는 데 도움이 될 수 있음.</li>\n<li>이 연구는 University of Sydney와 University College London이 주도하는 ProPASS Consortium에 의해 수행되",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17664",
+      "guid": "https://news.hada.io/topic?id=17664",
+      "pubDate": "2024-11-09T10:21:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "카기 번역 서비스",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Kagi Translate 소개</strong></p>\n<ul>\n<li>Kagi Translate는 기존 번역 서비스보다 뛰어난 번역 품질을 제공하는 서비스임.</li>\n<li>Google Translate와 DeepL을 포함한 기존 솔루션을 능가하는 번역 품질을 제공함.</li>\n<li>주요 기능 비교: Kagi Translate는 매우 높은 품질의 번역을 제공하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17663",
+      "guid": "https://news.hada.io/topic?id=17663",
+      "pubDate": "2024-11-09T10:18:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "토크나이징 및 파싱을 위한 Rust 기술",
+      "description": {
+        "$text": "<h2>매크로</h2>\n<ul>\n<li>Rust의 매크로는 코드 중복 제거와 반복 감소를 위해 사용됨.</li>\n<li>\n<code>sqleibniz</code>의 문장 노드는 <code>Node</code> 트레이트를 구현해야 하며, 이는 많은 코드 중복을 초래함.</li>\n<li>매크로를 사용하여 구조체 정의와 <code>Node</code> 트레이트 구현을 자동화할 수 있음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17662",
+      "guid": "https://news.hada.io/topic?id=17662",
+      "pubDate": "2024-11-09T10:15:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실시간 핵융합 플라즈마 행동 예측 및 조작을 위한 AI 기술",
+      "description": {
+        "$text": "<h2>AI를 이용한 실시간 핵융합 플라즈마 행동 예측 및 조작</h2>\n<ul>\n<li>\n<p><strong>멀티모달 초해상도</strong>: 다중 공간 및 시간적 물리학 규모로 지배되는 비선형 복합 시스템은 단일 진단으로 완전히 이해할 수 없음. 여러 진단을 결합하면 시스템 물리학의 불완전한 투영이 발생함. 숨겨진 상호 상관성을 식별...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17661",
+      "guid": "https://news.hada.io/topic?id=17661",
+      "pubDate": "2024-11-09T10:12:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Launch HN: Codebuff (YC F24) – 코드를 작성해주는 CLI 도구 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Codebuff 소개</strong></p>\n<ul>\n<li>Codebuff는 터미널에서 자연어 요청을 기반으로 파일을 수정하는 도구임.</li>\n<li>사용자는 <code>npm i -g codebuff</code> 명령어로 설치 후 무료로 사용할 수 있음.</li>\n<li>로그인 없이 최대 $20 상당의 크레딧을 제공함.</li>\n</ul>\n</li>\n<li>\n<p><st",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17660",
+      "guid": "https://news.hada.io/topic?id=17660",
+      "pubDate": "2024-11-09T10:09:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "앰뷸런스, 자전거 운전자 충돌 후 병원 이송 및 $1,800 청구서 발송 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>오리건 자전거 사고 소송</strong></p>\n<ul>\n<li>오리건의 자전거 운전자인 윌리엄 호에쉬는 앰뷸런스와 충돌하여 코가 부러지고 몸에 긁힌 상처를 입은 후 앰뷸런스 제공업체를 상대로 99만 7천 달러의 소송을 제기함.</li>\n<li>앰뷸런스 제공업체인 Columbia River Fire &amp; Rescue는 호에쉬에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17659",
+      "guid": "https://news.hada.io/topic?id=17659",
+      "pubDate": "2024-11-09T10:06:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수십 년 만에 FDA, 효과 없는 비충혈 제거제 퇴출 조치",
+      "description": {
+        "$text": "수십 년 만에 FDA, 효과 없는 비충혈 제거제 퇴출 조치",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17658",
+      "guid": "https://news.hada.io/topic?id=17658",
+      "pubDate": "2024-11-09T10:03:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NPM에 업로드된 수백 개의 악성 코드 라이브러리가 개발자 머신에 멀웨어를 설치중",
+      "description": {
+        "$text": "<ul>\n<li>현재 진행 중인 공격은 NPM(Node Package Manager) 저장소에 수백 개의 악성 패키지를 업로드하여 해당 코드 라이브러리에 의존하는 개발자 장치를 감염시키려 함</li>\n<li>악성 패키지의 이름은 Puppeteer, Bignum.js 등 합법적인 코드 라이브러리 및 다양한 암호화폐 라이브러리와 유사함</li>\n<li>이 캠페인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17657",
+      "guid": "https://news.hada.io/topic?id=17657",
+      "pubDate": "2024-11-09T10:03:01+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
