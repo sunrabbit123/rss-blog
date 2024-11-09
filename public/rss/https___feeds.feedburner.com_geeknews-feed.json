@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-09T10:34:21+09:00",
+  "lastBuildDate": "2024-11-09T12:10:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -312,6 +312,19 @@
       "guid": "https://news.hada.io/topic?id=17657",
       "pubDate": "2024-11-09T10:03:01+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "100개의 소소한 것들(100 Scrappy Things)",
+      "description": {
+        "$text": "<ul>\n<li>사람들은 흔히 양보다 질이 중요하다고 말하지만, 나는 그렇게 생각하지 않는다.</li>\n<li>양이 먼저 충족되지 않으면 질을 높이기 어렵다고 본다.</li>\n<li>나는 반복의 힘을 믿으며, 꾸준한 반복이 장기적으로 좋은 결과를 만든다고 생각한다.</li>\n<li>나는 2020년 유튜브 채널 구독자 10만 명 달성을 목표로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17667",
+      "guid": "https://news.hada.io/topic?id=17667",
+      "pubDate": "2024-11-09T12:10:50+09:00",
+      "author": "ragus",
       "category": ""
     }
   ]
