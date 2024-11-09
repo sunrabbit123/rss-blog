@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-09T13:34:15+09:00",
+  "lastBuildDate": "2024-11-09T16:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -337,6 +337,19 @@
       "link": "https://news.hada.io/topic?id=17668",
       "guid": "https://news.hada.io/topic?id=17668",
       "pubDate": "2024-11-09T13:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Delta: Git, diff, grep, blame 출력용 구문 강조 페이지 뷰어",
+      "description": {
+        "$text": "<h3>시작하기</h3>\n<ul>\n<li>패키지 이름은 &quot;git-delta&quot;이며, 실행 파일은 <code>delta</code>임.</li>\n<li>\n<code>~/.gitconfig</code>에 다음을 추가하여 설정할 수 있음:\n<pre><code class=\"language-ini\">[core]\npager = delta\n[interactive]\ndiffFilter = delta --color-only\n[delta]\nnavigate = true  #...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17669",
+      "guid": "https://news.hada.io/topic?id=17669",
+      "pubDate": "2024-11-09T16:33:16+09:00",
       "author": "neo",
       "category": ""
     }
