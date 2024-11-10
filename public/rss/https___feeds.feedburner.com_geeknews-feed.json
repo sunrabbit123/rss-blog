@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-09T16:33:16+09:00",
+  "lastBuildDate": "2024-11-10T10:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -350,6 +350,136 @@
       "link": "https://news.hada.io/topic?id=17669",
       "guid": "https://news.hada.io/topic?id=17669",
       "pubDate": "2024-11-09T16:33:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FlyOnUI - Tailwind CSS를 위한 컴포넌트 라이브러리 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>시맨틱 클래스의 심미적 매력과 JS 플러그인의 강력한 기능을 결합하도록 설계</li>\n<li>사용하는 컴포넌트들:\n<ul>\n<li>Tailwind CSS: 아름다운 웹사이트를 쉽게 구축할 수 있도록 도와주는 유틸리티 우선 CSS 프레임워크</li>\n<li>daisyUI: Tailwind CSS에 컴포넌트 시맨틱 클래스 이름을 추가하여 더 빠르고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17679",
+      "guid": "https://news.hada.io/topic?id=17679",
+      "pubDate": "2024-11-10T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Microsoft/Data-Formulator - AI로 시각화 생성하기",
+      "description": {
+        "$text": "<ul>\n<li>LLM을 사용하여 데이터를 변환하고 데이터 시각화 작업을 신속하게 처리하는 Microsoft Research의 애플리케이션</li>\n<li>분석가가 AI로 데이터를 변환하고 풍부한 시각화를 Iterative하게 만들수 있도록 지원</li>\n<li>사용자가 모든 것을 자연어로 설명해야 하는 대부분의 채팅 기반 AI 도구와 달리, 데이터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17678",
+      "guid": "https://news.hada.io/topic?id=17678",
+      "pubDate": "2024-11-10T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Λ-2D: 프로그래밍 언어로서의 드로잉 탐구",
+      "description": {
+        "$text": "<h2>프로젝트λ-2D: 그림을 프로그래밍 언어로 탐구</h2>\n<ul>\n<li>\n<p><strong>개요</strong>: 프로젝트λ-2D는 그림을 통해 프로그래밍을 할 수 있는 새로운 언어를 탐구하는 연구임. 람다 계산법의 아이디어를 기반으로 하여, 그림을 통해 코드 작성이 가능하도록 설계됨.</p>\n</li>\n<li>\n<p><strong>비언어적 프로그래",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17677",
+      "guid": "https://news.hada.io/topic?id=17677",
+      "pubDate": "2024-11-10T09:54:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Golang/CLI로 전체 웹사이트를 Markdown으로 변환하는 HTML-to-Markdown 기술",
+      "description": {
+        "$text": "<h2>html-to-markdown</h2>\n<p>HTML을 깨끗하고 읽기 쉬운 Markdown으로 변환하는 강력한 도구임. 복잡한 포맷을 지원하고, 사용자 정의 옵션과 플러그인을 통해 변환 과정을 완벽하게 제어할 수 있음. Golang 라이브러리 또는 CLI 명령어를 사용하거나, 온라인 데모나 REST API를 통해 직접 확인할 수 있음.</p>\n<h3>주",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17676",
+      "guid": "https://news.hada.io/topic?id=17676",
+      "pubDate": "2024-11-10T09:51:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenCoder: 최상위 코드 대형 언어 모델을 위한 오픈 요리책",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>OpenCoder 개요</strong></p>\n<ul>\n<li>OpenCoder는 오픈 소스 코드 대형 언어 모델(LLM)로, 1.5B 및 8B 기본 및 채팅 모델을 포함하며 영어와 중국어를 지원함.</li>\n<li>2.5조 개의 토큰으로 구성된 데이터로 학습되었으며, 이 중 90%는 원시 코드, 10%는 코드 관련 웹 데이터로 구성됨.</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17675",
+      "guid": "https://news.hada.io/topic?id=17675",
+      "pubDate": "2024-11-10T09:48:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "경찰의 심문에서 기만 사용 합법화, 이를 중단하려는 움직임",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>테드 브래드포드는 경찰이 자신을 강간 사건에 대해 심문하던 날이 인생 최악의 날이었다고 말함</p>\n<ul>\n<li>경찰은 그에게 DNA 증거가 있다고 주장하며 자백을 요구함</li>\n<li>결국 브래드포드는 자백했지만, 증거는 DNA 테스트가 불가능했음</li>\n<li>DNA 기술의 발전으로 2010년에 무죄 판결을 받음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17674",
+      "guid": "https://news.hada.io/topic?id=17674",
+      "pubDate": "2024-11-10T09:45:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mergiraf: Git용 구문 인식 병합 드라이버",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>Mergiraf는 Git 병합 충돌을 해결하는 도구로, 파일 내 트리를 이해하여 양측의 요구를 조화롭게 해결함.</li>\n<li>새로운 언어를 선언적으로 추가할 수 있으며, 비폭력적인 접근을 선호함.</li>\n</ul>\n<h2>설치</h2>\n<ul>\n<li>Git의 기본 병합 알고리즘 대신 Mergiraf를 사용하도록 설정 가능함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17673",
+      "guid": "https://news.hada.io/topic?id=17673",
+      "pubDate": "2024-11-10T09:42:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실험실에서 배양한 바이러스로 자신의 암을 치료한 과학자",
+      "description": {
+        "$text": "<h2>이 과학자는 실험실에서 배양한 바이러스로 자신의 암을 치료했음</h2>\n<ul>\n<li>바이러스학자 베아타 할라시(Beata Halassy)는 실험실에서 배양한 바이러스를 자신의 유방암에 주입하여 성공적으로 치료했으며, 이는 자가 실험의 윤리에 대한 논의를 촉발시켰음.</li>\n<li>할라시는 2020년에 유방암 재발을 발견하고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17672",
+      "guid": "https://news.hada.io/topic?id=17672",
+      "pubDate": "2024-11-10T09:39:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Omni SenseVoice - 단어별 타임스탬프 가능한 고속 음성 인식",
+      "description": {
+        "$text": "<ul>\n<li>자동 음성 인식(ASR), 음성 언어 식별(LID), 음성 감정 인식(SER), 오디오 이벤트 감지(AED) 등의 기능을 갖춘 다국어 음성 이해 모델 SenseVoice 기반</li>\n<li>초고속 추론과 정확한 타임스탬프에 최적화되어 있어 더 스마트하고 빠르게 오디오 트랜스크립션을 처리할 수 있음</li>\n<li>주요 옵션\n<ul>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17671",
+      "guid": "https://news.hada.io/topic?id=17671",
+      "pubDate": "2024-11-10T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "구글 퇴사 후 독립 활동 시작 (2018)",
+      "description": {
+        "$text": "<h3>내가 구글을 그만두고 독립한 이유</h3>\n<ul>\n<li>\n<p><strong>첫 2년</strong></p>\n<ul>\n<li>구글에서의 첫 2년은 매우 만족스러웠음.</li>\n<li>최고의 엔지니어들과 함께 일하고, 최첨단 개발 도구를 사용하며, 무료 식사를 즐겼음.</li>\n<li>성과 평가에서 높은 점수를 받았고, 승진이 가까웠음.</li>\n</ul>\n</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17670",
+      "guid": "https://news.hada.io/topic?id=17670",
+      "pubDate": "2024-11-10T08:33:12+09:00",
       "author": "neo",
       "category": ""
     }
