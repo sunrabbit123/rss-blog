@@ -2,7 +2,7 @@
   "title": "Sunrabbit",
   "description": "The way to be a senior is to be a senior.",
   "link": "https://sunrabbit.durumis.com/ko",
-  "lastBuildDate": "Fri, 08 Nov 2024 05:02:44 GMT",
+  "lastBuildDate": "Mon, 11 Nov 2024 02:25:52 GMT",
   "items": [
     {
       "title": "공변성과 반공변성",
@@ -91,6 +91,15 @@
       "link": "https://sunrabbit.durumis.com/ko/nodejs-junior-framework-level-di-1tvid89o",
       "guid": "https://sunrabbit.durumis.com/ko/nodejs-junior-framework-level-di-1tvid89o",
       "pubDate": "Fri, 08 Nov 2024 05:02:44 GMT",
+      "author": "",
+      "category": ""
+    },
+    {
+      "title": "RSS 기반 블로그",
+      "description": "개인 블로그가 아닌 다수를 위한 RSS 기반 블로그 시스템을 Next.js와 vanilla extract를 사용하여 제작했습니다.  향후 OPML 마이그레이션 및 RSS별 탭 기능 개선 예정입니다.",
+      "link": "https://sunrabbit.durumis.com/ko/rss-based-blog-p18nikbg",
+      "guid": "https://sunrabbit.durumis.com/ko/rss-based-blog-p18nikbg",
+      "pubDate": "Mon, 11 Nov 2024 02:25:52 GMT",
       "author": "",
       "category": ""
     }

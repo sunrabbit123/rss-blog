@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-expressions */
 /**
  * @link https://github.com/NaturalIntelligence/fast-xml-parser/blob/master/lib/fxparser.min.js
  */

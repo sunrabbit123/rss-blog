@@ -100,7 +100,11 @@ const parseRSS2 = (rss) => {
 
 export const parseRSS = (json) => {
   if (json.feed) return parseAtom(json.feed);
-  if (json.rdf) return parseRSS1(json.rdf);
-  if (json.rss) return parseRSS2(json.rss);
+  if (json.rss.version === "1.0") {
+    return parseRSS1(json.rdf);
+  }
+  if (json.rss.version === "2.0") {
+    return parseRSS2(json.rss);
+  }
   return null;
 };
