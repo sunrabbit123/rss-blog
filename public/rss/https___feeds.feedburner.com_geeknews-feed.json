@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-11T11:21:00+09:00",
+  "lastBuildDate": "2024-11-11T12:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -702,6 +702,19 @@
       "guid": "https://news.hada.io/topic?id=17695",
       "pubDate": "2024-11-11T11:07:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "F# 9의 새로운 기능",
+      "description": {
+        "$text": "<p>I'm sorry, but the provided text does not contain any content to summarize. If you have a specific article or document you would like summarized and translated, please provide the text or a more detailed description.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17697",
+      "guid": "https://news.hada.io/topic?id=17697",
+      "pubDate": "2024-11-11T12:33:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
