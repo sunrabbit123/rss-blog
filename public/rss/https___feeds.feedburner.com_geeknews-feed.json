@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-11T10:06:02+09:00",
+  "lastBuildDate": "2024-11-11T11:21:00+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -676,6 +676,32 @@
       "guid": "https://news.hada.io/topic?id=17685",
       "pubDate": "2024-11-11T09:43:21+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 경쟁사 홈페이지 키워드 분석 툴",
+      "description": {
+        "$text": "<p>경쟁사 홈페이지가 어떤 키워드로 구글 오가닉 유입을 많이 만들고 있는지 확인할 수 있습니다.<br />\n우리 회사 SEO 키워드 전략을 수립하거나, 경쟁사 분석을 할 때 사용할 수 있는 솔루션으로 보입니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17696",
+      "guid": "https://news.hada.io/topic?id=17696",
+      "pubDate": "2024-11-11T11:21:00+09:00",
+      "author": "hankor",
+      "category": ""
+    },
+    {
+      "title": "고성과자(High Performer)를 무시하지 마세요",
+      "description": {
+        "$text": "<ul>\n<li>관리자들은 고성과자가 최대 역량을 발휘하도록 내버려 두고, 저성과자에게 시간과 관심을 쏟는 실수를 저지름</li>\n<li>이로 인해 고성과자는 간과되고 무시받는다고 느낌</li>\n<li>고성과자는 저성과자와는 다른 방식으로 관심이 필요함</li>\n<li>생산성 때문에 무시되기보다는 인정과 감사, 성장과 도전의 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17695",
+      "guid": "https://news.hada.io/topic?id=17695",
+      "pubDate": "2024-11-11T11:07:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
