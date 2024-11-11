@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-11T12:33:15+09:00",
+  "lastBuildDate": "2024-11-11T13:51:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -715,6 +715,19 @@
       "guid": "https://news.hada.io/topic?id=17697",
       "pubDate": "2024-11-11T12:33:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "경력이 쌓이면서 했던 고민들과 깨달은 것들",
+      "description": {
+        "$text": "<p>경력이 쌓이면서 생각했던 고민들에 대해 작성한 글입니다.</p>\n<ol>\n<li>좋은 커리어란 무엇일까? 앞으로 어떻게 발전해야 할까?</li>\n<li>데이터 과학자, 데이터 분석가. 데이터 직무의 고민. 커리어를 어떻게 발전해야 할까?</li>\n<li>좋은 선택, 의사 결정이란 무엇일까?</li>\n<li>번아웃이 오면 어떻게 해야 할까",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17698",
+      "guid": "https://news.hada.io/topic?id=17698",
+      "pubDate": "2024-11-11T13:51:48+09:00",
+      "author": "zzsza",
       "category": ""
     }
   ]
