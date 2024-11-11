@@ -79,38 +79,30 @@ export default function Home() {
   }, [loading]);
 
   return (
-    <>
-      <header className={styles.header}>
-        <h1>RSS Blog</h1>
-      </header>
-      <main className={styles.main}>
-        {blogs.map((blog, index) => (
-          <article key={blog.link + index} className={styles.article}>
-            <a href={blog.link} target="_blank" rel="noopener noreferrer">
-              {blog.blogTitle && (
-                <div className={styles.blogTitle}>{blog.blogTitle}</div>
+    <main className={styles.main}>
+      {blogs.map((blog, index) => (
+        <article key={blog.link + index} className={styles.article}>
+          <a href={blog.link} target="_blank" rel="noopener noreferrer">
+            {blog.blogTitle && (
+              <div className={styles.blogTitle}>{blog.blogTitle}</div>
+            )}
+            <h2 className={styles.articleTitle}>{blog.title}</h2>
+            <p className={styles.articleDescription}>
+              {handleArticleDescription(blog.description)}
+            </p>
+            <div className={styles.articleFooter}>
+              {blog.category && (
+                <div className={styles.categoryContainer}>
+                  <span className={styles.category}>{blog.category}</span>
+                </div>
               )}
-              <h2 className={styles.articleTitle}>{blog.title}</h2>
-              <p className={styles.articleDescription}>
-                {handleArticleDescription(blog.description)}
-              </p>
-              <div className={styles.articleFooter}>
-                {blog.category && (
-                  <div className={styles.categoryContainer}>
-                    <span className={styles.category}>{blog.category}</span>
-                  </div>
-                )}
-                <time className={styles.articleDate}>
-                  {new Date(blog.pubDate).toLocaleDateString()}
-                </time>
-              </div>
-            </a>
-          </article>
-        ))}
-      </main>
-      <footer className={styles.footer}>
-        <p>© 2024 RSS Blog</p>
-      </footer>
-    </>
+              <time className={styles.articleDate}>
+                {new Date(blog.pubDate).toLocaleDateString()}
+              </time>
+            </div>
+          </a>
+        </article>
+      ))}
+    </main>
   );
 }

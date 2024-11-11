@@ -9,6 +9,21 @@ export const header = style({
   backgroundColor: "white",
   borderBottom: "1px solid #eaeaea",
   zIndex: 1000,
+  display: "flex",
+  justifyContent: "space-between",
+  alignItems: "center",
+});
+
+export const githubLink = style({
+  display: "flex",
+  alignItems: "center",
+  gap: "0.5rem",
+  color: "#333",
+  textDecoration: "none",
+  fontWeight: "bold",
+  ":hover": {
+    opacity: 0.8,
+  },
 });
 
 export const main = style({
