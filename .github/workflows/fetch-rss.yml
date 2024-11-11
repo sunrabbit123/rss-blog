@@ -22,9 +22,16 @@ jobs:
           git config user.name sunrabbit123
           git config user.email qudwls185@naver.com
           git add .
-          git commit -s -m "CI(Github Actions Bot): update blog post list from rssList"
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+            echo "SKIP_PUSH=true" >> $GITHUB_ENV
+          else
+            git commit -s -m "CI(Github Actions Bot): update blog post list from rssList"
+            echo "SKIP_PUSH=false" >> $GITHUB_ENV
+          fi
 
       - name: Push changes to main branch
+        if: env.SKIP_PUSH == 'false'
         uses: ad-m/github-push-action@v0.8.0
         with:
           branch: main
