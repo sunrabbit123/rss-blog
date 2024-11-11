@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-11T08:05:50+09:00",
+  "lastBuildDate": "2024-11-11T08:38:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -520,6 +520,32 @@
       "guid": "https://news.hada.io/topic?id=17681",
       "pubDate": "2024-11-11T07:58:40+09:00",
       "author": "hwaan2",
+      "category": ""
+    },
+    {
+      "title": "그림 판당고",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>그리운 판당고</h2>\n</li>\n<li>\n<p><strong>개발 배경</strong></p>\n<ul>\n<li>1995년, 팀 셰이퍼는 루카스아츠에서 새로운 프로젝트를 구상하기 시작함.</li>\n<li>멕시코의 죽은 자의 날과 필름 누아르를 결합한 독창적인 어드벤처 게임 아이디어를 구상함.</li>\n<li>3D 그래픽을 도입하여 더 영화적인 경",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17684",
+      "guid": "https://news.hada.io/topic?id=17684",
+      "pubDate": "2024-11-11T08:38:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Project Subway NYC - 뉴욕 지하철역 설계도",
+      "description": {
+        "$text": "<ul>\n<li>Project Subway NYC는 뉴욕 지하철 역사에 대한 스케치, 사진, 건축 도면 모음집</li>\n<li>이 프로젝트는 특히 역사 자체에 초점을 맞춤 - 표지판, 계단, 개찰구, 터널, 플랫폼, 에스컬레이터, 그리고 공간 등 거리와 기차 사이의 모든 것</li>\n<li>오늘날 압도적인 양의 정보가 있음에도 불구하고, 역사의 3차...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17683",
+      "guid": "https://news.hada.io/topic?id=17683",
+      "pubDate": "2024-11-11T08:35:53+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
