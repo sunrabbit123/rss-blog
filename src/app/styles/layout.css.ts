@@ -60,9 +60,11 @@ export const articleDescription = style({
   color: "#666",
   marginBottom: "1.5rem",
   display: "-webkit-box",
-  WebkitLineClamp: 3,
+  WebkitLineClamp: 5,
   WebkitBoxOrient: "vertical",
   overflow: "hidden",
+  whiteSpace: "pre-wrap",
+  lineHeight: "1.5rem",
 });
 
 export const articleFooter = style({
@@ -77,6 +79,7 @@ export const articleFooter = style({
 
 export const articleDate = style({
   fontSize: "0.875rem",
+  marginLeft: "auto",
   color: "#999",
 });
 
