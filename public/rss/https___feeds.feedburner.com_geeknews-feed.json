@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-10T11:34:20+09:00",
+  "lastBuildDate": "2024-11-11T08:05:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -494,6 +494,32 @@
       "guid": "https://news.hada.io/topic?id=17680",
       "pubDate": "2024-11-10T11:34:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, 아이폰 16 및 16 Pro 수리 부품 판매 시작",
+      "description": {
+        "$text": "<p>애플이 아이폰 16 및 16 Pro의 수리 부품을 자가 수리 스토어에서 판매하기 시작했습니다.</p>\n<ul>\n<li>아이폰 16 및 16 Plus의 카메라 어셈블리 교체 비용은 $169, 16 Pro 및 Pro Max의 경우 $249</li>\n<li>새로운 디스플레이는 모델에 따라 $279에서 $379까지 다양.</li>\n<li>배터리는 $99 또는 16 Pro 모델의 경우",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17682",
+      "guid": "https://news.hada.io/topic?id=17682",
+      "pubDate": "2024-11-11T08:05:50+09:00",
+      "author": "hwaan2",
+      "category": ""
+    },
+    {
+      "title": "gccrs: Rust를 위한 대체 컴파일러",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>gccrs</code>는 GCC 프로젝트의 일환으로 개발 중인 대체 Rust 컴파일러입니다.</li>\n<li>이 프로젝트는 GNU 컴파일러 컬렉션 내에서 Rust를 지원하는 것을 목표로 하며, <code>rustc</code>와 동일한 동작을 목표로 합니다.</li>\n<li>주요 목표는 특히 LLVM이 지원하지 않는 플랫폼에서 Rust를 컴파일할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17681",
+      "guid": "https://news.hada.io/topic?id=17681",
+      "pubDate": "2024-11-11T07:58:40+09:00",
+      "author": "hwaan2",
       "category": ""
     }
   ]
