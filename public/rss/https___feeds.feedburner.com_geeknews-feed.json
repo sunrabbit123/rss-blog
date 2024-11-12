@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-12T10:21:01+09:00",
+  "lastBuildDate": "2024-11-12T12:33:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -896,6 +896,19 @@
       "link": "https://news.hada.io/topic?id=17705",
       "guid": "https://news.hada.io/topic?id=17705",
       "pubDate": "2024-11-12T09:46:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대형 기술 기업에서 프로젝트를 진행하는 방법",
+      "description": {
+        "$text": "<h3>프로젝트를 성공적으로 배포하는 방법</h3>\n<ul>\n<li>\n<p><strong>배포의 어려움</strong></p>\n<ul>\n<li>많은 사람들이 배포가 쉽다고 착각함.</li>\n<li>프로젝트는 자동으로 배포되지 않으며, 누군가가 배포를 책임져야 함.</li>\n<li>배포는 최우선 과제가 되어야 하며, 사용자 경험에만 집중하면 배포가 어려움....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17715",
+      "guid": "https://news.hada.io/topic?id=17715",
+      "pubDate": "2024-11-12T12:33:25+09:00",
       "author": "neo",
       "category": ""
     }
