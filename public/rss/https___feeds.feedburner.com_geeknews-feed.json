@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-12T12:33:25+09:00",
+  "lastBuildDate": "2024-11-12T14:38:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -909,6 +909,32 @@
       "link": "https://news.hada.io/topic?id=17715",
       "guid": "https://news.hada.io/topic?id=17715",
       "pubDate": "2024-11-12T12:33:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리눅스에서 Steam 클라이언트 안정성 개선",
+      "description": {
+        "$text": "<h3>Steam 클라이언트 안정성 개선</h3>\n<ul>\n<li>\n<p><strong>배경</strong>: 11월 5일 Steam 클라이언트 업데이트에서 Linux에서의 일반적인 충돌을 수정함. 이 중 가장 큰 영향을 미친 것은 <code>setenv</code>와 <code>getenv</code> 함수의 사용 방식 변경임.</p>\n</li>\n<li>\n<p><strong>문제점</strong>: <code>s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17717",
+      "guid": "https://news.hada.io/topic?id=17717",
+      "pubDate": "2024-11-12T14:38:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Spotify 미보유자",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>어댑터</h3>\n<ul>\n<li>Spotify: 공식 API 사용 가능, 역방향 검색 가능, 검증된 링크 있음</li>\n<li>Youtube Music: 공식 API 사용 가능, 역방향 검색 불가, 검증된 링크 있음</li>\n<li>Apple Music: 공식 API 사용 가능, 역방향 검색 불가, 검증된 링크 있음</li>\n<li>Deezer: 공식 API 사용 가능, 역방향...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17716",
+      "guid": "https://news.hada.io/topic?id=17716",
+      "pubDate": "2024-11-12T14:35:10+09:00",
       "author": "neo",
       "category": ""
     }
