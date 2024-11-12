@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-11T22:33:30+09:00",
+  "lastBuildDate": "2024-11-12T09:12:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -754,6 +754,19 @@
       "guid": "https://news.hada.io/topic?id=17700",
       "pubDate": "2024-11-11T22:33:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go 언어의 15년",
+      "description": {
+        "$text": "<p>우리는 Go 오픈소스 공개 15주년을 축하했습니다!</p>\n<p>Go의 10주년 이후로 Go와 세상 모두가 많이 변화했습니다. 한편으로는 많은 것이 그대로 유지되었습니다: Go는 여전히 안정성, 안전성, 그리고 대규모 소프트웨어 엔지니어링과 프로덕션 지원에 대한 헌신을 유지하고 있습니다.</p>\n<p>Go는 계속 강세를 보이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17701",
+      "guid": "https://news.hada.io/topic?id=17701",
+      "pubDate": "2024-11-12T09:12:43+09:00",
+      "author": "lemonmint",
       "category": ""
     }
   ]
