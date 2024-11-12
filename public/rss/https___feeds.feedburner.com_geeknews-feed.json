@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-12T17:36:08+09:00",
+  "lastBuildDate": "2024-11-12T19:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -949,6 +949,19 @@
       "guid": "https://news.hada.io/topic?id=17720",
       "pubDate": "2024-11-12T16:31:00+09:00",
       "author": "melodysdreamj",
+      "category": ""
+    },
+    {
+      "title": "취약한 펌웨어를 가진 구형 재고를 여전히 판매하는 YubiKey",
+      "description": {
+        "$text": "<ul>\n<li>YubiKey가 여전히 EUCLEAK 공격에 취약한 펌웨어를 가진 구형 재고를 판매하고 있음이 보고됨</li>\n<li>Fefe's Blog의 한 독자가 이를 보고함</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17723",
+      "guid": "https://news.hada.io/topic?id=17723",
+      "pubDate": "2024-11-12T19:33:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
