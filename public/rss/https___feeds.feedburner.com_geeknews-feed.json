@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-13T14:15:22+09:00",
+  "lastBuildDate": "2024-11-13T16:54:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1118,6 +1118,19 @@
       "guid": "https://news.hada.io/topic?id=17729",
       "pubDate": "2024-11-13T14:15:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 수능을 볼 수험생들에게 한마디 남겨주세요",
+      "description": {
+        "$text": "<p>아실 분들은 아시겠지만, 내일은 대학수학능력시험(수능)이 치뤄지는 날입니다.<br />\n수능을 치룰 수험생들에게, 혹은 수능이 끝나고 이 글을 볼 수험생에게 응원, 격려, 조언, 기타 하고 싶은 말을 자유롭게 남겨주세요.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17736",
+      "guid": "https://news.hada.io/topic?id=17736",
+      "pubDate": "2024-11-13T16:54:34+09:00",
+      "author": "ilotoki0804",
       "category": ""
     }
   ]
