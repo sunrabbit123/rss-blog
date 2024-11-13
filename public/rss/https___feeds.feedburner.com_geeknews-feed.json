@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T01:10:49+09:00",
+  "lastBuildDate": "2024-11-14T05:29:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1157,6 +1157,19 @@
       "guid": "https://news.hada.io/topic?id=17738",
       "pubDate": "2024-11-14T01:10:49+09:00",
       "author": "beenzinozino",
+      "category": ""
+    },
+    {
+      "title": "SQLite는 싱글 커넥션 DB가 아님",
+      "description": {
+        "$text": "<ul>\n<li>SQLite에 대해 사람들이 자주 오해하는 점 중 하나는 <strong>“SQLite는 단일 연결만 허용하는 데이터베이스”</strong> 라고 생각해서 사람들이 사용하지 않게 되는 것</li>\n<li>이는 혼란스럽기도 하고(여기서 &quot;연결&quot;의 의미?), 여러 측면에서 틀린 주장임</li>\n<li>읽기 작업 (Read Operations)\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17739",
+      "guid": "https://news.hada.io/topic?id=17739",
+      "pubDate": "2024-11-14T05:29:10+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
