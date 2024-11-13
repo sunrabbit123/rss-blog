@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-13T20:34:24+09:00",
+  "lastBuildDate": "2024-11-14T01:10:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1144,6 +1144,19 @@
       "guid": "https://news.hada.io/topic?id=17737",
       "pubDate": "2024-11-13T20:34:24+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Node.js 환경에서 Clang을 이용한 C, C++, Java 포매터를 개발하였습니다.",
+      "description": {
+        "$text": "<p>안녕하세요, Node.js 환경에서 Clang을 이용한 C, C++, Java 포매터를 개발하였습니다. 해당 프로젝트는 이미 더 이상 유지 보수되지 않는(deprecated된) angular의 clang-format 패키지를 기반으로 새롭게 진행하는 프로젝트 입니다.</p>\n<p>한 두달 전쯤에도 한번 같은 내용을 올렸었는데, 패키지의 안정성이 더욱 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17738",
+      "guid": "https://news.hada.io/topic?id=17738",
+      "pubDate": "2024-11-14T01:10:49+09:00",
+      "author": "beenzinozino",
       "category": ""
     }
   ]
