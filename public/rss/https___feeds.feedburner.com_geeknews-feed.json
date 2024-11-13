@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-12T19:33:15+09:00",
+  "lastBuildDate": "2024-11-13T10:16:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -962,6 +962,71 @@
       "guid": "https://news.hada.io/topic?id=17723",
       "pubDate": "2024-11-12T19:33:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TinyTroupe - LLM 기반 멀티에이전트 Persona 시뮬레이션 Python 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>TinyTroupe는 실험적인 Python 라이브러리로, 특정 성격, 관심사, 목표를 가진 사람들의 시뮬레이션을 가능하게 함</li>\n<li>인공 에이전트인 <code>TinyPerson</code>은 우리와 서로 듣고 대답하며 시뮬레이션된 <code>TinyWorld</code> 환경에서 살아감</li>\n<li>GPT-4와 같은 Large Language Model(LLM)을 활...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17728",
+      "guid": "https://news.hada.io/topic?id=17728",
+      "pubDate": "2024-11-13T10:16:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Web Locks API",
+      "description": {
+        "$text": "<ul>\n<li>Web Locks API는 하나의 탭이나 웹 워커에서 비동기적으로 락을 획득하고, 작업을 수행한 후 락을 해제할 수 있게 해줌</li>\n<li>락이 유지되는 동안 동일한 origin 내에서 다른 스크립트는 동일한 락을 획득할 수 없으므로 여러 탭이나 워커에서 리소스를 안전하게 조율할 수 있음</li>\n<li>\n<strong>Secure C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17727",
+      "guid": "https://news.hada.io/topic?id=17727",
+      "pubDate": "2024-11-13T10:02:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "KubeAI - 쿠버네티스 위에서 Private AI 운영하기",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI와 호환되는 HTTP API 제공</li>\n<li>부하에 기반한 자동 스케일링</li>\n<li>오픈소스 LLM을 CPU/GPU 기반으로 서빙 가능</li>\n<li>제로 의존성(Istio, Knative 등)</li>\n<li>Chat UI 내장</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17726",
+      "guid": "https://news.hada.io/topic?id=17726",
+      "pubDate": "2024-11-13T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "당신의 블로그 가치를 44배 향상 시켜주는 서비스",
+      "description": {
+        "$text": "<p>계왕권은 글쓰는 개발자의 영향력을 &quot;44배&quot; 이상 향상시켜주는 프로젝트입니다.<br />\nChatGPT API를 통해 한국어로 작성된 개발 게시글을 외국어로 번역하여, Medium 같은 외국 플랫폼에 배포할 수 있도록 지원합니다.</p>\n<p>놀라운 점은 코드를 작성할 필요없이 Git Action, Spread Sheet 만을 사용하여",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17725",
+      "guid": "https://news.hada.io/topic?id=17725",
+      "pubDate": "2024-11-13T09:41:00+09:00",
+      "author": "puleugo",
+      "category": ""
+    },
+    {
+      "title": "Clace - 내부 도구들을 위한 웹앱 관리 서버",
+      "description": {
+        "$text": "<ul>\n<li>내부 도구용 웹 앱 개발 및 배포 플랫폼</li>\n<li>단일 머신에서 언어나 프레임워크에 관계없이 여러 웹 앱을 쉽고 안전하게 호스팅할 수 있음</li>\n<li>크로스 플랫폼(Linux/Windows/OSX)을 지원하며, 웹 앱 관리를 위한 GitOps 워크플로우를 제공</li>\n<li>주요 기능\n<ul>\n<li>리버스 프록시, 하이퍼미디어 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17724",
+      "guid": "https://news.hada.io/topic?id=17724",
+      "pubDate": "2024-11-13T09:32:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
