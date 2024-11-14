@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T05:29:10+09:00",
+  "lastBuildDate": "2024-11-14T10:31:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1169,6 +1169,97 @@
       "link": "https://news.hada.io/topic?id=17739",
       "guid": "https://news.hada.io/topic?id=17739",
       "pubDate": "2024-11-14T05:29:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "신한캐피탈, 이유없이 창업자에게 15%의 연이자로 투자금 반환 소송을 걸다",
+      "description": {
+        "$text": "<ul>\n<li>2017년말 어반베이스에 신한캐피탈이 5억을 투자</li>\n<li>2023년 투자 시장악화로 어반베이스가 신규투자를 유치하지 못하고 회생신청</li>\n<li>그러자 신한캐피탈이 창업자 개인에게 연복리 15%로 투자원금의 두배가 넘는 금액인 총 12억원의 투자금을 반환하라고 소송</li>\n<li>창업자가 이의를 제기했더니 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17746",
+      "guid": "https://news.hada.io/topic?id=17746",
+      "pubDate": "2024-11-14T10:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "새로운 AI 시대에 Palantir가 주는 교훈",
+      "description": {
+        "$text": "<ul>\n<li>팔란티어는 최근 S&amp;P 500에 편입됨</li>\n<li>초기 팔란티어는 “컨설팅 회사”로 잘못 평가되었음. 많은 엔지니어들이 고객과 함께 일하며 고객의 비즈니스 문제를 깊이 이해함</li>\n<li>팔란티어의 엔지니어들은 Forward Deployed Engineers로 불리며, 고객의 업무, 비즈니스 모델, 고통점 등을 깊이 이해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17745",
+      "guid": "https://news.hada.io/topic?id=17745",
+      "pubDate": "2024-11-14T10:17:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025 디자인 트렌드 예측: 크리에이티브 리더들의 인사이트",
+      "description": {
+        "$text": "<ul>\n<li>AI의 급속한 발전은 디자인에 대한 사고방식을 바꾸고 있고, 디자인 산업은 AI 기술 발전과 함께 중대한 전환점에 서 있음</li>\n</ul>\n<h2>1. AI의 최종 출력 단계 진입</h2>\n<ul>\n<li>AI는 이제 단순한 아이디어 생성 도구를 넘어서 실제 디자인 작업의 최종 출력 단계로 이동 중임.</li>\n<li>Photoshop의 ‘G...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17744",
+      "guid": "https://news.hada.io/topic?id=17744",
+      "pubDate": "2024-11-14T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Firecrawl - 웹사이트 전체를 LLM에서 사용가능하게 만드는 도구",
+      "description": {
+        "$text": "<ul>\n<li>웹사이트를 크롤링해서 LLM에서 사용가능한 마크다운 또는 구조화 데이터로 변환</li>\n<li>API로 URL을 전송하면, 모든 하위 페이지를 크롤링하여 각 하위 페이지에 대한 깨끗한 데이터를 제공</li>\n<li>Python, Node, Go, Rust SDK 제공</li>\n<li>LangChain, Llama Index,Dify, Langflow, Zapier 등에 연동지원...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17743",
+      "guid": "https://news.hada.io/topic?id=17743",
+      "pubDate": "2024-11-14T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Visprex - CSV를 위한 인-브라우저 데이터 시각화 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>CSV 파일을 서버에 보내지 않고 브라우저 내에서만 처리하여 시각화</li>\n<li>CSV를 등록하면 <code>Categorical</code> 또는 <code>Nemerical</code> 타입으로 데이터를 파싱</li>\n<li>Histogram, Scatterplot, Correlation Matrix 등으로 시각화 함</li>\n<li>https://www.visprex.com/ 에서 웹앱처럼 이용 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17742",
+      "guid": "https://news.hada.io/topic?id=17742",
+      "pubDate": "2024-11-14T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "rip2 - 더 안전한 Rust 기반 rm",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>rip</code>은 Rust로 작성된 <code>rm</code>의 대체제로 안전성/편의성/성능에 중점을 두고 있음</li>\n<li>삭제된 파일은 절대 경로를 유지한 채 <code>graveyard</code> 디렉토리에 보관됨 (<code>/tmp/graveyard-$USER</code>), 따라서 데이터를 복구할 수 있는 기회를 제공\n<ul>\n<li>데이터는 덮어쓰...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17741",
+      "guid": "https://news.hada.io/topic?id=17741",
+      "pubDate": "2024-11-14T09:33:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Stretch My Time Off - 휴가일 최적화를 위한 알고리듬",
+      "description": {
+        "$text": "<ul>\n<li>🇰🇷 한국에서는 2024년에 11개의 공휴일이 있음</li>\n<li>15일의 휴가를 41일로 늘릴 수 있는 방법을 제시함</li>\n</ul>\n<h2>2024년 휴가 계획</h2>\n<ul>\n<li>\n<p><strong>1월</strong></p>\n<ul>\n<li>주말과 공휴일을 활용하여 3월 1일부터 3일까지 3일간 휴가 가능</li>\n</ul>\n</li>\n<li>\n<p><strong>5월</s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17740",
+      "guid": "https://news.hada.io/topic?id=17740",
+      "pubDate": "2024-11-14T08:34:19+09:00",
       "author": "neo",
       "category": ""
     }
