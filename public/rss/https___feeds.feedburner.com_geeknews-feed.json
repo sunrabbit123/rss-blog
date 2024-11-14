@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T11:47:04+09:00",
+  "lastBuildDate": "2024-11-14T13:23:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1391,6 +1391,19 @@
       "guid": "https://news.hada.io/topic?id=17756",
       "pubDate": "2024-11-14T11:47:04+09:00",
       "author": "frogred8",
+      "category": ""
+    },
+    {
+      "title": "보기 좋은 떡의 함정: 나에게 도움되는 것을 찾아가는 방법",
+      "description": {
+        "$text": "<ul>\n<li>개선하고 싶은 것이 있을 때, 우리는 잘 정리된 방법을 찾아가는 경향이 있음</li>\n<li>하지만 그런 방법을 받아들이는 뇌의 부분과, 실제로 우리가 행동을 할 때 사용하는 뇌의 부분이 다름</li>\n<li>그 점을 생각해봤을 때 스스로에게서 개선점을 찾아가는 방식이 더 도움이 될 때가 많음</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17757",
+      "guid": "https://news.hada.io/topic?id=17757",
+      "pubDate": "2024-11-14T13:23:44+09:00",
+      "author": "juwoong",
       "category": ""
     }
   ]
