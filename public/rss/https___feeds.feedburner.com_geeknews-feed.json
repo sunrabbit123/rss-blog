@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T14:34:05+09:00",
+  "lastBuildDate": "2024-11-14T18:37:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1430,6 +1430,32 @@
       "guid": "https://news.hada.io/topic?id=17758",
       "pubDate": "2024-11-14T14:25:17+09:00",
       "author": "arxivgpt",
+      "category": ""
+    },
+    {
+      "title": "프랑수아 숄레, Google 퇴사",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>프랑수아 숄레의 새로운 출발</strong></p>\n<ul>\n<li>Keras의 창시자이자 AI 분야의 선도자인 프랑수아 숄레가 Google을 떠나 새로운 경력을 시작함.</li>\n<li>Keras는 200만 명 이상의 사용자를 보유하며, 복잡한 워크플로를 간소화하고 최첨단 기술에 대한 접근을 민주화하는 데 기여함.</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17761",
+      "guid": "https://news.hada.io/topic?id=17761",
+      "pubDate": "2024-11-14T18:37:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 것에 워터마크 적용 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Watermark Anything 프로젝트 소개</strong></p>\n<ul>\n<li>이 프로젝트는 이미지에 지역화된 워터마크를 삽입할 수 있는 방법을 제공함.</li>\n<li>여러 개의 워터마크를 삽입할 수 있는 기능을 지원함.</li>\n</ul>\n</li>\n<li>\n<p><strong>요구 사항</strong></p>\n<ul>\n<li>Python 3.10.14, PyTorch",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17760",
+      "guid": "https://news.hada.io/topic?id=17760",
+      "pubDate": "2024-11-14T18:34:52+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
