@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T10:31:02+09:00",
+  "lastBuildDate": "2024-11-14T11:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1260,6 +1260,123 @@
       "link": "https://news.hada.io/topic?id=17740",
       "guid": "https://news.hada.io/topic?id=17740",
       "pubDate": "2024-11-14T08:34:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google Web AI Summit 2024 요약: 개발자를 위한 클라이언트 측 AI",
+      "description": {
+        "$text": "<ul>\n<li>2024년 10월 18일, Google은 첫 Web AI Summit을 개최함</li>\n<li>클라이언트 측에서 브라우저 내 머신러닝 모델을 사용하여 오프라인에서도 저지연 추론, 비용 절감, 개인정보 보호 등의 기능을 제공</li>\n</ul>\n<h2>주요 발표 세션 요약</h2>\n<ul>\n<li>\n<p><strong>Transformers.js: 웹을 위한 최신 머신러닝...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17755",
+      "guid": "https://news.hada.io/topic?id=17755",
+      "pubDate": "2024-11-14T11:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Jepsen: Bufstream 0.1 검증 결과",
+      "description": {
+        "$text": "<h2>업데이트_2024-11-13</h2>\n<ul>\n<li>초기 보고서에서는 auto-commit이 활성화된 소비자가 최근 poll에서 반환된 오프셋을 자동으로 커밋하여 데이터 손실이 발생할 수 있다고 주장했음.</li>\n<li>그러나 여러 독자들은 auto-commit 소비자가 실제로는 최근 poll이 아닌 그 이전 poll의 오프셋을 커밋한다고 반박했음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17754",
+      "guid": "https://news.hada.io/topic?id=17754",
+      "pubDate": "2024-11-14T11:02:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Proxmox VE 보조 스크립트",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Proxmox VE Helper-Scripts</strong>\n<ul>\n<li>Proxmox VE 환경 관리를 돕는 200개 이상의 스크립트 제공.</li>\n<li>초보자와 숙련자 모두에게 유용한 도구임.</li>\n<li>커뮤니티에 의해 구축된 웹사이트이며, 소스 코드는 GitHub에서 확인 가능함.</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17753",
+      "guid": "https://news.hada.io/topic?id=17753",
+      "pubDate": "2024-11-14T10:59:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "장애인 직원의 재택근무를 어렵게 만드는 Amazon 정책",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Amazon의 새로운 정책</strong></p>\n<ul>\n<li>Amazon은 장애를 가진 직원들이 재택근무 허가를 받기 어렵게 하고 있음</li>\n<li>회사는 장애를 가진 직원들에게 더 엄격한 심사 과정을 도입한다고 알림</li>\n<li>새로운 요청 및 기존 재택근무 연장 신청 모두에 적용됨</li>\n</ul>\n</li>\n<li>\n<p>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17752",
+      "guid": "https://news.hada.io/topic?id=17752",
+      "pubDate": "2024-11-14T10:56:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "운동하는 근육이 뉴런 성장에 도움을 준다는 새로운 연구 결과",
+      "description": {
+        "$text": "<h4>연구 결과</h4>\n<ul>\n<li>운동의 생화학적 및 물리적 효과가 신경 치유에 도움을 줄 수 있음.</li>\n<li>MIT 연구진은 운동이 개별 뉴런 수준에서도 이점을 가질 수 있음을 발견함.</li>\n<li>근육이 수축할 때 방출되는 생화학적 신호인 마이오카인에 노출된 뉴런이 더 멀리 성장함.</li>\n<li>뉴런은 운동의 생화학적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17751",
+      "guid": "https://news.hada.io/topic?id=17751",
+      "pubDate": "2024-11-14T10:53:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블루스카이 1300만 사용자 시각화",
+      "description": {
+        "$text": "<h2>13백만 BlueSky 사용자 시각화</h2>\n<ul>\n<li>\n<p><strong>Twitter와 BlueSky 비교</strong></p>\n<ul>\n<li>Twitter는 방대한 사용자 기반과 다양한 부분이 있는 큰 플랫폼임.</li>\n<li>BlueSky는 최근 몇 달 동안 사용자 기반이 급격히 증가했으며, 특히 Twitter의 사용자 기반에 대한 지속적인 적대감과 브라질의 T",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17750",
+      "guid": "https://news.hada.io/topic?id=17750",
+      "pubDate": "2024-11-14T10:50:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이례적인 Raku 기능",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>다섯 가지 독특한 Raku 기능</h2>\n<ul>\n<li>Raku는 다양한 언어 기능을 실험하는 실험실과 같음. 여러 동시성 모델과 다양한 기능을 제공하며, 각 기능이 상호작용하는 방식이 독특함.</li>\n</ul>\n</li>\n<li>\n<h4>Junctions</h4>\n<ul>\n<li>Junctions는 가능한 값의 중첩을 나타내며, 논리식을 표현하는 데...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17749",
+      "guid": "https://news.hada.io/topic?id=17749",
+      "pubDate": "2024-11-14T10:47:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "90년대 비디오 게임 개발에 미친 정글 음악의 영향",
+      "description": {
+        "$text": "<h2>90년대 비디오 게임 개발에 미친 정글 음악의 영향</h2>\n<ul>\n<li>\n<p><strong>정글 음악의 기원과 특징</strong></p>\n<ul>\n<li>정글 음악은 80년대 말 영국에서 시작되었으며, 에너지 넘치는 드럼 패턴과 베이스 라인, 빠른 템포가 특징임.</li>\n<li>90년대 3D 게임의 빠른 진행과 잘 어울리는 음악 스타일로 자리잡",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17748",
+      "guid": "https://news.hada.io/topic?id=17748",
+      "pubDate": "2024-11-14T10:44:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPS 불필요: 우리 앱의 지하철 위치 추적 기능",
+      "description": {
+        "$text": "GPS 불필요: 우리 앱의 지하철 위치 추적 기능",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17747",
+      "guid": "https://news.hada.io/topic?id=17747",
+      "pubDate": "2024-11-14T10:41:37+09:00",
       "author": "neo",
       "category": ""
     }
