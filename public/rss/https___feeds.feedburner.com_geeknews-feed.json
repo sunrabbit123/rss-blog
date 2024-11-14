@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-14T18:37:52+09:00",
+  "lastBuildDate": "2024-11-15T04:21:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1455,6 +1455,58 @@
       "link": "https://news.hada.io/topic?id=17760",
       "guid": "https://news.hada.io/topic?id=17760",
       "pubDate": "2024-11-14T18:34:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Docker Compose로는 충분하지 않습니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>docker-compose</code>는 Docker 컨테이너를 다루는 도구로, 복잡한 애플리케이션 배포 문제를 해결하지만 대중 시장을 위한 간단한 셀프 호스팅에는 충분하지 않음</li>\n<li>SQL 데이터베이스, 로컬 캐시, 내구성 있는 저장소, 서비스 발견, 자원 관리 개념을 포함한 더 높은 수준의 추상화가 필요함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17765",
+      "guid": "https://news.hada.io/topic?id=17765",
+      "pubDate": "2024-11-15T04:21:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HyperDX - ClickHouse에서 로그와 추적을 위한 오픈 소스 Kibana 대체제",
+      "description": {
+        "$text": "<ul>\n<li>HyperDX는 엔지니어들이 프로덕션 문제를 빠르게 해결할 수 있도록 돕는 도구로, Clickhouse 클러스터 위에서 로그와 트레이스를 검색하고 시각화할 수 있게 해줌.</li>\n<li>Kibana와 유사하지만 Clickhouse에 최적화된 기능을 제공함.</li>\n<li>\n<strong>주요 기능</strong>\n<ul>\n<li>로그와 트레이스를 한 곳...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17764",
+      "guid": "https://news.hada.io/topic?id=17764",
+      "pubDate": "2024-11-15T04:20:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mac에서 잘 실행되는 우수한 코딩 능력의 LLM Qwen2.5-Coder-32B",
+      "description": {
+        "$text": "<ul>\n<li>Alibaba의 Qwen 연구팀에서 <strong>오픈 소스 (Apache 2.0 라이선스) LLM</strong> 시리즈인 <strong>Qwen2.5-Coder</strong>를 발표</li>\n<li>Qwen2.5-Coder-32B-Instruct 모델은 <strong>GPT-4o 수준의 코딩 능력</strong>을 자랑한다고 주장함</li>\n<li>\n<strong>32B 모델</strong>은 64GB MacBook Pro M2에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17763",
+      "guid": "https://news.hada.io/topic?id=17763",
+      "pubDate": "2024-11-15T04:19:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Spin 3.0 – WASM 앱 구축 및 실행을 위한 오픈 소스 툴링",
+      "description": {
+        "$text": "<ul>\n<li>Spin은 서버리스 WebAssembly(Wasm) 애플리케이션을 어디서나 구축, 배포 및 실행할 수 있는 오픈 소스 개발 도구</li>\n<li>작은 크기의 이식 가능한 바이너리, 낮은 시작 지연 시간, 높은 처리량을 제공하여 다양한 환경에서 애플리케이션을 실행할 수 있는 장점이 있음</li>\n</ul>\n<h2>Spin 3.0 하이라이트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17762",
+      "guid": "https://news.hada.io/topic?id=17762",
+      "pubDate": "2024-11-15T04:18:32+09:00",
       "author": "neo",
       "category": ""
     }
