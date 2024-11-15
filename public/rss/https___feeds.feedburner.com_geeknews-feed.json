@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-15T04:21:42+09:00",
+  "lastBuildDate": "2024-11-15T10:09:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1508,6 +1508,136 @@
       "guid": "https://news.hada.io/topic?id=17762",
       "pubDate": "2024-11-15T04:18:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "gwern 인터뷰",
+      "description": {
+        "$text": "<h2>익명성의 이점</h2>\n<ul>\n<li>\n<strong>익명성의 가장 과소평가된 이점</strong>: 사람들은 특정 틀이나 정체성에 맞춰 당신을 미리 판단하지 않음. 당신을 무시하기 전에 최소한 조금이라도 읽어야 함. 보복을 당하지 않는 것도 큰 이점이며, 익명성 덕분에 공정한 평가를 받을 수 있음.</li>\n</ul>\n<h2>기업 자동화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17777",
+      "guid": "https://news.hada.io/topic?id=17777",
+      "pubDate": "2024-11-15T10:07:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "중국의 상업 통신 인프라 표적화",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>FBI와 CISA의 공동 성명</h2>\n<ul>\n<li>FBI와 CISA는 중국이 상업 통신 인프라를 표적으로 삼은 사이버 스파이 활동을 조사 중임을 발표함.</li>\n<li>중국 관련 행위자들이 여러 통신 회사의 네트워크를 침해하여 고객 통화 기록 데이터를 도용하고, 정부나 정치 활동에 주로 관여하는 일부 개인의 사적 통...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17776",
+      "guid": "https://news.hada.io/topic?id=17776",
+      "pubDate": "2024-11-15T10:04:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI로 인한 기술 부채 비용 증가",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>AI가 기술 부채를 더 비싸게 만드는 이유</h2>\n<ul>\n<li>AI가 기술 부채를 덜 중요하게 만들 것이라는 믿음이 있지만, 실제로는 AI가 기술 부채의 실질적인 비용을 크게 증가시킴. 생성 AI는 '저부채' 코딩과 '고부채' 코딩 간의 속도 차이를 크게 벌림.</li>\n<li>젊고 고품질의 코드베이스를 가진 회사는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17775",
+      "guid": "https://news.hada.io/topic?id=17775",
+      "pubDate": "2024-11-15T10:01:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왜 요즘 취업이 어려운가? Ghost Jobs 등장",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>왜 지금 일자리를 찾기 어려운가? 유령 일자리의 등장</h2>\n<ul>\n<li>연구자 Hunter Ng는 &quot;유령 고용&quot; 또는 &quot;유령 일자리&quot;라는 새로운 현상을 조사함. 이는 고용주가 채용 의도가 없이 일자리 공고를 내는 것을 의미함.</li>\n<li>Glassdoor의 새로운 데이터셋과 LLM-BERT 기법을 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17773",
+      "guid": "https://news.hada.io/topic?id=17773",
+      "pubDate": "2024-11-15T09:55:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AWS Amplify 공식 가이드를 따라 발생한 $1,100 요금 청구 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>AWS Amplify 가이드 문제</strong></p>\n<ul>\n<li>AWS Amplify 가이드를 따라 OpenSearch를 통합하는 과정에서 예상치 못한 높은 비용이 발생함.</li>\n<li>AWS 고객 지원팀에 문의 후, 청구 조정 및 서비스 크레딧을 받음.</li>\n<li>AWS 예산 설정을 통해 미래 지출을 예측하고 경고를 받을 수 있음",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17772",
+      "guid": "https://news.hada.io/topic?id=17772",
+      "pubDate": "2024-11-15T09:52:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사기꾼의 시간을 낭비하는 AI 할머니 데이지",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>O2의 새로운 AI '데이지' 소개</h4>\n<ul>\n<li>O2는 사기꾼과의 통화를 통해 고객을 보호하기 위해 인간과 같은 AI '데이지'를 개발함.</li>\n<li>데이지는 사기꾼을 속여 그들의 시간을 낭비하게 하며, 실제 사람과 구별할 수 없을 정도로 정교하게 설계됨.</li>\n<li>유명한 스캠베이터 Jim Browning의 도움...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17771",
+      "guid": "https://news.hada.io/topic?id=17771",
+      "pubDate": "2024-11-15T09:49:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "기억상실증 부모를 위한 E-ink 디스플레이 MomBoard",
+      "description": {
+        "$text": "<h3>환자</h3>\n<ul>\n<li>2022년 6월, 긴 수술의 부작용으로 어머니가 영구적인 전향성 기억상실증을 겪게 됨. 새로운 장기 기억을 형성할 수 없게 됨.</li>\n<li>기억상실증은 치매와 유사하지만, 치매는 진행성 질환인 반면 이 기억상실증은 안정적임.</li>\n<li>어머니는 혼자 아파트에 살고 있으며, 자녀들이 어디에 있...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17770",
+      "guid": "https://news.hada.io/topic?id=17770",
+      "pubDate": "2024-11-15T09:46:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Maxun - 오픈소스 노-코드 웹 데이터 추출 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>2분만에 로봇을 훈련시켜서 Auto-Pilot으로 웹을 스크랩 가능</li>\n<li>동작 방식\n<ul>\n<li>사용자 동작을 에뮬레이션하고 데이터를 추출하는 맞춤형 로봇을 작성</li>\n<li>로봇은 리스트 캡처, 텍스트 캡처, 스크린샷 캡처 등 모든 작업을 수행</li>\n<li>로봇이 생성되면 수동 개입없이도 계속 데이터를 추출함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17769",
+      "guid": "https://news.hada.io/topic?id=17769",
+      "pubDate": "2024-11-15T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "더 오니언의 인포워즈 인수",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>The Onion, Infowars 인수</h2>\n<ul>\n<li>풍자 뉴스 사이트인 The Onion이 음모론자 Alex Jones가 운영하는 Infowars를 인수하기 위한 파산 경매에서 승리함.</li>\n<li>그러나 파산 법원은 다음 주 청문회까지 판매를 일시 중지함.</li>\n</ul>\n</li>\n<li>\n<h2>The Onion의 계획</h2>\n<ul>\n<li>The Onion은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17768",
+      "guid": "https://news.hada.io/topic?id=17768",
+      "pubDate": "2024-11-15T09:43:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cacheable - Keyv 기반 Node.js용 캐싱 패키지",
+      "description": {
+        "$text": "<p>다양한 프로젝트에서 사용가능한 캐싱 솔루션 패키지</p>\n<ul>\n<li>cacheable : 차세대 캐싱 프레임워크. 레이어 1 / 레이어 2 캐싱을 처음부터 설계하여 구축. 분산 캐싱 및 확장성에 강점</li>\n<li>cache-manager : NestJS와 같은 서비스에서 사용되며, wrap 등 강력한 기능 제공. 다양한 애플리케이션에서 널리 사",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17767",
+      "guid": "https://news.hada.io/topic?id=17767",
+      "pubDate": "2024-11-15T09:33:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
