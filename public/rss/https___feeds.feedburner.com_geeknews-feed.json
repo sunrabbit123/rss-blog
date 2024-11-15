@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-15T13:08:36+09:00",
+  "lastBuildDate": "2024-11-15T17:33:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1651,6 +1651,19 @@
       "guid": "https://news.hada.io/topic?id=17778",
       "pubDate": "2024-11-15T13:08:36+09:00",
       "author": "gurugio",
+      "category": ""
+    },
+    {
+      "title": "LLM과 체스에서 발생하는 이상 현상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>LLM과 체스의 이상한 현상</h4>\n<ul>\n<li>LLM(대형 언어 모델)이 체스를 잘할 수 있는지에 대한 논의가 있었음. LLM은 언어 예측을 위해 설계되었지만, 체스 게임을 예측할 수 있는 능력을 보여줌.</li>\n<li>LLM이 체스 게임의 끝까지 진행할 수 있다는 사실이 흥미로웠음. 이는 LLM이 다른 상황에서도 어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17779",
+      "guid": "https://news.hada.io/topic?id=17779",
+      "pubDate": "2024-11-15T17:33:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
