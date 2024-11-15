@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-15T22:44:52+09:00",
+  "lastBuildDate": "2024-11-15T23:34:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1690,6 +1690,19 @@
       "guid": "https://news.hada.io/topic?id=17781",
       "pubDate": "2024-11-15T22:44:52+09:00",
       "author": "dongho42",
+      "category": ""
+    },
+    {
+      "title": "유럽에서 쿠키 배너로 인한 경제 및 생산성 손실 분석",
+      "description": {
+        "$text": "<h4>유럽인들이 매년 쿠키 배너에 소비하는 시간</h4>\n<ul>\n<li>\n<p><strong>쿠키 배너의 경제적 손실 분석</strong>: 유럽에서는 쿠키 배너로 인해 매년 5억 7천 5백만 시간이 소비됨. 이는 ePrivacy Directive 2002/58에 의해 요구되는 것으로, 웹사이트가 사용자 기기에 정보를 저장하거나 접근하기 전에 동의를 받아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17782",
+      "guid": "https://news.hada.io/topic?id=17782",
+      "pubDate": "2024-11-15T23:34:24+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
