@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-15T20:33:12+09:00",
+  "lastBuildDate": "2024-11-15T22:44:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1677,6 +1677,19 @@
       "guid": "https://news.hada.io/topic?id=17780",
       "pubDate": "2024-11-15T20:33:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Prometheus의 irate가 spike를 잡지 못하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>PromQL에서 per-second rate을 계산하는데 사용되는 <code>rate</code>와 <code>irate</code>\n</li>\n<li>\n<code>irate</code>은 [range] 동안의 spike를 잡고, <code>rate</code>은 이 spike들을 평균낸다는 <a href=\"https://www.robustperception.io/irate-graphs-are-better-graphs/\">오해</a>가 존재</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17781",
+      "guid": "https://news.hada.io/topic?id=17781",
+      "pubDate": "2024-11-15T22:44:52+09:00",
+      "author": "dongho42",
       "category": ""
     }
   ]
