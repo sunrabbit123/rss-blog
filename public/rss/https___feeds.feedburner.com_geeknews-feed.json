@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-15T23:34:24+09:00",
+  "lastBuildDate": "2024-11-16T09:39:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1702,6 +1702,71 @@
       "link": "https://news.hada.io/topic?id=17782",
       "guid": "https://news.hada.io/topic?id=17782",
       "pubDate": "2024-11-15T23:34:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQLite 인덱스 시각화",
+      "description": {
+        "$text": "<h2>SQLite 인덱스 시각화: 구조</h2>\n<ul>\n<li>\n<strong>인덱스의 중요성</strong>: SQLite는 브라우저, 모바일 앱, 운영 체제에서 널리 사용되는 DBMS로, 인덱스 구조를 이해하고 디스크와 메모리에서의 저장 방식을 탐구하는 데 적합함.</li>\n</ul>\n<h3>노드와 페이지 구조</h3>\n<ul>\n<li>\n<strong>B-트리 구조</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17787",
+      "guid": "https://news.hada.io/topic?id=17787",
+      "pubDate": "2024-11-16T09:39:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Relativty: 200달러에 제공되는 오픈소스 VR 헤드셋",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>소개</h3>\n<ul>\n<li>Relativty는 오픈 소스 VR 헤드셋으로, Maxim Perumal과 그의 친구 Gabriel Combe가 15세 때 직접 제작한 프로젝트임.</li>\n<li>이 프로젝트는 상업 제품이 아니며, 사용자가 직접 제작할 수 있도록 설계됨.</li>\n</ul>\n</li>\n<li>\n<h3>제작 비용</h3>\n<ul>\n<li>Relativty는 약 200달러...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17786",
+      "guid": "https://news.hada.io/topic?id=17786",
+      "pubDate": "2024-11-16T09:36:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "jiti 2.0 - Node.js에 런타임 TypeScript와 ESM 구문 지원",
+      "description": {
+        "$text": "<ul>\n<li>ESM과 CommonJS 간의 심리스한 상호운용</li>\n<li>import()를 대체하는 비동기 API</li>\n<li>require()를 대체하는 동기 API (deprecated)</li>\n<li>매우 가볍고 의존성 없음</li>\n<li>커스텀 resolve 앨리어스</li>\n<li>추가 변환을 방지하는 스마트 문법 감지</li>\n<li>Node.js 네이티브 require 캐시 연동...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17785",
+      "guid": "https://news.hada.io/topic?id=17785",
+      "pubDate": "2024-11-16T09:33:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "PageFind - 정적 페이지를 위한 검색 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>Static 사이트를 위한 검색 라이브러리로, 대규모 웹사이트에서도 효율적으로 작동하며 최소한의 사용자 대역폭만 사용하도록 설계</li>\n<li>별도의 서버 인프라 없이 동작하며, 다양한 웹사이트 프레임워크와 호환 가능</li>\n</ul>\n<h3>주요 특징</h3>\n<ul>\n<li>\n<strong>정적 파일 기반 설치</strong>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17784",
+      "guid": "https://news.hada.io/topic?id=17784",
+      "pubDate": "2024-11-16T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "토마스 E. 커츠 별세 소식",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>토마스 E. 커츠 추모</strong></p>\n<ul>\n<li>컴퓨터 선구자 토마스 커츠의 별세 소식</li>\n<li>커츠는 BASIC 프로그래밍 언어와 다트머스 타임쉐어링 시스템의 공동 발명자였음</li>\n<li>1960년대 학문적 컴퓨팅 초기에 학부생을 위한 간단한 프로그래밍 언어가 없었음</li>\n<li>커츠와 케메니는 다",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17783",
+      "guid": "https://news.hada.io/topic?id=17783",
+      "pubDate": "2024-11-16T08:34:32+09:00",
       "author": "neo",
       "category": ""
     }
