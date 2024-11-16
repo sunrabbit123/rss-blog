@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-16T10:38:16+09:00",
+  "lastBuildDate": "2024-11-16T11:33:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1793,6 +1793,19 @@
       "link": "https://news.hada.io/topic?id=17788",
       "guid": "https://news.hada.io/topic?id=17788",
       "pubDate": "2024-11-16T10:35:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블루스카이의 \"승리\" 가능성",
+      "description": {
+        "$text": "<h4>11월의 시작</h4>\n<ul>\n<li>11월은 힘든 시기였음. 많은 사람들이 X를 떠나고 있으며, 그 중 많은 이들이 Bluesky를 선택하고 있음.</li>\n<li>Bluesky에 대한 다양한 의견이 있지만, 동의하지 않는 부분이 많아 이에 대해 더 이야기하고자 함.</li>\n</ul>\n<h4>탈중앙화? 연합? 둘 다 아님</h4>\n<ul>\n<li>Bluesky는 현...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17790",
+      "guid": "https://news.hada.io/topic?id=17790",
+      "pubDate": "2024-11-16T11:33:20+09:00",
       "author": "neo",
       "category": ""
     }
