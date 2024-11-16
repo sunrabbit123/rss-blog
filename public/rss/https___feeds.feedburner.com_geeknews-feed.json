@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-16T12:30:52+09:00",
+  "lastBuildDate": "2024-11-16T16:34:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1806,6 +1806,19 @@
       "link": "https://news.hada.io/topic?id=17790",
       "guid": "https://news.hada.io/topic?id=17790",
       "pubDate": "2024-11-16T11:33:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "생물학적 기적 - 우드 프로그",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>생물학적 기적: 나무개구리</h2>\n<ul>\n<li>나무개구리는 겨울철에 동면하면서 신체가 얼어붙는 독특한 생존 전략을 가짐</li>\n<li>알래스카와 캐나다의 북부 숲에서 극한의 추위를 견디며 생존함</li>\n<li>대부분의 개구리는 물속에서 동면하지만, 나무개구리는 숲 바닥의 낙엽 속에서 동면함</li>\n<li>이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17792",
+      "guid": "https://news.hada.io/topic?id=17792",
+      "pubDate": "2024-11-16T16:34:30+09:00",
       "author": "neo",
       "category": ""
     }
