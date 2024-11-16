@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-16T09:39:07+09:00",
+  "lastBuildDate": "2024-11-16T10:38:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1767,6 +1767,32 @@
       "link": "https://news.hada.io/topic?id=17783",
       "guid": "https://news.hada.io/topic?id=17783",
       "pubDate": "2024-11-16T08:34:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Seer: Linux용 GDB를 위한 GUI 프론트 엔드",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Introduction</h2>\n<ul>\n<li>Seer는 Linux에서 gdb를 위한 GUI 프론트엔드로, 사용하기 쉽고 시각적으로 만족스러운 인터페이스 제공을 목표로 함.</li>\n<li>프로젝트는 활발히 진행 중이며, 버그나 원하는 기능은 이메일 또는 GitHub 프로젝트 페이지를 통해 보고 가능.</li>\n</ul>\n</li>\n<li>\n<h2>Insta...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17789",
+      "guid": "https://news.hada.io/topic?id=17789",
+      "pubDate": "2024-11-16T10:38:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "하프라이프 2: 20주년 기념 업데이트",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>새로운 기능</strong></p>\n<ul>\n<li>Half-Life 2는 이제 Episode One과 Episode Two 확장판을 포함하며, 메인 메뉴에서 접근 가능함</li>\n<li>Half-Life 2 개발자 코멘터리가 추가되어, 게임의 기술적 배경을 깊이 있게 탐구할 수 있음</li>\n<li>Steam Workshop 지원으로 사용자 제작 콘텐츠를 게임",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17788",
+      "guid": "https://news.hada.io/topic?id=17788",
+      "pubDate": "2024-11-16T10:35:14+09:00",
       "author": "neo",
       "category": ""
     }
