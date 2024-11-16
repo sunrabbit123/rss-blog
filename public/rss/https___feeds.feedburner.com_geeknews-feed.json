@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-16T16:34:30+09:00",
+  "lastBuildDate": "2024-11-16T17:43:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1820,6 +1820,19 @@
       "guid": "https://news.hada.io/topic?id=17792",
       "pubDate": "2024-11-16T16:34:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 일을 미루지 않는 노하우가 있으신가요 (how to deal with procrastination)",
+      "description": {
+        "$text": "<p>투두리스트, 캘린더, 뽀모도로, 오만가지 방법을 써봤고 또 시도하고 있지만, 어떻게든 틈을 비집고 <em><strong>미루기</strong></em>가 고개를 내미는 것 같습니다. 다른 분들은 이 진드기를 어떻게 떼어내시는지 궁금합니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17793",
+      "guid": "https://news.hada.io/topic?id=17793",
+      "pubDate": "2024-11-16T17:43:54+09:00",
+      "author": "roxie",
       "category": ""
     }
   ]
