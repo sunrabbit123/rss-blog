@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-17T19:36:31+09:00",
+  "lastBuildDate": "2024-11-18T06:18:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2041,6 +2041,19 @@
       "guid": "https://news.hada.io/topic?id=17809",
       "pubDate": "2024-11-17T19:36:31+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 리엑트 보일러플레이트 근데 이제 심플함을 곁들인",
+      "description": {
+        "$text": "<p>React + TypeScript + Yarn Berry + Vite + SWC + ESLint + SCSS<br />\n프론트엔드 작업에 개인적으로 사용하다 깨나 괜찮은 보일러플레이트가 된 것 같아 공개해봅니다.</p>\n<h2>주요 특징</h2>\n<ul>\n<li>\n<strong>디자인 시스템 기반:</strong> src/styles 폴더 내 SCSS 변수들만 수정해 주시면 스페이싱, 타이포, ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17810",
+      "guid": "https://news.hada.io/topic?id=17810",
+      "pubDate": "2024-11-18T06:18:06+09:00",
+      "author": "i70h4n",
       "category": ""
     }
   ]
