@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-17T12:33:14+09:00",
+  "lastBuildDate": "2024-11-17T17:00:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2015,6 +2015,19 @@
       "guid": "https://news.hada.io/topic?id=17806",
       "pubDate": "2024-11-17T11:33:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오픈스트리트맵 재단에서 공식적으로 벡터 지도 타일을 운영하기 시작함",
+      "description": {
+        "$text": "<ul>\n<li>오픈스트리트맵 재단(OSMF)에서 벡터 지도 타일을 공식적으로 운영하기 시작</li>\n<li>\n<a href=\"https://wiki.openstreetmap.org/wiki/Raster_tiles\">래스터 타일</a>과 비교했을 때 <a href=\"https://wiki.openstreetmap.org/wiki/Vector_tiles\">벡터 타일</a>의 장단점\n<ul>\n<li>서버 단에서 지도 이미지를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17808",
+      "guid": "https://news.hada.io/topic?id=17808",
+      "pubDate": "2024-11-17T17:00:23+09:00",
+      "author": "depth221",
       "category": ""
     }
   ]
