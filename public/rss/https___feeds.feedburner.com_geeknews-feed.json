@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-17T10:15:47+09:00",
+  "lastBuildDate": "2024-11-17T12:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1988,6 +1988,32 @@
       "link": "https://news.hada.io/topic?id=17796",
       "guid": "https://news.hada.io/topic?id=17796",
       "pubDate": "2024-11-17T09:48:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제임스 웹 우주 망원경, 대체 중력 이론 증거 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>제임스 웹 우주 망원경과 대체 중력 이론</h2>\n<ul>\n<li>제임스 웹 우주 망원경(JWST)을 사용하여 우주의 가장 먼 곳을 관찰한 천문학자들이 중력의 대체 이론에 대한 놀라운 증거를 발견함.</li>\n<li>기존의 은하 형성 모델은 암흑 물질에 의해 생성된 중력이 천천히 형성되는 은하로 물질을 끌어당긴다고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17807",
+      "guid": "https://news.hada.io/topic?id=17807",
+      "pubDate": "2024-11-17T12:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SICP: 두 번 읽을 가치가 있는 유일한 컴퓨터 과학 서적? (2010)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>책 소개</h2>\n<ul>\n<li>학생에게 여름 동안 읽을 책으로 빌려준 책이 있음</li>\n<li>이 책은 컴퓨터 과학에서 가장 중요한 작품 중 하나로, 개인의 경력과 연구에 큰 영향을 미쳤음</li>\n<li>책 제목은 Hal Abelson과 Jerry Sussman의 <em>Structure and Interpretation of Computer Programs</em> (SICP)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17806",
+      "guid": "https://news.hada.io/topic?id=17806",
+      "pubDate": "2024-11-17T11:33:04+09:00",
       "author": "neo",
       "category": ""
     }
