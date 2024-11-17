@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-17T09:34:01+09:00",
+  "lastBuildDate": "2024-11-17T10:15:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -1859,6 +1859,136 @@
       "guid": "https://news.hada.io/topic?id=17794",
       "pubDate": "2024-11-17T09:32:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "이그드라실 네트워크",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Yggdrasil 소개</strong></p>\n<ul>\n<li>Yggdrasil은 새로운 실험적 경로 설정 방식으로, 현재 인터넷에서 일반적으로 사용되는 구조적 경로 설정 프로토콜의 대안으로 설계되었음</li>\n<li>미래의 대규모 메쉬 네트워크를 위한 기술로도 사용 가능함</li>\n</ul>\n</li>\n<li>\n<p><strong>특징</stron",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17805",
+      "guid": "https://news.hada.io/topic?id=17805",
+      "pubDate": "2024-11-17T10:15:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "월 $2.50 미만으로 Bluesky 파이어호스 소비",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>atproto와 Bluesky의 데이터 활용</h2>\n</li>\n<li>\n<p>Bluesky의 모든 데이터는 매우 공개적이며, 현재 1,500만 명의 사용자가 있음. 이는 많은 공개 데이터를 제공함.</p>\n</li>\n<li>\n<p>Jetstream을 사용하여 웹소켓 JSON 피드로 실시간 네트워크 활동에 연결할 수 있음. 시작하기 매우 쉽고 재미있음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17804",
+      "guid": "https://news.hada.io/topic?id=17804",
+      "pubDate": "2024-11-17T10:12:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "코딩 챌린지 중단 요청",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>비현실적인 코딩 테스트의 문제점</h3>\n<ul>\n<li>기술 인터뷰에서 비현실적인 코딩 과제를 요구하는 경향이 증가하고 있음.</li>\n<li>이러한 과제는 실제 직무와 관련이 없으며, 협업과 지원이 표준인 직장에서의 상황을 반영하지 않음.</li>\n<li>예를 들어, 문서화 없이 오래된 코드베이스를 디버깅하는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17803",
+      "guid": "https://news.hada.io/topic?id=17803",
+      "pubDate": "2024-11-17T10:09:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: OnAir – 링크 생성 및 통화 수신 서비스",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>OnAir 소개</strong></p>\n<ul>\n<li>OnAir는 고객과의 원활한 통화를 가능하게 하는 서비스임. 사용자는 온라인 상태일 때 고객이 쉽게 연락할 수 있도록 링크를 생성할 수 있음.</li>\n<li>7일 무료 체험 제공, 신용카드 정보 불필요.</li>\n</ul>\n</li>\n<li>\n<p><strong>사용 방법</strong></p>\n<ul",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17802",
+      "guid": "https://news.hada.io/topic?id=17802",
+      "pubDate": "2024-11-17T10:06:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Llama-OCR: 문서를 Markdown으로 변환하는 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>프로젝트 소개</strong></p>\n<ul>\n<li>이 프로젝트는 <code>llama-ocr</code>와 <code>Together AIOCR</code>을 사용하여 이미지를 구조화된 Markdown으로 변환하는 도구임.</li>\n<li>사용자는 이미지를 업로드하여 텍스트를 추출하고 Markdown 형식으로 변환할 수 있음.</li>\n</ul>\n</li>\n<li>\n<p",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17801",
+      "guid": "https://news.hada.io/topic?id=17801",
+      "pubDate": "2024-11-17T10:03:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: 마감 비용 피해 방지를 위한 무료 Mortgage Analysis Tool",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>모기지 마감 시 주의사항</h2>\n<ul>\n<li>숨겨진 수수료를 찾아 돈을 절약할 수 있는 무료 DIY 솔루션 제공</li>\n<li>모기지 분석 및 샘플 보고서 제공</li>\n</ul>\n</li>\n<li>\n<h2>사용 방법</h2>\n<ul>\n<li>\n<strong>모기지 마감 문서 업로드</strong>: 대출 견적서나 마감 공시를 업로드하면 AI와 데이터 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17800",
+      "guid": "https://news.hada.io/topic?id=17800",
+      "pubDate": "2024-11-17T10:00:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테슬라, 모든 자동차 브랜드 중 가장 높은 치명적 사고율 기록 연구 결과",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>테슬라의 높은 치명적 사고율</h2>\n<ul>\n<li>최근 iSeeCars 연구에 따르면, 테슬라 차량은 미국 내 모든 자동차 브랜드 중 가장 높은 치명적 사고율을 기록함.</li>\n<li>연구는 2018-2022년 모델을 대상으로 2017-2022년 사이 발생한 탑승자 사망 사고를 분석함.</li>\n<li>테슬라 차량의 치명적 사고율은 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17799",
+      "guid": "https://news.hada.io/topic?id=17799",
+      "pubDate": "2024-11-17T09:57:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "연구진 확인, 새로운 Apple 보안 기능 3일 후 iPhone 재부팅",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>보안</h2>\n<ul>\n<li>Apple의 새로운 iPhone 소프트웨어는 72시간 동안 잠금 해제되지 않으면 자동으로 재부팅되는 보안 기능을 포함함.</li>\n<li>이 기능은 iPhone의 암호화 키를 안전한 칩에 잠그어 기기를 더 안전하게 만듦.</li>\n<li>이로 인해 법 집행 기관이 기기에서 데이터를 추출하는 것이 더 어려...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17798",
+      "guid": "https://news.hada.io/topic?id=17798",
+      "pubDate": "2024-11-17T09:54:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: LAN 파티 최적화 주택 건축",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>우리 집의 LAN 파티 공간</h3>\n<ul>\n<li>\n<strong>지하 게임룸</strong>: 벽에 12대의 PC가 내장되어 있음</li>\n<li>\n<strong>게임 스테이션</strong>: 사용하지 않을 때는 접을 수 있음</li>\n<li>\n<strong>댄스 댄스 레볼루션</strong>: 바닥에 DDR 패드가 설치되어 있음</li>\n</ul>\n</li>\n<li>\n<h3>위층...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17797",
+      "guid": "https://news.hada.io/topic?id=17797",
+      "pubDate": "2024-11-17T09:51:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "넷플릭스 버퍼링 문제: 제이크 폴 vs. 마이크 타이슨 경기 불만 제기한 복싱 팬들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Jake Paul vs. Mike Tyson 경기 시청자 수</h2>\n<ul>\n<li>Jake Paul과 Mike Tyson의 경기는 많은 시청자를 끌어모았음.</li>\n<li>Netflix에 따르면, Paul과 Tyson의 경기를 6천만 가구가 시청했으며, 공동 메인 이벤트인 Katie Taylor vs. Amanda Serrano 경기는 5천만 가구가 시청했음.</li>\n<li>Taylor ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17796",
+      "guid": "https://news.hada.io/topic?id=17796",
+      "pubDate": "2024-11-17T09:48:45+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
