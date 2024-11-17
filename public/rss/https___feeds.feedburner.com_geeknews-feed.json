@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-17T17:00:23+09:00",
+  "lastBuildDate": "2024-11-17T19:36:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2028,6 +2028,19 @@
       "guid": "https://news.hada.io/topic?id=17808",
       "pubDate": "2024-11-17T17:00:23+09:00",
       "author": "depth221",
+      "category": ""
+    },
+    {
+      "title": "Windows XP 스크린세이버 스타일로 본 Bluesky firehose",
+      "description": {
+        "$text": "Windows XP 스크린세이버 스타일로 본 Bluesky firehose",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17809",
+      "guid": "https://news.hada.io/topic?id=17809",
+      "pubDate": "2024-11-17T19:36:31+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
