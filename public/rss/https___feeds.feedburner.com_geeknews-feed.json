@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T04:35:34+09:00",
+  "lastBuildDate": "2024-11-19T05:17:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2288,6 +2288,19 @@
       "guid": "https://news.hada.io/topic?id=17830",
       "pubDate": "2024-11-18T21:34:27+09:00",
       "author": "yjo1104",
+      "category": ""
+    },
+    {
+      "title": "스타트업을 위한 셀프 호스팅 Wiki 설정 방법",
+      "description": {
+        "$text": "<ul>\n<li>Confluence, Notion과 같은 상용 위키 도구는 기능이 풍부하지만, 사용자 수가 증가할수록 비용이 급증함</li>\n<li>대부분의 상용 위키는 사용자당 월 약 $5의 요금을 부과하며, 큰 팀에서는 비용이 크게 증가함</li>\n<li>셀프 호스팅 솔루션의 경우, 직원 수에 관계없이 비용이 고정되어 비용 절감 효과가 있음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17832",
+      "guid": "https://news.hada.io/topic?id=17832",
+      "pubDate": "2024-11-19T05:17:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
