@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-18T11:08:01+09:00",
+  "lastBuildDate": "2024-11-18T15:33:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2249,6 +2249,19 @@
       "guid": "https://news.hada.io/topic?id=17824",
       "pubDate": "2024-11-18T10:21:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "iOS 18 비활성화 재부팅 역공학 분석",
+      "description": {
+        "$text": "<h4>iOS 18 비활성화 재부팅 역공학</h4>\n<ul>\n<li>iOS 18은 새로운 비활성화 재부팅 보안 기능을 도입함. 이 기능은 Secure Enclave Processor와 커널 확장을 포함하여 작동 원리를 설명함.</li>\n</ul>\n<h3>첫 번째 잠금 해제 전/후의 보안</h3>\n<ul>\n<li>iPhone을 처음 시작할 때 암호를 입력하면 Secure Enclave Proc...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17829",
+      "guid": "https://news.hada.io/topic?id=17829",
+      "pubDate": "2024-11-18T15:33:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
