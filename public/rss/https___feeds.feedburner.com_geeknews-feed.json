@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T12:33:22+09:00",
+  "lastBuildDate": "2024-11-19T13:34:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2457,6 +2457,19 @@
       "guid": "https://news.hada.io/topic?id=17843",
       "pubDate": "2024-11-19T11:44:45+09:00",
       "author": "winterjung",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: FastGraphRAG – 전통적인 PageRank를 활용한 개선된 RAG 기술",
+      "description": {
+        "$text": "<h4><strong>Streamlined and promptable Fast GraphRAG framework</strong></h4>\n<ul>\n<li>\n<strong>해석 가능하고 디버깅 가능한 지식</strong>: 그래프는 사람이 탐색할 수 있는 지식의 뷰를 제공하며, 쿼리, 시각화, 업데이트가 가능함</li>\n<li>\n<strong>빠르고 저렴하며 효율적</strong>: 대규모로 실행할 수 있도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17846",
+      "guid": "https://news.hada.io/topic?id=17846",
+      "pubDate": "2024-11-19T13:34:03+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
