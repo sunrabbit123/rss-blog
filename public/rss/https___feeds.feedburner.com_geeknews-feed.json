@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T16:43:54+09:00",
+  "lastBuildDate": "2024-11-19T18:19:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2495,6 +2495,32 @@
       "link": "https://news.hada.io/topic?id=17847",
       "guid": "https://news.hada.io/topic?id=17847",
       "pubDate": "2024-11-19T16:37:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "o1-preview 2025 수능 국어 97점 달성",
+      "description": {
+        "$text": "<ul>\n<li>2025학년도 수능 국어에서 O1-Preview가 97점이라는 놀라운 성적을 기록\n<ul>\n<li>8번(3점) 비문학지문 오답기록\n<ul>\n<li>논리의 오류로 인해 오답인 3번을 선택</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>벤치마크 과정에 대해서 더 궁금하신 분은 실험과정과 추가적인 내용들을 정리해본 블로그도 적어보았으니 참고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17850",
+      "guid": "https://news.hada.io/topic?id=17850",
+      "pubDate": "2024-11-19T18:19:43+09:00",
+      "author": "ironman0722",
+      "category": ""
+    },
+    {
+      "title": "크롬, 새로운 인터넷 익스플로러인가? (2023)",
+      "description": {
+        "$text": "<h4>크롬은 새로운 IE인가?</h4>\n<ul>\n<li>\n<p><strong>지배력</strong></p>\n<ul>\n<li>크롬은 전 세계 브라우저 시장 점유율의 65% 이상을 차지하며, 과거 마이크로소프트의 인터넷 익스플로러(IE)와 유사한 비판을 받고 있음.</li>\n<li>크롬은 IE처럼 웹 개발자들이 크롬에 최적화하고 다른 브라우저는 나중에 조정하는",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17849",
+      "guid": "https://news.hada.io/topic?id=17849",
+      "pubDate": "2024-11-19T17:34:24+09:00",
       "author": "neo",
       "category": ""
     }
