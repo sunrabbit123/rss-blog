@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T22:14:16+09:00",
+  "lastBuildDate": "2024-11-19T23:52:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2534,6 +2534,32 @@
       "link": "https://news.hada.io/topic?id=17851",
       "guid": "https://news.hada.io/topic?id=17851",
       "pubDate": "2024-11-19T19:33:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DHH가 Shopify의 이사회 멤버로 합류했습니다",
+      "description": {
+        "$text": "<ul>\n<li>David Heinemeier Hansson(DHH)가 Shopify 이사회에 합류했습니다.</li>\n<li>DHH는 Ruby on Rails의 창시자이자 관리자로, Ruby on Rails는 현재도 Shopify의 주요 기술 스택으로 사용되고 있습니다.</li>\n<li>그의 합류는 더 많은 기업가 정신을 고취시키려는 Shopify의 미션을 위한 것이기도 합니다.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17854",
+      "guid": "https://news.hada.io/topic?id=17854",
+      "pubDate": "2024-11-19T23:52:37+09:00",
+      "author": "eajrezz",
+      "category": ""
+    },
+    {
+      "title": "외부 모니터에 따라 고장난 BBC 내비게이션 바 컴포넌트",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>BBC 탐색 바 컴포넌트의 버그</h3>\n<ul>\n<li>최근 팀에서 이상한 버그를 해결했음. 한 팀원만 재현할 수 있었고, 집에서만 발생했음.</li>\n</ul>\n</li>\n<li>\n<h3>버그의 원인</h3>\n<ul>\n<li>BBC 웹사이트의 '더보기' 버튼 클릭 시 메뉴가 열려야 하지만, 외부 모니터에서는 작동하지 않았음.</li>\n<li>외부...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17853",
+      "guid": "https://news.hada.io/topic?id=17853",
+      "pubDate": "2024-11-19T23:33:17+09:00",
       "author": "neo",
       "category": ""
     }
