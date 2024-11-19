@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T18:19:43+09:00",
+  "lastBuildDate": "2024-11-19T19:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2521,6 +2521,19 @@
       "link": "https://news.hada.io/topic?id=17849",
       "guid": "https://news.hada.io/topic?id=17849",
       "pubDate": "2024-11-19T17:34:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "발트해에서 두 개의 해저 케이블 장애 발생",
+      "description": {
+        "$text": "<h4>발트해 해저 인터넷 케이블 손상</h4>\n<ul>\n<li>\n<p><strong>발트해 해저 케이블 손상</strong></p>\n<ul>\n<li>2015년 10월 12일, 핀란드 헬싱키 해안에서 해저 통신 케이블 C-Lion1이 설치되었음.</li>\n<li>최근 발트해에서 두 개의 해저 인터넷 케이블이 갑작스럽게 손상되었음.</li>\n<li>리투아니아와 스웨덴 사이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17851",
+      "guid": "https://news.hada.io/topic?id=17851",
+      "pubDate": "2024-11-19T19:33:26+09:00",
       "author": "neo",
       "category": ""
     }
