@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-19T13:34:03+09:00",
+  "lastBuildDate": "2024-11-19T16:43:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2469,6 +2469,32 @@
       "link": "https://news.hada.io/topic?id=17846",
       "guid": "https://news.hada.io/topic?id=17846",
       "pubDate": "2024-11-19T13:34:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: diary.sh - 나와 AI의 교환일기",
+      "description": {
+        "$text": "<p>기능</p>\n<ul>\n<li>애플 저널 앱에서 영감을 얻은 간단한 UI의 일기장 웹사이트</li>\n<li>내가 일기를 쓰면 AI도 답장을 써줌</li>\n</ul>\n<p>프라이버시</p>\n<ul>\n<li>일기는 암호화되어 전송 (encryption in transit) 되고 저장됨 (encryption at rest)</li>\n<li>일기장 내용은 AI 학습에 사용되지 않음</li>\n<li>구",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17848",
+      "guid": "https://news.hada.io/topic?id=17848",
+      "pubDate": "2024-11-19T16:43:54+09:00",
+      "author": "luckydaun",
+      "category": ""
+    },
+    {
+      "title": "구글 스칼라 20주년 기념",
+      "description": {
+        "$text": "<h3>기본 설명</h3>\n<ul>\n<li>Google Scholar는 연구자들이 연구 논문을 찾고 읽을 수 있도록 돕는 도구임.</li>\n<li>20년 전 시작되어 계속 성장해왔으며, 법률 사례를 찾고, 기사를 저장하며, 좋아하는 저자를 팔로우할 수 있는 기능을 제공함.</li>\n<li>가족 역사와의 재연결이나 결혼 제안과 같은 놀라운 방식으로 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17847",
+      "guid": "https://news.hada.io/topic?id=17847",
+      "pubDate": "2024-11-19T16:37:38+09:00",
       "author": "neo",
       "category": ""
     }
