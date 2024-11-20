@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-20T09:45:11+09:00",
+  "lastBuildDate": "2024-11-20T10:05:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2639,6 +2639,58 @@
       "guid": "https://news.hada.io/topic?id=17855",
       "pubDate": "2024-11-20T08:07:11+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "pgrx - Rust로 PostgreSQL 확장을 개발하는 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 PostgreSQL 확장을 개발 가능, 최대한 Idiomatic &amp; Safe 하기 위해 노력</li>\n<li>\n<code>cargo-pgrx</code> 로 완전 관리되는 개발 환경 지원\n<ul>\n<li>\n<code>cargo pgrx new</code>: 새로운 확장 생성</li>\n<li>\n<code>cargo pgrx init</code>: PostgreSQL 설치 등록 및 관리</li>\n<li>\n<code>ca...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17864",
+      "guid": "https://news.hada.io/topic?id=17864",
+      "pubDate": "2024-11-20T10:05:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show HN : Tips.io - AI, 페이지 관리 및 테마 기능을 갖춘 Tailwind 플레이그라운드",
+      "description": {
+        "$text": "<ul>\n<li>Tailwind playground의 유연성과 페이지 관리 기능을 결합 하여, 간단하고 무료로 웹사이트를 만들 수 있는 플랫폼</li>\n<li>강력한 테마 및 재사용성 기능을 통해 랜딩 페이지, 마이크로사이트, 마케팅 사이트 등을 쉽게 제작 가능</li>\n</ul>\n<h2>핵심 아이디어</h2>\n<ul>\n<li>HTML이 곧 CMS임\n<ul>\n<li>필드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17863",
+      "guid": "https://news.hada.io/topic?id=17863",
+      "pubDate": "2024-11-20T09:54:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MailCatcher로 초간단 SMTP 서버 운영하기",
+      "description": {
+        "$text": "<ul>\n<li>MailCatcher는 간단한 SMTP 서버를 실행하여 수신된 메일을 웹 인터페이스로 보여주는 도구임.</li>\n<li>메일을 smtp://127.0.0.1:1025로 전송하도록 설정하고, http://127.0.0.1:1080에서 수신된 메일을 확인할 수 있음.</li>\n<li>\n<strong>주요 기능</strong>\n<ul>\n<li>모든 메일을 수신하여 저장하고, HTML,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17862",
+      "guid": "https://news.hada.io/topic?id=17862",
+      "pubDate": "2024-11-20T09:51:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "시작한 면에 떨어지는 경향이 있는 공정한 동전",
+      "description": {
+        "$text": "시작한 면에 떨어지는 경향이 있는 공정한 동전",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17861",
+      "guid": "https://news.hada.io/topic?id=17861",
+      "pubDate": "2024-11-20T09:48:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
