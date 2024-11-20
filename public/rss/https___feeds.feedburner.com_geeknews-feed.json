@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-20T10:05:01+09:00",
+  "lastBuildDate": "2024-11-20T22:34:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2690,6 +2690,19 @@
       "link": "https://news.hada.io/topic?id=17861",
       "guid": "https://news.hada.io/topic?id=17861",
       "pubDate": "2024-11-20T09:48:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: iPhone 카메라를 사용한 물리적으로 정확한 블랙홀 시뮬레이션",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>앱 설명</strong></p>\n<ul>\n<li>이 앱은 아이폰 카메라의 시야에 블랙홀을 배치하여, 블랙홀이 주변 별빛을 왜곡하는 것처럼 실시간 비디오 피드를 중력 렌즈 효과로 보여줌.</li>\n<li>&quot;블랙홀 비전&quot;은 블랙홀 렌즈 효과의 흥미로운 특징을 드러내며, 특히 블랙홀 주변의 강하게 렌즈된 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17865",
+      "guid": "https://news.hada.io/topic?id=17865",
+      "pubDate": "2024-11-20T22:34:02+09:00",
       "author": "neo",
       "category": ""
     }
