@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-21T14:34:27+09:00",
+  "lastBuildDate": "2024-11-21T17:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2872,6 +2872,19 @@
       "link": "https://news.hada.io/topic?id=17881",
       "guid": "https://news.hada.io/topic?id=17881",
       "pubDate": "2024-11-21T14:34:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Z-Library, 학생들의 학문적 빈곤 극복에 도움, 연구 결과",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>최근 연구는 Z-Library 사용 동기에 대해 조사함. 비싼 책과 제한된 학문적 자료 접근이 주요 요인으로 나타남. 특히 중국 대학원생들은 그림자 도서관이 학문적 빈곤을 극복하는 데 도움을 준다고 믿음. Z-Library는 인터넷에서 가장 큰 그림자 도서관 중 하나로, 수백만 권의 책과 학술 기사를 무료로 다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17882",
+      "guid": "https://news.hada.io/topic?id=17882",
+      "pubDate": "2024-11-21T17:33:16+09:00",
       "author": "neo",
       "category": ""
     }
