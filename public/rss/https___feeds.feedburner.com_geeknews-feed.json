@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-21T17:33:16+09:00",
+  "lastBuildDate": "2024-11-21T22:21:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2886,6 +2886,19 @@
       "guid": "https://news.hada.io/topic?id=17882",
       "pubDate": "2024-11-21T17:33:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "낭비되고 있는 클라우드 비용, 월간요금 473만 원 직접 절감한 경험",
+      "description": {
+        "$text": "<p>클라우드 비용 절감을 위해 다양한 방법을 시도하고 그 과정에서 발생한 문제를 해결한 경험을 공유하는 글입니다.</p>\n<h3>문제 상황</h3>\n<p>클라우드 서비스 사용 중 예상보다 높은 비용이 지속적으로 발생하여 서비스 운영과 재무 관리에 부담이 됨.</p>\n<h3>주요 개선 사항</h3>\n<ol>\n<li>테스트 워크로드 최적화",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17883",
+      "guid": "https://news.hada.io/topic?id=17883",
+      "pubDate": "2024-11-21T22:21:36+09:00",
+      "author": "mintplo",
       "category": ""
     }
   ]
