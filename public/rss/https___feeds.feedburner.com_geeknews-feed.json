@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-20T22:34:02+09:00",
+  "lastBuildDate": "2024-11-21T10:21:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2703,6 +2703,136 @@
       "link": "https://news.hada.io/topic?id=17865",
       "guid": "https://news.hada.io/topic?id=17865",
       "pubDate": "2024-11-20T22:34:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Documind - PDF 문서를 구조화된 데이터로 전환하는 오픈소스 AI 도구",
+      "description": {
+        "$text": "<ul>\n<li>PDF 변환, 정보 추출, 결과를 사용자가 지정한 스키마에 따라 포맷팅하는 기능을 제공\n<ul>\n<li>\n<em>PDF를 이미지로 변환</em> 하여 세부적인 AI 처리를 가능하게 함</li>\n</ul>\n</li>\n<li>OpenAI의 API를 활용하여 정보를 추출하고 구조화</li>\n<li>다양한 문서 형식에 대한 추출 스키마를 사용자 정의 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17878",
+      "guid": "https://news.hada.io/topic?id=17878",
+      "pubDate": "2024-11-21T10:21:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Apple, macOS 시스템 대상 0-day 공격 확인",
+      "description": {
+        "$text": "<ul>\n<li>Apple은 이미 악용되고 있는 두 가지 취약점을 해결하기 위해 주요 macOS 및 iOS 보안 업데이트를 긴급히 배포함.</li>\n<li>이 취약점들은 Google의 TAG(위협 분석 그룹)에 의해 보고되었으며, Intel 기반 macOS 시스템에서 적극적으로 악용되고 있음.</li>\n<li>Apple은 보안 대응팀을 통해 공격에 대한 세부 정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17877",
+      "guid": "https://news.hada.io/topic?id=17877",
+      "pubDate": "2024-11-21T10:11:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Erlang 핫 코드 업데이트의 활용 방법",
+      "description": {
+        "$text": "<ul>\n<li>Erlang 생태계의 강력한 기능 중 하나는 핫 코드 업데이트임</li>\n<li>이 기능은 거의 다른 런타임에서는 불가능하며 매우 독특함</li>\n<li>Elixir는 Erlang 위에서 빌드되었으며 동일한 기능을 지원함</li>\n</ul>\n<h3>Elixir에서 핫 코드 업데이트 적용</h3>\n<ul>\n<li>표준적인 Elixir 릴리스(<code>mix relea...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17876",
+      "guid": "https://news.hada.io/topic?id=17876",
+      "pubDate": "2024-11-21T10:08:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스페이스X 슈퍼 헤비, 걸프만에 착수하며 'Chopsticks' 착륙 취소",
+      "description": {
+        "$text": "스페이스X 슈퍼 헤비, 걸프만에 착수하며 'Chopsticks' 착륙 취소",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17875",
+      "guid": "https://news.hada.io/topic?id=17875",
+      "pubDate": "2024-11-21T10:05:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024 테크 트렌드 by CBInsights [93p PDF]",
+      "description": {
+        "$text": "<h2>금융 서비스</h2>\n<ul>\n<li>사이보그 자산 관리자</li>\n<li>AI 에이전트가 사용할 돈을 부여받음</li>\n<li>암호화폐, 대중화로 한 발 더 다가섬</li>\n<li>압축된 핀테크 밸류에이션이 인수자들에게 기회를 제공함</li>\n</ul>\n<h2>헬스케어 및 생명 과학</h2>\n<ul>\n<li>AI를 활용한 질병 관리의 새로운 단계 도래</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17874",
+      "guid": "https://news.hada.io/topic?id=17874",
+      "pubDate": "2024-11-21T10:03:42+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "BM25 전체 텍스트 검색 알고리즘 이해",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>BM25 알고리듬 이해하기</strong></p>\n<ul>\n<li>BM25는 Lucene/Elasticsearch와 SQLite 등에서 기본적으로 사용되는 널리 사용되는 전체 텍스트 검색 알고리듬임.</li>\n<li>최근에는 전체 텍스트 검색과 벡터 유사성 검색을 결합하여 &quot;하이브리드 검색&quot;을 구현하는 것이 일반적임.</li>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17873",
+      "guid": "https://news.hada.io/topic?id=17873",
+      "pubDate": "2024-11-21T10:02:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Tiny Glade, 한 달 만에 60만 개 이상 판매 달성",
+      "description": {
+        "$text": "<h4>Tiny Glade: 한 달 만에 60만 장 이상 판매</h4>\n<ul>\n<li>\n<strong>Tiny Glade</strong>는 Pounce Light의 &quot;편안한 건축 게임&quot;으로, 2024년 9월 23일 Steam에 출시된 후 한 달 만에 60만 장 이상 판매됨. 이 게임은 2년의 개발 기간을 거쳤으며, 6월의 Next Fest에서 Top 10에 진입한 바 있음.</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17872",
+      "guid": "https://news.hada.io/topic?id=17872",
+      "pubDate": "2024-11-21T09:59:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AAA – 분석적 안티앨리어싱 기술",
+      "description": {
+        "$text": "<h2>오늘의 여정: 안티 앨리어싱</h2>\n<ul>\n<li>안티 앨리어싱은 수십 년간의 수학, 창의적인 기술, 끊임없는 혁신을 통해 발전해 온 예술 형태임.</li>\n<li>SSAA, SMAA, DLAA 등 다양한 접근 방식이 존재하며, 각기 다른 방법으로 동일한 목표를 달성하려 함.</li>\n<li>이 글에서는 이러한 방법들이 어떻게 작동하는지 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17871",
+      "guid": "https://news.hada.io/topic?id=17871",
+      "pubDate": "2024-11-21T09:56:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "에픽 게임즈, Internet Archive를 통해 ‘Unreal’ 및 ‘Unreal Tournament’ 무료 배포 허용",
+      "description": {
+        "$text": "<h3>게임 보존 문제와 저작권의 충돌</h3>\n<ul>\n<li>오래된 비디오 게임 보존은 문화적 유산 보호와 밀접한 관련이 있음.</li>\n<li>게임 퍼블리셔들은 종종 저작권을 주장하면서도 게임을 지원하거나 공개하지 않아, 대중이 이를 보존할 방법이 부족해지는 문제가 발생함.</li>\n<li>이는 저작권 계약의 기본 원칙인 “창...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17870",
+      "guid": "https://news.hada.io/topic?id=17870",
+      "pubDate": "2024-11-21T09:53:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "중국 국적 화물선 Yi Peng 3, C-Lion 1 및 BSC 케이블 손상 시점과 일치하는 교차 기록",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>중국 국적 화물선 Yi Peng 3의 이동 경로</strong></p>\n<ul>\n<li>Yi Peng 3는 C-Lion 1과 BSC라는 두 해저 케이블을 지나갔으며, 이 시점에 케이블이 손상되었음.</li>\n<li>덴마크 해군이 밤 동안 이 선박을 추적했으며, 현재 발트해를 떠나 덴마크 해협으로 이동 중임.</li>\n<li>AIS(자동 식별 시",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17869",
+      "guid": "https://news.hada.io/topic?id=17869",
+      "pubDate": "2024-11-21T09:50:35+09:00",
       "author": "neo",
       "category": ""
     }
