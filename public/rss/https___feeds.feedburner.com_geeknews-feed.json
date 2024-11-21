@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-21T22:21:36+09:00",
+  "lastBuildDate": "2024-11-22T00:29:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2899,6 +2899,19 @@
       "guid": "https://news.hada.io/topic?id=17883",
       "pubDate": "2024-11-21T22:21:36+09:00",
       "author": "mintplo",
+      "category": ""
+    },
+    {
+      "title": "Vercel, 코드 검색 서비스 Grep 인수",
+      "description": {
+        "$text": "<p>Vercel이 코드 검색 서비스인 Grep을 인수했습니다. Grep은 50만 개 이상의 공개 Git 레포지토리를 대상으로 빠른 코드 검색을 제공하는 서비스로 매우 빠른 코드 검색을 제공해 개발자들이 빠르게 디버그하거나 예제로부터 빠르게 학습할 수 있도록 도와주는 서비스입니다. 예를 들어, React에서 <code>useActionSta...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17884",
+      "guid": "https://news.hada.io/topic?id=17884",
+      "pubDate": "2024-11-22T00:29:08+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
