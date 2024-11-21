@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-21T10:51:37+09:00",
+  "lastBuildDate": "2024-11-21T14:34:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2859,6 +2859,19 @@
       "link": "https://news.hada.io/topic?id=17879",
       "guid": "https://news.hada.io/topic?id=17879",
       "pubDate": "2024-11-21T10:33:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "포켓몬 고 플레이어 데이터를 기반으로 훈련된 \"Large Geospatial Model\" 발표한 나이언틱",
+      "description": {
+        "$text": "<h2>대규모 지리 공간 모델 구축</h2>\n<ul>\n<li>\n<p><strong>개요</strong></p>\n<ul>\n<li>Niantic은 대규모 기계 학습을 활용하여 장면을 이해하고 전 세계 수백만 개의 다른 장면과 연결하는 대규모 지리 공간 모델(LGM)을 개발 중임.</li>\n<li>인간은 공간 이해력을 통해 구조물을 다양한 각도에서 상상할 수 있지만, ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17881",
+      "guid": "https://news.hada.io/topic?id=17881",
+      "pubDate": "2024-11-21T14:34:27+09:00",
       "author": "neo",
       "category": ""
     }
