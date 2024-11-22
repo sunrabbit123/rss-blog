@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-22T00:29:08+09:00",
+  "lastBuildDate": "2024-11-22T09:51:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2912,6 +2912,84 @@
       "guid": "https://news.hada.io/topic?id=17884",
       "pubDate": "2024-11-22T00:29:08+09:00",
       "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "Electrobun - TypeScript로 작성된 크로스 플랫폼 데스크톱 애플리케이션",
+      "description": {
+        "$text": "<ul>\n<li>Electrobun은 Typescript로 작성된 초고속, 경량, 크로스 플랫폼 데스크톱 애플리케이션을 구축, 업데이트 및 배포하기 위한 완전한 솔루션을 제공하는 것을 목표로 함</li>\n<li>bun을 사용하여 메인 프로세스를 실행하고 웹뷰 Typescript를 번들링하며, zig로 작성된 네이티브 바인딩을 포함</li>\n<li>\n<h2>주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17890",
+      "guid": "https://news.hada.io/topic?id=17890",
+      "pubDate": "2024-11-22T09:51:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "네덜란드의 일반적인 도시 교차로 (2018)",
+      "description": {
+        "$text": "<h2>도시 교차로 설계</h2>\n<ul>\n<li>\n<p><strong>도시 교차로의 중요성</strong></p>\n<ul>\n<li>도시 교차로는 자전거 타기를 더 안전하고 매력적으로 만드는 데 중요한 역할을 함.</li>\n<li>잘못된 교차로 설계는 자전거 이용을 꺼리게 할 수 있음.</li>\n</ul>\n</li>\n<li>\n<p><strong>네덜란드의 교차로 설계</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17889",
+      "guid": "https://news.hada.io/topic?id=17889",
+      "pubDate": "2024-11-22T09:48:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PHP 8.4 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>속성 훅, 비대칭 가시성, 업데이트된 DOM API, 성능 향상, 버그 수정 및 일반적인 정리가 포함\n<ul>\n<li>IDE와 정적 분석 도구가 네이티브로 이해할 수 있는 계산 속성을 지원하는 속성 훅 제공</li>\n<li>속성의 읽기와 쓰기 범위를 독립적으로 제어할 수 있는 비대칭 가시성 도입.</li>\n</ul>\n</li>\n<li>\n<str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17888",
+      "guid": "https://news.hada.io/topic?id=17888",
+      "pubDate": "2024-11-22T09:45:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모두가 가능한 수학적 사고의 혜택",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>소개</strong></p>\n<ul>\n<li>David Bessis는 수학을 이해하지 못해 수학에 끌렸음. 수학은 음악이나 그림과 달리 내부 과정이기 때문에 매력적이라고 느꼈음.</li>\n<li>그는 1990년대 후반 파리 디드로 대학에서 박사 학위를 취득하고, 2010년 기계 학습 스타트업을 창업함.</li>\n<li>Bessis는 수학",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17887",
+      "guid": "https://news.hada.io/topic?id=17887",
+      "pubDate": "2024-11-22T09:42:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ICC, 네타냐후, 갈란트 및 하마스 관계자들에 대한 체포영장 발부",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>팔레스타인 상황: ICC 예심재판부 I, 이스라엘의 관할권 도전 기각 및 벤자민 네타냐후와 요아브 갈란트 체포영장 발부</h2>\n</li>\n<li>\n<p><strong>이스라엘의 요청에 대한 결정</strong></p>\n<ul>\n<li>이스라엘은 2024년 9월 26일 두 가지 요청을 제출함. 첫 번째 요청은 팔레스타인 상황에 대한 ICC의 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17886",
+      "guid": "https://news.hada.io/topic?id=17886",
+      "pubDate": "2024-11-22T09:39:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "체중 감량 약물, 쥐 및 인간 세포에서 근육 축소 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>연구 결과 및 경고</h3>\n<ul>\n<li>알버타 대학교 연구진은 인기 있는 체중 감량 약물이 체중뿐만 아니라 심장과 다른 근육도 줄일 수 있음을 발견함</li>\n<li>연구는 Ozempic과 같은 약물이 심장 근육 손실을 일으킬 수 있음을 보여줌</li>\n<li>연구진은 이러한 약물의 장기적인 건강 영향에 대한 경고를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17885",
+      "guid": "https://news.hada.io/topic?id=17885",
+      "pubDate": "2024-11-22T08:34:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
