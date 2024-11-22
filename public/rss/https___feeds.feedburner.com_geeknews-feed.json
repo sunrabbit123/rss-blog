@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-22T11:20:27+09:00",
+  "lastBuildDate": "2024-11-22T11:33:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3029,6 +3029,19 @@
       "guid": "https://news.hada.io/topic?id=17891",
       "pubDate": "2024-11-22T10:34:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "쿠키 처리의 난관",
+      "description": {
+        "$text": "<h3>쿠키 처리의 복잡성</h3>\n<ul>\n<li>\n<strong>HTTP 쿠키</strong>: 웹의 상태를 유지하기 위해 사용되는 작은 데이터 조각으로, 브라우저가 설정한 후 만료될 때까지 모든 HTTP 요청에 포함됨.</li>\n<li>\n<strong>문제 발생</strong>: 특정 자바스크립트 코드가 Go 표준 라이브러리에서 쿠키를 파싱하지 못해 오류 발...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17894",
+      "guid": "https://news.hada.io/topic?id=17894",
+      "pubDate": "2024-11-22T11:33:25+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
