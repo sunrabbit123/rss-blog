@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-22T09:51:31+09:00",
+  "lastBuildDate": "2024-11-22T11:20:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -2990,6 +2990,45 @@
       "guid": "https://news.hada.io/topic?id=17885",
       "pubDate": "2024-11-22T08:34:36+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, Forbes/CNN/WSJ등의 기생 SEO 같은 악용에 대해 강경 대응을 시작",
+      "description": {
+        "$text": "<ul>\n<li>Google은 &quot;사이트 평판 남용 정책(site reputation abuse policy)&quot;을 업데이트하며, 검색 엔진 최적화(SEO)를 악용하는 방식에 대해 강경 대응을 시작함</li>\n<li>주요 변화는 뉴스 및 리뷰 사이트에서 제3자가 제품 리뷰 콘텐츠를 게시하며 도메인 권위를 이용해 순위를 높이는 관행을 겨냥한 것임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17893",
+      "guid": "https://news.hada.io/topic?id=17893",
+      "pubDate": "2024-11-22T11:20:27+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "생성형 AI는 고객 경험을 개선할 잠재력이 있음",
+      "description": {
+        "$text": "<ul>\n<li>최근 조사에서 약 절반의 응답자가 생성형 AI 도구의 잠재력을 높이 평가함</li>\n<li>고객들은 독립적인 생성형 AI 기능보다 리뷰 요약과 같은 통합된 수동적 기능을 선호하는 경향을 보임</li>\n<li>온라인 쇼핑 고객들은 생성형 AI가 개인화된 경험을 제공할 수 있음을 이해하고 있으며, 다른 상황보다 개인정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17892",
+      "guid": "https://news.hada.io/topic?id=17892",
+      "pubDate": "2024-11-22T10:49:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "당신이 놓쳤을 OpenAI의 기능: Predicted Outputs",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 최근 <em>Predicted Outputs</em>라는 강력한 기능을 공개했음</li>\n<li>기술 미디어에서 크게 주목 받지 못했지만, 이는 주목할 만한 가치가 있음</li>\n<li>이 기능은 API 응답 대기 시간을 줄이고, 미리 예상 가능한 출력물의 생성 속도를 크게 향상 시킬 수 있음</li>\n</ul>\n<h2>Predicted Outputs...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17891",
+      "guid": "https://news.hada.io/topic?id=17891",
+      "pubDate": "2024-11-22T10:34:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
