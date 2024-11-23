@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-23T13:32:56+09:00",
+  "lastBuildDate": "2024-11-23T17:54:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3263,6 +3263,19 @@
       "guid": "https://news.hada.io/topic?id=17911",
       "pubDate": "2024-11-23T13:32:56+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Amazon, Anthropic에 40억 달러 추가 투자",
+      "description": {
+        "$text": "<ul>\n<li>Amazon, Anthropic에 40억 달러 추가 투자로 총 투자액 80억 달러로 확대</li>\n<li>AWS를 주요 클라우드 및 AI 모델 훈련 파트너로 지정, AWS의 Trainium, Inferentia 칩과 Bedrock 플랫폼 활용, AWS Annapurna Labs와 AI 최적화 관련 협력 진행</li>\n<li>AWS Bedrock 플랫폼에 Claude를 통합하여 기업들이 AI ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17912",
+      "guid": "https://news.hada.io/topic?id=17912",
+      "pubDate": "2024-11-23T17:54:13+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
