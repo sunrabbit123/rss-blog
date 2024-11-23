@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-23T10:28:01+09:00",
+  "lastBuildDate": "2024-11-23T12:17:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3237,6 +3237,19 @@
       "guid": "https://news.hada.io/topic?id=17901",
       "pubDate": "2024-11-23T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 오픈소스 - Ollama 기반 LLM 모바일 클라이언트",
+      "description": {
+        "$text": "<p>올해 꽤 많은 시간을 들여서 비디오와 관련한 LLM-RAG 관련 작업을 했습니다. 그러다 보니 부산물(?)이 좀 나왔는데 그중 일부를 정리해서 앱으로 만들고 오픈소스로 업로드했습니다.</p>\n<p>데모를 위해 앱,웹 동시에 사용할수 있는 채팅 UI가 필요해서 플러터의 flutter_chat_ui 를 기반으로 작업을 했는데, 데모로",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17910",
+      "guid": "https://news.hada.io/topic?id=17910",
+      "pubDate": "2024-11-23T12:17:38+09:00",
+      "author": "rtlink",
       "category": ""
     }
   ]
