@@ -471,6 +471,15 @@
       "pubDate": "Wed, 13 Nov 2024 13:58:39 +0900",
       "author": "pjt3591oo",
       "category": "서버"
+    },
+    {
+      "title": "[aptos] aptos 4편 - 토큰 자산을 알아보자 Fungible Asset",
+      "description": "안녕하세요 멍개입니다. aptos에서는 자산을 크게 두 가지로 분류하여 관리합니다. ERC20과 같은 자산을 의미하는 Fungible Asset NFT(SBT)와 같은 자산을 의미하는 Digital Asset 이번 시간은 ERC20과 같은 Fungible Asset을 다뤄보겠습니다. ● FA 배포하기 · profile 생성하기 우리의 토큰이 배포될 프로필(어카운트)를 생성합니다. profile 이름은 생략 가능하면 생략할 경우 default가 됩니다. 우리는 testnet에 배포하기 위해 network는 testnet으로 설정합니다. 프로필이 생성되면 .aptos 경로에서 config.yaml 파일이 생성됩니다. · 토큰작성 ▶ Move.toml ▶ fa_coin.move · 배포하기 · 배포된 토큰 확인하기 aptos의 FA는 다음과 같은.......",
+      "link": "https://blog.naver.com/pjt3591oo/223670263692?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223670263692",
+      "pubDate": "Sat, 23 Nov 2024 09:37:51 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
