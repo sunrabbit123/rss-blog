@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-23T08:38:12+09:00",
+  "lastBuildDate": "2024-11-23T10:28:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3120,6 +3120,123 @@
       "guid": "https://news.hada.io/topic?id=17898",
       "pubDate": "2024-11-23T08:02:15+09:00",
       "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "빌드 시스템 없이 프론트엔드 자바스크립트 라이브러리 가져오기",
+      "description": {
+        "$text": "<ul>\n<li>빌드 시스템 없이 자바스크립트를 작성하려면 라이브러리를 가져오는 과정이 복잡할 수 있음</li>\n<li>많은 라이브러리가 설정 방법에 대해 빌드 시스템 사용을 전제로 작성하기 때문</li>\n<li>이 글은 빌드 시스템 없이 자바스크립트 라이브러리를 사용하는 방법에 대해 다룸\n<ul>\n<li>자바스크립트 라이브러리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17909",
+      "guid": "https://news.hada.io/topic?id=17909",
+      "pubDate": "2024-11-23T10:28:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 컴포스트 모니터링 기술 오픈소스화",
+      "description": {
+        "$text": "<h2>Monty Home Device Hacking Guide</h2>\n<p><strong>Monty Home Device Hacking Guide</strong>는 Raspberry Pi를 사용하여 Monty Home BLE 장치의 기능을 확장하는 방법을 안내하는 저장소임. 이 장치는 원래 퇴비 모니터링을 위해 설계되었으며, 온도, 습도 등 환경 데이터를 수집함. 이 가이드를 통해 데이터를 검...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17908",
+      "guid": "https://news.hada.io/topic?id=17908",
+      "pubDate": "2024-11-23T10:00:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "게임 40주년 기념 FORTH 코드 공개된 Chipwits",
+      "description": {
+        "$text": "<h3>ChipWits의 40주년: 원본 FORTH 코드 오픈 소스화</h3>\n<ul>\n<li>\n<strong>ChipWits의 40주년 기념</strong>으로 원본 Mac과 Commodore 64 FORTH 소스 코드를 오픈 소스로 공개함. 이는 8비트 마이크로컴퓨터의 크로스 플랫폼 소프트웨어 개발에 대한 감사를 공유하고자 함.</li>\n</ul>\n<h3>ChipWits의 역사와 FORTH...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17907",
+      "guid": "https://news.hada.io/topic?id=17907",
+      "pubDate": "2024-11-23T09:57:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "댐 제거 프로젝트 후 역사적 서식지로 돌아온 산란하는 연어",
+      "description": {
+        "$text": "<h4>과학 및 환경</h4>\n<h5>미국 역사상 최대 댐 철거 프로젝트 이후 연어가 역사적 서식지로 돌아와 알을 낳음</h5>\n<ul>\n<li>\n<p>클라마스 강의 네 개의 높은 댐이 철거된 지 한 달도 채 되지 않아 수백 마리의 연어가 수십 년 동안 차단되었던 시원한 개울로 돌아와 산란을 시작함.</p>\n</li>\n<li>\n<p>거대한 암컷 치",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17906",
+      "guid": "https://news.hada.io/topic?id=17906",
+      "pubDate": "2024-11-23T09:54:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Golang에서의 Hyrum's Law 적용 사례",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Hyrum의 법칙과 Golang</h2>\n<ul>\n<li>최근 Gocodebase를 탐색하던 중 흥미로운 주석을 발견함</li>\n<li>&quot;Hyrum의 법칙 때문에 이 텍스트는 변경할 수 없음&quot;이라는 주석이 있는 코드 예시</li>\n<li>\n<code>MaxBytesError</code> 구조체의 <code>Error()</code> 메서드에서 &quot;http: request ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17905",
+      "guid": "https://news.hada.io/topic?id=17905",
+      "pubDate": "2024-11-23T09:51:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "위상 배열 마이크로폰 (2023)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>위상 배열 마이크</h2>\n<ul>\n<li>192채널 위상 배열 마이크로, FPGA 데이터 수집 및 GPU에서의 빔포밍/시각화 기능을 제공함. 위상 배열은 전통적인 방향성 마이크로는 불가능한 응용을 가능하게 하며, 녹음 후 방향성을 즉시 변경하거나 수십만 개의 지점에 동시에 초점을 맞출 수 있음.</li>\n<li>모든 설...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17904",
+      "guid": "https://news.hada.io/topic?id=17904",
+      "pubDate": "2024-11-23T09:48:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Netlify를 위해 제작한 Marble Madness 영감을 받은 WebGL 게임",
+      "description": {
+        "$text": "<ul>\n<li>Netlify가 500만 명의 개발자에 도달한 소식 공유</li>\n<li>이 과정에서 많은 재미있는 순간과 중요한 순간들이 있었음</li>\n<li>이 여정을 통해 어떻게 여기까지 왔는지, 그리고 여러분이 이 이야기에서 어떤 역할을 했는지 확인 가능</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17903",
+      "guid": "https://news.hada.io/topic?id=17903",
+      "pubDate": "2024-11-23T09:45:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존, Anthropic에 추가 40억 달러 투자",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Amazon의 Anthropic 투자</h2>\n<ul>\n<li>Amazon이 인공지능 스타트업 Anthropic에 추가로 40억 달러를 투자함.</li>\n<li>이번 투자로 Amazon의 총 투자액은 80억 달러에 달하지만, 여전히 소수 투자자로 남아 있음.</li>\n<li>Amazon Web Services(AWS)는 Anthropic의 주요 클라우드 및 훈련 파트너가 될 예...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17902",
+      "guid": "https://news.hada.io/topic?id=17902",
+      "pubDate": "2024-11-23T09:42:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PKI.js - PKI 앱용 기능을 순수 JS로 구현한 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>PKI 지원 애플리케이션을 구축하는 데 필요한 가장 일반적인 형식과 알고리듬의 Typescript 구현을 제공</li>\n<li>지원 기능\n<ul>\n<li>X.509 인증서(RFC 5280) 인증서 생성 및 검증</li>\n<li>PKCS#10(RFC 2986): X.509 애플리케이션에서 가장 널리 사용되는 인증 요청 데이터 구조. 요청자가 특정 공개 키를 제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17901",
+      "guid": "https://news.hada.io/topic?id=17901",
+      "pubDate": "2024-11-23T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
