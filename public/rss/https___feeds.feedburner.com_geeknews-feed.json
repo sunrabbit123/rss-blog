@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-24T10:12:09+09:00",
+  "lastBuildDate": "2024-11-24T14:34:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3405,6 +3405,19 @@
       "link": "https://news.hada.io/topic?id=17914",
       "guid": "https://news.hada.io/topic?id=17914",
       "pubDate": "2024-11-24T09:48:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "고대 시리아 도시에서 발굴된 가장 오래된 알파벳 문자 증거",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>고대 시리아 도시에서 발견된 가장 오래된 알파벳적 글쓰기 증거</h2>\n<ul>\n<li>존스 홉킨스 대학교 연구팀이 시리아의 한 무덤에서 발굴한 손가락 길이의 점토 실린더에 인류 역사상 가장 오래된 알파벳적 글쓰기의 증거가 새겨져 있음</li>\n<li>이 글쓰기는 기원전 2400년경으로 추정되며, 다른 알려진 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17924",
+      "guid": "https://news.hada.io/topic?id=17924",
+      "pubDate": "2024-11-24T14:34:20+09:00",
       "author": "neo",
       "category": ""
     }
