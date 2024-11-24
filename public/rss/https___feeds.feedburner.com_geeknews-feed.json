@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-24T16:34:13+09:00",
+  "lastBuildDate": "2024-11-24T17:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3431,6 +3431,19 @@
       "link": "https://news.hada.io/topic?id=17925",
       "guid": "https://news.hada.io/topic?id=17925",
       "pubDate": "2024-11-24T16:34:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "고위 리더에게 피드백을 제공하는 안전한 방법",
+      "description": {
+        "$text": "<h2>고위 리더에게 피드백을 제공하는 방법 (해고되지 않고)</h2>\n<h4>올바른 접근 방법</h4>\n<ul>\n<li>고위 리더에게 피드백을 주는 것은 전통적인 규범의 전환임. 일반적으로 더 강력한 사람이 덜 강력한 사람에게 피드백을 줌.</li>\n<li>피드백을 주기 전에 자신이 문제의 원인이 아닌지 확인하는 것이 중요함.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17926",
+      "guid": "https://news.hada.io/topic?id=17926",
+      "pubDate": "2024-11-24T17:33:24+09:00",
       "author": "neo",
       "category": ""
     }

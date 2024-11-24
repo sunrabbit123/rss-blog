@@ -480,6 +480,15 @@
       "pubDate": "Sat, 23 Nov 2024 09:37:51 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[aptos] aptos 5편 - 토큰 자산을 알아보자 Digital Asset",
+      "description": "안녕하세요 멍개입니다. 4편에서는 토큰에 해당하는 Fungible Asset(FA)을 다뤄보았습니다. 5편에서는 NFT(or SBT)에 해당하는 Digital Asset을 다뤄보겠습니다. Digital Asset을 줄여 DA라고 표현하겠습니다. DA의 경우 FA(Fungible Asset)와 다르게 별도의 모듈을 만들어서 배포할 필요 없습니다.(물론 별도의 모듈을 배포하여 NFT, SBT를 배포, 전송 등의 관리할 수 있습니다. DA는 0x4::aptos_token을 활용합니다. 또한 발급받은 NFT와 SBT는 object 형태로 생성되기 때문에 transfer할 경우 0x1::object::transfer를 호출하게 됩니다.(1~5편까지 object를 제대로 다루지 않았는데 이는 추후에 별도로 다루겠습니다. 여기서는 object가 aptos.......",
+      "link": "https://blog.naver.com/pjt3591oo/223671375658?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223671375658",
+      "pubDate": "Sun, 24 Nov 2024 19:05:58 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
