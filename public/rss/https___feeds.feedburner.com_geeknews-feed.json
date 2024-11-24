@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-24T14:34:20+09:00",
+  "lastBuildDate": "2024-11-24T16:34:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3418,6 +3418,19 @@
       "link": "https://news.hada.io/topic?id=17924",
       "guid": "https://news.hada.io/topic?id=17924",
       "pubDate": "2024-11-24T14:34:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "펜티엄 프로세서의 안테나 다이오드",
+      "description": {
+        "$text": "<h2>Pentium 프로세서의 안테나 다이오드</h2>\n<ul>\n<li>Pentium 프로세서의 실리콘 다이를 연구하면서 신호선이 실리콘 기판에 연결된 구조를 발견함. 이는 제조 과정에서 회로를 보호하는 &quot;안테나 다이오드&quot;임.</li>\n<li>Intel은 1993년에 Pentium 프로세서를 출시했으며, 이는 고성능 프로세서 라인의 시작...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17925",
+      "guid": "https://news.hada.io/topic?id=17925",
+      "pubDate": "2024-11-24T16:34:13+09:00",
       "author": "neo",
       "category": ""
     }
