@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-24T17:33:24+09:00",
+  "lastBuildDate": "2024-11-24T19:39:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3444,6 +3444,32 @@
       "link": "https://news.hada.io/topic?id=17926",
       "guid": "https://news.hada.io/topic?id=17926",
       "pubDate": "2024-11-24T17:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 인터넷 연결 없이 클라이언트에서 간편결제 QR코드 만들기",
+      "description": {
+        "$text": "<p>함께 보기: https://news.hada.io/topic?id=10280</p>\n<ul>\n<li>디미페이는 한국디지털미디어고등학교에서<br />\n사용하는 인하우스 QR 간편결제 솔루션입니다.</li>\n<li>학생들은 저렴한 데이터 요금제를 사용하여 인터넷 연결이 자유롭지 않은 경우가 많았고, 인터넷 연결 없이도 결제할 수 있는 방법을 고민하였습",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17928",
+      "guid": "https://news.hada.io/topic?id=17928",
+      "pubDate": "2024-11-24T19:39:25+09:00",
+      "author": "rycont",
+      "category": ""
+    },
+    {
+      "title": "약 100줄의 Bash로 구현된 Docker, Bocker (2015)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Bocker</h2>\n<ul>\n<li>Bocker는 약 100줄의 bash로 구현된 Docker의 간단한 버전임.</li>\n</ul>\n</li>\n<li>\n<h3>Prerequisites</h3>\n<ul>\n<li>Bocker를 실행하기 위해 필요한 패키지:\n<ul>\n<li>btrfs-progs</li>\n<li>curl</li>\n<li>iproute2</li>\n<li>iptables</li>\n<li>libcgroup-tools</li>\n<li>util-li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17927",
+      "guid": "https://news.hada.io/topic?id=17927",
+      "pubDate": "2024-11-24T19:33:16+09:00",
       "author": "neo",
       "category": ""
     }
