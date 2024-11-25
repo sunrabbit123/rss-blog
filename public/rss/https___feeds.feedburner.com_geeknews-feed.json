@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-24T22:33:04+09:00",
+  "lastBuildDate": "2024-11-25T09:55:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3484,6 +3484,110 @@
       "guid": "https://news.hada.io/topic?id=17929",
       "pubDate": "2024-11-24T22:33:04+09:00",
       "author": "dongho42",
+      "category": ""
+    },
+    {
+      "title": "Scooter - 터미널용 인터랙티브 Find & Replace 도구",
+      "description": {
+        "$text": "<ul>\n<li>GUI 에디터에서 사용하는 찾기/치환 기능을 터미널에서 UI로 제공</li>\n<li>여러개의 파일에 대해 동작하며, 개별적으로 처리 가능\n<ul>\n<li>고정 문자열 또는 정규식을 사용해 검색하고, 치환 내용을 입력한 뒤, 개별적으로 치환 여부를 선택</li>\n<li>파일 경로에 대한 정규식을 지정해 특정 파일만 검색 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17937",
+      "guid": "https://news.hada.io/topic?id=17937",
+      "pubDate": "2024-11-25T09:55:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스타링크 다이렉트 투 셀 서비스",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Starlink Direct to Cell 소개</h2>\n<ul>\n<li>Starlink Direct to Cell은 전 세계 LTE 휴대폰에 텍스트, 음성, 데이터에 대한 원활한 접근을 제공하는 프로젝트임.</li>\n<li>2024년부터 텍스트 서비스, 2025년부터 음성 및 데이터 서비스가 시작될 예정임.</li>\n<li>IoT 기기 연결도 2025년부터 지원 예정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17936",
+      "guid": "https://news.hada.io/topic?id=17936",
+      "pubDate": "2024-11-25T09:52:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마셜 브레인 사망 소식",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>NC State 교수이자 웹사이트 창립자 Marshall Brain 사망</h2>\n<ul>\n<li>North Carolina State University의 교수이자 인기 웹사이트 &quot;How Stuff Works&quot;의 창립자인 Marshall Brain이 사망함.</li>\n<li>Brain은 N.C. State의 센테니얼 캠퍼스에 있는 자신의 사무실에서 수요일에 사망함.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17935",
+      "guid": "https://news.hada.io/topic?id=17935",
+      "pubDate": "2024-11-25T09:49:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bluesky에 호스팅된 웹사이트",
+      "description": {
+        "$text": "<h4>Bluesky와 AT 프로토콜</h4>\n<ul>\n<li>\n<p><strong>Bluesky와 AT 프로토콜 소개</strong></p>\n<ul>\n<li>Bluesky는 개인 데이터 서버(PDS)를 통해 웹사이트를 호스팅할 수 있는 기능을 제공함.</li>\n<li>AT 프로토콜은 웹사이트 콘텐츠 업로드에 사용되는 API를 정의하며, PDS가 이를 구현함.</li>\n<li>Bluesky는 <co",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17934",
+      "guid": "https://news.hada.io/topic?id=17934",
+      "pubDate": "2024-11-25T09:46:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "커리어를 끝내는 실수",
+      "description": {
+        "$text": "<h4>경력의 끝</h4>\n<ul>\n<li>경력의 끝은 은퇴 날짜를 정하는 것이 아니라, 경력의 목표를 설정하는 것임.</li>\n<li>현재 하는 일을 사랑하고 바꾸고 싶지 않다면 이미 경력의 끝에 도달한 것임.</li>\n<li>그렇지 않다면, 어떤 일을 사랑할 수 있을지, 그리고 그 일을 어떻게 얻을 수 있을지 고민할 필요가 있음.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17933",
+      "guid": "https://news.hada.io/topic?id=17933",
+      "pubDate": "2024-11-25T09:43:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "암흑의 숲 이론과 인터넷",
+      "description": {
+        "$text": "<h2>암흑의 숲: 배경과 개념</h2>\n<ul>\n<li>&quot;암흑의 인터넷 숲(Dark Internet Forest)&quot;은 기술 및 사회적 인터넷 환경에서 불안과 혼란을 설명하는 개념으로, 과학소설 &quot;삼체&quot;의 작가 류츠신(Liu Cixin)의 &quot;암흑의 숲&quot; 이론을 기반으로 함</li>\n<li>킥스타터 공동 창립자인 얀시 스트릭클...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17932",
+      "guid": "https://news.hada.io/topic?id=17932",
+      "pubDate": "2024-11-25T09:43:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "React Scan - React 앱을 스캔하여 성능 문제를 자동으로 찾아주는 도구",
+      "description": {
+        "$text": "<ul>\n<li>기존 도구(<code>Profiler</code>, <code>Why Did You Render?</code>, <code>React Devtools</code>)와 달리 코드 변경이 거의 필요 없고, 단순한 비주얼 큐와 프로그래밍 가능한 API를 제공함</li>\n<li>성능 문제를 일으키는 렌더링을 자동으로 감지하고 강조 표시하고, 정확히 어떤 구성 요소를 수정해야 하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17931",
+      "guid": "https://news.hada.io/topic?id=17931",
+      "pubDate": "2024-11-25T09:41:05+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "게임에서 웹으로 확장된 Frosted Glass 기술",
+      "description": {
+        "$text": "<h2>게임에서 웹으로의 프로스트 글래스</h2>\n<ul>\n<li>\n<p><strong>소개</strong></p>\n<ul>\n<li>Forza Horizon 3와 Forza Motorsport 7의 UI 개발자로 일하면서 아름다운 프로스트 아크릴 디자인 요소를 경험했음.</li>\n<li>HTML을 사용하여 유사한 효과를 구현하고자 했으며, 이 페이지에서 그 시도를 공유함.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17930",
+      "guid": "https://news.hada.io/topic?id=17930",
+      "pubDate": "2024-11-25T09:40:42+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
