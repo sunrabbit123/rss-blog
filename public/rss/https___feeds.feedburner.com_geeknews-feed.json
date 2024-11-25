@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-25T11:49:35+09:00",
+  "lastBuildDate": "2024-11-25T15:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3653,6 +3653,19 @@
       "guid": "https://news.hada.io/topic?id=17941",
       "pubDate": "2024-11-25T11:06:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Bluesky, 중요한 모든 측면에서 Threads를 추월할 위기",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Bluesky의 성장</strong></p>\n<ul>\n<li>Bluesky는 Elon Musk의 X에 대한 탈중앙화된 대안으로, 빠른 속도로 Threads와의 격차를 좁히고 있음</li>\n<li>Bluesky 앱은 350만 명의 일일 활성 사용자 수를 기록하며 Meta의 Threads에 비해 1.5배 적은 사용자 수를 보유하고 있음</li>\n<li>이는 Threads",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17943",
+      "guid": "https://news.hada.io/topic?id=17943",
+      "pubDate": "2024-11-25T15:33:16+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
