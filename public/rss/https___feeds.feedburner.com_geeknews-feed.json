@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-25T09:55:01+09:00",
+  "lastBuildDate": "2024-11-25T10:51:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3587,6 +3587,45 @@
       "link": "https://news.hada.io/topic?id=17930",
       "guid": "https://news.hada.io/topic?id=17930",
       "pubDate": "2024-11-25T09:40:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 데이터 인프라의 부상",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;우리는 현재 새로운 산업 혁명의 시작에 있음. 전기 생산 대신 인공지능을 생성하는.. [오픈소스]는 모든 기업이 인공지능 기업이 될 수 있게 함&quot; - 젠슨 황</p>\n</blockquote>\n<ul>\n<li>문서에서 정보를 추출하는 것은 새로운 개념은 아님. 하지만 생성형AI(GenAI)는 대량의 고품질 데이터를",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17940",
+      "guid": "https://news.hada.io/topic?id=17940",
+      "pubDate": "2024-11-25T10:51:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2024 데이터 엔지니어링 진입 로드맵",
+      "description": {
+        "$text": "<ul>\n<li>데이터 엔지니어링 취업은 복잡한 기술 생태계(예: Spark, Flink, Iceberg, BigQuery 등)로 인해 어렵게 느껴질 수 있음</li>\n<li>단순히 <strong>Python과 SQL</strong>을 배우는 것만으로는 충분하지 않으며, 체계적인 전략과 실습이 필요</li>\n</ul>\n<h3>데이터 엔지니어링 취업에 필요한 요소</h3>\n<ol>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17939",
+      "guid": "https://news.hada.io/topic?id=17939",
+      "pubDate": "2024-11-25T10:36:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "덴마크, 10억 그루 나무 심고 농지 10%를 숲으로 전환 계획",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>덴마크의 새로운 환경 협약</h2>\n<ul>\n<li>덴마크는 향후 20년 동안 10억 그루의 나무를 심고 농지의 10%를 숲과 자연 서식지로 전환하기로 합의함.</li>\n<li>이 협약은 비료 사용을 줄이기 위한 노력의 일환으로, 덴마크의 풍경에 100년 만에 가장 큰 변화를 가져올 것이라고 정부는 발표함.</li>\n<li>덴...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17938",
+      "guid": "https://news.hada.io/topic?id=17938",
+      "pubDate": "2024-11-25T09:55:45+09:00",
       "author": "neo",
       "category": ""
     }
