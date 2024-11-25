@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-25T15:33:16+09:00",
+  "lastBuildDate": "2024-11-25T16:33:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3665,6 +3665,19 @@
       "link": "https://news.hada.io/topic?id=17943",
       "guid": "https://news.hada.io/topic?id=17943",
       "pubDate": "2024-11-25T15:33:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WireGuard: 기본 설정을 넘어서",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>기본 설정</h2>\n<ul>\n<li>OpenVPN을 WireGuard로 대체하려는 시도에 대한 경험 공유.</li>\n<li>기본 설정 요약:\n<ul>\n<li>서버와 클라이언트 각각에 대한 키 쌍 생성.</li>\n<li>VPN 네트워크와 IP 주소 지정.</li>\n<li>서버와 클라이언트 구성 파일 작성 및 실행.</li>\n<li>네트워크 네임스페이스를 사용하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17944",
+      "guid": "https://news.hada.io/topic?id=17944",
+      "pubDate": "2024-11-25T16:33:21+09:00",
       "author": "neo",
       "category": ""
     }
