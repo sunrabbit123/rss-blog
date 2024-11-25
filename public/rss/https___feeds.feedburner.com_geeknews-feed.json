@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-25T16:33:21+09:00",
+  "lastBuildDate": "2024-11-25T18:10:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3679,6 +3679,19 @@
       "guid": "https://news.hada.io/topic?id=17944",
       "pubDate": "2024-11-25T16:33:21+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JetBrains, 조직(회사) 구독시 연속 할인 정책 변경 안내 - 2025년부터 할인 정책 폐지",
+      "description": {
+        "$text": "<ul>\n<li>새로운 조직 구독에는 연속 할인이 적용되지 않음.</li>\n<li>시행일: 2025년 1월 2일</li>\n<li>기존 라이선스: 현재 할인율 유지(갱신 시 20% 또는 40% 할인 계속 적용)</li>\n<li>연속 할인 모델 적용받으려면 2025년 1월 2일 이전에 신규 구독 구매 필요</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17945",
+      "guid": "https://news.hada.io/topic?id=17945",
+      "pubDate": "2024-11-25T18:10:30+09:00",
+      "author": "tkwlsrl",
       "category": ""
     }
   ]
