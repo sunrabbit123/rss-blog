@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-26T09:49:58+09:00",
+  "lastBuildDate": "2024-11-26T11:00:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3822,6 +3822,19 @@
       "guid": "https://news.hada.io/topic?id=17947",
       "pubDate": "2024-11-26T08:33:43+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Series B 단계에서 성공하는 법",
+      "description": {
+        "$text": "<ul>\n<li>요즘 스타트업들에게 <strong>&quot;성장 단계 갭(growth-stage gap)&quot;</strong> 은 무섭고도 큰 도전 과제임\n<ul>\n<li>초기 단계에서 성공적으로 자리 잡은 스타트업이 성장 단계로 넘어가면서 겪게 됨</li>\n</ul>\n</li>\n<li>많은 회사들이 시리즈 B 유치전에 사라짐. 정답은 없지만, 성공적인 B 단계에 도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17956",
+      "guid": "https://news.hada.io/topic?id=17956",
+      "pubDate": "2024-11-26T11:00:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
