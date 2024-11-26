@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-26T11:00:02+09:00",
+  "lastBuildDate": "2024-11-26T16:34:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3835,6 +3835,19 @@
       "guid": "https://news.hada.io/topic?id=17956",
       "pubDate": "2024-11-26T11:00:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Amazon S3, Put-If-Match(비교 및 교환) 기능 추가",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Amazon S3의 새로운 기능: 조건부 쓰기</h2>\n<ul>\n<li>\n<p>Amazon S3는 이제 객체가 수정되지 않았는지 평가한 후 업데이트하는 조건부 쓰기를 수행할 수 있음. 이는 동일한 객체에 대한 동시 쓰기를 조정하고 여러 동시 작성자가 객체의 내용을 모르는 상태에서 의도치 않게 덮어쓰는 것을 방지하는 데 도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17957",
+      "guid": "https://news.hada.io/topic?id=17957",
+      "pubDate": "2024-11-26T16:34:27+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
