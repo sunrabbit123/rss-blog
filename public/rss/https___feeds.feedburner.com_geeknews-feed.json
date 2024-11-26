@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-26T16:34:27+09:00",
+  "lastBuildDate": "2024-11-27T05:29:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3848,6 +3848,19 @@
       "guid": "https://news.hada.io/topic?id=17957",
       "pubDate": "2024-11-26T16:34:27+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 어시스턴트 Continue.dev로 앱 만들기 (설치 불필요!)",
+      "description": {
+        "$text": "<p>AI 페어 프로그래머인 Continue.dev를 사용하여 간단한 랜딩 페이지를 만드는 방법을 알아보세요. 모든 작업이 클라우드 기반 개발 환경에서 이루어지며, 로컬 설치나 특별한 요구사항이 필요 없습니다!</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17958",
+      "guid": "https://news.hada.io/topic?id=17958",
+      "pubDate": "2024-11-27T05:29:13+09:00",
+      "author": "nkkko",
       "category": ""
     }
   ]
