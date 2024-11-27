@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T13:06:04+09:00",
+  "lastBuildDate": "2024-11-27T14:04:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4030,6 +4030,19 @@
       "guid": "https://news.hada.io/topic?id=17976",
       "pubDate": "2024-11-27T13:06:04+09:00",
       "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "원온원 6년의 기록: 시행착오와 배움들",
+      "description": {
+        "$text": "<p>원온원 미팅을 진행하면서 시도한 내용과 배움들에 대해 작성한 글입니다.<br />\n원온원 미팅 경험담을 서로 나누는 자리가 많아지면 좋을 것 같네요. 팀장님들, 원온원 미팅을 진행해야 하는 분들에게 도움이 되길!</p>\n<p>목차</p>\n<ul>\n<li>원온원의 정의와 목적</li>\n<li>원온원 역량의 발전 과정\n<ul>\n<li>Lv 1.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17977",
+      "guid": "https://news.hada.io/topic?id=17977",
+      "pubDate": "2024-11-27T14:04:26+09:00",
+      "author": "zzsza",
       "category": ""
     }
   ]
