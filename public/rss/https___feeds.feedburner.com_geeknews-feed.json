@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T11:37:02+09:00",
+  "lastBuildDate": "2024-11-27T13:06:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4017,6 +4017,19 @@
       "guid": "https://news.hada.io/topic?id=17975",
       "pubDate": "2024-11-27T11:37:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "React Native v0.77.0 첫 RC 릴리스",
+      "description": {
+        "$text": "<ul>\n<li>iOS 지원 개선: Swift 템플릿 지원 추가(AppDelegate.swift), RCTDependencyProvider 사용으로 구조 최적화</li>\n<li>Native API 안정성 강화: 주요 네이티브 API 내부화 및 타입 안정성 향상</li>\n<li>tvOS 통합 강화: Hermes 아티팩트 지원 추가</li>\n<li>애니메이션 성능: Animated 성능 개선 및 memoizatio...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17976",
+      "guid": "https://news.hada.io/topic?id=17976",
+      "pubDate": "2024-11-27T13:06:04+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
