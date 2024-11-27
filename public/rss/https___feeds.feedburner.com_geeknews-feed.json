@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T16:20:47+09:00",
+  "lastBuildDate": "2024-11-27T20:34:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4056,6 +4056,19 @@
       "guid": "https://news.hada.io/topic?id=17978",
       "pubDate": "2024-11-27T14:57:27+09:00",
       "author": "curiousotter",
+      "category": ""
+    },
+    {
+      "title": "십대 수학자들, 경이로운 프랙탈을 통한 매듭 묶기",
+      "description": {
+        "$text": "<h4>소개</h4>\n<ul>\n<li>2021년 가을, Malors Espinosa는 고등학생들이 증명할 수 있는 수학 문제를 만들고자 함.</li>\n<li>Menger 스펀지라는 프랙탈을 통해 모든 매듭을 찾을 수 있다는 것을 증명함.</li>\n</ul>\n<h4>Menger 스펀지</h4>\n<ul>\n<li>Menger 스펀지는 큐브에서 점점 작은 큐브를 제거하여 만들어짐.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17980",
+      "guid": "https://news.hada.io/topic?id=17980",
+      "pubDate": "2024-11-27T20:34:17+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
