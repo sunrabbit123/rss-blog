@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T10:31:01+09:00",
+  "lastBuildDate": "2024-11-27T11:20:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -3991,6 +3991,19 @@
       "guid": "https://news.hada.io/topic?id=17964",
       "pubDate": "2024-11-27T09:46:22+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nvidia, 유연한 AI 사운드 생성 모델 Fugatto 공개",
+      "description": {
+        "$text": "<ul>\n<li>텍스트를 사용해 오디오 출력을 제어할 수 있는 사운드 생성 AI 모델 'Fugatto'\n<ul>\n<li>음악 생성, 목소리의 억양이나 감정 변경, 기존 음악에 악기 추가/제거 등 다양한 작업 가능</li>\n<li>기존에는 들어본 적 없는 완전히 새로운 소리도 생성 가능</li>\n</ul>\n</li>\n<li>Fugatto는 음악, 음성, 환경음을 텍...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17974",
+      "guid": "https://news.hada.io/topic?id=17974",
+      "pubDate": "2024-11-27T11:20:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
