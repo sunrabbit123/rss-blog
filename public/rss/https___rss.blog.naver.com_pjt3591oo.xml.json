@@ -489,6 +489,15 @@
       "pubDate": "Sun, 24 Nov 2024 19:05:58 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[aptos] aptos 6편 - 한 트랜잭션을 처리하기 위한 여러 사용자의 서명",
+      "description": "안녕하세요 멍개입니다. aptos는 하나의 트랜잭션을 처리하기 위해 다수의 사용자로부터 서명을 받을 수 있는 방법이 두 가지 존재합니다. 첫 번째. multi agent 두 번째. multi sig 이번 시간은 multi agent와 multi sig를 다룹니다. 샘플 코드는 깃허브에서 확인할 수 있습니다. https://github.com/pjt3591oo/aptos-multiagent-multisig 웬만하면 샘플코드를 마지막에 넣는데 내용이 길어 먼저 제공합니다. (친절한 멍개씌) ● multi agent multi agent는 한 트랜잭션을 처리하기 위해 여러 지갑의 서명을 포함하는 것을 의미합니다. multi agent는 모든 경우에 다 사용할 수 없습니다. aptos에서는 트랜잭션을 발생하기 위해 entry가 붙은 함.......",
+      "link": "https://blog.naver.com/pjt3591oo/223674377875?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223674377875",
+      "pubDate": "Wed, 27 Nov 2024 10:39:24 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
