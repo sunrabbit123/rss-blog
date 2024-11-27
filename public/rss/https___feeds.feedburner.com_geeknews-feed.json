@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T11:20:01+09:00",
+  "lastBuildDate": "2024-11-27T11:37:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4003,6 +4003,19 @@
       "link": "https://news.hada.io/topic?id=17974",
       "guid": "https://news.hada.io/topic?id=17974",
       "pubDate": "2024-11-27T11:20:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Deno vs. Oracle: JavaScript 상표 취소 소송",
+      "description": {
+        "$text": "<ul>\n<li>2024년 11월 22일, Deno는 &quot;JavaScript&quot; 상표를 취소하기 위해 USPTO(미국 특허상표청)에 공식 청원을 제출\n<ul>\n<li>이번 소송은 &quot;JavaScript&quot;를 법적 얽힘에서 해방하고, 이를 공공재로 인정받으려는 중요한 시도</li>\n<li>성공 시, &quot;JSConf&quot; 대신 &quot;JavaScript Conferenc...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17975",
+      "guid": "https://news.hada.io/topic?id=17975",
+      "pubDate": "2024-11-27T11:37:02+09:00",
       "author": "xguru",
       "category": ""
     }
