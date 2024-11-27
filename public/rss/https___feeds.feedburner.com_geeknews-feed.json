@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T20:34:17+09:00",
+  "lastBuildDate": "2024-11-27T23:49:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4069,6 +4069,19 @@
       "guid": "https://news.hada.io/topic?id=17980",
       "pubDate": "2024-11-27T20:34:17+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "RAII, Rust/Linux의 환상",
+      "description": {
+        "$text": "<h2>요약</h2>\n<p><a href=\"https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project\">Rust 개발자와 기존 Linux 개발자 사이의 분쟁</a>을 지켜보고 쓰는 글입니다. 여러 개발자가 각자 다른 코딩 스타일을 가질 순 있으나, Linux 프로젝트는 이미 <a href=\"https://harmful.cat-v.org/software/c++/linus\">C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17982",
+      "guid": "https://news.hada.io/topic?id=17982",
+      "pubDate": "2024-11-27T23:49:35+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
