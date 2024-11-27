@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T14:04:26+09:00",
+  "lastBuildDate": "2024-11-27T14:57:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4043,6 +4043,19 @@
       "guid": "https://news.hada.io/topic?id=17977",
       "pubDate": "2024-11-27T14:04:26+09:00",
       "author": "zzsza",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: Mono-repo vs Git Submodules vs 각자 도생\brepo: 어떤걸 선호하시나요?",
+      "description": {
+        "$text": "<p>서로 성격은 다르지만 관련 있는 여러 프로젝트를 어떻게 통합(or 하지 않는걸) 선호하시나요?</p>\n<p>예를 들어, 동일 서비스에 대해 front-end, back-end(api), serverless, batch, pipeline, ... 등등 있다면</p>\n<ol>\n<li>\n<p>Mono-repo<br />\n서비스가 같다면 레포지토리는 하나다! 각 프로젝트는 패키지/폴더 구",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17978",
+      "guid": "https://news.hada.io/topic?id=17978",
+      "pubDate": "2024-11-27T14:57:27+09:00",
+      "author": "curiousotter",
       "category": ""
     }
   ]
