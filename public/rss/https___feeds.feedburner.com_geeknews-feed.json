@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-28T10:01:01+09:00",
+  "lastBuildDate": "2024-11-28T11:10:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4211,6 +4211,32 @@
       "link": "https://news.hada.io/topic?id=17985",
       "guid": "https://news.hada.io/topic?id=17985",
       "pubDate": "2024-11-28T08:57:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Voice AI 로드맵: 대화형 AI의 미래",
+      "description": {
+        "$text": "<ul>\n<li>Voice AI는 단순한 UI 업그레이드가 아니라, 비즈니스와 고객 간 연결 방식을 혁신\n<ul>\n<li>항공사 고객 서비스 처럼 긴 대기 시간, 반복되는 메뉴 선택, 고객 상황 이해 부족. 문제는 해결하지 못하면서 불필요한 스트레스와 시간 낭비</li>\n<li>Voice AI를 통하면 기존의 경직된 IVR 시스템(자동 음성 응답)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17996",
+      "guid": "https://news.hada.io/topic?id=17996",
+      "pubDate": "2024-11-28T11:10:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "어떤 언어에서도 사용할 수 있는 C-Reduce 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>C-Reduce의 활용</h2>\n<ul>\n<li>C-Reduce는 Regehr와 그의 동료들이 개발한 도구로, C 컴파일러 버그 재현기를 최소화하는 데 사용됨.</li>\n<li>예를 들어, Clang 버그를 유발하는 10,000줄의 C 파일을 줄이고 싶을 때 유용함.</li>\n<li>C-Reduce는 C 언어에만 국한되지 않고 다양한 언어에 적용 가능함....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17995",
+      "guid": "https://news.hada.io/topic?id=17995",
+      "pubDate": "2024-11-28T10:34:23+09:00",
       "author": "neo",
       "category": ""
     }
