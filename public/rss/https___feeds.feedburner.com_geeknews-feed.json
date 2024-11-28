@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-27T23:49:35+09:00",
+  "lastBuildDate": "2024-11-28T10:01:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4082,6 +4082,136 @@
       "guid": "https://news.hada.io/topic?id=17982",
       "pubDate": "2024-11-27T23:49:35+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "2024: 기업내에서의 생성형 AI 현황 - Menlo 벤처스",
+      "description": {
+        "$text": "<h2>파일럿에서 프로덕션으로: AI 도입 가속화</h2>\n<ul>\n<li>2024년은 생성형 AI가 기업의 핵심 전략으로 자리 잡은 해</li>\n<li>AI 관련 지출: 2023년 $23억에서 2024년 $138억으로 <strong>6배 이상 증가</strong>\n</li>\n<li>기업의 72%가 생성형 AI 도구의 채택이 더욱 확대될 것으로 예상</li>\n<li>많은 조직이 여전...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17994",
+      "guid": "https://news.hada.io/topic?id=17994",
+      "pubDate": "2024-11-28T10:01:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "D-Link, 60,000대 구형 모뎀 보안 패치 미제공 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>보안 연구자들이 발견한 취약점</strong></p>\n<ul>\n<li>오래된 D-Link 모뎀에서 심각한 보안 취약점이 발견됨.</li>\n<li>D-Link는 이러한 취약점을 패치하지 않고 하드웨어 업그레이드를 권장함.</li>\n<li>약 60,000개의 취약한 장치가 존재하며, 대부분 대만에 위치함.</li>\n</ul>\n</li>\n<li>\n<p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17993",
+      "guid": "https://news.hada.io/topic?id=17993",
+      "pubDate": "2024-11-28T09:57:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "웹캠 LED를 끄고 비디오를 녹화하는 악성코드, ThinkPad X230에서 시연",
+      "description": {
+        "$text": "<h2>개요</h2>\n<ul>\n<li>이 저장소는 ThinkPad X230의 웹캠 LED를 소프트웨어로 제어할 수 있는 도구를 포함하고 있음.</li>\n<li>물리적 접근 없이도 웹캠을 통해 비디오를 녹화할 수 있는 악성코드의 가능성을 보여주기 위해 만들어짐.</li>\n<li>USB를 통해 웹캠 펌웨어를 다시 플래시하여 LED를 임의로 제어할 수 있는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17992",
+      "guid": "https://news.hada.io/topic?id=17992",
+      "pubDate": "2024-11-28T09:54:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다",
+      "description": {
+        "$text": "<h2>Kubernetes를 떠나 Google Cloud Run을 선택한 이유</h2>\n<h3><strong>Kubernetes 도입의 배경</strong></h3>\n<ul>\n<li>2013년 출시한 온라인 3D 편집 플랫폼 <strong>Clara.io</strong>에서 <strong>베어메탈 서버</strong>를 사용해 인프라를 최적화했으나, 하드웨어 관리와 모니터링에 과도한 작업 필요.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17991",
+      "guid": "https://news.hada.io/topic?id=17991",
+      "pubDate": "2024-11-28T09:51:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스노우플레이크 협박 해커, 미군일 가능성",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>두 명의 남성이 클라우드 데이터 저장 회사 <strong>Snowflake</strong>를 이용하는 여러 기업의 데이터를 훔치고 협박한 혐의로 체포되었음. 그러나 세 번째 용의자인 <strong>Kiberphant0m</strong>이라는 해커는 여전히 활동 중이며 피해자들을 공개적으로 협박하고 있음. Kiberphant0m의 신원은 미국 육...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17990",
+      "guid": "https://news.hada.io/topic?id=17990",
+      "pubDate": "2024-11-28T09:48:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "공장에서 Apple이 잘못 납땜한 커패시터",
+      "description": {
+        "$text": "<h4>애플이 공장에서 잘못 납땜한 커패시터</h4>\n<ul>\n<li>애플의 매킨토시 LC III 모델에서 커패시터가 거꾸로 설치되었다는 소문이 있음. LC III는 1993년 초부터 1994년 초까지 주로 교육 시장을 대상으로 생산된 모델로, 다양한 소비자용 Performa 모델로도 출시되었음.</li>\n<li>필자는 최근 Performa 450을 구입하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17989",
+      "guid": "https://news.hada.io/topic?id=17989",
+      "pubDate": "2024-11-28T09:45:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "nrm - npm registry manager",
+      "description": {
+        "$text": "<ul>\n<li>서로 다른 npm 레지스트리간에 빠르고 쉽게 전환 가능\n<ul>\n<li>npm, cnpm, taobao, nj(nodejitsu) 지원</li>\n</ul>\n</li>\n<li>.yarnrc 에 자신의 개인 registry 추가 가능(프로젝트별 또는 개인 HOME의 .yarnrc 가능)</li>\n<li>\n<code>nrm ls</code> 레지스트리 리스트 보기</li>\n<li>\n<code>nrm use cnpm</co...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17988",
+      "guid": "https://news.hada.io/topic?id=17988",
+      "pubDate": "2024-11-28T09:44:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 휴대폰 잠금 해제 시마다 '왜?'라고 묻는 앱",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Intenty 앱 소개</strong></p>\n<ul>\n<li>Intenty는 사용자가 스마트폰과의 관계를 건강하게 유지할 수 있도록 돕는 앱임.</li>\n<li>잠금 해제 시점에 부드러운 인식 프롬프트를 제공하여 사용자가 스마트폰 사용을 더 의식적으로 할 수 있도록 도움.</li>\n<li>앱 차단이나 제한 없이 사용자가 스스",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17987",
+      "guid": "https://news.hada.io/topic?id=17987",
+      "pubDate": "2024-11-28T09:42:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI와 미래의 일자리 - 미국 국립과학원(NAS)의 153P 보고서",
+      "description": {
+        "$text": "<ul>\n<li>최근 인공지능(AI)의 발전으로 정책 결정자와 대중이 AI가 일자리와 노동자에게 미치는 영향에 주목하고 있음\n<ul>\n<li>ChatGPT와 같은 생성형 AI 시스템이 급격히 발전 및 채택되며 경제와 노동시장에 중요한 변화를 초래할 가능성 존재</li>\n<li>AI 기술 발전이 생산성, 일자리 안정성, 소득 불평등에 미치는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17986",
+      "guid": "https://news.hada.io/topic?id=17986",
+      "pubDate": "2024-11-28T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Rill - Go용 Composable Concurrency 툴킷",
+      "description": {
+        "$text": "<ul>\n<li>간단하고 재사용 가능한 요소들로 동시 프로그램을 쉽게 구축할 수 있도록 해줌</li>\n<li>Go의 자연스러운 채널 기반 모델을 유지하면서, Boilerplate를 줄임</li>\n</ul>\n<h2>주요 기능과 목표</h2>\n<ul>\n<li>\n<strong>일반적인 동시성 작업 단순화</strong>\n<ul>\n<li>병렬 작업 실행, 실시간 이벤트 처리 등에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=17985",
+      "guid": "https://news.hada.io/topic?id=17985",
+      "pubDate": "2024-11-28T08:57:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
