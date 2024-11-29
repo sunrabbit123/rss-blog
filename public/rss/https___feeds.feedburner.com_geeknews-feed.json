@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-29T12:34:14+09:00",
+  "lastBuildDate": "2024-11-29T16:03:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4459,6 +4459,32 @@
       "guid": "https://news.hada.io/topic?id=18014",
       "pubDate": "2024-11-29T12:34:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 홉스 AI — 대화하며 만드는 어드민",
+      "description": {
+        "$text": "<p>이제 제품 개발과 어드민 개발 사이에서 고민하지 마세요. 필요한 어드민 기능을 AI에게 설명하면, 코드 구현부터 화면 구성까지 완벽한 어드민이 자동으로 생성됩니다.</p>\n<p>노션처럼 '/'를 입력해 컴포넌트를 추가하고, AI와 대화하며 어드민을 만들어보세요.</p>\n<p>여러분의 소중한 의견을 기다립니다!</p>\n<ul",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18016",
+      "guid": "https://news.hada.io/topic?id=18016",
+      "pubDate": "2024-11-29T16:03:29+09:00",
+      "author": "kanghyojun",
+      "category": ""
+    },
+    {
+      "title": "How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?",
+      "description": {
+        "$text": "<p>Rust, C#, Python, Go, Java, NodeJS 등의 최신 버전으로 100만 개의 동시 작업을 처리하는 프로그램을 실행하여 메모리 효율성을 비교했습니다.</p>\n<p>C# (NativeAOT)와 Rust가 가장 우수한 메모리 효율을 보였으며, Go는 기대보다 높은 메모리 소비로 낮은 평가를 받았습니다. 전체적으로 .NET과 Rust의 성능이 돋",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18015",
+      "guid": "https://news.hada.io/topic?id=18015",
+      "pubDate": "2024-11-29T15:43:22+09:00",
+      "author": "ttyy1234",
       "category": ""
     }
   ]
