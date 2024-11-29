@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-29T11:03:02+09:00",
+  "lastBuildDate": "2024-11-29T12:34:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4445,6 +4445,19 @@
       "link": "https://news.hada.io/topic?id=18009",
       "guid": "https://news.hada.io/topic?id=18009",
       "pubDate": "2024-11-29T10:35:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "레고 인터페이스 패널의 UX (2020)",
+      "description": {
+        "$text": "<h2>LEGO 인터페이스 패널의 UX</h2>\n<ul>\n<li>\n<strong>소개</strong>\n<ul>\n<li>LEGO의 &quot;2x2 장식 경사&quot;는 미니피겨가 세상과 상호작용하는 인터페이스임.</li>\n<li>이 디자인은 물리적 인터페이스 디자인의 기본을 배우기에 적합함.</li>\n<li>52개의 다양한 브릭을 통해 복잡한 인터페이스의 디자인, 레이아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18014",
+      "guid": "https://news.hada.io/topic?id=18014",
+      "pubDate": "2024-11-29T12:34:14+09:00",
       "author": "neo",
       "category": ""
     }
