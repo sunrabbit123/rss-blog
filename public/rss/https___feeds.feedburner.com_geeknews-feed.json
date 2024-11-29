@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-29T18:01:15+09:00",
+  "lastBuildDate": "2024-11-29T21:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4498,6 +4498,19 @@
       "guid": "https://news.hada.io/topic?id=18017",
       "pubDate": "2024-11-29T18:01:15+09:00",
       "author": "kanghyojun",
+      "category": ""
+    },
+    {
+      "title": "유럽 전력망의 아름다운 시각화 (2022)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>유럽 전력망의 시각화</h3>\n<ul>\n<li>유럽 전력망의 연결 지점을 시각화한 지도임</li>\n<li>녹색 점은 발전이 소비보다 많아 네트워크에 전력을 공급하는 지점임</li>\n<li>보라색 점은 소비가 발전보다 많아 네트워크에서 전력을 가져오는 지점임</li>\n<li>삼각형은 전력이 흐르는 방향을 나타냄</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18018",
+      "guid": "https://news.hada.io/topic?id=18018",
+      "pubDate": "2024-11-29T21:33:24+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
