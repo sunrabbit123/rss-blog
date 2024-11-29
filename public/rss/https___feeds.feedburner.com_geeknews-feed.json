@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-29T21:33:24+09:00",
+  "lastBuildDate": "2024-11-30T02:09:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4510,6 +4510,19 @@
       "link": "https://news.hada.io/topic?id=18018",
       "guid": "https://news.hada.io/topic?id=18018",
       "pubDate": "2024-11-29T21:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 OpenBSD 사용을 중단한 이유",
+      "description": {
+        "$text": "<ul>\n<li>프리랜서 OpenBSD, FreeBSD, Linux, Qubes OS 컨설턴트인데 최근 OpenBSD 를 떠났고 더 이상 사용하지 않게 됨</li>\n<li>OpenBSD의 가치를 인정하고 존재의 중요성을 알지만, 개인적 필요와는 더 이상 맞지 않음</li>\n</ul>\n<h2>문제점</h2>\n<ul>\n<li>하드웨어 호환성\n<ul>\n<li>Bluetooth 지원 부재</li>\n<li>게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18019",
+      "guid": "https://news.hada.io/topic?id=18019",
+      "pubDate": "2024-11-30T02:09:58+09:00",
       "author": "neo",
       "category": ""
     }
