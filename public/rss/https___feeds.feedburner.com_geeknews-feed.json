@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-30T10:33:14+09:00",
+  "lastBuildDate": "2024-11-30T11:34:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4653,6 +4653,19 @@
       "link": "https://news.hada.io/topic?id=18030",
       "guid": "https://news.hada.io/topic?id=18030",
       "pubDate": "2024-11-30T10:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새 자동차의 미스터리하고 문서화되지 않은 스위치",
+      "description": {
+        "$text": "<p>The content provided does not contain any article to summarize or translate. If you have another text or article, please provide it for translation and summarization.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18031",
+      "guid": "https://news.hada.io/topic?id=18031",
+      "pubDate": "2024-11-30T11:34:15+09:00",
       "author": "neo",
       "category": ""
     }
