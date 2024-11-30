@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-30T02:09:58+09:00",
+  "lastBuildDate": "2024-11-30T09:59:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4524,6 +4524,123 @@
       "guid": "https://news.hada.io/topic?id=18019",
       "pubDate": "2024-11-30T02:09:58+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "굿바이 Rust, 성공을 기원하지만 C++로 복귀 (죄송, 개인적 불만)",
+      "description": {
+        "$text": "<p>요청하신 내용은 요약할 수 있는 본문이 포함되어 있지 않습니다. 네트워크 정책에 의해 접근이 차단되었다는 메시지와 관련된 정보만 포함되어 있습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18029",
+      "guid": "https://news.hada.io/topic?id=18029",
+      "pubDate": "2024-11-30T09:59:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 1백만 동시 작업 실행에 필요한 메모리 용량",
+      "description": {
+        "$text": "<h2>벤치마크</h2>\n<ul>\n<li>\n<p><strong>코루틴이란?</strong></p>\n<ul>\n<li>코루틴은 프로그램의 실행을 일시 중지하고 재개할 수 있는 컴퓨터 프로그램 구성 요소로, 협력적 멀티태스킹을 위한 서브루틴을 일반화한 것임.</li>\n<li>협력 작업, 예외, 이벤트 루프, 반복자, 무한 리스트 및 파이프와 같은 프로그램 구성",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18028",
+      "guid": "https://news.hada.io/topic?id=18028",
+      "pubDate": "2024-11-30T09:56:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파이프라인이 가끔 \"멈추는\" 이유: 버퍼링 문제",
+      "description": {
+        "$text": "<h4>파이프가 &quot;멈추는&quot; 이유: 버퍼링</h4>\n<ul>\n<li>\n<strong>문제 설명</strong>: 로그 파일에서 특정 출력을 찾기 위해 <code>tail -f /some/log/file | grep thing1 | grep thing2</code> 명령어를 실행할 때, 로그 라인이 느리게 추가되면 출력이 나타나지 않는 문제 발생. 이는 파이프가 멈추는 것처럼 보...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18027",
+      "guid": "https://news.hada.io/topic?id=18027",
+      "pubDate": "2024-11-30T09:53:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "닌자(2020)의 성공과 실패",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Ninja의 성공과 실패</h2>\n<ul>\n<li>약 9년 전, 필자는 Make와 유사한 빌드 시스템인 Ninja를 발표했음. 초기에는 부끄러웠지만, 현재는 널리 사용되고 있음.</li>\n<li>Ninja를 사용하는 주요 프로젝트로는 Chrome, Android, Meson 프로젝트 등이 있음.</li>\n<li>Ninja는 필자의 가장 성공적인 오픈 소스 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18025",
+      "guid": "https://news.hada.io/topic?id=18025",
+      "pubDate": "2024-11-30T09:47:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "환경 내 미세플라스틱의 4분의 1을 배출하는 자동차 타이어",
+      "description": {
+        "$text": "<p>죄송하지만 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18024",
+      "guid": "https://news.hada.io/topic?id=18024",
+      "pubDate": "2024-11-30T09:44:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스크롤을 건드리지 마세요 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>사용자 기대를 위반함</h2>\n<ul>\n<li>사용자는 스크롤링 방식에 익숙함. 모멘텀 스크롤링 플러그인은 이러한 기본 동작을 방해하여 비정상적인 애니메이션 경험을 제공함. 이는 사용자에게 인위적이고 불편한 느낌을 줌.</li>\n</ul>\n</li>\n<li>\n<h2>멀미 유발</h2>\n<ul>\n<li>모멘텀 스크롤링 플러그인은 불...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18023",
+      "guid": "https://news.hada.io/topic?id=18023",
+      "pubDate": "2024-11-30T09:41:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "VictoriaMetrics - 시계열 데이터를 위한 빠르고 비용 효율적인 모니터링 솔루션",
+      "description": {
+        "$text": "<ul>\n<li>시계열 데이터에 최적화되어 있으며, 오래된 시계열이 지속적으로 새로운 시계열로 빠른 속도로 교체되는 경우에도 다양한 기능을 제공</li>\n<li>Prometheus용 장기 스토리지: Prometheus 및 Graphite 대체 솔루션으로 Grafana에서 바로 사용(Drop-in replacement 가능)</li>\n<li>강력한 스트림 집계: StatsD 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18022",
+      "guid": "https://news.hada.io/topic?id=18022",
+      "pubDate": "2024-11-30T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "엔지니어들의 스타트업 실수 없는 Ledger 구축",
+      "description": {
+        "$text": "<h4>스타트업에서 회계 시스템 구축 시 실수하지 않기</h4>\n<ul>\n<li>핀테크 회사에서 돈의 흐름을 놓치지 않는 것은 기본임. 그러나 일부 스타트업에서는 거래마다 몇 센트를 놓치는 경우가 발생함.</li>\n<li>스타트업에서는 &quot;작동하게 만들고, 올바르게 만들고, 빠르게 만들자&quot;라는 철학을 따르며 복식부기 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18021",
+      "guid": "https://news.hada.io/topic?id=18021",
+      "pubDate": "2024-11-30T08:33:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)",
+      "description": {
+        "$text": "<ul>\n<li>Kiwi : 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)</li>\n<li>빠른 속도와 범용적인 성능을 지향하는 한국어 형태소 분석기 라이브러리</li>\n<li>경량 언어모델이 내장되어, 모호성이 있는 경우에도 제법 정확하게 형태소를 분석해냄</li>\n<li>C++로 구현됨. 개발자가 C++의 팬.\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18020",
+      "guid": "https://news.hada.io/topic?id=18020",
+      "pubDate": "2024-11-30T08:24:27+09:00",
+      "author": "rycont",
       "category": ""
     }
   ]
