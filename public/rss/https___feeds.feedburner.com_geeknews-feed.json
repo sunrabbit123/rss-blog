@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-30T09:59:57+09:00",
+  "lastBuildDate": "2024-11-30T10:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4641,6 +4641,19 @@
       "guid": "https://news.hada.io/topic?id=18020",
       "pubDate": "2024-11-30T08:24:27+09:00",
       "author": "rycont",
+      "category": ""
+    },
+    {
+      "title": "Llama.cpp 가이드 – 모든 하드웨어에서 LLMs를 처음부터 로컬로 실행하는 방법",
+      "description": {
+        "$text": "Llama.cpp 가이드 – 모든 하드웨어에서 LLMs를 처음부터 로컬로 실행하는 방법",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18030",
+      "guid": "https://news.hada.io/topic?id=18030",
+      "pubDate": "2024-11-30T10:33:14+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
