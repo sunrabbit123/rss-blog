@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-30T11:34:15+09:00",
+  "lastBuildDate": "2024-11-30T14:34:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4666,6 +4666,19 @@
       "link": "https://news.hada.io/topic?id=18031",
       "guid": "https://news.hada.io/topic?id=18031",
       "pubDate": "2024-11-30T11:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4Chan CAPTCHA 해독 사건",
+      "description": {
+        "$text": "<h3>소개</h3>\n<ul>\n<li>이 프로젝트는 머신러닝과 TensorFlow에 대한 지식을 향상시키기 위한 학습 경험으로 시작되었음.</li>\n<li>목표는 브라우저에서 4Chan CAPTCHA를 80% 이상의 정확도로 해결할 수 있는 머신러닝 모델을 만드는 것이었음.</li>\n</ul>\n<h3>용어</h3>\n<ul>\n<li>\n<strong>CAPTCHA</strong>: 컴퓨터나...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18032",
+      "guid": "https://news.hada.io/topic?id=18032",
+      "pubDate": "2024-11-30T14:34:20+09:00",
       "author": "neo",
       "category": ""
     }
