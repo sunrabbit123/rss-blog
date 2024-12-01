@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-11-30T14:34:20+09:00",
+  "lastBuildDate": "2024-12-01T09:54:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4679,6 +4679,136 @@
       "link": "https://news.hada.io/topic?id=18032",
       "guid": "https://news.hada.io/topic?id=18032",
       "pubDate": "2024-11-30T14:34:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "허니크리스프 사과, 경이로움에서 평범함으로 전락",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Honeycrisp의 기원과 성공</h2>\n<ul>\n<li>1983년, 미네소타 대학교의 연구 과학자 데이비드 베드포드는 Honeycrisp 사과를 처음 맛보았음. 이 사과는 아시아 배와 수박과 비슷한 맛과 질감을 가지고 있었음.</li>\n<li>Honeycrisp는 Keepsake 사과와 실험적인 품종 MN1627의 교배종으로, 미네소타의 기후에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18042",
+      "guid": "https://news.hada.io/topic?id=18042",
+      "pubDate": "2024-12-01T09:54:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "솔아크 제조업체, 미국 내 모든 Deye 인버터 비활성화 보고",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Sol-Ark 제조업체, 미국 내 모든 Deye 인버터 비활성화</strong></p>\n<ul>\n<li>2024년 11월 15일, 미국 전역의 Deye 브랜드 인버터가 의도적으로 비활성화되었음이 보고됨.</li>\n<li>인버터 화면에 &quot;이 인버터는 파키스탄/미국/영국에서 사용이 허가되지 않음&quot;이라는 메시지가 표시됨....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18041",
+      "guid": "https://news.hada.io/topic?id=18041",
+      "pubDate": "2024-12-01T09:51:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GIMP 3.0 출시 예정 소식",
+      "description": {
+        "$text": "<h2>GIMP 3.0 — 오픈 소스 이미지 편집의 이정표</h2>\n<ul>\n<li>\n<p><strong>GIMP 3.0 출시 예정</strong></p>\n<ul>\n<li>GIMP 3.0은 2018년 4월 이후 처음으로 주요 업데이트를 예고함.</li>\n<li>GTK 3 사용자 인터페이스를 도입하며, 핵심 플랫폼과 플러그인에 큰 변화를 가져옴.</li>\n<li>성능과 사용성 개선, Waylan",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18040",
+      "guid": "https://news.hada.io/topic?id=18040",
+      "pubDate": "2024-12-01T09:48:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Vince – Google Analytics 대안 자체 호스팅 솔루션",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Vince</strong>는 Google Analytics의 자체 호스팅 대안임</li>\n</ul>\n<h2>특징</h2>\n<ul>\n<li>\n<strong>자동 TLS</strong>: Let's Encrypt를 통한 네이티브 지원</li>\n<li>\n<strong>Plausible 대체</strong>: 기존의 Plausible 스크립트를 사용하여 Vince 인스턴스로 연결 가능함</li>\n<li>\n<strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18039",
+      "guid": "https://news.hada.io/topic?id=18039",
+      "pubDate": "2024-12-01T09:45:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글의 악화 현상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Google의 악화</h2>\n<ul>\n<li>\n<p><strong>독립 출판의 종말과 Giant Freakin Robot</strong></p>\n<ul>\n<li>Giant Freakin Robot의 폐쇄 소식은 Google의 현 상태를 탐구하게 만든 계기였음</li>\n<li>최근 2년 동안 수백 개의 독립 출판사가 문을 닫았으며, 앞으로 수천 개가 더 닫힐 예정임</li>\n<li>Goo",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18038",
+      "guid": "https://news.hada.io/topic?id=18038",
+      "pubDate": "2024-12-01T09:42:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수면 개선을 위한 엔지니어링 기술",
+      "description": {
+        "$text": "<h4>배경</h4>\n<ul>\n<li>수면은 인간 삶의 3분의 1을 차지하며, 물과 같이 필수적인 요소임. 수면은 뇌, 심장, 기분, 면역 등 중요한 시스템을 지배함.</li>\n<li>일부 사람들은 가족성 자연 단기 수면(FNSS)이라는 변이를 가지고 있어, 7-9시간의 권장 수면 시간보다 1-2시간 적게 자도 수면 부족의 부정적인 영향을 받지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18037",
+      "guid": "https://news.hada.io/topic?id=18037",
+      "pubDate": "2024-12-01T09:39:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sail - AI시대를 위한 빅데이터 처리 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>스트림 프로세싱 / 배치 프로세싱 / 고성능-연산(AI) 워크로드를 통합 처리하는 프레임워크를 목표</li>\n<li>현재 Spark SQL과 Spark DataFrame API에 대한 Drop-in 대체 솔루션을 제공(호환)</li>\n<li>단일 머신 또는 분산 설정에서 동작 가능</li>\n<li>TPC-H 벤치마크 기준 Spark 대비 4배 빠르고, 94%의 하드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18036",
+      "guid": "https://news.hada.io/topic?id=18036",
+      "pubDate": "2024-12-01T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Rust-Query - Rust Type 시스템을 사용한 안전한 RDB쿼리",
+      "description": {
+        "$text": "<ul>\n<li>&quot;Rust에서 안전하게 데이터를 영구 저장하고, 복잡한 쿼리를 쉽게 작성하며, SQL을 한 줄도 작성하지 않아도 된다면 어떨까?&quot;\n<ul>\n<li>\n<strong>Rust-query</strong>는 이를 실현하기 위해 개발된 라이브러리임</li>\n</ul>\n</li>\n</ul>\n<h3>Rust와 데이터베이스</h3>\n<ul>\n<li>Rust의 기존 데이터베...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18035",
+      "guid": "https://news.hada.io/topic?id=18035",
+      "pubDate": "2024-12-01T09:08:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인터셉트의 OpenAI 소송에서 진행되는 Core 저작권 침해 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>주요 소송 진행 상황</h3>\n<ul>\n<li>최근 뉴욕 연방 판사는 The Intercept가 OpenAI를 상대로 제기한 핵심 저작권 침해 주장을 법정에서 진행하기로 결정함.</li>\n<li>이 소송은 OpenAI가 ChatGPT를 구축하기 위해 The Intercept의 기사를 훈련 데이터 세트에 사용하면서 저작자 정보를 제거했다는 주장에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18034",
+      "guid": "https://news.hada.io/topic?id=18034",
+      "pubDate": "2024-12-01T08:37:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "바츠와프 슈파코프스키의 기하학적 라인 아트 (2017)",
+      "description": {
+        "$text": "바츠와프 슈파코프스키의 기하학적 라인 아트 (2017)",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18033",
+      "guid": "https://news.hada.io/topic?id=18033",
+      "pubDate": "2024-12-01T08:34:54+09:00",
       "author": "neo",
       "category": ""
     }
