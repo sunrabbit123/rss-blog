@@ -498,6 +498,15 @@
       "pubDate": "Wed, 27 Nov 2024 10:39:24 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[aptos] aptos 7편 - 데이터 저장 모델 resource와 object",
+      "description": "안녕하세요 멍개입니다. aptos를 다룬지 벌서 7편이 되었습니다. 7편을 다루는 동안 계속 적으로 언급된 내용이 리소스와 오브젝트 입니다. 앞에서는 데이터가 저장된 공간이라고만 언급하고 넘어갔지면 이번 편에서 이 둘을 자세히 다뤄보겠습니다. ● Account 모델 리소스와 오브젝트를 알아보기 전에 aptos에서의 account 구조를 다시 살펴보겠습니다. aptos의 account는 크게 2가지 정보를 가집니다. Resource Storage Authenticate Key Aptos Coin Modules 이를 코드레벨에서 살펴보면 다음과 같은 GlobalStorage 아래에 resources와 modules로 나뉘어 관리합니다. · Resource Storage Resource Storage는 해당 어카운트에서 저장하고 있는.......",
+      "link": "https://blog.naver.com/pjt3591oo/223678639004?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223678639004",
+      "pubDate": "Sun, 01 Dec 2024 11:07:41 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
