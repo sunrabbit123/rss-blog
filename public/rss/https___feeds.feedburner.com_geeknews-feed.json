@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T10:48:02+09:00",
+  "lastBuildDate": "2024-12-01T13:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4823,6 +4823,19 @@
       "guid": "https://news.hada.io/topic?id=18043",
       "pubDate": "2024-12-01T10:48:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트만 신뢰하는 브라질 인증 기관, google.com에 대한 인증서 발급",
+      "description": {
+        "$text": "<ul>\n<li>\n<h5>Andrew Ayeragwa14h</h5>\n<ul>\n<li>브라질의 인증 기관이 Microsoft에 의해 신뢰받고 있으며, google.com에 대해 아마도 승인되지 않은 인증서를 발급함. 이로 인해 Edge 및 기타 Windows 애플리케이션(Chrome 및 Firefox 제외)에서 Google로의 트래픽을 가로챌 수 있음. Microsoft는 이 인증 기관과 관련...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18044",
+      "guid": "https://news.hada.io/topic?id=18044",
+      "pubDate": "2024-12-01T13:33:14+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
