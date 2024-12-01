@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T22:33:50+09:00",
+  "lastBuildDate": "2024-12-01T23:21:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4901,6 +4901,19 @@
       "guid": "https://news.hada.io/topic?id=18048",
       "pubDate": "2024-12-01T22:30:27+09:00",
       "author": "tsboard",
+      "category": ""
+    },
+    {
+      "title": "해안선의 길이는 정확하게 측정하는 것이 불가능하다",
+      "description": {
+        "$text": "<ul>\n<li>세계지도에 그려진 해안선은 비교적 단순할 것이고, (특정 국가의) 전국지도에 그려진 해안선은 비교적 자세할 것이다.\n<ul>\n<li>지도가 자세하면 구불구불한 해안선을 좀 더 잘 묘사할 것이다.\n<ul>\n<li>따라서 세계지도에서 측량한 해안선의 길이보다, 전국지도에서 측량한 해안선의 길이가 길다 (직선으로 쭉...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18050",
+      "guid": "https://news.hada.io/topic?id=18050",
+      "pubDate": "2024-12-01T23:21:34+09:00",
+      "author": "roxie",
       "category": ""
     }
   ]
