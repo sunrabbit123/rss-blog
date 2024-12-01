@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T13:33:14+09:00",
+  "lastBuildDate": "2024-12-01T15:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4835,6 +4835,19 @@
       "link": "https://news.hada.io/topic?id=18044",
       "guid": "https://news.hada.io/topic?id=18044",
       "pubDate": "2024-12-01T13:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리액트가 아니라면 대안 기술은?",
+      "description": {
+        "$text": "<h3>React가 아니라면 무엇을 사용할까?</h3>\n<h4>프레임워크의 한계</h4>\n<ul>\n<li>지난 10년 동안 웹 제품 개발에 참여하면서 React와 같은 현대적인 프론트엔드 프레임워크가 성능과 접근성 문제를 야기하는 것을 목격함.</li>\n<li>React는 구식 기술이지만 여전히 새로운 프로젝트에 사용되고 있음.</li>\n<li>React를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18045",
+      "guid": "https://news.hada.io/topic?id=18045",
+      "pubDate": "2024-12-01T15:33:16+09:00",
       "author": "neo",
       "category": ""
     }
