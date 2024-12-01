@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T16:33:07+09:00",
+  "lastBuildDate": "2024-12-01T22:33:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4875,6 +4875,32 @@
       "guid": "https://news.hada.io/topic?id=18046",
       "pubDate": "2024-12-01T15:55:11+09:00",
       "author": "chiwanpark",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 오픈소스 개인 홈 보안 카메라 시스템 (종단 간 암호화)",
+      "description": {
+        "$text": "<h2>Privastead</h2>\n<p>Privastead는 프라이버시를 보장하는 홈 보안 카메라 솔루션으로, 종단 간 암호화를 사용함. 주요 이점은 다음과 같음:</p>\n<ul>\n<li>OpenMLS 구현을 통한 Messaging Layer Security (MLS) 프로토콜 기반의 종단 간 암호화.</li>\n<li>기존 IP 카메라와 함께 작동하는 소프트웨어 전용 솔루션으로",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18049",
+      "guid": "https://news.hada.io/topic?id=18049",
+      "pubDate": "2024-12-01T22:33:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go vs Bun, Go 언어는 정말 JS 런타임보다 빠를까?",
+      "description": {
+        "$text": "<h2>핵심 결론</h2>\n<ul>\n<li>Go 언어는 항상 빠르지 않습니다. 오히려 JS 런타임이 더 빠를 수도 있습니다.</li>\n<li>Go는 단순성과 효율성을 자랑하지만, 실제 환경에서는 예상보다 성능이 저조할 때가 있습니다.</li>\n<li>특히 데이터베이스 I/O가 많은 상황에서 Bun과 같은 JavaScript 런타임에 비해 성능이 떨어질 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18048",
+      "guid": "https://news.hada.io/topic?id=18048",
+      "pubDate": "2024-12-01T22:30:27+09:00",
+      "author": "tsboard",
       "category": ""
     }
   ]
