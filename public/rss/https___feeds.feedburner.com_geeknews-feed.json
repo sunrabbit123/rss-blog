@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T23:21:34+09:00",
+  "lastBuildDate": "2024-12-02T04:12:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4914,6 +4914,19 @@
       "guid": "https://news.hada.io/topic?id=18050",
       "pubDate": "2024-12-01T23:21:34+09:00",
       "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "Terraform 1.10 w/ Ephemeral values",
+      "description": {
+        "$text": "<ul>\n<li>기존의 테라폼에서는 시크릿이 plan이나 state file에 평문으로 남았음\n<ul>\n<li>private keys, certifications, API tokens, ...</li>\n<li>때문에 시크릿 유출에 의한 위험이 존재</li>\n</ul>\n</li>\n<li>2024/11/27 Terraform 1.10이 GA로 공개됨\n<ul>\n<li>Ephemeral values 기능과 함께</li>\n</ul>\n</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18051",
+      "guid": "https://news.hada.io/topic?id=18051",
+      "pubDate": "2024-12-02T04:12:41+09:00",
+      "author": "dongho42",
       "category": ""
     }
   ]
