@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-01T15:33:16+09:00",
+  "lastBuildDate": "2024-12-01T16:33:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4849,6 +4849,32 @@
       "guid": "https://news.hada.io/topic?id=18045",
       "pubDate": "2024-12-01T15:33:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NTFS 파일 시스템을 오픈 소스 Btrfs로 인플레이스 변환하는 Ntfs2btrfs 기술",
+      "description": {
+        "$text": "<h2>Ntfs2btrfs</h2>\n<p>Ntfs2btrfs는 Microsoft의 NTFS 파일 시스템을 오픈 소스 파일 시스템인 Btrfs로 변환하는 도구임. 이는 ext2를 변환하는 <code>btrfs-convert</code>와 유사함. 변환 후 원본 이미지는 <code>image/ntfs.img</code>로 저장되며, 변환을 유지하고 싶다면 이를 삭제하여 공간을 확보할 수 있음. 안...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18047",
+      "guid": "https://news.hada.io/topic?id=18047",
+      "pubDate": "2024-12-01T16:33:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Advent of SQL 2024",
+      "description": {
+        "$text": "<p>해외에는 어드벤트 캘린더에서 착안해 12월 1일부터 25일까지 매일 코딩 문제를 하나씩 푸는 <a href=\"https://adventofcode.com/\">Advent of Code</a> 사이트가 있습니다. SQL 버전은 없는 것 같아 사이드 프로젝트로 운영하던 SQL 학습 사이트에 SQL 버전 어드벤트 캘린더를 만들어봤습니다.</p>\n<p>매일 페이지에 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18046",
+      "guid": "https://news.hada.io/topic?id=18046",
+      "pubDate": "2024-12-01T15:55:11+09:00",
+      "author": "chiwanpark",
       "category": ""
     }
   ]
