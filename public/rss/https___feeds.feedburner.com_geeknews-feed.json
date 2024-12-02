@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T11:52:40+09:00",
+  "lastBuildDate": "2024-12-02T15:33:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5083,6 +5083,32 @@
       "guid": "https://news.hada.io/topic?id=18063",
       "pubDate": "2024-12-02T11:52:40+09:00",
       "author": "mintplo",
+      "category": ""
+    },
+    {
+      "title": "Hetzner에서 Kubernetes 사용으로 인프라 비용 75% 절감",
+      "description": {
+        "$text": "<h3>Hetzner</h3>\n<ul>\n<li>Hetzner로의 이전은 주로 비용 절감을 위한 것임. Hetzner의 가격은 세계적으로 경쟁력이 있음.</li>\n<li>Hetzner는 가상 머신과 베어 메탈 머신을 제공하며, AWS에 비해 제한적이지만 가격으로 보완함.</li>\n<li>Hetzner로 이전하면서 인프라 비용을 75% 이상 절감함.</li>\n</ul>\n<h3>Kubern...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18065",
+      "guid": "https://news.hada.io/topic?id=18065",
+      "pubDate": "2024-12-02T15:33:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Unlock: finding Go-To-Market Fit (실행과 느낀 점 포함)",
+      "description": {
+        "$text": "<p>B2B Software에 전문적으로 투자하는 Storm Ventures의 남태희 대표님께서 저술한 Go-To-Market fit에 대한 글입니다.</p>\n<p>아래의 글을 읽고 분기 결산 겸 <a href=\"https://www.prix.im/blog/posts/gtm-workshop-2411\">GTM Playbook을 만들어 보았습니다.</a><br />\n래티스는 엔지니어가 많은 조직이라 회사 내에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18064",
+      "guid": "https://news.hada.io/topic?id=18064",
+      "pubDate": "2024-12-02T15:28:00+09:00",
+      "author": "dukjin",
       "category": ""
     }
   ]
