@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T19:34:19+09:00",
+  "lastBuildDate": "2024-12-02T20:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5134,6 +5134,19 @@
       "link": "https://news.hada.io/topic?id=18067",
       "guid": "https://news.hada.io/topic?id=18067",
       "pubDate": "2024-12-02T19:34:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: 배울 수 있는 훌륭한 선배 없이 엔지니어로 성장하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>나는 석유 및 시추 산업의 작은 회사에서 일하는 신입 데이터 엔지니어임</li>\n<li>6개월 전 프리랜서 데이터 엔지니어로 고용되었으며, 작업 품질을 통해 인정받아 현재는 프로젝트의 설계, 구현 및 채용을 책임지는 기술 리드 역할을 하고 있음</li>\n<li>회사는 기술 회사가 아니기 때문에 기술 지향적인 동료...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18068",
+      "guid": "https://news.hada.io/topic?id=18068",
+      "pubDate": "2024-12-02T20:33:22+09:00",
       "author": "neo",
       "category": ""
     }
