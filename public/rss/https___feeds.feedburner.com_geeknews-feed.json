@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T04:12:41+09:00",
+  "lastBuildDate": "2024-12-02T09:53:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -4927,6 +4927,110 @@
       "guid": "https://news.hada.io/topic?id=18051",
       "pubDate": "2024-12-02T04:12:41+09:00",
       "author": "dongho42",
+      "category": ""
+    },
+    {
+      "title": "세계에서 단 한 번 발견된 희귀 광물 Kyawthuite",
+      "description": {
+        "$text": "<h2>세계에서 가장 희귀한 광물</h2>\n<ul>\n<li>\n<p><strong>Kyawthuite의 발견</strong></p>\n<ul>\n<li>Kyawthuite는 세계에서 단 한 번만 발견된 매우 희귀한 광물임.</li>\n<li>이 광물은 미얀마의 Chaung-gyi 시장에서 보석학자 Kyaw Thu에 의해 2010년에 구매되었음.</li>\n<li>처음에는 scheelite로 오인되었으나, GIA",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18059",
+      "guid": "https://news.hada.io/topic?id=18059",
+      "pubDate": "2024-12-02T09:53:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WeSQL - S3를 저장소로 사용하는 혁신적인 MySQL 배포판",
+      "description": {
+        "$text": "<ul>\n<li>S3 및 S3 호환 시스템을 스토리지 백엔드로 사용하는 <strong>컴퓨팅-스토리지 분리 아키텍처</strong>를 채택한 혁신적인 MySQL 배포판</li>\n<li>클라우드 간 이동이 가능하며, 특정 벤더에 종속되지 않는 유연성을 제공</li>\n<li>S3 기반 스토리지\n<ul>\n<li>기존 MySQL 디스크 스토리지를 완전히 S3로 대체...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18058",
+      "guid": "https://news.hada.io/topic?id=18058",
+      "pubDate": "2024-12-02T09:51:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Markwhen: 타임라인을 위한 Markdown",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Markwhen</strong></p>\n<ul>\n<li>마크다운과 유사한 저널 언어로, 로그, 간트 차트, 블로그, 피드, 노트, 저널, 일기, 할 일 목록, 타임라인, 캘린더 등 시간에 따라 발생하는 모든 것을 기록하는 데 사용됨</li>\n<li>기본 문법, 그룹, 태그, 체크리스트, 링크, 시간대, 반복, 프론트매터, 속성 등",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18057",
+      "guid": "https://news.hada.io/topic?id=18057",
+      "pubDate": "2024-12-02T09:50:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "책 한 권 이상 읽어야 탈 수 있는 조건의 Ride",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>당신은 적어도 한 권의 책을 읽어야 한다</h2>\n<ul>\n<li>두 가지 사실이 있음. 첫째, 나는 내 직업 환경에서 최고의 엔지니어 중 한 명으로 인정받고 있음. 둘째, 나는 나보다 뛰어난 사람들로부터 이메일을 받을 때마다 내가 그들보다 명백히 부족하다는 것을 느낌. 심리학 배경을 가진 내가 어떻게 시니...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18056",
+      "guid": "https://news.hada.io/topic?id=18056",
+      "pubDate": "2024-12-02T09:47:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제프 딘, EDA 업계에 AlphaChip 관련 답변",
+      "description": {
+        "$text": "제프 딘, EDA 업계에 AlphaChip 관련 답변",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18055",
+      "guid": "https://news.hada.io/topic?id=18055",
+      "pubDate": "2024-12-02T09:44:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenWRT One 출시: OpenWrt 전용으로 설계된 최초의 라우터",
+      "description": {
+        "$text": "<ul>\n<li>SFC와 OpenWrt 프로젝트는 OpenWrt One의 출시를 발표</li>\n<li>이 라우터는 소프트웨어 자유와 수리 권리를 염두에 두고 설계 및 제작되어 영구적으로 Lock/Brick 되지 않으며, 사용자는 네트워크를 제어하고 소프트웨어를 변경, 수정, 수리할 수 있는 권리를 가짐</li>\n<li>\n<h2>OpenWrt One의 특징</h2>\n<ul...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18054",
+      "guid": "https://news.hada.io/topic?id=18054",
+      "pubDate": "2024-12-02T09:41:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Advent of Code 2024",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Eric Wastl이 만든 Advent of Code는 다양한 프로그래밍 퍼즐을 제공하는 온라인 이벤트로, 여러 프로그래밍 언어로 해결 가능함.</p>\n</li>\n<li>\n<p>인터뷰 준비, 회사 교육, 대학 과제, 연습 문제, 속도 대회 등 다양한 목적으로 사용됨.</p>\n</li>\n<li>\n<p>컴퓨터 과학 배경이 없어도 약간의 프로그래밍",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18053",
+      "guid": "https://news.hada.io/topic?id=18053",
+      "pubDate": "2024-12-02T09:38:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AMD, Zen 4의 루프 버퍼 비활성화 결정",
+      "description": {
+        "$text": "<h4>AMD가 Zen 4의 루프 버퍼를 비활성화함</h4>\n<ul>\n<li>\n<p><strong>루프 버퍼의 역할</strong>: CPU의 프론트엔드에 위치하여 이전에 가져온 명령어를 저장함. 작은 루프는 루프 버퍼에 포함될 수 있으며, 이를 통해 일부 프론트엔드 단계를 비활성화하여 전력을 절약하고 성능을 향상시킬 수 있음. Intel, Arm, AMD...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18052",
+      "guid": "https://news.hada.io/topic?id=18052",
+      "pubDate": "2024-12-02T08:33:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
