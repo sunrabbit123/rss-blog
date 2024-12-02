@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T16:25:53+09:00",
+  "lastBuildDate": "2024-12-02T19:34:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5122,6 +5122,19 @@
       "guid": "https://news.hada.io/topic?id=18066",
       "pubDate": "2024-12-02T16:25:53+09:00",
       "author": "eces9",
+      "category": ""
+    },
+    {
+      "title": "2025년 공공 영역에 들어갈 작품들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>2025년에 공공 도메인에 들어갈 작품들</h2>\n<ul>\n<li>매년 1월 1일, 새로운 작품들이 공공 도메인에 들어가 자유롭게 즐기고 공유할 수 있게 됨.</li>\n<li>세계 각국의 저작권법이 다르기 때문에 공공 도메인은 여러 형태로 존재함.</li>\n<li>2025년에 공공 도메인에 들어갈 작품들:\n<ul>\n<li>1954년에 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18067",
+      "guid": "https://news.hada.io/topic?id=18067",
+      "pubDate": "2024-12-02T19:34:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
