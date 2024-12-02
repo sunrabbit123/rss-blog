@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T15:33:47+09:00",
+  "lastBuildDate": "2024-12-02T16:25:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5109,6 +5109,19 @@
       "guid": "https://news.hada.io/topic?id=18064",
       "pubDate": "2024-12-02T15:28:00+09:00",
       "author": "dukjin",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 셀렉트 어드민 - \b선언적 방식(YAML)으로 \b관리자 UI, API 만들어주는 프로젝트",
+      "description": {
+        "$text": "<p>아무리 잘 만들어도 몇년 지나면 레거시가 되는 관리자페이지..<br />\n또 매번 만드는 신규 프로젝트 어드민을 고민하다가 시작했습니다.</p>\n<p>단순한 CRUD 성격에 가깝지만 어드민은 몇 년은 거뜬히 써야하기때문에 그때그때 프론트 뭐쓸지 API 뭘로 만들지 고민하게 되더라구요.</p>\n<p>그러다가 2021년 10월부터",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18066",
+      "guid": "https://news.hada.io/topic?id=18066",
+      "pubDate": "2024-12-02T16:25:53+09:00",
+      "author": "eces9",
       "category": ""
     }
   ]
