@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-03T13:34:30+09:00",
+  "lastBuildDate": "2024-12-03T14:32:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5290,6 +5290,19 @@
       "link": "https://news.hada.io/topic?id=18079",
       "guid": "https://news.hada.io/topic?id=18079",
       "pubDate": "2024-12-03T13:34:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 보드 게임 규칙서의 문제점 [PDF]",
+      "description": {
+        "$text": "모든 보드 게임 규칙서의 문제점 [PDF]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18080",
+      "guid": "https://news.hada.io/topic?id=18080",
+      "pubDate": "2024-12-03T14:32:31+09:00",
       "author": "neo",
       "category": ""
     }
