@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-03T14:32:31+09:00",
+  "lastBuildDate": "2024-12-03T20:11:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5304,6 +5304,19 @@
       "guid": "https://news.hada.io/topic?id=18080",
       "pubDate": "2024-12-03T14:32:31+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "레일즈 최신(8.1) 가이드 문서를 한글로 번역했습니다.",
+      "description": {
+        "$text": "<p>제가 원래 레일즈 고인물이었었는데 프론트엔드 스택 왔다갔다 하다가<br />\n최근 레일즈로 다시 돌아왔는데 너무 좋네요.<br />\n레일즈 8이 너무 좋아졌고, DHH의 최근 영상들 몰아보고 있어요.<br />\n(DHH가 요즘 엄청 활동하고 있군요. 논쟁거리도 많이 만들고 있고요 ㅎㅎ)</p>\n<p>레일즈 공식 가이드가 정말 잘 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18081",
+      "guid": "https://news.hada.io/topic?id=18081",
+      "pubDate": "2024-12-03T20:11:54+09:00",
+      "author": "insomenia",
       "category": ""
     }
   ]
