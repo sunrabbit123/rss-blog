@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-02T20:33:22+09:00",
+  "lastBuildDate": "2024-12-03T10:16:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5147,6 +5147,136 @@
       "link": "https://news.hada.io/topic?id=18068",
       "guid": "https://news.hada.io/topic?id=18068",
       "pubDate": "2024-12-02T20:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LinkedIn의 GenAI 애플리케이션 기술 스택 개발 과정",
+      "description": {
+        "$text": "<ul>\n<li>2023년 초, LinkedIn은 GenAI 기능을 활용하는 제품 포트폴리오를 출시하기 시작함</li>\n<li>초기 GenAI 제품은 간단한 &quot;프롬프트 입력, 문자열 출력&quot;에서 시작하여 컨텍스트 메모리를 지원하는 대화형 에이전트 경험으로 발전</li>\n<li>GenAI 애플리케이션 기술 스택 구축을 통해 타임투마켓 과 장기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18078",
+      "guid": "https://news.hada.io/topic?id=18078",
+      "pubDate": "2024-12-03T10:16:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "손글씨가 뇌의 광범위한 연결성을 촉진",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>서론</h3>\n<ul>\n<li>전통적인 손글씨가 디지털 기기로 점차 대체됨에 따라, 인간 뇌에 미치는 영향을 조사하는 것이 중요함.</li>\n<li>36명의 대학생을 대상으로 디지털 펜을 사용하여 시각적으로 제시된 단어를 손으로 쓰고, 키보드로 타이핑할 때의 뇌 전기 활동을 기록함.</li>\n<li>256채널 센서 배열을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18077",
+      "guid": "https://news.hada.io/topic?id=18077",
+      "pubDate": "2024-12-03T10:02:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Grab, LLM-Kit으로 LLM 어플리케이션 개발 가속화",
+      "description": {
+        "$text": "<ul>\n<li>Grab의 LLM-Kit은 프로덕션 레벨의 Generative AI 어플리케이션 설정을 가속화할 수 있게 설계된 프레임워크</li>\n<li>민감한 데이터를 다루는 AI 어플리케이션 개발에서는 보안과 데이터 안전성이 매우 중요한데, 확장성, 통합, 모니터링, 표준화 등의 이슈들을 LLM-Kit이 해결해줌</li>\n<li>이를 통해 장기적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18076",
+      "guid": "https://news.hada.io/topic?id=18076",
+      "pubDate": "2024-12-03T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "고양이의 주황색 털을 결정하는 유전자 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>Arhgap36</code>가 고양이의 주황색 털을 결정하는 유전자로 확인됨\n<ul>\n<li>60년 이상 과학자들이 추적했던 퍼즐을 두 독립 연구팀이 해결</li>\n<li>이전에는 주황색 털이 X 염색체와 관련이 있을 것으로 추정했지만, 정확한 원인을 알지 못했음</li>\n</ul>\n</li>\n</ul>\n<h3>고양이 털 색상의 유전적 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18075",
+      "guid": "https://news.hada.io/topic?id=18075",
+      "pubDate": "2024-12-03T09:59:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수학 학습 방법 (2017)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>대학 수학은 고등학교 수학과 어떻게 다른가?</h2>\n<ul>\n<li>고등학교 수학에서는 알고리듬과 특정 상황에서의 적용 기술을 배우는 데 많은 시간을 보냈음. 대학 수학에서는 이론, 정의, 정리의 정확한 진술과 논리적 과정을 중시함.</li>\n<li>대학 수학에서는 여러 기술을 제공하며, 문제 해결에 적합한 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18074",
+      "guid": "https://news.hada.io/topic?id=18074",
+      "pubDate": "2024-12-03T09:56:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사전 훈련의 절차적 지식이 대형 언어 모델의 추론을 촉진하는 역할",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>절차적 지식이 대형 언어 모델의 추론에 미치는 영향</h2>\n</li>\n<li>\n<p>대형 언어 모델(LLM)의 능력과 한계는 최근 몇 년간 상세히 연구되었음. LLM은 문제 해결 능력을 보이지만, 인간과 비교했을 때 추론의 격차가 있어 일반화 전략의 견고성에 의문을 제기함.</p>\n</li>\n<li>\n<p>LLM 설계에 사용된 데",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18073",
+      "guid": "https://news.hada.io/topic?id=18073",
+      "pubDate": "2024-12-03T09:53:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "월드 랩스: 단일 이미지로 3D 세계 생성 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>3D 세계 생성 AI 시스템</strong></p>\n<ul>\n<li>World Labs는 단일 이미지에서 3D 세계를 생성하는 AI 시스템을 개발함.</li>\n<li>이 기술은 영화, 게임, 시뮬레이터 등 다양한 디지털 콘텐츠 제작 방식을 혁신할 가능성을 가짐.</li>\n</ul>\n</li>\n<li>\n<p><strong>세계 탐험</strong></p>\n<ul>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18072",
+      "guid": "https://news.hada.io/topic?id=18072",
+      "pubDate": "2024-12-03T09:50:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "페이스북의 리틀 레드 북",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>페이스북의 리틀 레드 북</h2>\n</li>\n<li>\n<p>2012년, 페이스북은 사용자 수가 10억 명에 도달하면서 급격한 확장이 큰 그림을 유지하는 능력을 초과하는 도전에 직면함. 내러티브가 분산되면서, 회사와 주커버그의 비전을 연결하는 본질이 희미해지기 시작함.</p>\n</li>\n<li>\n<p>이 문제를 해결하기 위해",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18071",
+      "guid": "https://news.hada.io/topic?id=18071",
+      "pubDate": "2024-12-03T09:47:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Uber의 프롬프트 엔지니어링 툴킷",
+      "description": {
+        "$text": "<ul>\n<li>LLM의 정확하고 적합한 출력 확보를 위해서는 정교한 프롬프트 디자인이 필수적임</li>\n<li>프롬프트 디자인은 머신러닝에 익숙하지 않은 사용자도 최소한의 오버헤드로 모델 출력을 제어할 수 있게 함</li>\n<li>Uber는 LLM을 빠르게 반복 실험할 수 있도록 중앙 집중식 툴킷을 개발\n<ul>\n<li>프롬프트 템플릿 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18070",
+      "guid": "https://news.hada.io/topic?id=18070",
+      "pubDate": "2024-12-03T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "인텔, 팻 겔싱어 은퇴 발표",
+      "description": {
+        "$text": "<h2>인텔 CEO 패트 겔싱어 은퇴 및 새로운 리더십 발표</h2>\n<ul>\n<li>인텔 CEO 패트 겔싱어가 40년 이상의 경력을 뒤로하고 2024년 12월 1일부로 은퇴</li>\n<li>이사회는 데이비드 진스너와 미셸(MJ) 존스턴 홀트하우스를 공동 임시 CEO로 임명\n<ul>\n<li>진스너: 현 인텔 CFO</li>\n<li>홀트하우스: 새로 신설된 인텔 프...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18069",
+      "guid": "https://news.hada.io/topic?id=18069",
+      "pubDate": "2024-12-03T09:44:45+09:00",
       "author": "neo",
       "category": ""
     }
