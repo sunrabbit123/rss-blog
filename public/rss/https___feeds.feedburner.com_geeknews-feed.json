@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-03T20:11:54+09:00",
+  "lastBuildDate": "2024-12-04T00:16:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5317,6 +5317,19 @@
       "guid": "https://news.hada.io/topic?id=18081",
       "pubDate": "2024-12-03T20:11:54+09:00",
       "author": "insomenia",
+      "category": ""
+    },
+    {
+      "title": "대한민국 윤석열 대통령, 비상 계엄령 선포",
+      "description": {
+        "$text": "<ul>\n<li>대한민국 윤석열 대통령이 비상 계엄령을 선포함</li>\n<li>윤 대통령의 국민의힘과 주요 야당인 더불어민주당이 내년도 예산안에 대해 계속 이견을 보임</li>\n<li>윤 대통령은 북한의 공산주의 세력으로부터 나라를 보호하고 반국가적 요소를 제거하기 위해 이 조치가 필요하다고 밝힘</li>\n</ul>\n<p><strong>분...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18082",
+      "guid": "https://news.hada.io/topic?id=18082",
+      "pubDate": "2024-12-04T00:16:30+09:00",
+      "author": "ilotoki0804",
       "category": ""
     }
   ]
