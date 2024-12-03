@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-03T10:16:01+09:00",
+  "lastBuildDate": "2024-12-03T13:34:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5277,6 +5277,19 @@
       "link": "https://news.hada.io/topic?id=18069",
       "guid": "https://news.hada.io/topic?id=18069",
       "pubDate": "2024-12-03T09:44:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "물고기의 뇌 미생물군 – 인간도 가질 수 있을까?",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>서론</strong></p>\n<ul>\n<li>과학자들은 건강한 척추동물의 뇌에 미생물이 존재할 수 있다는 강력한 증거를 발견했음.</li>\n<li>최근 연구에서 물고기, 특히 연어와 송어의 뇌에서 미생물 군집이 발견되었음.</li>\n<li>이 발견은 인간의 뇌에도 미생물이 존재할 가능성을 제기함.</li>\n</ul>\n</li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18079",
+      "guid": "https://news.hada.io/topic?id=18079",
+      "pubDate": "2024-12-03T13:34:30+09:00",
       "author": "neo",
       "category": ""
     }
