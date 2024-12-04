@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-04T01:38:40+09:00",
+  "lastBuildDate": "2024-12-04T10:35:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5330,6 +5330,136 @@
       "guid": "https://news.hada.io/topic?id=18082",
       "pubDate": "2024-12-04T00:16:30+09:00",
       "author": "ilotoki0804",
+      "category": ""
+    },
+    {
+      "title": "이고리스 엔지니어링",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>Dan McKinley는 2000년대 초부터 엔지니어링을 해왔으며, 다양한 팀과 조직을 이끌어왔음.</li>\n<li>여러 회사에서 일하면서 겪은 문제점과 해결책을 공유하고자 함.</li>\n</ul>\n<h2>책임 분배의 문제</h2>\n<ul>\n<li>두 명 이상의 직원이 있는 경우 책임을 나누어야 하며, 이는 즉각적이고 장기적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18096",
+      "guid": "https://news.hada.io/topic?id=18096",
+      "pubDate": "2024-12-04T10:35:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Raspberry Pi, SDRAM 튜닝으로 Pi 5 성능 향상",
+      "description": {
+        "$text": "<ul>\n<li>Raspberry Pi 엔지니어들이 SDRAM 타이밍과 메모리 설정을 조정하여 기본 2.4GHz 클럭에서 10-20%의 속도 향상을 이룸.\n<ul>\n<li>오버클러킹을 통해 3.2GHz에서 32%의 성능 향상을 달성</li>\n<li>이러한 변경 사항은 곧 Pi 5와 Pi 4 사용자에게 펌웨어 업데이트로 제공될 가능성이 있음.</li>\n</ul>\n</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18095",
+      "guid": "https://news.hada.io/topic?id=18095",
+      "pubDate": "2024-12-04T10:11:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블리자드의 워크래프트 I 및 II 철회, GOG의 새로운 보존 프로그램 시험",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>오크 vs. 인간 vs. 상업 vs. 역사 vs. 보존 vs. 플레이어</strong></p>\n<ul>\n<li>Blizzard는 최근 _Warcraft_와 _Warcraft II_의 리마스터 버전을 출시했으며, 이로 인해 GOG의 DRM-free 버전이 삭제될 예정임.</li>\n<li>GOG는 &quot;Make Games Live Forever&quot;라는 슬로건 아래 보존 프로그램",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18094",
+      "guid": "https://news.hada.io/topic?id=18094",
+      "pubDate": "2024-12-04T10:08:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Amazon Nova 출시 : 뛰어난 가성비를 지닌 최첨단 인공지능",
+      "description": {
+        "$text": "<ul>\n<li>Amazon Nova는 Amazon Bedrock에서 독점적으로 제공되는 최첨단 기초 모델로, 다양한 생성 AI 작업에서 비용과 지연 시간을 줄이는 데 도움을 줌. 복잡한 문서와 비디오 분석, 차트 및 다이어그램 이해, 매력적인 비디오 콘텐츠 생성, 고급 AI 에이전트 구축에 사용 가능.</li>\n<li>\n<strong>이해 모델</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18093",
+      "guid": "https://news.hada.io/topic?id=18093",
+      "pubDate": "2024-12-04T10:05:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "여성 대상 연 2회 HIV 주사, 100% 효과 입증",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>새로운 HIV 예방 주사</h3>\n<ul>\n<li>Gilead의 새로운 주사제는 AIDS 바이러스 예방에 있어 가장 가까운 백신으로 평가받음</li>\n<li>여성 대상 연구에서 100% 효과를 보였으며, 남성에게도 거의 동일한 효과를 보임</li>\n<li>Gilead는 120개 저소득 국가에 저렴한 제네릭 버전을 제공할 계획이나, 대부분...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18092",
+      "guid": "https://news.hada.io/topic?id=18092",
+      "pubDate": "2024-12-04T10:02:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DuckDuckGo, Perl 및 Raku 재단에 $25,000 기부",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>DuckDuckGo, Perl 및 Raku 재단에 $25,000 기부</h2>\n</li>\n<li>\n<p>오늘 &quot;Giving Tuesday&quot;에 The Perl and Raku Foundation(TPRF)은 DuckDuckGo로부터 $25,000의 기부를 받았음을 발표함</p>\n</li>\n<li>\n<p>2011년 이후 DuckDuckGo는 온라인 신뢰 기준을 높이려는 비전에 맞는 조직에 600만 달",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18091",
+      "guid": "https://news.hada.io/topic?id=18091",
+      "pubDate": "2024-12-04T09:59:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "8년간의 Haskell 사용 후 8개월간의 OCaml 도입 (2023)",
+      "description": {
+        "$text": "<h2>문법</h2>\n<ul>\n<li>\n<strong>Haskell</strong>: 가장 우아한 문법을 가짐. 적은 문자로 아이디어를 표현하는 즐거움이 있음.</li>\n<li>\n<strong>OCaml</strong>: ML 계열의 언어로 훌륭하지만, Haskell보다는 덜 암시적임.</li>\n</ul>\n<h2>기능</h2>\n<ul>\n<li>\n<strong>Haskell</strong>: 많은 기능을 제공하여 문제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18090",
+      "guid": "https://news.hada.io/topic?id=18090",
+      "pubDate": "2024-12-04T09:56:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인텔, 리눅스 지원 아크 B-시리즈 \"배틀메이지\" 외장 그래픽 발표",
+      "description": {
+        "$text": "<h2>Intel Arc B-Series &quot;Battlemage&quot; 그래픽 카드 발표</h2>\n<ul>\n<li>\n<p><strong>새로운 그래픽 카드 발표</strong>: Intel은 두 해 전 출시된 DG2/Alchemist 시리즈의 후속으로 Battlemage 그래픽 카드를 발표함. 이 새로운 Arc B-Series 그래픽 카드는 다음 주부터 초기 출시 예정이며, Linux에서 완전한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18089",
+      "guid": "https://news.hada.io/topic?id=18089",
+      "pubDate": "2024-12-04T09:53:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실리콘밸리에서의 Y Combinator와 권력",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>2010년 9월 10일, AdGrok의 창립자 Antonio Garcia-Martinez는 공동 창립자 Argyris Zymnis의 샌프란시스코 아파트에서 Rodger Cole로부터 전화를 받음. Rodger Cole은 Fenwick &amp; West의 소송 변호사였으며, Fenwick &amp; West는 실리콘 밸리의 주요 법률 회사 중 하나였음. Cole은 그들이 이전 고용주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18088",
+      "guid": "https://news.hada.io/topic?id=18088",
+      "pubDate": "2024-12-04T09:50:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미술관 근무 경험에서 얻은 교훈",
+      "description": {
+        "$text": "<h4>미술관에서 배운 6가지 교훈</h4>\n<h5>1. 평범한 직업을 훌륭한 직업으로 바꾸는 것이 가능함</h5>\n<ul>\n<li>미술관에서의 일은 처음에는 매력적이지 않았으나, 스스로 프로젝트처럼 접근하여 개선할 수 있었음.</li>\n<li>자발적으로 카페와 계산대의 효율성을 높이고, 비즈니스 분석을 통해 개선 방안을 찾았음.</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18087",
+      "guid": "https://news.hada.io/topic?id=18087",
+      "pubDate": "2024-12-04T09:47:29+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
