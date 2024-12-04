@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-04T10:38:50+09:00",
+  "lastBuildDate": "2024-12-04T12:34:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5473,6 +5473,32 @@
       "guid": "https://news.hada.io/topic?id=18097",
       "pubDate": "2024-12-04T10:38:50+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Phoenix LiveView 1.0.0 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Phoenix LiveView 1.0.0 출시</h2>\n</li>\n<li>\n<p><strong>LiveView의 시작과 이유</strong></p>\n<ul>\n<li>LiveView는 서버 렌더링 애플리케이션을 JavaScript 없이 만들기 위해 시작됨.</li>\n<li>실시간 폼 검증, 쇼핑 카트 수량 업데이트, 실시간 스트리밍 업데이트 등 복잡한 문제를 간단하게 해결할 수",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18099",
+      "guid": "https://news.hada.io/topic?id=18099",
+      "pubDate": "2024-12-04T12:34:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 폰트를 어떤기준으로 선택하나요?",
+      "description": {
+        "$text": "<h2>부제: 폰트의 어떤부분을 보고 예쁘다고 느끼시나요?</h2>\n<p>저는 폰트가 서로 다르구나? 정도의 느낌은 있지만 어떤 느낌으로 다른지에 대한 감각이 전혀 없습니다.</p>\n<p>예를들면 사람은 눈이 크다, 코가 오똑하다, 이마가 넓다 이런 느낌이 느껴지는데, 폰트는 어떤걸 기준으로 보아야할지 전혀 감이 오지 않습",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18098",
+      "guid": "https://news.hada.io/topic?id=18098",
+      "pubDate": "2024-12-04T12:32:38+09:00",
+      "author": "bbulbum",
       "category": ""
     }
   ]
