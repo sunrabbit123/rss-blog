@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-04T13:17:56+09:00",
+  "lastBuildDate": "2024-12-04T23:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5512,6 +5512,19 @@
       "guid": "https://news.hada.io/topic?id=18100",
       "pubDate": "2024-12-04T13:17:56+09:00",
       "author": "nemorize",
+      "category": ""
+    },
+    {
+      "title": "Skia Canvas: 노드용 HTML Canvas 드로잉 API의 브라우저리스 구현",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>Skia Canvas는 Node.js에서 HTML Canvas 드로잉 API를 브라우저 없이 구현한 라이브러리임.</li>\n<li>Google의 Skia 그래픽 엔진을 기반으로 하여 Chrome의 <code>&lt;canvas&gt;</code> 요소와 유사한 결과를 생성함.</li>\n<li>데스크탑과 서버에서 하드웨어 가속 그래픽을 렌더링하거나 다양한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18101",
+      "guid": "https://news.hada.io/topic?id=18101",
+      "pubDate": "2024-12-04T23:33:22+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
