@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-04T12:34:35+09:00",
+  "lastBuildDate": "2024-12-04T13:17:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5499,6 +5499,19 @@
       "guid": "https://news.hada.io/topic?id=18098",
       "pubDate": "2024-12-04T12:32:38+09:00",
       "author": "bbulbum",
+      "category": ""
+    },
+    {
+      "title": "Radon IDE - React Native 개발을 위한 VSC 확장 프로그램",
+      "description": {
+        "$text": "<ul>\n<li>리액트 네이티브 (및 Expo) 앱을 개발하는데 도움을 주는 VSC / Cursor 익스텐션.</li>\n<li>유료임. 개인용 월 19달러, 비즈니스용 월 29달러.</li>\n</ul>\n<ul>\n<li>\n<strong>iOS/Android 에뮬레이터</strong><br />\nVSC 안에서 곧바로 띄울 수 있음.</li>\n<li>\n<strong>빠른 에뮬레이터 설정 변경</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18100",
+      "guid": "https://news.hada.io/topic?id=18100",
+      "pubDate": "2024-12-04T13:17:56+09:00",
+      "author": "nemorize",
       "category": ""
     }
   ]
