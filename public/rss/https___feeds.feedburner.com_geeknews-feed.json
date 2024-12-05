@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-04T23:33:22+09:00",
+  "lastBuildDate": "2024-12-05T10:16:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5525,6 +5525,110 @@
       "guid": "https://news.hada.io/topic?id=18101",
       "pubDate": "2024-12-04T23:33:22+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ELT 해체하기: Silo가 아닌 Graph가 필요한 경우",
+      "description": {
+        "$text": "<ul>\n<li>ELT(Extract, Load, Transform)는 조직 내 데이터 분석과 소프트웨어 개발의 &quot;사일로(Silo)&quot; 를 연결하기 위해 사용되지만, 이러한 사일로 구조 자체가 문제의 근원</li>\n<li>\n<blockquote>\n<p>ELT는 사일로간의 브릿지일 뿐. 사일로가 없는 세상은 &quot;그래프(Graph)&quot;임</p>\n</blockquote>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18109",
+      "guid": "https://news.hada.io/topic?id=18109",
+      "pubDate": "2024-12-05T10:16:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Copper - Rust로 구현한 로봇 제작용 런타임 엔진",
+      "description": {
+        "$text": "<ul>\n<li>빠르고 안정적인 로봇을 제작하기 위한 사용자 친화적인 런타임 엔진\n<ul>\n<li>게임을 위한 &quot;게임 엔진&quot;처럼 로봇을 위한 &quot;로봇 엔진&quot;</li>\n</ul>\n</li>\n<li>쉬움: 고수준의 Configuration 시스템과 내추럴 Rust API 제공</li>\n<li>빠름: Rust의 Zero-Cost 추상화와 데이터 지향 접근 방식...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18108",
+      "guid": "https://news.hada.io/topic?id=18108",
+      "pubDate": "2024-12-05T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenTTD는 Transport Tycoon Deluxe를 기반으로 한 오픈 소스 시뮬레이션 게임",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>OpenTTD 14.1</h4>\n<ul>\n<li>OpenTTD 14가 출시된 이후 많은 플레이어들이 게임을 즐겼음</li>\n<li>지난주에만 설문조사에 참여한 플레이어들이 17,219개의 게임에서 총 34,700시간을 플레이했음</li>\n<li>이 과정에서 몇 가지 버그가 발견되었고, 이를 수정하기 위해 노력했음</li>\n<li>OpenTTD 14의 첫 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18107",
+      "guid": "https://news.hada.io/topic?id=18107",
+      "pubDate": "2024-12-05T09:47:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Skia Canvas 2.0 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>브라우저 없이 구현한 Node.js용 HTML 캔버스 그리기 API</li>\n<li>Google의 Skia 그래픽 엔진 기반, Chrome의 &lt;캔버스&gt; 요소와 매우 유사한 결과를 생성</li>\n<li>2.0 주요 변경사항\n<ul>\n<li>SVG &amp; WEBP 지원</li>\n<li>WOFF &amp; WOFF2 폰트 지원</li>\n<li>이미지 객체가 표준 on/off/once EventE...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18106",
+      "guid": "https://news.hada.io/topic?id=18106",
+      "pubDate": "2024-12-05T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "전문적 관계 발전 방법",
+      "description": {
+        "$text": "<h2>전문적 관계를 성장시키는 방법</h2>\n<ul>\n<li>\n<strong>전문적 관계의 중요성</strong><br />\n경력 동안 다양한 사람들과의 관계를 통해 전문적 관계의 중요성을 깨달음. TJS(시너지로의 여정) 협업 모델을 통해 관계의 상태를 평가하고, 경쟁적 사고에서 공유된 정체성으로 이동하는 7단계를 제시함.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18105",
+      "guid": "https://news.hada.io/topic?id=18105",
+      "pubDate": "2024-12-05T09:44:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Genie 2: 대규모 기초 세계 모델",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>Genie 2: 대규모 기초 세계 모델</h3>\n<ul>\n<li>\n<p><strong>무한한 훈련 환경 생성</strong></p>\n<ul>\n<li>Genie 2는 인간이나 AI 에이전트가 키보드와 마우스를 사용하여 조작할 수 있는 다양한 3D 환경을 생성하는 기초 세계 모델임.</li>\n<li>게임은 AI 연구에서 중요한 역할을 하며, Genie 2는 무한한",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18104",
+      "guid": "https://news.hada.io/topic?id=18104",
+      "pubDate": "2024-12-05T09:41:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "IMG_0001 사진",
+      "description": {
+        "$text": "<ul>\n<li>2009년부터 2012년까지 iPhone의 사진 앱에는 &quot;YouTube로 보내기&quot; 버튼이 내장되어 있었음</li>\n<li>많은 업로드가 기본 IMG_XXXX 파일명을 유지하여 무작위 삶의 순간을 담은 타임 캡슐을 형성함</li>\n<li>Ben Wallace에게 영감을 받아 YouTube를 크롤링하는 봇을 만들어 500만 개의 이러한 비디오를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18103",
+      "guid": "https://news.hada.io/topic?id=18103",
+      "pubDate": "2024-12-05T09:38:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Foursquare Open Source Places - 지리공간 커뮤니티를 위한 새로운 기초 데이터셋",
+      "description": {
+        "$text": "<ul>\n<li>FSQ OS Places는 전 세계 1억 개 이상의 관심 장소(POI) 데이터셋을 제공하는 오픈 소스 프로젝트\n<ul>\n<li>1억개가 넘는 글로벌 POI, 1000+개의 카테고리, 200+개의 국가과 지역, 22개의 핵심 속성을 포함하며 매월 업데이트됨</li>\n<li>Apache 2.0 라이선스 하에 상업적 사용 가능</li>\n</ul>\n</li>\n<li>목표...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18102",
+      "guid": "https://news.hada.io/topic?id=18102",
+      "pubDate": "2024-12-05T09:32:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
