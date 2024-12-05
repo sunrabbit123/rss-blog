@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-05T12:34:24+09:00",
+  "lastBuildDate": "2024-12-05T16:02:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5641,6 +5641,32 @@
       "link": "https://news.hada.io/topic?id=18110",
       "guid": "https://news.hada.io/topic?id=18110",
       "pubDate": "2024-12-05T12:34:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JPA/Hibernate를 버리세요",
+      "description": {
+        "$text": "<h2>요약</h2>\n<p>JPA/Hibernate는 Java 코드에서 더 이상 SQL을 쓸 필요가 없다는 이유로 많이 쓰이는 프레임워크가 되었습니다. 하지만, 저는 새 프로젝트에 이를 사용하지 말아야 한다고 주장하고 싶습니다.</p>\n<h3>이유</h3>\n<h4>매우 긴 공식 문서</h4>\n<p><a href=\"https://docs.jboss.org/hibernate/orm/3.6/ref",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18113",
+      "guid": "https://news.hada.io/topic?id=18113",
+      "pubDate": "2024-12-05T16:02:08+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "미국 경제의 경쟁국 대비 급성장 이유",
+      "description": {
+        "$text": "<ul>\n<li>본문 내용이 없으므로 요약할 내용이 없음</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18111",
+      "guid": "https://news.hada.io/topic?id=18111",
+      "pubDate": "2024-12-05T15:34:27+09:00",
       "author": "neo",
       "category": ""
     }
