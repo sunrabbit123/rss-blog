@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-05T16:02:08+09:00",
+  "lastBuildDate": "2024-12-05T23:33:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5667,6 +5667,19 @@
       "link": "https://news.hada.io/topic?id=18111",
       "guid": "https://news.hada.io/topic?id=18111",
       "pubDate": "2024-12-05T15:34:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Outerbase Studio – 오픈 소스 데이터베이스 GUI",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Outerbase Studio</strong></p>\n<ul>\n<li>Outerbase Studio는 SQL 데이터베이스 관리를 위한 경량의 브라우저 기반 GUI로, 단순성과 다재다능함을 목표로 설계됨</li>\n<li>초기에는 LibSQL과 SQLite를 위해 개발되었으나, 현재는 다양한 데이터베이스를 지원함</li>\n</ul>\n</li>\n<li>\n<p><strong>지",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18114",
+      "guid": "https://news.hada.io/topic?id=18114",
+      "pubDate": "2024-12-05T23:33:35+09:00",
       "author": "neo",
       "category": ""
     }
