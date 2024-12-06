@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-06T14:27:03+09:00",
+  "lastBuildDate": "2024-12-06T15:33:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5837,6 +5837,19 @@
       "guid": "https://news.hada.io/topic?id=18128",
       "pubDate": "2024-12-06T14:27:03+09:00",
       "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "리액트 19 기술",
+      "description": {
+        "$text": "<h3>19.0.0 (2024년 12월 5일)</h3>\n<h4>새로운 기능</h4>\n<h5>React</h5>\n<ul>\n<li>\n<strong>Actions</strong>: <code>startTransition</code>은 이제 비동기 함수를 수용할 수 있음. 이 함수들은 &quot;Actions&quot;라 불리며, 상태를 백그라운드에서 업데이트하고 UI를 한 번에 커밋함. Actions는 비동기 요청과 같은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18129",
+      "guid": "https://news.hada.io/topic?id=18129",
+      "pubDate": "2024-12-06T15:33:51+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
