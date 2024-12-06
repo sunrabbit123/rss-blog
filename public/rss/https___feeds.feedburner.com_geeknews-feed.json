@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-06T15:33:51+09:00",
+  "lastBuildDate": "2024-12-06T18:33:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5849,6 +5849,19 @@
       "link": "https://news.hada.io/topic?id=18129",
       "guid": "https://news.hada.io/topic?id=18129",
       "pubDate": "2024-12-06T15:33:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 처음부터 작성된 Unix 유사 운영 체제 Banan-OS",
+      "description": {
+        "$text": "<h2>banan-os</h2>\n<p>이 프로젝트는 C++로 작성된 취미 운영체제이며, x86_64 및 i686 아키텍처를 지원함. 이는 다른 제품이나 기존 오픈 소스 프로젝트와 비교하여 독특한 학습 경험을 제공함.</p>\n<h4>기능</h4>\n<ul>\n<li>\n<p><strong>일반</strong></p>\n<ul>\n<li>Ring3 사용자 공간</li>\n<li>SMP(다중 처리)</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18130",
+      "guid": "https://news.hada.io/topic?id=18130",
+      "pubDate": "2024-12-06T18:33:47+09:00",
       "author": "neo",
       "category": ""
     }
