@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-05T23:33:35+09:00",
+  "lastBuildDate": "2024-12-06T10:19:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5680,6 +5680,123 @@
       "link": "https://news.hada.io/topic?id=18114",
       "guid": "https://news.hada.io/topic?id=18114",
       "pubDate": "2024-12-05T23:33:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "네이티브 이중 범위 입력",
+      "description": {
+        "$text": "<ul>\n<li>@stanko/dual-range-input은 두 개의 네이티브 HTML 범위 입력을 사용하는 네이티브 듀얼 범위 입력 라이브러리임.\n<ul>\n<li>네이티브 입력을 사용하여 모든 기본 상호작용 및 접근성 기능을 유지함.</li>\n<li>약 50줄의 JavaScript와 CSS로 구성되어 있음.</li>\n</ul>\n</li>\n<li>\n<strong>왜 필요한가</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18123",
+      "guid": "https://news.hada.io/topic?id=18123",
+      "pubDate": "2024-12-06T10:00:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "고등학생을 위한 입자 물리학 강좌",
+      "description": {
+        "$text": "<ul>\n<li>이 강좌는 CERN의 물리 교육 연구팀이 개발한 고등학생을 위한 입자 물리학 강좌의 파일럿 버전임</li>\n<li>16개의 챕터로 구성되어 있으며, 비디오와 퀴즈를 포함하고 있음</li>\n<li>기본적인 질문에서부터 입자 가속기와 입자 검출기와 같은 응용 질문까지 다룸</li>\n<li>총 비디오 길이는 약 4시간이며, DIY...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18122",
+      "guid": "https://news.hada.io/topic?id=18122",
+      "pubDate": "2024-12-06T09:57:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Amazon Aurora DSQL - 서버리스 분산 SQL DB",
+      "description": {
+        "$text": "<ul>\n<li>항상 사용가능한 어플리케이션을 위한 가장 빠른 서버리스 분산 SQL DB</li>\n</ul>\n<h2>Why Aurora DSQL?</h2>\n<ul>\n<li>\n<strong>Serverless Distributed SQL Database</strong>\n<ul>\n<li>무제한 스케일 확장 가능, 높은 가용성, 인프라 관리 필요 없음</li>\n<li>데이터베이스 샤딩이나 인스턴스 업그레이드 없...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18121",
+      "guid": "https://news.hada.io/topic?id=18121",
+      "pubDate": "2024-12-06T09:57:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "북부 캘리포니아 쓰나미 경보",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>미국 쓰나미 경보 시스템</h2>\n<ul>\n<li>미국 상무부와 NOAA의 국립 기상청에서 운영하는 미국 쓰나미 경보 시스템에 대한 정보 제공.</li>\n</ul>\n</li>\n<li>\n<h2>쓰나미 경보</h2>\n<ul>\n<li>\n<strong>지진 정보</strong>: 규모 7.3, 발생 시간 2024년 12월 6일 오전 3시 44분 24초, 깊이 8마일, 위치는 캘...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18120",
+      "guid": "https://news.hada.io/topic?id=18120",
+      "pubDate": "2024-12-06T09:54:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ruby의 속도를 높이기 위한 C 코드의 Ruby 재작성",
+      "description": {
+        "$text": "<h4>Ruby의 성능 향상: C를 Ruby로 다시 작성하기</h4>\n<h5>Ruby의 성능 비교</h5>\n<ul>\n<li>최근 언어 비교 리포지토리에서 Ruby는 R과 Python보다 빠르지만, 세 번째로 느린 언어로 평가됨.</li>\n<li>벤치마크는 &quot;Loops&quot;와 &quot;Fibonacci&quot; 두 가지로 구성되며, 각각 루프와 조건문, 함수 호출 오버헤...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18119",
+      "guid": "https://news.hada.io/topic?id=18119",
+      "pubDate": "2024-12-06T09:51:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI o1 시스템 카드",
+      "description": {
+        "$text": "<h2>서론</h2>\n<ul>\n<li>o1 모델 시리즈는 chain of thought를 사용하는 대규모 강화학습을 통해 추론 능력을 훈련받음</li>\n<li>이러한 고급 추론 능력은 모델의 안전성과 견고성을 향상시키는 새로운 방법을 제공함</li>\n<li>특히 잠재적으로 위험한 프롬프트에 대응할 때 안전 정책을 맥락 내에서 추론할 수 있음</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18118",
+      "guid": "https://news.hada.io/topic?id=18118",
+      "pubDate": "2024-12-06T09:48:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Diátaxis – 기술 문서 작성의 체계적 접근법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Diátaxis</strong>는 기술 문서 작성에 대한 체계적인 접근 방법을 제시하는 개념임. 이 접근법은 문서 사용자들의 필요를 이해하는 체계적인 접근에서 출발하여, 콘텐츠, 구조, 형식에 대한 접근 방식을 제안함.</li>\n<li>고대 그리스어에서 유래한 Diátaxis는 네 가지의 명확한 필요와 이에 대응하는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18117",
+      "guid": "https://news.hada.io/topic?id=18117",
+      "pubDate": "2024-12-06T09:45:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ChatGPT Pro 출시",
+      "description": {
+        "$text": "<ul>\n<li>AI 기술이 더욱 발전하면서 더 복잡하고 중요한 문제를 해결할 수 있게 되었고, 이를 가능하게 하는 데 상당한 컴퓨팅 리소스가 필요함</li>\n<li>ChatGPT Pro는 <strong>월 $200 요금제</strong> 로 OpenAI의 최신 모델 및 도구를 확장적으로 이용 가능\n<ul>\n<li>o1: 가장 스마트한 모델</li>\n<li>o1-mini, GPT...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18116",
+      "guid": "https://news.hada.io/topic?id=18116",
+      "pubDate": "2024-12-06T09:42:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "더 이상 만들지 않는 Yamaha DX7 키보드",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>그들은 더 이상 그렇게 만들지 않는다: Yamaha DX7 키보드</h2>\n</li>\n<li>\n<p>Yamaha DX7 신디사이저는 1980년대 대중음악의 소리를 정의한 악기임. DX7은 무한한 소리 텍스처를 생성할 수 있었지만, 대부분의 음악가는 32개의 기본 사운드만 사용했음. 이로 인해 DX7의 소리는 즉시 인식 가능했음.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18115",
+      "guid": "https://news.hada.io/topic?id=18115",
+      "pubDate": "2024-12-06T08:34:28+09:00",
       "author": "neo",
       "category": ""
     }
