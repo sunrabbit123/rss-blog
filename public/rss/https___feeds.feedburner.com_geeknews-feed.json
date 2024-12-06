@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-06T10:46:01+09:00",
+  "lastBuildDate": "2024-12-06T14:27:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5824,6 +5824,19 @@
       "guid": "https://news.hada.io/topic?id=18125",
       "pubDate": "2024-12-06T10:29:31+09:00",
       "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "React v19 - Actions, Server Components, Hydration 에러 개선, Document Metadata 지원 등",
+      "description": {
+        "$text": "<h4>새로운 API 및 기능</h4>\n<ul>\n<li>\n<strong>Actions</strong>: 데이터 변경과 상태 업데이트를 자동으로 처리. 대기 상태, 에러, optimistic update 등을 자동 관리</li>\n<li>\n<strong><code>useActionState</code></strong>: Actions의 일반적인 사용 사례를 간단히 처리할 수 있는 새로운 훅</li>\n<li>\n<strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18128",
+      "guid": "https://news.hada.io/topic?id=18128",
+      "pubDate": "2024-12-06T14:27:03+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
