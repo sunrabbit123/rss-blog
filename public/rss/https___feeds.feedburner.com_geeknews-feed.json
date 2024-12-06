@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-06T18:33:47+09:00",
+  "lastBuildDate": "2024-12-07T07:12:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5862,6 +5862,19 @@
       "link": "https://news.hada.io/topic?id=18130",
       "guid": "https://news.hada.io/topic?id=18130",
       "pubDate": "2024-12-06T18:33:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "70% 문제: AI 지원 코딩의 냉혹한 진실",
+      "description": {
+        "$text": "<ul>\n<li>개발자들이 AI를 활용하는 두 가지 주요 패턴이 있음\n<ul>\n<li>\n<strong>부트스트래퍼</strong>:\n<ul>\n<li>Bolt, v0, screenshot-to-code AI 같은 도구를 사용하여 빠르게 초기 프로토타입을 생성함.</li>\n<li>디자인이나 개념을 시작점으로 AI를 활용하여 초기 코드베이스를 생성하고, 몇 시간 또는 며칠 만에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18131",
+      "guid": "https://news.hada.io/topic?id=18131",
+      "pubDate": "2024-12-07T07:12:13+09:00",
       "author": "neo",
       "category": ""
     }
