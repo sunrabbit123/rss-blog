@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-07T09:58:29+09:00",
+  "lastBuildDate": "2024-12-07T12:33:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5980,6 +5980,19 @@
       "guid": "https://news.hada.io/topic?id=18132",
       "pubDate": "2024-12-07T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Trailbase: Rust와 SQLite로 구축된 빠르고 단일 파일로 구성된 오픈 소스 앱 서버",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>TrailBase 소개</strong></p>\n<ul>\n<li>TrailBase는 빠르고 오픈 소스인 애플리케이션 서버로, Rust, SQLite, V8을 기반으로 구축되었음.</li>\n<li>타입 안전한 API, 내장 JS/ES6/TS 런타임, 인증 및 관리자 UI를 제공함.</li>\n<li>모바일, 웹, 데스크톱 애플리케이션을 위한 단일 파일의 확장 가능",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18140",
+      "guid": "https://news.hada.io/topic?id=18140",
+      "pubDate": "2024-12-07T12:33:18+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
