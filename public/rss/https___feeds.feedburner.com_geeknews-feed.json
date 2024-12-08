@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-08T11:34:21+09:00",
+  "lastBuildDate": "2024-12-08T19:34:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6109,6 +6109,19 @@
       "link": "https://news.hada.io/topic?id=18151",
       "guid": "https://news.hada.io/topic?id=18151",
       "pubDate": "2024-12-08T11:34:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Countless.dev – 모든 AI 모델을 비교하는 웹사이트: LLMs, TTSs, STTs",
+      "description": {
+        "$text": "<h2>AI 모델 비교 소개</h2>\n<ul>\n<li>\n<strong>AI 모델 비교</strong>: 다양한 AI 모델을 쉽게 비교할 수 있는 오픈 소스 프로젝트임. 무료로 제공되며, 각 모델의 입력 및 출력 길이, 가격 등을 비교할 수 있음.</li>\n</ul>\n<h3>가격 비교</h3>\n<ul>\n<li>\n<strong>모델별 가격</strong>: OpenAI, Azure, Anthropic, Go...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18152",
+      "guid": "https://news.hada.io/topic?id=18152",
+      "pubDate": "2024-12-08T19:34:17+09:00",
       "author": "neo",
       "category": ""
     }
