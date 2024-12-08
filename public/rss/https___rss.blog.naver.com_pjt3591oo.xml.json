@@ -507,6 +507,15 @@
       "pubDate": "Sun, 01 Dec 2024 11:07:41 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[aptos] aptos 8편 - script를 이용하여 배포되지 않은 move 코드를 실행해보자",
+      "description": "안녕하세요 멍개입니다. aptos는 모듈을 배포하지 않더라도, move로 작성된 모듈 코드를 실행할 수 있습니다. 하지만 약간의 제약사항이 존재합니다. 바로 함수를 호출할 때 전달되는 인자의 타입이 정해져 있습니다. ☞ u8 ☞ u16 ☞ u32 ☞ u64 ☞ u256 ☞ address ☞ bool ☞ signer(&amp;signer) ☞ vector&lt;u8&gt; ☞ vector&lt;address&gt; : 문서상에는 나와있지 않지만 가능함(제가 이전에 테스트 할 때도 불가능 했는데 포스팅 시점인 2024-12-08 가능) script도 모듈과 개발 방법이 동일합니다. · script 프로젝트 생성 sources 아래에 script_sample.move를 만들어 줍니다. · script 코드 작성 script와 module의 차이점으로 module.......",
+      "link": "https://blog.naver.com/pjt3591oo/223686179374?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223686179374",
+      "pubDate": "Sun, 08 Dec 2024 08:56:18 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }

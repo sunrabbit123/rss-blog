@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-08T01:00:39+09:00",
+  "lastBuildDate": "2024-12-08T09:50:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -5992,6 +5992,110 @@
       "link": "https://news.hada.io/topic?id=18140",
       "guid": "https://news.hada.io/topic?id=18140",
       "pubDate": "2024-12-07T12:33:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ollama, 구조화된 출력 지원",
+      "description": {
+        "$text": "<ul>\n<li>Ollama가 이제 JSON 스키마를 사용하여 모델의 출력을 특정 형식으로 제약하는 구조화된 출력(Strucutured Output) 기능을 지원</li>\n<li>Python 및 JavaScript 라이브러리가 업데이트되어 이 기능을 사용할 수 있게 됨</li>\n<li>구조화된 출력의 주요 활용 사례\n<ul>\n<li>문서에서 데이터 파싱</li>\n<li>이미지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18150",
+      "guid": "https://news.hada.io/topic?id=18150",
+      "pubDate": "2024-12-08T09:50:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "안드로이드 폰에 postmarketOS 설치 후 Docker를 홈 서버로 활용",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>이 튜토리얼에 필요한 것</h2>\n<ul>\n<li>Android 폰 (OnePlus 6 또는 OnePlus 6T 추천)</li>\n<li>PC에 설치된 Fastboot</li>\n<li>PostmarketOS 부팅 및 이미지 파일</li>\n</ul>\n</li>\n<li>\n<h2>1단계: 개발자 모드 및 USB 디버깅 활성화</h2>\n<ul>\n<li>Android 폰에서 개발자 모드 활성화</li>\n<li>설정에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18149",
+      "guid": "https://news.hada.io/topic?id=18149",
+      "pubDate": "2024-12-08T09:48:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "연방 항소 법원, TikTok 매각 법안 지지 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>미국 법원, ByteDance에 TikTok 매각 명령 유지</h3>\n<ul>\n<li>미국 연방 항소 법원은 중국 기반의 ByteDance가 인기 소셜 미디어 앱 TikTok을 매각하지 않으면 미국 내에서 금지될 것이라는 법을 유지함.</li>\n<li>워싱턴 D.C.의 미국 항소 법원은 TikTok의 금지가 헌법에 위배되며 1억 7천만 명의 미국 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18148",
+      "guid": "https://news.hada.io/topic?id=18148",
+      "pubDate": "2024-12-08T09:45:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "신임 관리자의 실수",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>새로운 관리자로서 저지를 수 있는 6가지 실수</h2>\n</li>\n<li>\n<p><strong>개요</strong></p>\n<ul>\n<li>개인 기여자(IC)에서 관리자로의 전환은 중요한 경력 단계임.</li>\n<li>기술 산업에서는 특히 이러한 변화가 새로운 도전과 학습 기회를 제공함.</li>\n<li>필자가 엔지니어링 매니저로서 처음 몇 년 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18147",
+      "guid": "https://news.hada.io/topic?id=18147",
+      "pubDate": "2024-12-08T09:42:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "단순한 Command Runner",
+      "description": {
+        "$text": "<p>죄송하지만 제공된 콘텐츠가 명확하지 않아서 요약을 제공할 수 없습니다. 추가 정보를 제공해 주시면 도움이 될 수 있습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18146",
+      "guid": "https://news.hada.io/topic?id=18146",
+      "pubDate": "2024-12-08T09:39:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MIT, 공기역학을 포함한 최대 규모 오픈소스 자동차 설계 데이터 세트 공개",
+      "description": {
+        "$text": "<ul>\n<li>MIT 엔지니어들은 친환경 자동차 및 전기 자동차의 설계 속도를 높일 수 있는, 공기역학을 포함한 자동차 설계에 대한 최대 규모의 오픈 소스 데이터 세트를 개발\n<ul>\n<li>자동차 설계는 수년간의 시뮬레이션과 물리적 테스트를 거쳐 진행되는 반복적이고 독점적인 과정임</li>\n<li>자동차 설계에 있어 공기역...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18145",
+      "guid": "https://news.hada.io/topic?id=18145",
+      "pubDate": "2024-12-08T08:50:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "<dialog>: Dialog 요소",
+      "description": {
+        "$text": "<h2><code>&lt;dialog&gt;</code>: 대화 상자 요소</h2>\n<ul>\n<li>\n<strong>기본 제공</strong>: <code>&lt;dialog&gt;</code> 요소는 모달 또는 비모달 대화 상자, 경고, 검사기, 서브윈도우 등의 상호작용 요소를 나타냄. 2022년 3월부터 대부분의 브라우저에서 사용 가능함.</li>\n</ul>\n<h3>속성</h3>\n<ul>\n<li>\n<str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18144",
+      "guid": "https://news.hada.io/topic?id=18144",
+      "pubDate": "2024-12-08T08:37:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실직 2년차",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>두 번째 해의 실직 생활</h2>\n</li>\n<li>\n<p><strong>금전적 상황</strong></p>\n<ul>\n<li>2년 전 직장을 그만두고 $80K를 가지고 있었음. 현재는 돈이 거의 다 떨어진 상태임.</li>\n<li>처음에는 돈을 빨리 쓴 것에 대해 후회했지만, 몬트리올의 평균 생활비를 고려하면 그렇게 나쁘지 않았음을 깨달음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18143",
+      "guid": "https://news.hada.io/topic?id=18143",
+      "pubDate": "2024-12-08T08:34:51+09:00",
       "author": "neo",
       "category": ""
     }
