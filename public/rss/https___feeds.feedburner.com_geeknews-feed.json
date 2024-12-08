@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-08T09:50:02+09:00",
+  "lastBuildDate": "2024-12-08T11:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6096,6 +6096,19 @@
       "link": "https://news.hada.io/topic?id=18143",
       "guid": "https://news.hada.io/topic?id=18143",
       "pubDate": "2024-12-08T08:34:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "협업 편집에 대한 거짓말, 1부: 오프라인 편집을 위한 알고리즘",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>협업 편집에 대한 잘못된 정보, 1부: 오프라인 편집을 위한 알고리듬</h2>\n</li>\n<li>\n<p>2024년 초, Moment의 핵심 텍스트 편집기에 사용할 협업 편집 시스템을 조사하기 시작함. 현재 여러 알고리듬이 온라인 및 오프라인 편집 문제를 해결한다고 주장하고 있음. 그러나 실제로는 오프라인 편집 경험이 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18151",
+      "guid": "https://news.hada.io/topic?id=18151",
+      "pubDate": "2024-12-08T11:34:21+09:00",
       "author": "neo",
       "category": ""
     }
