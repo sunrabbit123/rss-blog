@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T17:34:39+09:00",
+  "lastBuildDate": "2024-12-09T18:34:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6343,6 +6343,19 @@
       "link": "https://news.hada.io/topic?id=18171",
       "guid": "https://news.hada.io/topic?id=18171",
       "pubDate": "2024-12-09T17:34:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "영국, 시리얼·머핀·버거의 주간 TV 광고 금지 조치",
+      "description": {
+        "$text": "<p>죄송하지만, 제공된 콘텐츠에는 요약할 수 있는 정보가 없습니다. 접근이 거부된 페이지에 대한 설명만 포함되어 있습니다. 다른 콘텐츠나 질문이 있다면 도와드리겠습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18172",
+      "guid": "https://news.hada.io/topic?id=18172",
+      "pubDate": "2024-12-09T18:34:11+09:00",
       "author": "neo",
       "category": ""
     }
