@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T10:11:02+09:00",
+  "lastBuildDate": "2024-12-09T10:59:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6149,6 +6149,58 @@
       "guid": "https://news.hada.io/topic?id=18153",
       "pubDate": "2024-12-09T09:56:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ollama를 활용한 구조화된 출력",
+      "description": {
+        "$text": "<h2>구조화된 출력</h2>\n<h3>2024년 12월 6일</h3>\n<p>Ollama는 이제 JSON 스키마로 정의된 특정 형식에 모델의 출력을 제한할 수 있는 구조화된 출력을 지원함. Ollama Python 및 JavaScript 라이브러리가 구조화된 출력을 지원하도록 업데이트됨.</p>\n<ul>\n<li>구조화된 출력의 사용 사례:\n<ul>\n<li>문서에서 데이터 파",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18158",
+      "guid": "https://news.hada.io/topic?id=18158",
+      "pubDate": "2024-12-09T10:59:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유나이티드헬스의 환자 치료 보장 거부 시도 (2023)",
+      "description": {
+        "$text": "<h3>UnitedHealthcare의 보험 거부 사례</h3>\n<ul>\n<li>\n<p><strong>배경</strong>: Christopher McNaughton은 펜실베이니아 주립대학의 학생으로, 궤양성 대장염 치료를 위해 보험사 UnitedHealthcare와 싸우고 있음. 이 과정에서 보험사의 내부 절차가 드러남.</p>\n</li>\n<li>\n<p><strong>보험사의 거부</strong>: McN",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18157",
+      "guid": "https://news.hada.io/topic?id=18157",
+      "pubDate": "2024-12-09T10:56:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Postgres 활용 방법",
+      "description": {
+        "$text": "<h2>목표 및 영감</h2>\n<ul>\n<li>이 저장소의 목표는 <strong>Postgres를 모든 것에 사용하는 방법</strong>을 보여주는 것임.</li>\n<li>Amazing CTO의 기사와 @cpursley의 GitHub gist에서 영감을 받음.</li>\n</ul>\n<h2>왜 이 목록을 유지하는가?</h2>\n<ul>\n<li>매주 Postgres 위에 새로운 도구나 사용 방법이 등장하므...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18156",
+      "guid": "https://news.hada.io/topic?id=18156",
+      "pubDate": "2024-12-09T10:53:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "해커를 위한 브라우저, Nyxt",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Nyxt: 해커의 브라우저</strong></p>\n<ul>\n<li>키보드를 떠나지 않고 인터넷에서 정보를 빠르게 분석, 탐색, 추출할 수 있는 브라우저인 Nyxt에 대한 설명임.</li>\n</ul>\n</li>\n<li>\n<p><strong>강력한 링크 힌팅</strong></p>\n<ul>\n<li>키보드로 링크를 따라가는 과정을 가속화함. 마우스를 사용하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18155",
+      "guid": "https://news.hada.io/topic?id=18155",
+      "pubDate": "2024-12-09T10:50:18+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
