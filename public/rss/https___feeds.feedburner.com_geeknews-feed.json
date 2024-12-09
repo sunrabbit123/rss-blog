@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T10:59:19+09:00",
+  "lastBuildDate": "2024-12-09T11:34:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6200,6 +6200,136 @@
       "link": "https://news.hada.io/topic?id=18155",
       "guid": "https://news.hada.io/topic?id=18155",
       "pubDate": "2024-12-09T10:50:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 웹사이트에서 AI 허튼소리 제거 기술",
+      "description": {
+        "$text": "HN 공개: 웹사이트에서 AI 허튼소리 제거 기술",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18170",
+      "guid": "https://news.hada.io/topic?id=18170",
+      "pubDate": "2024-12-09T11:34:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"가정용 BGP: 가정에 DIA 회선 설치\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>배경</strong></p>\n<ul>\n<li>AS54316 네트워크는 AP Foundation의 서비스를 지원하며, 뉴욕의 데이터센터에 기반을 두고 있음.</li>\n<li>가정에서의 물리적 인프라 호스팅은 기후 제어, 전력, 보안, 네트워크 연결 등 여러 도전 과제를 제시함.</li>\n<li>특히 네트워크 연결은 2개월 이상, 2.5마일",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18169",
+      "guid": "https://news.hada.io/topic?id=18169",
+      "pubDate": "2024-12-09T11:26:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mathics 7.0 – Mathematica의 오픈소스 대안",
+      "description": {
+        "$text": "<h2>Mathics3/mathics-core 업데이트 요약</h2>\n<ul>\n<li>\n<p><strong>새로운 기능 및 개선 사항</strong></p>\n<ul>\n<li>내장 함수의 게으른 로딩을 지원하기 위한 작업이 진행됨.</li>\n<li>Python 코드와 스타일을 현대화하고, 타입 주석을 추가하며, 철자 오류를 제거함.</li>\n<li>SymPy 및 Python의 최신 버전 사용....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18168",
+      "guid": "https://news.hada.io/topic?id=18168",
+      "pubDate": "2024-12-09T11:23:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년에 내가 배운 52가지",
+      "description": {
+        "$text": "<p>2014년부터 매년 새로 배운 52가지를 정리하는 Tom Whitwell의 재미난 리스트</p>\n<ol>\n<li>한국은 세금 회피를 방지하기 위해 8천만원 이상의 회사 차량에 못생긴 형광 녹색 번호판을 도입하였으며, 이로 인해 고급차 판매가 27% 감소</li>\n<li>널리 사용되는 건강 데이터에서 <code>불법인</code> DB 쿼리 한문장을",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18167",
+      "guid": "https://news.hada.io/topic?id=18167",
+      "pubDate": "2024-12-09T11:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Mise: 개발 도구, 환경 변수, 작업 실행기",
+      "description": {
+        "$text": "<h3>mise란 무엇인가?</h3>\n<ul>\n<li>mise는 asdf, nvm, pyenv와 유사하게 node, python, cmake, terraform 등 다양한 개발 도구를 관리하는 도구임</li>\n<li>direnv와 유사하게 프로젝트 디렉토리별 환경 변수를 관리함</li>\n<li>make와 유사하게 프로젝트 빌드 및 테스트에 사용되는 작업을 관리함</li>\n</ul>\n<h3>30초...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18166",
+      "guid": "https://news.hada.io/topic?id=18166",
+      "pubDate": "2024-12-09T11:20:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN에 알림: 10년간의 개인 데이터가 있는 Google 계정 잠금 해제 도움 요청",
+      "description": {
+        "$text": "<ul>\n<li>Google 계정에 접근할 수 없게 되어 10년 이상의 디지털 생활이 담긴 계정을 복구하려고 애쓰고 있는 상황임</li>\n</ul>\n<h2>상황</h2>\n<ul>\n<li>오늘 아침에 완전히 계정 접근이 차단됨</li>\n<li>&quot;계정을 보호하라&quot;는 메시지를 받음</li>\n<li>새 비밀번호와 복구 정보를 설정했지만 로그인 화면으로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18165",
+      "guid": "https://news.hada.io/topic?id=18165",
+      "pubDate": "2024-12-09T11:17:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "세가 채널 게임 이미지 파일 형식의 리버스 엔지니어링",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>Sega Channel은 케이블 가입자에게 매달 약 50개의 Sega Genesis 게임을 제공하는 게임 온디맨드 서비스였음.</li>\n<li>1994년 6월부터 1998년 6월까지 운영되었으며, 가입자는 Genesis와 케이블 TV 라인을 연결하는 어댑터 카트리지를 받았음.</li>\n<li>게임 메뉴를 다운로드하고 선택한 게임을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18164",
+      "guid": "https://news.hada.io/topic?id=18164",
+      "pubDate": "2024-12-09T11:14:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "롤러코스터 타이쿤, 마지막 남은 동종 게임 [비디오]",
+      "description": {
+        "$text": "롤러코스터 타이쿤, 마지막 남은 동종 게임 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18163",
+      "guid": "https://news.hada.io/topic?id=18163",
+      "pubDate": "2024-12-09T11:11:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 꼭 봐야 할 기술관련 TED 강연들",
+      "description": {
+        "$text": "<ul>\n<li>오디오 컴퓨터 세계에 오신 것을 환영합니다 - Jason Rugolo</li>\n<li>AI는 어떻게 화면을 벗어나 현실 세계로 나올까요? - Daniela Rus</li>\n<li>이제 AI와 함께라면, 누구나 코더가 될 수 있습니다 - Thomas Dohmke</li>\n<li>마이크로 로봇을 통해 몸 속을 들여다보는 방법 - Alex Luebke, Vivek Kumbhari</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18162",
+      "guid": "https://news.hada.io/topic?id=18162",
+      "pubDate": "2024-12-09T11:09:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Mend it Mark, £25k 오디오 앰프 수리에 대한 의심스러운 저작권 침해 주장 제기",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>£25,000 톰 에반스 프리앰프 수리와 저작권 문제</h2>\n</li>\n<li>\n<p>독자가 [톰 에반스]가 [마크]의 <em>Mend it Mark</em> 유튜브 채널의 수리 비디오에 대해 저작권 클레임을 제기했다고 알려줌. 이로 인해 해당 수리 비디오와 [마크]의 코멘터리가 삭제됨.</p>\n</li>\n<li>\n<p>새로운 비디오에서 [마크",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18161",
+      "guid": "https://news.hada.io/topic?id=18161",
+      "pubDate": "2024-12-09T11:08:20+09:00",
       "author": "neo",
       "category": ""
     }
