@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-08T19:34:17+09:00",
+  "lastBuildDate": "2024-12-09T10:11:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6123,6 +6123,32 @@
       "guid": "https://news.hada.io/topic?id=18152",
       "pubDate": "2024-12-08T19:34:17+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Terrateam - 오픈소스 GitOps CI/CD 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>GitHub 기반 인프라 워크플로 자동화를 지원하는 GitOps CI/CD 플랫폼</li>\n<li>Terraform, OpenTofu, CDKTF, 및 Terragrunt 작업을 pull request를 통해 조율할 수 있음</li>\n<li>SaaS 서비스와 온프레미스 배포 옵션을 제공하며, 완전한 Git 통합으로 인프라 코드 관리에 최적화되어 있음</li>\n<li>\n<em>True...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18154",
+      "guid": "https://news.hada.io/topic?id=18154",
+      "pubDate": "2024-12-09T10:11:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년을 위한 7개의 데이터베이스",
+      "description": {
+        "$text": "<ul>\n<li>다양한 문제를 해결하기 위해 주목할 가치가 있는 DB 7개를 소개</li>\n<li>이는 &quot;최고의 DB&quot; 목록이 아닌, 새롭고 유용한 관점을 제공하는 도구들</li>\n<li>2025년엔 이들 각 DB에 대해 일주일씩 투자해보길 바람(7 DBs in 7 Weeks)</li>\n</ul>\n<h2>1. PostgreSQL: 기본 데이터베이스</h2>\n<ul>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18153",
+      "guid": "https://news.hada.io/topic?id=18153",
+      "pubDate": "2024-12-09T09:56:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
