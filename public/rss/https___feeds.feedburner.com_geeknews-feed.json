@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T11:34:19+09:00",
+  "lastBuildDate": "2024-12-09T17:34:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6330,6 +6330,19 @@
       "link": "https://news.hada.io/topic?id=18161",
       "guid": "https://news.hada.io/topic?id=18161",
       "pubDate": "2024-12-09T11:08:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JSON5 - 인간을 위한 JSON",
+      "description": {
+        "$text": "<ul>\n<li>JSON5는 JSON 파일 형식을 확장하여 사람이 직접 작성하고 유지보수하기 쉽게 만든 형식\n<ul>\n<li>기계 간 통신을 위한 용도로는 사용되지 않음</li>\n<li>2012년에 시작되어 2022년 기준으로 주당 6500만 회 이상 다운로드되며, npm에서 가장 많이 의존하는 패키지 상위 0.1%에 속함</li>\n<li>Chromium, Next.j...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18171",
+      "guid": "https://news.hada.io/topic?id=18171",
+      "pubDate": "2024-12-09T17:34:39+09:00",
       "author": "neo",
       "category": ""
     }
