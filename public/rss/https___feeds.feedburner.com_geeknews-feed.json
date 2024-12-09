@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T18:34:11+09:00",
+  "lastBuildDate": "2024-12-09T21:09:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6357,6 +6357,19 @@
       "guid": "https://news.hada.io/topic?id=18172",
       "pubDate": "2024-12-09T18:34:11+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NAVIX - 네이버에서 만든 리눅스 배포판",
+      "description": {
+        "$text": "<ul>\n<li>OpenELA 기반 OS로 강력한 하드웨어와 결합하여 탄탄한 호환성, 안정성, 유연성을 제공</li>\n<li>NAVIX의 라이프 사이클 정책은 5+5 정책으로, 총 10년의 수명</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18173",
+      "guid": "https://news.hada.io/topic?id=18173",
+      "pubDate": "2024-12-09T21:09:34+09:00",
+      "author": "zihado",
       "category": ""
     }
   ]
