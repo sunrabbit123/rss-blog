@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-10T10:02:44+09:00",
+  "lastBuildDate": "2024-12-10T11:35:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6525,6 +6525,32 @@
       "link": "https://news.hada.io/topic?id=18186",
       "guid": "https://news.hada.io/topic?id=18186",
       "pubDate": "2024-12-10T09:59:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Randflake ID: 분산, 균일, 예측 불가능, 고유 임의 ID 생성기",
+      "description": {
+        "$text": "<p>Randflake ID는 분산 환경에서 사용할 수 있는 64비트 고유 식별자 생성 시스템입니다.</p>\n<h3>주요 특징</h3>\n<ul>\n<li>\n<strong>예측 불가능성</strong>: 블록 암호를 사용하여 다음/이전 ID 예측이 불가능</li>\n<li>\n<strong>고유성 보장</strong>: 타임스탬프, 노드 ID, 시퀀스 번호를 조합</li>\n<li>\n<strong>분",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18189",
+      "guid": "https://news.hada.io/topic?id=18189",
+      "pubDate": "2024-12-10T11:35:29+09:00",
+      "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "헬스케어 임원 살인 사건 관련 소프트웨어 개발자 체포",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>Luigi Mangione: CEO 총격 용의자에 대한 정보</h3>\n<ul>\n<li>Luigi Mangione는 United Healthcare의 CEO를 뉴욕에서 총격으로 사망하게 한 사건과 관련하여 체포된 26세 남성임.</li>\n<li>경찰은 그를 펜실베이니아 알투나의 맥도날드에서 인식하고 체포했으며, 그에게서 미국 의료 시스템에 대한 불만을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18188",
+      "guid": "https://news.hada.io/topic?id=18188",
+      "pubDate": "2024-12-10T11:33:28+09:00",
       "author": "neo",
       "category": ""
     }
