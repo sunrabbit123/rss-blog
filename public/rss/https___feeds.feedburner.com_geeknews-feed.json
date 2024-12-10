@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-10T14:06:59+09:00",
+  "lastBuildDate": "2024-12-10T17:44:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6565,6 +6565,19 @@
       "guid": "https://news.hada.io/topic?id=18190",
       "pubDate": "2024-12-10T14:06:59+09:00",
       "author": "plant",
+      "category": ""
+    },
+    {
+      "title": "긴 컨텍스트 임베딩 모델에서 청킹(Chunking)은 여전히 필요할까요?",
+      "description": {
+        "$text": "<p>긴 컨텍스트 임베딩 모델이 모든 것을 처리할 수 있는 상황에서도 청킹 전략이 여전히 유용한지, 그리고 다양한 청킹 전략을 비교 분석하여 최적의 접근 방식을 찾는 방법에 대해 다룹니다.</p>\n<h3>긴 컨텍스트 임베딩(Long Context Embedding)</h3>\n<ul>\n<li>Jina Embeddings v3와 같은 모델을 사용하여 최대 8,192",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18191",
+      "guid": "https://news.hada.io/topic?id=18191",
+      "pubDate": "2024-12-10T17:44:23+09:00",
+      "author": "lemonmint",
       "category": ""
     }
   ]
