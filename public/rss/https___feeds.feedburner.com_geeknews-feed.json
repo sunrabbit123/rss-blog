@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-10T17:44:23+09:00",
+  "lastBuildDate": "2024-12-10T19:34:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6578,6 +6578,19 @@
       "guid": "https://news.hada.io/topic?id=18191",
       "pubDate": "2024-12-10T17:44:23+09:00",
       "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "Trellis – 3D 메쉬 생성 모델",
+      "description": {
+        "$text": "<h4>새로운 3D 생성 방법 소개</h4>\n<ul>\n<li>\n<p><strong>Structured LATent (SLAT) 표현</strong>: 다양한 출력 형식으로 디코딩할 수 있는 통합된 구조적 잠재 표현을 소개함. 이는 강력한 비전 기반 모델에서 추출한 밀도 높은 다중 뷰 시각적 특징과 희소하게 채워진 3D 그리드를 통합하여 구조적(기하학적) 및 텍스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18192",
+      "guid": "https://news.hada.io/topic?id=18192",
+      "pubDate": "2024-12-10T19:34:31+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
