@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-10T09:56:43+09:00",
+  "lastBuildDate": "2024-12-10T10:02:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6499,6 +6499,32 @@
       "link": "https://news.hada.io/topic?id=18176",
       "guid": "https://news.hada.io/topic?id=18176",
       "pubDate": "2024-12-10T09:23:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Himalaya - 이메일 관리 CLI",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>다중 계정 구성</strong>: 마법사 기능을 통한 인터랙티브 설정 또는 TOML 기반의 수동 설정 지원</li>\n<li>\n<strong>메시지 작성</strong>: <code>$EDITOR</code>를 기반으로 한 메시지 작성</li>\n<li>다양한 백엔드 지원: <strong>IMAP</strong>, <strong>Maildir</strong>, <strong>Notmuch</stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18187",
+      "guid": "https://news.hada.io/topic?id=18187",
+      "pubDate": "2024-12-10T10:02:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "농담 아님, Funko가 방금 내 엄마에게 전화했음",
+      "description": {
+        "$text": "농담 아님, Funko가 방금 내 엄마에게 전화했음",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18186",
+      "guid": "https://news.hada.io/topic?id=18186",
+      "pubDate": "2024-12-10T09:59:43+09:00",
       "author": "neo",
       "category": ""
     }
