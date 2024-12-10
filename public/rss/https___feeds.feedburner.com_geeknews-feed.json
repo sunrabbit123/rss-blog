@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-09T21:09:34+09:00",
+  "lastBuildDate": "2024-12-10T09:56:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6370,6 +6370,136 @@
       "guid": "https://news.hada.io/topic?id=18173",
       "pubDate": "2024-12-09T21:09:34+09:00",
       "author": "zihado",
+      "category": ""
+    },
+    {
+      "title": "Hetzner의 계정 취소 및 모든 서버 종료 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>서버 중단 사건</strong></p>\n<ul>\n<li>Kiwix는 Hetzner의 서비스 중단으로 인해 서버가 예고 없이 종료되었음.</li>\n<li>Hetzner는 이메일을 보냈다고 주장했으나, Kiwix는 이를 받지 못했음.</li>\n<li>데이터는 이미 삭제되어 복구 불가능한 상태였음.</li>\n</ul>\n</li>\n<li>\n<p><strong>대처 및",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18185",
+      "guid": "https://news.hada.io/topic?id=18185",
+      "pubDate": "2024-12-10T09:56:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왜 Pat Gelsinger는 Intel에 적합하지 않았는가",
+      "description": {
+        "$text": "<ul>\n<li>Pat Gelsinger는 기술적으로 뛰어나고 근면하며 훌륭한 관리자로 평가받음</li>\n<li>그러나 Intel의 CEO로서 그의 리더십은 회사의 <em>문화적 문제</em>를 해결하지 못하고, 오히려 악화시켰다는 비판을 받고 있음</li>\n</ul>\n<h3>Intel과 Oxide의 협력</h3>\n<ul>\n<li>\n<strong>Oxide</strong>는 초기부터 Int...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18184",
+      "guid": "https://news.hada.io/topic?id=18184",
+      "pubDate": "2024-12-10T09:53:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenWrt 공급망 침해 사건",
+      "description": {
+        "$text": "<h3>소개</h3>\n<ul>\n<li>Flatt Security Inc.의 보안 엔지니어 RyotaK가 OpenWrt의 펌웨어 업그레이드 과정에서 보안 취약점을 발견함.</li>\n<li>OpenWrt는 임베디드 장치용 Linux 기반 펌웨어로, 특히 라우터에 인기가 많음.</li>\n</ul>\n<h3>sysupgrade.openwrt.org</h3>\n<ul>\n<li>\n<code>sysupgrade.openwrt.org</code...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18183",
+      "guid": "https://news.hada.io/topic?id=18183",
+      "pubDate": "2024-12-10T09:50:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google의 최첨단 양자(quantum) 칩, Willow",
+      "description": {
+        "$text": "<ul>\n<li>Google이 새롭게 개발한 양자 칩 <strong>Willow</strong>는 <strong>오류율 감소</strong>와 <strong>성능 향상</strong>을 통해 대규모 양자 컴퓨터 구축에 한 발짝 더 다가섬</li>\n<li>Willow는 기존 슈퍼컴퓨터로는 10제타년(10^25년)이 걸리는 계산을 단 5분 만에 완료하여 양자 컴퓨팅의 잠재력을 입증함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18182",
+      "guid": "https://news.hada.io/topic?id=18182",
+      "pubDate": "2024-12-10T09:47:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, Sora 출시",
+      "description": {
+        "$text": "<ul>\n<li>Sora는 텍스트에서 현실감 있는 비디오를 생성하는 모델로, <em>현실 이해 및 시뮬레이션</em>을 목표로 개발됨</li>\n<li>새로운 버전 <strong>Sora Turbo</strong>는 이전보다 훨씬 빠른 속도로 동작하며, <em>Sora.com</em>에서 독립형 제품으로 출시됨</li>\n<li>\n<em>ChatGPT Plus 및 Pro 사용자</em>는 추가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18181",
+      "guid": "https://news.hada.io/topic?id=18181",
+      "pubDate": "2024-12-10T09:44:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "펀코에 의해 중단된 Itch.io",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>이슈 발생</strong></p>\n<ul>\n<li>itch.io가 Funko의 &quot;Funko Pop&quot;에 의해 도메인이 비활성화됨.</li>\n<li>Brand Shield라는 AI 기반 브랜드 보호 소프트웨어가 잘못된 피싱 보고서를 생성하여 도메인 등록기관인 iwantmyname에 전달함.</li>\n<li>iwantmyname은 itch.io의 응답을 무시하고",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18180",
+      "guid": "https://news.hada.io/topic?id=18180",
+      "pubDate": "2024-12-10T09:41:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google의 AI 날씨 예측 모델 GenCast는 꽤 훌륭함",
+      "description": {
+        "$text": "<ul>\n<li>Google DeepMind의 <strong>GenCast</strong>는 전통적인 날씨 예측 시스템과 비교할 만한 정확성을 가짐</li>\n<li>최근 연구에 따르면, GenCast는 2019년 데이터를 기반으로 테스트했을 때 세계 최고 수준의 예측 모델 ENS를 97.2%의 확률로 능가함</li>\n</ul>\n<h2>GenCast의 주요 특징</h2>\n<ul>\n<li>\n<stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18179",
+      "guid": "https://news.hada.io/topic?id=18179",
+      "pubDate": "2024-12-10T09:32:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "VectorChord - 40만개 벡터를 PostgreSQL에 $1로 저장하기",
+      "description": {
+        "$text": "<ul>\n<li>대규모 벡터를 비용 효율적으로 관리하기 위한 PostgreSQL용 새로운 벡터 검색 확장</li>\n<li>768차원의 1억 개 벡터에 대해 상위 10개 쿼리에서 QPS 131, 정확도 0.95 달성 가능\n<ul>\n<li>월 $250으로 단일 머신에서 실행 가능</li>\n</ul>\n</li>\n<li>400,000개 벡터를 $1에 저장 가능:\n<ul>\n<li>Pinecone(저장...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18178",
+      "guid": "https://news.hada.io/topic?id=18178",
+      "pubDate": "2024-12-10T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Raspberry Pi 5, Valve Steam Link 지원",
+      "description": {
+        "$text": "<ul>\n<li>Raspberry Pi Connect로 라즈베리 파이를 어디서나 원격으로 제어할 수 있게 되었음</li>\n<li>Valve의 Steam Link를 사용하면 PC를 옮길 필요 없이, 집안 어디서나 PC 게임을 플레이할 수 있음</li>\n<li>이제 Raspberry Pi 5에서도 Steam Link를 실행 가능</li>\n</ul>\n<h2>Steam Link의 주요 특징</h2>\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18177",
+      "guid": "https://news.hada.io/topic?id=18177",
+      "pubDate": "2024-12-10T09:29:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "연구: 온라인에서 부정적인 콘텐츠를 접하면 정신 건강이 악화됩니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<em>정신 건강에 어려움을 겪는 사람</em>은 부정적 콘텐츠를 더 많이 열람하는 경향이 있으며, 이러한 콘텐츠가 증상을 더욱 악화시킴</li>\n<li>MIT의 연구는 건강과 온라인 행동 간에 <em>상호 작용하는 인과적 관계</em>가 있음을 보여줌</li>\n<li>연구진이 정신 건강을 보호하고자 하는 사람들을 위해 <em...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18176",
+      "guid": "https://news.hada.io/topic?id=18176",
+      "pubDate": "2024-12-10T09:23:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
