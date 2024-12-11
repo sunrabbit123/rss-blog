@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-11T18:10:34+09:00",
+  "lastBuildDate": "2024-12-12T05:50:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6760,6 +6760,19 @@
       "guid": "https://news.hada.io/topic?id=18209",
       "pubDate": "2024-12-11T15:33:19+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Deno 2.1",
+      "description": {
+        "$text": "<ul>\n<li>ESM import 구문으로 WASM 바로 불러올 수 있음\n<ul>\n<li>\n<code>import { add } from './add.wasm';</code>\n</li>\n</ul>\n</li>\n<li>LTS 지원 시작\n<ul>\n<li>6주마다 새로운 마이너 릴리스와 거의 매주 새로운 패치를 출시 예정</li>\n</ul>\n</li>\n<li>더 좋아진 Node.js / npm 호환성\n<ul>\n<li>package.json에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18210",
+      "guid": "https://news.hada.io/topic?id=18210",
+      "pubDate": "2024-12-12T05:50:22+09:00",
+      "author": "cichol",
       "category": ""
     }
   ]
