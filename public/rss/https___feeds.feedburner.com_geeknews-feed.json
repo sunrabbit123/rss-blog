@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-11T12:56:09+09:00",
+  "lastBuildDate": "2024-12-11T15:33:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6747,6 +6747,19 @@
       "guid": "https://news.hada.io/topic?id=18208",
       "pubDate": "2024-12-11T12:56:09+09:00",
       "author": "cremit",
+      "category": ""
+    },
+    {
+      "title": "HN 출시: Double (YC W24) – 0% 비용 비율의 인덱스 투자",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Double 소개</strong></p>\n<ul>\n<li>Double는 50개 이상의 주식 시장 지수에 0% 비용 비율로 투자할 수 있는 플랫폼임.</li>\n<li>관리, 리밸런싱, 세금 손실 수확 등을 월 $1에 제공함.</li>\n<li>Robinhood가 수수료를 없앤 것처럼 ETF와 뮤추얼 펀드에 저비용 트렌드를 도입하는 것이 목표임.</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18209",
+      "guid": "https://news.hada.io/topic?id=18209",
+      "pubDate": "2024-12-11T15:33:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
