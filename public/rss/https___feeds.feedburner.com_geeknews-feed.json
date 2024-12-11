@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-11T10:33:08+09:00",
+  "lastBuildDate": "2024-12-11T12:56:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6734,6 +6734,19 @@
       "guid": "https://news.hada.io/topic?id=18207",
       "pubDate": "2024-12-11T10:33:08+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Project Nebula - Hashicorp Vault, Infisical 등 중앙 집중식 Vault 대안",
+      "description": {
+        "$text": "<p>중앙에서 관리되는 Secret Management Solution들의 한계점에 대해서 생각 해보신 적 있으신가요? 민감한 정보나 크리덴셜을 단일 서버나 서비스가 중앙에서 관리하는 구조는 중앙 서버가 해킹 당하거나 내부자 위협으로 인해 관리 체계가 무너질 수 있습니다.<br />\n또한, 중앙 집중식 Vault는 데이터 소유자가 데이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18208",
+      "guid": "https://news.hada.io/topic?id=18208",
+      "pubDate": "2024-12-11T12:56:09+09:00",
+      "author": "cremit",
       "category": ""
     }
   ]
