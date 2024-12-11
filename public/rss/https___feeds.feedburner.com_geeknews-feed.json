@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-10T19:34:31+09:00",
+  "lastBuildDate": "2024-12-11T10:11:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6590,6 +6590,136 @@
       "link": "https://news.hada.io/topic?id=18192",
       "guid": "https://news.hada.io/topic?id=18192",
       "pubDate": "2024-12-10T19:34:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "라즈베리 파이 500 리뷰: 다시 컴퓨터가 된 키보드",
+      "description": {
+        "$text": "<ul>\n<li>Tom's Hardware 총평 : Raspberry Pi 400의 훌륭한 업그레이드 버전으로, Raspberry Pi 5의 강력한 성능을 편리한 폼팩터에 담음. 뛰어난 열 성능과 3GHz로의 오버클럭도 가능.</li>\n<li>장점 : 우수한 열 성능, 편리한 폼팩터, 기본적으로 빠르며, 더 빠르게 조정 가능</li>\n<li>단점 : GPIO 접근 불편, NVMe ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18206",
+      "guid": "https://news.hada.io/topic?id=18206",
+      "pubDate": "2024-12-11T10:11:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 복잡하고 까다로운 유지보수, 이제는 걱정 없이 맡기세요!",
+      "description": {
+        "$text": "<h3>EffiSolve를 선택해야 하는 이유</h3>\n<ol>\n<li>\n<p>버그 없는 환경, 안정적인 운영<br />\n예상치 못한 오류나 성능 저하로 인해 발생하는 다운타임은 비즈니스에 치명적일 수 있습니다. EffiSolve는 이런 문제를 예방하고 해결하여 시스템을 항상 최상의 상태로 유지합니다.</p>\n</li>\n<li>\n<p>전문가 팀의 맞춤형 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18205",
+      "guid": "https://news.hada.io/topic?id=18205",
+      "pubDate": "2024-12-11T10:04:26+09:00",
+      "author": "safethecode",
+      "category": ""
+    },
+    {
+      "title": "Llama 3.3 70B로 이제 GPT-4급 모델을 노트북에서 실행가능",
+      "description": {
+        "$text": "<ul>\n<li>GPT-4급 성능의 Meta의 Llama 3.3 70B 모델을 일반 노트북(64GB MacBook Pro M2)에서 실행할 수 있게 됨</li>\n<li>2023년 3월 LLaMA 출시 이후 약 20개월 만에 이룬 큰 발전</li>\n<li>Ollama를 통해 42GB의 모델 데이터를 로컬에 다운로드하여 실행함 (애플의 MLX로도 실행 가능)\n<ul>\n<li>64GB RAM이 필요하며...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18204",
+      "guid": "https://news.hada.io/topic?id=18204",
+      "pubDate": "2024-12-11T10:02:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Orchestrion: Go 애플리케이션을 위한 컴파일 타임 자동 계측 도구",
+      "description": {
+        "$text": "<ul>\n<li>Datadog에서 개발한 Go 애플리케이션을 위한 안전하고 신뢰할 수 있는 자동 계측 도구</li>\n<li>컴파일 타임에 계측을 삽입하여 런타임 오버헤드를 최소화</li>\n<li>RASP 기능을 통해 애플리케이션을 보호</li>\n<li>컴파일 과정에서 소스 코드를 수정하여 Datadog APM 추적을 위한 계측을 자동으로 삽입</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18203",
+      "guid": "https://news.hada.io/topic?id=18203",
+      "pubDate": "2024-12-11T10:01:16+09:00",
+      "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "gARM: ARM64에 특화된 고성능 Go 컴파일러",
+      "description": {
+        "$text": "<p>Go 언어의 단순성과 저수준 제어 및 고성능을 결합한 ARM64 어셈블리 컴파일러.<br />\nARM 아키텍처에 특화된 최적화, 하드웨어 수준 튜닝, 보안 제어, 디버깅 도구 등을 제공.</p>\n<ul>\n<li>Go 컴파일러와 ARM 어셈블러들은 많지만 ARM의 고유한 기능을 활용하는 도구는 부족.\n<ul>\n<li>ARM의 유연한 산술 명령어의 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18202",
+      "guid": "https://news.hada.io/topic?id=18202",
+      "pubDate": "2024-12-11T09:53:44+09:00",
+      "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "Limbo - Rust로 완전히 새롭게 작성된 SQLite",
+      "description": {
+        "$text": "<ul>\n<li>Limbo는 메모리 안전성을 제공하는 Rust로 SQLite를 재구현하는 실험적 프로젝트\n<ul>\n<li>SQLite의 임베디드 특성을 좋아하지만, 더 개방적인 개발 모델을 원해 libSQL 프로젝트 시작</li>\n</ul>\n</li>\n<li>SQLite를 포크한 이유: 새로운 기능을 쉽게 통합할 수 있고, 기존 코드와의 호환성 유지 가능\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18201",
+      "guid": "https://news.hada.io/topic?id=18201",
+      "pubDate": "2024-12-11T09:51:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "음악을 지키고, 아카이브를 지키자!",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>500명이 넘는 음악가들이 주요 음반사들이 인터넷 아카이브를 파괴하려는 소송을 중단할 것을 요구하며 목소리를 내고 있음. 이들은 음악 산업이 예술가들의 이익과 일치하는 행동을 취할 것을 촉구하고 있음.</p>\n</li>\n<li>\n<h3>공정성과 보존을 위한 음악가들의 공개 서한</h3>\n<ul>\n<li>음악 산업은 주",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18200",
+      "guid": "https://news.hada.io/topic?id=18200",
+      "pubDate": "2024-12-11T09:48:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글 윌로우라는 물건",
+      "description": {
+        "$text": "<ul>\n<li>Google의 Willow 양자 칩 발표에 대한 전문가 견해\n<ul>\n<li>Scott Aaronson : 계산 복잡도 이론 분야에서 저명한 컴퓨터 과학자로 저서 &quot;스콧 애론슨의 양자 컴퓨팅 강의&quot;가 있음</li>\n</ul>\n</li>\n<li>Q2B(Quantum 2 Business) 컨퍼런스 참석 중 Google Quantum 팀의 새로운 105큐빗 초전도 칩 &qu...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18199",
+      "guid": "https://news.hada.io/topic?id=18199",
+      "pubDate": "2024-12-11T09:45:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "screenpipe - 데스크탑의 모든 데이터를 가져오는 API",
+      "description": {
+        "$text": "<ul>\n<li>사용자의 데스크탑 컨텍스트와 활동을 이해하고 향상 시키는 AI 에이전트를 쉽게 개발 가능</li>\n<li>데스크탑의 스크린, 보이스, 키보드, 마우스, 카메라를 모두 녹화</li>\n<li>100% 로컬에서 실행되며, 크로스플랫폼, 24/7 모든 활동을 기록</li>\n<li>화면에서 텍스트 추출, 오디오 Transcribe, 사용자 액션을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18198",
+      "guid": "https://news.hada.io/topic?id=18198",
+      "pubDate": "2024-12-11T09:44:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "트리 계산법",
+      "description": {
+        "$text": "<h2>Tree Calculus의 개요</h2>\n<ul>\n<li>\n<strong>Tree Calculus</strong>는 계산의 본질을 포착하는 간단한 연산자와 의미론을 가진 투링 완전한 시스템임.</li>\n<li>함수의 직렬화와 역직렬화가 가능하며, 다양한 형식으로 컴파일할 수 있음.</li>\n<li>프로그램 분석, 타입 체크, 컴파일, 최적화 등을 프로그램 내에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18197",
+      "guid": "https://news.hada.io/topic?id=18197",
+      "pubDate": "2024-12-11T09:42:18+09:00",
       "author": "neo",
       "category": ""
     }
