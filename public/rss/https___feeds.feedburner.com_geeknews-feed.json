@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T13:07:45+09:00",
+  "lastBuildDate": "2024-12-12T14:33:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6968,6 +6968,19 @@
       "guid": "https://news.hada.io/topic?id=18225",
       "pubDate": "2024-12-12T12:48:34+09:00",
       "author": "juwoong",
+      "category": ""
+    },
+    {
+      "title": "PeerTube 모바일 앱: 주의력을 배려하며 영상 발견하기",
+      "description": {
+        "$text": "<h4>PeerTube 모바일 앱: 주의력을 배려하며 비디오 발견하기</h4>\n<ul>\n<li>Framasoft는 Android와 iOS용 PeerTube 모바일 앱의 첫 번째 버전을 출시함. 이 앱은 사용자의 주의력과 데이터를 착취하지 않으면서 더 많은 사람들이 비디오를 보고 플랫폼을 발견할 수 있도록 설계됨.</li>\n</ul>\n<h5>PeerTube 성장의 또 다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18227",
+      "guid": "https://news.hada.io/topic?id=18227",
+      "pubDate": "2024-12-12T14:33:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
