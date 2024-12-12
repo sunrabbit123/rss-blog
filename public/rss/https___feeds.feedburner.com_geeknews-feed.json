@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T14:33:34+09:00",
+  "lastBuildDate": "2024-12-12T21:34:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6980,6 +6980,32 @@
       "link": "https://news.hada.io/topic?id=18227",
       "guid": "https://news.hada.io/topic?id=18227",
       "pubDate": "2024-12-12T14:33:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "로보콜 방지 실패로 FCC에 의해 폐쇄될 위기에 처한 2400개 전화 서비스 제공업체",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>미디어 연락처</h3>\n<ul>\n<li>미디어 관계: MediaRelations@fcc.gov</li>\n</ul>\n</li>\n<li>\n<h3>주요 내용</h3>\n<ul>\n<li>2,400개 이상의 음성 서비스 제공업체가 로보콜 완화 데이터베이스 제출 요건을 준수하지 않아 제거될 위기에 처함.</li>\n<li>FCC는 로보콜 완화 책임에 대한 인식을 높이기 위해 더...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18229",
+      "guid": "https://news.hada.io/topic?id=18229",
+      "pubDate": "2024-12-12T21:34:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mullvad VPN 리뷰",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Mullvad VPN 보안 감사</h2>\n</li>\n<li>\n<p>X41이 Mullvad VPN 애플리케이션에 대한 소스 코드 접근을 포함한 화이트 박스 침투 테스트를 수행함.</p>\n</li>\n<li>\n<p>이 테스트는 Linux, Windows, macOS, Android, iOS 등 5개 플랫폼에서 실행되는 애플리케이션의 복잡성 때문에 도전적이었음.</p>\n</li>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18228",
+      "guid": "https://news.hada.io/topic?id=18228",
+      "pubDate": "2024-12-12T19:34:22+09:00",
       "author": "neo",
       "category": ""
     }
