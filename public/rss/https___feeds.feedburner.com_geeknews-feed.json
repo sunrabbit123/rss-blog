@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T21:34:19+09:00",
+  "lastBuildDate": "2024-12-12T23:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7006,6 +7006,19 @@
       "link": "https://news.hada.io/topic?id=18228",
       "guid": "https://news.hada.io/topic?id=18228",
       "pubDate": "2024-12-12T19:34:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "뉴저지 드론 미확인 목격, '비상사태' 촉구",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>드론 목격 사례 증가</strong></p>\n<ul>\n<li>11월 중순부터 뉴저지와 미국 북동부 지역에서 드론 군집 목격 사례가 보고됨.</li>\n<li>이러한 목격 사례는 의회 의원들의 불만을 불러일으키며, 제한적인 비상사태 선언 요구로 이어짐.</li>\n</ul>\n</li>\n<li>\n<p><strong>정치적 반응</strong></p>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18230",
+      "guid": "https://news.hada.io/topic?id=18230",
+      "pubDate": "2024-12-12T23:33:24+09:00",
       "author": "neo",
       "category": ""
     }
