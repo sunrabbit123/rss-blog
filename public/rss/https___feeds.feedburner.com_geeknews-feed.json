@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T12:41:14+09:00",
+  "lastBuildDate": "2024-12-12T13:07:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6942,6 +6942,32 @@
       "guid": "https://news.hada.io/topic?id=18214",
       "pubDate": "2024-12-12T11:20:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다",
+      "description": {
+        "$text": "memcpy(NULL, NULL, 0)은 더 이상 정의되지 않은 동작이 아닙니다",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18226",
+      "guid": "https://news.hada.io/topic?id=18226",
+      "pubDate": "2024-12-12T13:07:45+09:00",
+      "author": "guesswhat",
+      "category": ""
+    },
+    {
+      "title": "매일 5분만 써서 더욱 똑똑해지기 (feat. AI)",
+      "description": {
+        "$text": "<ul>\n<li>가추(Abduction)라는 추론 방식을 일상생활에서 연습하는 방법을 소개합니다.</li>\n<li>GPT를 활용해 새로운 주제에 대한 가설을 세우고 검증하며 사고력을 향상시킬 수 있음을 강조합니다.</li>\n<li>일상에서 주변 현상에 의문을 가지고 가추를 연습하면 더 똑똑해 질 수 있습니다.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18225",
+      "guid": "https://news.hada.io/topic?id=18225",
+      "pubDate": "2024-12-12T12:48:34+09:00",
+      "author": "juwoong",
       "category": ""
     }
   ]
