@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T05:50:22+09:00",
+  "lastBuildDate": "2024-12-12T10:37:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6773,6 +6773,45 @@
       "guid": "https://news.hada.io/topic?id=18210",
       "pubDate": "2024-12-12T05:50:22+09:00",
       "author": "cichol",
+      "category": ""
+    },
+    {
+      "title": "jq로 JSON 변환하기: 인터랙티브 가이드",
+      "description": {
+        "$text": "<ul>\n<li>jq는 JSON 데이터를 다루기 위한 명령줄 도구로, 대부분의 Linux 배포판에 기본 설치되어 있음</li>\n<li>JSON 데이터를 보기 좋게 출력(pretty print)하거나, 필터를 사용해 데이터를 변환하는 데 유용함</li>\n<li>개발자들이 꼭 배워야 할 5가지 CLI 도구에 포함될 정도로 강력하며, JSON 데이터를 다루는 다양...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18213",
+      "guid": "https://news.hada.io/topic?id=18213",
+      "pubDate": "2024-12-12T10:37:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>DSPy(Declarative Self-improving Python)는 프로그래밍을 통해 언어 모델(LM)을 제어하도록 설계된 프레임워크</li>\n<li>간단한 분류기부터 복잡한 RAG 파이프라인, 에이전트 루프까지 모듈화된 AI 시스템을 빠르게 구축할 수 있으며, 프롬프트와 가중치를 최적화하는 알고리듬도 제공</li>\n<li>기존의 불안정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18212",
+      "guid": "https://news.hada.io/topic?id=18212",
+      "pubDate": "2024-12-12T10:23:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "klongpy - 파이썬용 고속 어레이 프로그래밍 언어",
+      "description": {
+        "$text": "<ul>\n<li>NumPy의 강력한 성능을 활용하는 고성능 벡터화 연산으로 잘 알려진 Klong 배열 언어를 파이썬으로 변형한 것</li>\n<li>&quot;Battery Included&quot; 철학으로 내장 모듈 + 파이썬의 에코시스템을 결합, Klong의 간결한 구문으로 애플리케이션을 빠르게 개발할 수 있도록 지원</li>\n<li>데이터 과학자, 금융 분...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18211",
+      "guid": "https://news.hada.io/topic?id=18211",
+      "pubDate": "2024-12-12T09:45:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
