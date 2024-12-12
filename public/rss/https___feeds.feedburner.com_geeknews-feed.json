@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T10:37:02+09:00",
+  "lastBuildDate": "2024-12-12T12:41:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -6812,6 +6812,136 @@
       "guid": "https://news.hada.io/topic?id=18211",
       "pubDate": "2024-12-12T09:45:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음",
+      "description": {
+        "$text": "<ul>\n<li>Github: 오류 처리에 200 대신 400, 401 상태 코드를 보내주세요.</li>\n<li>Facebook: 오류 토큰의 <code>error</code> 속성을 객체 대신 문자열로 바꿔주세요.</li>\n<li>Tiktok: <code>client_key</code> 인자를 <code>client_id</code>로 바꿔주세요.</li>\n<li>Strava: <code>scope</code> 인자에 반점(,)이 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18224",
+      "guid": "https://news.hada.io/topic?id=18224",
+      "pubDate": "2024-12-12T12:41:14+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.0 출시",
+      "description": {
+        "$text": "<p><strong>Gemini 2.0: 개발자를 위한 차세대 AI 모델</strong></p>\n<ul>\n<li>Google에서 개발한 최첨단 AI 모델로, 개발자들이 AI의 미래를 구축할 수 있도록 지원합니다.</li>\n<li>Gemini 1.0 출시 이후 수백만 명의 개발자가 Google AI Studio 및 Vertex AI를 통해 109개 언어로 Gemini를 사용하고 있습니다.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18222",
+      "guid": "https://news.hada.io/topic?id=18222",
+      "pubDate": "2024-12-12T12:16:45+09:00",
+      "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "파산 판사, Infowars의 The Onion 매각 거부 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>판사가 Infowars의 The Onion 매각을 거부함</h3>\n<ul>\n<li>Infowars는 음모론자 Alex Jones가 설립한 웹사이트로, The Onion이 인수하려 했으나 판사에 의해 거래가 중단됨.</li>\n<li>The Onion의 입찰은 Sandy Hook 총격 사건 피해자 가족들과 총기 폭력 종식을 목표로 하는 비영리 단체의 지지를 받았음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18221",
+      "guid": "https://news.hada.io/topic?id=18221",
+      "pubDate": "2024-12-12T11:37:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개",
+      "description": {
+        "$text": "<ul>\n<li>Gemini 1.0은 텍스트, 비디오, 이미지, 오디오 및 코드 전반에 걸쳐 정보를 처리할 수 있는 다중모드 모델로 혁신을 이루었음</li>\n<li>Gemini 2.0은 이 비전을 더욱 진전시켜 세계를 이해하고 여러 단계를 계획하며 작업을 수행할 수 있는 에이전틱 모델로 진화함</li>\n<li>Gemini 2.0은 Google 검색과 같은 주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18220",
+      "guid": "https://news.hada.io/topic?id=18220",
+      "pubDate": "2024-12-12T11:34:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WPEngine, Inc. 대 Automattic - 예비 금지 명령 신청에 대한 결정",
+      "description": {
+        "$text": "<h2>법적 문서 요약</h2>\n<ul>\n<li>\n<p><strong>사건 배경</strong></p>\n<ul>\n<li>WPEngine, Inc.는 Automattic Inc.와의 법적 분쟁에서 예비 금지 명령을 요청함.</li>\n<li>WordPress는 사용자가 웹사이트를 쉽게 구축하고 유지할 수 있도록 하는 오픈 소스 소프트웨어임.</li>\n<li>WPEngine은 WordPress 기반 웹사이트",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18219",
+      "guid": "https://news.hada.io/topic?id=18219",
+      "pubDate": "2024-12-12T11:29:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Firefox의 \"Do Not Track\" 기능 지원 중단",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Mozilla Firefox의 &quot;Do Not Track&quot; 기능 제거</strong></p>\n<ul>\n<li>Mozilla는 Firefox 브라우저에서 &quot;Do Not Track&quot; (DNT) 설정을 제거함. 이 변경은 버전 135부터 적용되며, Nightly 버전에서도 확인 가능함.</li>\n<li>DNT는 사용자가 웹사이트에 추적을 원하지 않는다는 신",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18218",
+      "guid": "https://news.hada.io/topic?id=18218",
+      "pubDate": "2024-12-12T11:26:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 수학 점수 하락 국제 주요 시험 결과",
+      "description": {
+        "$text": "<ul>\n<li>미국의 4학년 학생들은 2019년부터 2023년까지 국제 수학 시험에서 점수가 크게 하락함. 이는 다른 여러 나라들이 점수를 개선한 것과 대조적임.</li>\n<li>8학년 학생들의 점수 하락은 더욱 심각하며, 이는 팬데믹 이전부터 시작된 추세임.</li>\n<li>TIMSS(국제 수학 및 과학 성취도 추이 연구) 결과는 64개국의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18217",
+      "guid": "https://news.hada.io/topic?id=18217",
+      "pubDate": "2024-12-12T11:24:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GM, 로보택시 시장 철수, Cruise 운영 내부화 추진",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>GM의 Cruise 로보택시 시장 철수</strong></p>\n<ul>\n<li>General Motors(GM)는 Cruise 부문의 로보택시 개발에 대한 자금 지원을 중단하고, 이를 자사의 기술 팀에 통합할 계획임.</li>\n<li>GM은 로보택시 시장의 경쟁 심화, 자본 배분 우선순위, 사업 성장에 필요한 시간과 자원을 이유로 들었음.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18216",
+      "guid": "https://news.hada.io/topic?id=18216",
+      "pubDate": "2024-12-12T11:23:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "휴대전화와 터치스크린으로 작성한 25,000줄의 Neovim 플러그인 코드 개발자",
+      "description": {
+        "$text": "휴대전화와 터치스크린으로 작성한 25,000줄의 Neovim 플러그인 코드 개발자",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18215",
+      "guid": "https://news.hada.io/topic?id=18215",
+      "pubDate": "2024-12-12T11:21:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FCC, 6GHz 대역 전체 저전력 기기 운영 허용 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>FCC의 새로운 규칙 채택</strong></p>\n<ul>\n<li>2024년 12월 11일, 연방통신위원회(FCC)는 6 GHz 대역의 1,200 메가헤르츠 전체를 매우 낮은 전력 장치 운영에 개방하는 새로운 규칙을 채택함</li>\n<li>이 규칙은 웨어러블 기술, 증강 및 가상 현실과 같은 최첨단 응용 프로그램의 생태계를 강화할",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18214",
+      "guid": "https://news.hada.io/topic?id=18214",
+      "pubDate": "2024-12-12T11:20:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
