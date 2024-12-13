@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-13T13:09:48+09:00",
+  "lastBuildDate": "2024-12-13T18:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7202,6 +7202,19 @@
       "guid": "https://news.hada.io/topic?id=18245",
       "pubDate": "2024-12-13T13:09:48+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "페르마의 마지막 정리 진행 상황",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Xena 프로젝트와 페르마의 마지막 정리</h2>\n<ul>\n<li>Xena 프로젝트는 수학을 컴퓨터에 형식화하는 것을 목표로 함. 이는 AI 수학 혁명이 일어날 경우 컴퓨터가 현대 수론의 경계를 확장하는 데 도움을 줄 수 있도록 하기 위함임.</li>\n</ul>\n</li>\n<li>\n<h2>페르마의 마지막 정리 형식화</h2>\n<ul>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18246",
+      "guid": "https://news.hada.io/topic?id=18246",
+      "pubDate": "2024-12-13T18:34:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
