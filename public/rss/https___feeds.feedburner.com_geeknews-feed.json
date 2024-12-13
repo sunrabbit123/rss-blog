@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-13T11:30:27+09:00",
+  "lastBuildDate": "2024-12-13T13:09:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7189,6 +7189,19 @@
       "guid": "https://news.hada.io/topic?id=18242",
       "pubDate": "2024-12-13T10:33:36+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "[GeekNight 2024] 인지과학 연구로 증명된 학습 보조 도구 Anki: 10배 더 효과적으로 활용하는 방법",
+      "description": {
+        "$text": "<p>어제 발표한 내용을 좀 더 보강하여 블로그에 올렸습니다. 아래는 요약입니다.</p>\n<p>--</p>\n<h2>Anki가 무엇인가</h2>\n<ul>\n<li>Anki: 똑똑한 플래시카드 앱</li>\n<li>수식, 이미지, HTML 등 다양한 인풋 포맷을 지원하고, 알고리즘에 따라 학습 주기를 조절하는 게 특징</li>\n<li>모바일 앱은 유료, 데스크톱은 오",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18245",
+      "guid": "https://news.hada.io/topic?id=18245",
+      "pubDate": "2024-12-13T13:09:48+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
