@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-12T23:33:24+09:00",
+  "lastBuildDate": "2024-12-13T10:02:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7020,6 +7020,136 @@
       "guid": "https://news.hada.io/topic?id=18230",
       "pubDate": "2024-12-12T23:33:24+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비만, 흡연을 제치고 주요 질병 위험 요인으로 부상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>과체중이 흡연을 질병 위험 요인으로 앞지름</h2>\n<ul>\n<li>2024년, 과체중 및 비만이 흡연을 제치고 질병 부담의 주요 위험 요인으로 부상함.</li>\n<li>호주 보건복지연구소(AIHW)의 '2024 호주 질병 부담 연구'에 따르면, 호주인들이 부상, 질병 또는 조기 사망으로 인해 잃는 건강한 삶의 연수를 추정함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18241",
+      "guid": "https://news.hada.io/topic?id=18241",
+      "pubDate": "2024-12-13T10:02:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Steel - AI 에이전트 & 앱을 위한 오픈소스 브라우저 API",
+      "description": {
+        "$text": "<ul>\n<li>웹과 인터랙션하는 AI 에이전트 및 브라우저 자동화 도구를 만들기 위한 API</li>\n<li>자동화 인프라를 기초부터 구축하는 대신, 복잡한 작업은 Steel이 처리하는 동안 AI 애플리케이션에 집중할 수 있음</li>\n<li>브라우저 완벽제어  : Puppeteer 및 CDP를 사용해 Chrome 인스턴스 완벽 제어. Puppeteer, Play...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18240",
+      "guid": "https://news.hada.io/topic?id=18240",
+      "pubDate": "2024-12-13T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Electric (Postgres 동기화 엔진) 베타 출시",
+      "description": {
+        "$text": "<ul>\n<li>Electric은 Postgres 동기화 엔진으로, 실시간으로 Postgres 데이터를 로컬 앱과 서비스에 부분적으로 복제하는 기능을 제공</li>\n<li>자체 동기화 엔진을 개발하거나 스택을 변경할 필요 없이 실시간 로컬 데이터를 기반으로 앱을 구축할 수 있음</li>\n<li>브라우저에서 실행 가능한 경량 WASM Postgres인 PGl...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18239",
+      "guid": "https://news.hada.io/topic?id=18239",
+      "pubDate": "2024-12-13T09:59:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPT-2 기반 3000바이트 C로 구현된 ChatGPT 클론 (2023)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>ChatGPT 클론 구현</strong></p>\n<ul>\n<li>이 프로그램은 GPT-2의 의존성 없는 구현임.</li>\n<li>TensorFlow 파일에서 가중치 행렬과 BPE 파일을 로드하고, 입력을 간단한 바이트 쌍 인코더로 토큰화함.</li>\n<li>기본 선형 대수 패키지를 구현하고, 변환기 아키텍처를 정의하며, 변환기 추론을 수",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18238",
+      "guid": "https://news.hada.io/topic?id=18238",
+      "pubDate": "2024-12-13T09:56:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "BlenderGPT - 프롬프트/이미지에서 3D 모델 생성",
+      "description": {
+        "$text": "<ul>\n<li>BLENDERGPT®는 텍스트나 이미지 프롬프트로부터 3D 모델을 약 20초 만에 생성하는 AI</li>\n<li>완전한 텍스처가 적용된 메쉬를 합성한 후, Blender로 바로 가져오거나 소스 파일을 다운로드하여 호환 가능한 소프트웨어에서 사용할 수 있음</li>\n<li>빠른 3D 모델 생성 시간 및 다양한 소프트웨어와의 호환성 제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18237",
+      "guid": "https://news.hada.io/topic?id=18237",
+      "pubDate": "2024-12-13T09:53:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OnlyFans 모델들, AI를 사용하여 DM을 관리중",
+      "description": {
+        "$text": "<ul>\n<li>기술 발전으로 인해 AI가 일부 직업을 대체하고 있음</li>\n<li>OnlyFans의 &quot;Chatter&quot;(팬과의 메시지를 대신 관리하는 인력) 직업도 영향을 받고 있음</li>\n<li>OnlyFans의 주요 수익 모델 중 하나는 크리에이터와 팬들 간의 직접적인 메시지 교환을 통한 관계 형성임</li>\n<li>많은 크리에이터들이 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18236",
+      "guid": "https://news.hada.io/topic?id=18236",
+      "pubDate": "2024-12-13T09:50:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Timemap.org – 역사 인터랙티브 지도",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>타임라인과 상호작용하기</strong>\n<ul>\n<li>슬라이더를 사용하여 시간에 따라 국가, 주, 제국의 경계가 어떻게 변화했는지 탐색할 수 있음.</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18235",
+      "guid": "https://news.hada.io/topic?id=18235",
+      "pubDate": "2024-12-13T09:47:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구케시, 역사상 최연소 체스 세계 챔피언 등극",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>구케시, 역사상 최연소 세계 챔피언 등극</h3>\n<ul>\n<li>GM 구케시 D는 GM 딩 리런과의 경기에서 약간 유리한 엔드게임을 오랫동안 압박한 끝에 승리함.</li>\n<li>딩 리런은 개막 후 약간 유리한 상황에서 폰 다운 엔드게임을 방어해야 했으나, 결국 실수로 패배하게 됨.</li>\n<li>리체스는 세계 챔피언십...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18234",
+      "guid": "https://news.hada.io/topic?id=18234",
+      "pubDate": "2024-12-13T09:44:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bazel 8.0 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>Bazel 8.0은 주요 LTS 릴리스로, 새로운 기능과 이전 버전과 호환되지 않는 변경 사항을 포함</li>\n<li>주요 변경 사항\n<ul>\n<li>Starlarkification: 규칙 분리. Bazel에 기본적으로 포함되었던 여러 규칙들이 별도의 저장소로 이동됨\n<ul>\n<li>Android, C++, Java, Protobuf, Python, Shell 등이 포함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18233",
+      "guid": "https://news.hada.io/topic?id=18233",
+      "pubDate": "2024-12-13T09:43:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Bazel: 언제 사용해야 할까? (2023)",
+      "description": {
+        "$text": "<ul>\n<li>Bazel은 Google이 대규모 모노레포를 효율적으로 빌드하기 위해 개발한 오픈 소스 빌드 시스템</li>\n<li>복잡한 프로젝트를 정확하고 빠르게 빌드하며, 특히 대규모 코드베이스와 다중 언어 종속성을 다룰 때 효과적</li>\n<li>Bazel의 핵심 개념\n<ul>\n<li>\n<strong>정확성 기반의 속도</strong>: Bazel은 빌드를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18232",
+      "guid": "https://news.hada.io/topic?id=18232",
+      "pubDate": "2024-12-13T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
