@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-13T18:34:21+09:00",
+  "lastBuildDate": "2024-12-13T23:29:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7215,6 +7215,19 @@
       "guid": "https://news.hada.io/topic?id=18246",
       "pubDate": "2024-12-13T18:34:21+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "헬륨: 파이썬을 활용한 가벼운 웹 자동화 기술",
+      "description": {
+        "$text": "<h2>PythonHelium을 통한 가벼운 웹 자동화</h2>\n<ul>\n<li>\n<strong>PythonHelium</strong>은 Chrome과 Firefox 같은 브라우저를 자동화하는 Python 라이브러리임.</li>\n</ul>\n<h3>Selenium과의 연결</h3>\n<ul>\n<li>Helium은 Selenium을 기반으로 하며, 더 높은 수준의 API를 제공함.</li>\n<li>Selenium에서는 HTML ID, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18247",
+      "guid": "https://news.hada.io/topic?id=18247",
+      "pubDate": "2024-12-13T23:29:25+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
