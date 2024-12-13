@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-13T10:02:59+09:00",
+  "lastBuildDate": "2024-12-13T11:30:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7150,6 +7150,45 @@
       "guid": "https://news.hada.io/topic?id=18232",
       "pubDate": "2024-12-13T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Android XR: AI 기반의 새로운 확장 현실 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>Google이 삼성, 퀄컴과 협력하여 새로운 확장 현실(XR) 운영체제인 Android XR을 발표함</li>\n<li>Android 플랫폼의 자연스러운 진화 단계로서, AI 기술의 발전을 활용한 새로운 컴퓨팅 경험을 제공하는 것이 목표임</li>\n<li>Gemini AI를 통해 자연스러운 상호작용과 의도 이해가 가능한 환경을 구축함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18244",
+      "guid": "https://news.hada.io/topic?id=18244",
+      "pubDate": "2024-12-13T11:30:27+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Dioxus 0.6 출시</h2>\n<ul>\n<li>Dioxus는 웹, 데스크톱, 모바일 앱을 단일 코드베이스로 구축할 수 있는 Rust 기반 프레임워크</li>\n<li>Flutter보다 더 나은 프레임워크가 목표</li>\n<li>풀스택 웹 지원과 타입 안전한 서버/클라이언트 통신에 중점을 두며, 빠른 성능과 개발자 경험 향상에 초점을 맞춤...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18243",
+      "guid": "https://news.hada.io/topic?id=18243",
+      "pubDate": "2024-12-13T10:48:43+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "캐나다 안락사, 전체 사망의 약 5% 차지",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>캐나다의 조력 자살 현황</h2>\n<ul>\n<li>2023년 캐나다에서 조력 자살이 전체 사망의 4.7%를 차지함. 이는 2016년 합법화 이후 다섯 번째 연례 보고서로, 약 15,300명이 조력 자살을 신청하여 성공적으로 진행함.</li>\n<li>이 그룹의 중간 연령은 77세 이상이며, 대다수인 96%는 암과 같은 심각한 의학적 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18242",
+      "guid": "https://news.hada.io/topic?id=18242",
+      "pubDate": "2024-12-13T10:33:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
