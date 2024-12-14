@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-14T18:33:17+09:00",
+  "lastBuildDate": "2024-12-14T23:09:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7410,6 +7410,19 @@
       "guid": "https://news.hada.io/topic?id=18261",
       "pubDate": "2024-12-14T18:33:17+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 태블릿으로 엘리베이터 부르기 (스마트홈 해킹! - KDOne)",
+      "description": {
+        "$text": "<h2>KDOne Navien Home Network API Wrapper</h2>\n<ul>\n<li>최근 한국 아파트 월패드에서는 <strong>엘리베이터 호출</strong>, <strong>조명 전원</strong> 등 다양한 동작 수행 가능</li>\n<li>하지만 월패드 조작 및 앱 사용 외에는 사용이 제한되어 있음</li>\n<li>경동원 나비엔 홈네트워크를 위한 Python Wrapper 라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18262",
+      "guid": "https://news.hada.io/topic?id=18262",
+      "pubDate": "2024-12-14T23:09:10+09:00",
+      "author": "soulee",
       "category": ""
     }
   ]
