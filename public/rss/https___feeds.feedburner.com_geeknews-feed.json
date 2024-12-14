@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-14T14:34:06+09:00",
+  "lastBuildDate": "2024-12-14T16:33:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7383,6 +7383,19 @@
       "link": "https://news.hada.io/topic?id=18259",
       "guid": "https://news.hada.io/topic?id=18259",
       "pubDate": "2024-12-14T14:34:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MarkItDown: 파일 및 오피스 문서를 Markdown으로 변환하는 Python 도구",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>MarkItDown</h2>\n<ul>\n<li>MarkItDown 라이브러리는 다양한 파일을 Markdown으로 변환하는 유틸리티 도구임</li>\n<li>현재 지원하는 파일 형식:\n<ul>\n<li>PDF (.pdf)</li>\n<li>PowerPoint (.pptx)</li>\n<li>Word (.docx)</li>\n<li>Excel (.xlsx)</li>\n<li>이미지 (EXIF 메타데이터 및 OCR)</li>\n<li>오디오...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18260",
+      "guid": "https://news.hada.io/topic?id=18260",
+      "pubDate": "2024-12-14T16:33:09+09:00",
       "author": "neo",
       "category": ""
     }
