@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-14T16:33:09+09:00",
+  "lastBuildDate": "2024-12-14T18:33:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7396,6 +7396,19 @@
       "link": "https://news.hada.io/topic?id=18260",
       "guid": "https://news.hada.io/topic?id=18260",
       "pubDate": "2024-12-14T16:33:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "맥킨지 앤드 컴퍼니, 오피오이드 위기 역할로 6억 5천만 달러 배상",
+      "description": {
+        "$text": "<h4>McKinsey &amp; Company의 역할과 합의</h4>\n<ul>\n<li>\n<p><strong>McKinsey &amp; Company의 합의</strong>: McKinsey &amp; Company는 Purdue Pharma를 위해 OxyContin 판매를 &quot;터보차지&quot;하는 데 도움을 준 역할로 인해 연방 민사 및 형사 조사에서 6억 5천만 달러를 지불하기로 합의함. 이는 미국 법무...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18261",
+      "guid": "https://news.hada.io/topic?id=18261",
+      "pubDate": "2024-12-14T18:33:17+09:00",
       "author": "neo",
       "category": ""
     }
