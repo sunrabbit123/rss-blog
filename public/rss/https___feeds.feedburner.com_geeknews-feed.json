@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-13T23:29:25+09:00",
+  "lastBuildDate": "2024-12-14T10:00:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7227,6 +7227,123 @@
       "link": "https://news.hada.io/topic?id=18247",
       "guid": "https://news.hada.io/topic?id=18247",
       "pubDate": "2024-12-13T23:29:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "키보드로 빠르게 제어하는 Mouseless 마우스 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>mouseless</strong></p>\n<ul>\n<li>키보드로 빠르게 마우스를 제어할 수 있는 소프트웨어임</li>\n<li>macOS용으로 다운로드 가능하며, 7일간 무료로 사용 가능하고 $9.99에 평생 라이선스 제공</li>\n</ul>\n</li>\n<li>\n<p><strong>1, 2, 클릭</strong></p>\n<ul>\n<li>몇 가지 좌표를 입력하여 2초 이내",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18256",
+      "guid": "https://news.hada.io/topic?id=18256",
+      "pubDate": "2024-12-14T10:00:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파킨슨의 법칙: 실재하는 법칙 활용하기",
+      "description": {
+        "$text": "<h4>파킨슨의 법칙: 실제로 존재하므로 활용할 것</h4>\n<ul>\n<li>\n<p><strong>파킨슨의 법칙</strong>: &quot;일은 그 완료를 위해 주어진 시간을 채우도록 확장된다&quot;는 법칙임. 이 법칙은 직관에 반하지만, 실제로 많은 진실을 담고 있음. 프로젝트에 기한이 없으면, 심지어 자가 설정한 기한이라도, 필요 이상으로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18255",
+      "guid": "https://news.hada.io/topic?id=18255",
+      "pubDate": "2024-12-14T09:57:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "터미널 프로그램이 따르는 \"Rules\" 규칙",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>최근 터미널에서 발생하는 모든 일이 다음 네 가지 요소의 조합임을 생각하게 됨</p>\n<ul>\n<li>운영 체제의 역할</li>\n<li>쉘의 역할</li>\n<li>터미널 에뮬레이터의 역할</li>\n<li>실행 중인 프로그램의 역할 (<code>top</code>, <code>vim</code>, <code>cat</code> 등)</li>\n</ul>\n</li>\n<li>\n<p>프로그램",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18254",
+      "guid": "https://news.hada.io/topic?id=18254",
+      "pubDate": "2024-12-14T09:54:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Quantus – 금융 모델링을 위한 LeetCode",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>플랫폼 소개</h2>\n<ul>\n<li>\n<strong>Quantus</strong>는 재미있고 직관적이며 실용적인 방식으로 금융 용어와 공식을 학습할 수 있는 플랫폼임.</li>\n<li>스프레드시트 인터페이스를 통해 실제 문제 해결을 통해 금융을 실습할 수 있음.</li>\n<li>\n<strong>AI</strong>를 활용하여 실시간 시장 데이터를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18253",
+      "guid": "https://news.hada.io/topic?id=18253",
+      "pubDate": "2024-12-14T09:51:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1968년 IBM의 Executive Terminal 시연을 담은 새로운 비디오",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>IBM이 경영진을 위한 전쟁실을 만들었을 때</h2>\n</li>\n<li>\n<h3>IBM의 경영진 단말기 1968년 데모 영상</h3>\n<ul>\n<li>IBM의 경영진 단말기는 컴퓨터, 비디오, 디지털 정보 전달을 통해 고위급 의사 결정을 촉진하려는 시도였음</li>\n<li>1968년의 데모 영상은 이러한 시도를 잘 보여줌</li>\n<li>원본 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18252",
+      "guid": "https://news.hada.io/topic?id=18252",
+      "pubDate": "2024-12-14T09:48:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일론 머스크의 OpenAI 영리 기업 추진",
+      "description": {
+        "$text": "<h2>Elon Musk wanted an OpenAI for-profit</h2>\n<h3>사건의 타임라인</h3>\n<ul>\n<li>\n<strong>2015년 11월</strong>: OpenAI가 비영리로 시작되었음. Elon은 이에 대해 의문을 가졌음</li>\n<li>\n<strong>2015년 12월</strong>: OpenAI가 공식 발표되었음</li>\n<li>\n<strong>2017년 초</strong>: 연구 진행을 통해 AGI를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18251",
+      "guid": "https://news.hada.io/topic?id=18251",
+      "pubDate": "2024-12-14T09:45:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테스트",
+      "description": {
+        "$text": "<ul>\n<li>찾고 있는 페이지가 이동되었거나 이름이 변경되었거나 일시적으로 사용할 수 없을 수 있음</li>\n<li>도움말 센터를 이용하거나 사이트맵을 탐색하거나 홈페이지로 돌아가기를 권장함</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18250",
+      "guid": "https://news.hada.io/topic?id=18250",
+      "pubDate": "2024-12-14T09:42:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: 에스프레소 머신 및 커피 그라인더 설계자",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>TREFOLO 에스프레소 머신</h2>\n<ul>\n<li>에스프레소 머신의 미니멀리스트적 재해석을 보여줌</li>\n</ul>\n</li>\n<li>\n<h2>Turbina 커피 그라인더</h2>\n<ul>\n<li>최초의 원통형 버 커피 그라인더임</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18249",
+      "guid": "https://news.hada.io/topic?id=18249",
+      "pubDate": "2024-12-14T09:39:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kubernetes Spec Explorer",
+      "description": {
+        "$text": "<ul>\n<li>쿠버네티스의 모든 리소스/속성/타입/예제에 대한 문서를 쉽게 찾아 보기 가능</li>\n<li>모든 리소스의 스키마, 유형 및 설명이 포함된 트리 보기 지원</li>\n<li>버전 X 이후의 변경 내역(속성 추가/제거/수정) 표시</li>\n<li>새로 출시된 1.32를 포함하여 1.25 이후의 모든 버전 지원</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18248",
+      "guid": "https://news.hada.io/topic?id=18248",
+      "pubDate": "2024-12-14T09:31:01+09:00",
       "author": "xguru",
       "category": ""
     }
