@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-14T10:00:54+09:00",
+  "lastBuildDate": "2024-12-14T10:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7345,6 +7345,32 @@
       "guid": "https://news.hada.io/topic?id=18248",
       "pubDate": "2024-12-14T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "샌프란시스코 아파트에서 발견된 OpenAI 내부고발자 사망 사건",
+      "description": {
+        "$text": "<h3>OpenAI 내부고발자 사망 사건</h3>\n<ul>\n<li>\n<p><strong>사건 개요</strong></p>\n<ul>\n<li>OpenAI의 전 연구원인 수치르 발라지(Suchir Balaji)가 샌프란시스코 아파트에서 사망한 채 발견됨.</li>\n<li>발라지는 OpenAI의 ChatGPT 개발 과정에서 저작권법 위반을 주장한 내부고발자로 알려져 있음.</li>\n<li>그의 사",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18258",
+      "guid": "https://news.hada.io/topic?id=18258",
+      "pubDate": "2024-12-14T10:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Node.js, \"require(esm)\"이 활성화된 첫번째 LTS 발표",
+      "description": {
+        "$text": "<h2>기본값으로 <code>require(esm)</code> 활성화</h2>\n<ul>\n<li>Node.js 22.12.0 ('Jod') LTS 버전이 출시되었으며, 기본적으로 <code>require(esm)</code> 기능이 활성화됨\n<ul>\n<li>더 이상 <code>--experimental-require-module</code> 플래그가 필요하지 않음</li>\n<li>\n<code>require()</code>를 사용해 네이티브...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18257",
+      "guid": "https://news.hada.io/topic?id=18257",
+      "pubDate": "2024-12-14T10:31:01+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
