@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-14T10:33:23+09:00",
+  "lastBuildDate": "2024-12-14T14:34:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7370,6 +7370,19 @@
       "link": "https://news.hada.io/topic?id=18257",
       "guid": "https://news.hada.io/topic?id=18257",
       "pubDate": "2024-12-14T10:31:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "기초 연구 예산 삭감 속, 뉴질랜드 사회과학 지원 전면 중단",
+      "description": {
+        "$text": "<p>The content provided does not contain any substantial information to summarize. If you have another article or text that requires translation and summarization, please provide it.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18259",
+      "guid": "https://news.hada.io/topic?id=18259",
+      "pubDate": "2024-12-14T14:34:06+09:00",
       "author": "neo",
       "category": ""
     }
