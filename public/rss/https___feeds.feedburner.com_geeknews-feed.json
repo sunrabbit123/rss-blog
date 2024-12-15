@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-15T10:51:54+09:00",
+  "lastBuildDate": "2024-12-15T13:34:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7539,6 +7539,19 @@
       "link": "https://news.hada.io/topic?id=18265",
       "guid": "https://news.hada.io/topic?id=18265",
       "pubDate": "2024-12-15T10:36:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "학교 스마트폰 금지, 수면 질 향상 및 기분 개선 효과: 연구",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>학교 스마트폰 금지의 긍정적 효과</h2>\n<ul>\n<li>요크 대학교의 심리학자들이 Channel 4의 다큐멘터리 시리즈를 위해 스마트폰이 어린이 행동에 미치는 영향을 연구함.</li>\n<li>연구는 콜체스터의 Stanway School에서 진행되었으며, 8학년 학생들이 21일 동안 스마트폰을 완전히 포기하도록 도전함.</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18272",
+      "guid": "https://news.hada.io/topic?id=18272",
+      "pubDate": "2024-12-15T13:34:11+09:00",
       "author": "neo",
       "category": ""
     }
