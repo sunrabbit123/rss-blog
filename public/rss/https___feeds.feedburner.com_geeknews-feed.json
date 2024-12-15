@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-15T09:31:01+09:00",
+  "lastBuildDate": "2024-12-15T10:51:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7449,6 +7449,97 @@
       "guid": "https://news.hada.io/topic?id=18264",
       "pubDate": "2024-12-15T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: meet.hn 활용 방안",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>몇 주 전, meet.hn이 출시되었음. 이는 전 세계 약 700개 지역에서 1700명의 해커들이 서로 만날 수 있도록 함.</p>\n</li>\n<li>\n<p>기능 업데이트:</p>\n<ul>\n<li>위치 검색 기능 추가 및 단순한 도시-국가 쌍에 제한되지 않음</li>\n<li>다양한 언어와 발음 구별 기호를 지원</li>\n<li>새로운 소셜 미디어 추",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18271",
+      "guid": "https://news.hada.io/topic?id=18271",
+      "pubDate": "2024-12-15T10:51:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2010년, 나의 박사 지도교수의 bash로 작성된 자기 재구성",
+      "description": {
+        "$text": "2010년, 나의 박사 지도교수의 bash로 작성된 자기 재구성",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18270",
+      "guid": "https://news.hada.io/topic?id=18270",
+      "pubDate": "2024-12-15T10:48:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "평균의 시대 (2023)",
+      "description": {
+        "$text": "평균의 시대 (2023)",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18269",
+      "guid": "https://news.hada.io/topic?id=18269",
+      "pubDate": "2024-12-15T10:45:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일리야 수츠케버 NeurIPS 강연 [비디오]",
+      "description": {
+        "$text": "일리야 수츠케버 NeurIPS 강연 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18268",
+      "guid": "https://news.hada.io/topic?id=18268",
+      "pubDate": "2024-12-15T10:42:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "바이트 잠재 변환기: 패치가 토큰보다 더 잘 확장되는 기술",
+      "description": {
+        "$text": "바이트 잠재 변환기: 패치가 토큰보다 더 잘 확장되는 기술",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18267",
+      "guid": "https://news.hada.io/topic?id=18267",
+      "pubDate": "2024-12-15T10:39:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엔트로피란 무엇인가? 우리의 무지를 측정하는 척도",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>엔트로피는 우주의 혼란을 측정하는 개념으로, 모든 것이 결국 붕괴하는 경향을 설명함.</li>\n<li>엔트로피는 물리학에서 가장 논란이 많은 개념 중 하나이며, 관찰자와의 상호작용에 따라 상대적인 속성으로 이해됨.</li>\n</ul>\n<h2>불의 동력</h2>\n<ul>\n<li>엔트로피 개념은 산업 혁명 시기에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18266",
+      "guid": "https://news.hada.io/topic?id=18266",
+      "pubDate": "2024-12-15T10:38:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "macOS 15.2, 다른 드라이브로 OS 복사 기능 장애",
+      "description": {
+        "$text": "<h2>당신은 못된 사람</h2>\n<ul>\n<li>\n<p><strong>macOS 15.2의 문제점</strong></p>\n<ul>\n<li>최근 macOS 15.2가 출시되었으며, 예상치 못한 문제가 발생함.</li>\n<li>데이터 볼륨 복제 과정에서 'Resource Busy' 오류가 발생하여 복제가 실패함.</li>\n<li>이전에는 시스템을 깨워두면 해결할 수 있었지만, 이번 버그는",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18265",
+      "guid": "https://news.hada.io/topic?id=18265",
+      "pubDate": "2024-12-15T10:36:52+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
