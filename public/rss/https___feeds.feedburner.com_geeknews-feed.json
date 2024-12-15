@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-15T08:05:24+09:00",
+  "lastBuildDate": "2024-12-15T09:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7436,6 +7436,19 @@
       "guid": "https://news.hada.io/topic?id=18263",
       "pubDate": "2024-12-14T23:34:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Veryfront Figma Kit - 웹/앱용 UI 컴포넌트 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>빠른 프로토타이핑을 위한 100개 이상의 컴포넌트 제공</li>\n<li>각 컴포넌트들은 자유롭게 커스터마이징 가능</li>\n<li>라이트 &amp; 다크 모드</li>\n<li>테스크탑/모바일등 모든 기기에 사용 가능한 반응형 컴포넌트들 (Responsive)</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18264",
+      "guid": "https://news.hada.io/topic?id=18264",
+      "pubDate": "2024-12-15T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
