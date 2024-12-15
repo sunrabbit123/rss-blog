@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-15T13:34:11+09:00",
+  "lastBuildDate": "2024-12-15T14:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7552,6 +7552,19 @@
       "link": "https://news.hada.io/topic?id=18272",
       "guid": "https://news.hada.io/topic?id=18272",
       "pubDate": "2024-12-15T13:34:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "뉴욕시, 교통 카메라 셀피 촬영 중단 요청에도 불구하고 촬영 방법 안내",
+      "description": {
+        "$text": "<p>It seems there is no content to summarize from the provided article link. If you have another article or specific content you would like summarized and translated, please provide that information.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18273",
+      "guid": "https://news.hada.io/topic?id=18273",
+      "pubDate": "2024-12-15T14:34:04+09:00",
       "author": "neo",
       "category": ""
     }
