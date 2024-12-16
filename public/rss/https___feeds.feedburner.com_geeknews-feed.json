@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-16T11:24:01+09:00",
+  "lastBuildDate": "2024-12-16T11:36:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7748,6 +7748,32 @@
       "guid": "https://news.hada.io/topic?id=18289",
       "pubDate": "2024-12-16T10:48:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN에 묻다: 파트타임 일자리 찾기 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>프로젝트를 소규모 사업으로 발전시키고 있는 상황임. 지난 1년 동안 파트타임으로 일하면서 높은 보수를 받았고, 개인 프로젝트에 집중할 수 있는 시간과 유연성을 가졌음.</p>\n</li>\n<li>\n<p>지금까지는 운 좋게 몇 가지 기회를 얻었지만, 이제는 더 많은 파트타임 일을 찾아야 하는 상황임. 주당 10-15시",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18292",
+      "guid": "https://news.hada.io/topic?id=18292",
+      "pubDate": "2024-12-16T11:36:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub 지도",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>GitHub 프로젝트 지도</h2>\n</li>\n<li>\n<p>400,000개 이상의 GitHub 프로젝트를 시각화한 지도임. 각 점은 하나의 프로젝트를 나타내며, 공통의 stargazer가 많은 프로젝트일수록 서로 가까이 위치함.</p>\n</li>\n<li>\n<h3>어떻게 만들어졌는가?</h3>\n<ul>\n<li>\n<p>첫 번째 단계에서는 GitHub 활동 이벤트의",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18291",
+      "guid": "https://news.hada.io/topic?id=18291",
+      "pubDate": "2024-12-16T11:33:39+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
