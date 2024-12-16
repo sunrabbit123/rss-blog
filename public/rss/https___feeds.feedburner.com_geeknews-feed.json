@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-16T11:36:39+09:00",
+  "lastBuildDate": "2024-12-16T13:33:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7773,6 +7773,19 @@
       "link": "https://news.hada.io/topic?id=18291",
       "guid": "https://news.hada.io/topic?id=18291",
       "pubDate": "2024-12-16T11:33:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "복고풍 Dumb TV의 귀환",
+      "description": {
+        "$text": "<h4>스마트 TV는 왜 구식 TV의 부활이 필요한가</h4>\n<ul>\n<li>\n<p><strong>스마트 TV는 구식이 되도록 설계됨</strong></p>\n<ul>\n<li>스마트 TV는 앱과 스트리밍 서비스를 결합하여 편리함을 제공하지만, 소프트웨어 업데이트가 몇 년 내에 중단되어 구식이 되는 문제가 있음.</li>\n<li>구식 TV는 디스플레이 품질과 내",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18293",
+      "guid": "https://news.hada.io/topic?id=18293",
+      "pubDate": "2024-12-16T13:33:21+09:00",
       "author": "neo",
       "category": ""
     }
