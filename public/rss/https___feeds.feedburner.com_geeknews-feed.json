@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-15T19:34:06+09:00",
+  "lastBuildDate": "2024-12-16T10:11:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7592,6 +7592,136 @@
       "guid": "https://news.hada.io/topic?id=18274",
       "pubDate": "2024-12-15T19:32:09+09:00",
       "author": "benjamin",
+      "category": ""
+    },
+    {
+      "title": "CPython Steering Council 2025 (최초 한국인 멤버)",
+      "description": {
+        "$text": "<p>CPython 개발 개버넌스를 책임지는 Steering Council (이하 SC)의 2025년 멤버 투표가 마무리되었습니다.</p>\n<p>CPython 개발은 파이썬의 창시자 귀도 판 로슘이 BDFL로써 관리하던 체제에서 2019년부터 SC에 권한을 이양하여 현재까지 이어지고 있습니다.</p>\n<p>8명의 후보들 중에 최종 득표 순으로 5명이 당선되었",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18288",
+      "guid": "https://news.hada.io/topic?id=18288",
+      "pubDate": "2024-12-16T10:11:09+09:00",
+      "author": "scari",
+      "category": ""
+    },
+    {
+      "title": "Boa JS - Rust로 작성된 ECMAScript 엔진",
+      "description": {
+        "$text": "<ul>\n<li>Rust의 메모리 안전성을 JS 엔진에 도입. WASM에서도 사용가능</li>\n<li>빠른 JS엔진을 Rust 프로젝트에 쉽게 임베딩 하는 것을 목표로 함</li>\n<li>현재 ECMAScripts test262 suite의 89.92%를 패스</li>\n<li>웹 Boa Playground 에서 테스트 가능</li>\n<li>JSConf EU 2019에서 발표후 2020년에 v0.10 릴리즈하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18287",
+      "guid": "https://news.hada.io/topic?id=18287",
+      "pubDate": "2024-12-16T10:06:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 코드와 기본 진행 학습을 돕는 간단한 웹 게임",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Chord Nebula</strong>는 피아노 코드와 일반적인 코드 진행을 메이저 및 마이너 키에서 학습하고 연습할 수 있는 플랫폼임</p>\n</li>\n<li>\n<p>MIDI 키보드를 선택하고 원하는 키를 설정할 수 있음: C, G, D, A, E, B, F#, C#, F, Bb, Eb, Ab, Db, Gb</p>\n</li>\n<li>\n<p>코드 노트와 코드 기능을 표",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18286",
+      "guid": "https://news.hada.io/topic?id=18286",
+      "pubDate": "2024-12-16T10:04:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인간의 불확실한 마우스 질병 모델",
+      "description": {
+        "$text": "인간의 불확실한 마우스 질병 모델",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18285",
+      "guid": "https://news.hada.io/topic?id=18285",
+      "pubDate": "2024-12-16T10:01:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "IRATA.ONLINE: 레트로 컴퓨팅 애호가를 위한 커뮤니티",
+      "description": {
+        "$text": "<h4>IRATA.ONLINE 웹 터미널 설치 가능</h4>\n<ul>\n<li>웹 터미널이 웹 애플리케이션으로 설치 가능해짐.</li>\n<li>브라우저 메뉴에서 설치 옵션 선택 가능.</li>\n</ul>\n<h4>PLATOTERM 1.4 for Atari 8-bit #FujiNet 출시</h4>\n<ul>\n<li>Atari 8-bit 사용자용 최신 PLATOTERM 버전 출시.</li>\n<li>FujiNet 어댑터와 함께 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18284",
+      "guid": "https://news.hada.io/topic?id=18284",
+      "pubDate": "2024-12-16T09:58:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Tenstorrent와 AI 하드웨어 스타트업 현황",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Tenstorrent의 강점</strong>\n<ul>\n<li>RISC-V 기반 고성능 CPU와 AI 코어를 개발하며, AI 하드웨어 분야에서 독창적인 접근법을 보여줌</li>\n<li>모든 소프트웨어 스택과 개발자 도구를 <strong>오픈 소스</strong>로 공개, 개발자 친화적 생태계 구축</li>\n<li>가격 경쟁력을 갖춘 <strong>Samsung ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18283",
+      "guid": "https://news.hada.io/topic?id=18283",
+      "pubDate": "2024-12-16T09:55:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실패한 스타트업 Buzee 오픈 소스화 – 파일 검색 애플리케이션",
+      "description": {
+        "$text": "<ul>\n<li>Buzee는 Mac과 Windows에서 사용할 수 있는 전체 텍스트 검색 애플리케이션</li>\n<li>사용자가 모든 문서,이미지,오디오,비디오,폴더 및 브라우저 기록에서 빠른 Full-Text 검색을 하게 해주는 도구</li>\n<li>키워드, 시간, 유형 또는 이들의 조합으로 로컬 문서와 폴더 검색 가능</li>\n<li>특정 파일이나 폴더...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18282",
+      "guid": "https://news.hada.io/topic?id=18282",
+      "pubDate": "2024-12-16T09:52:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "recoll - 데스크탑용 풀텍스트 검색 도구",
+      "description": {
+        "$text": "<ul>\n<li>파일의 이름 및 내용으로 검색해주는 로컬 데스크탑용 도구</li>\n<li>리눅스/윈도우/맥 지원</li>\n<li>대부분의 문서 형식을 지원하며, 일부 문서는 외부 어플리케이션/라이브러리를 사용(예: .hwp 는 pyhwp 모듈을 이용)</li>\n<li>일반 파일 및 압축파일, 이메일 첨부파일 등 안에 있는 파일도 자동으로 내부에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18281",
+      "guid": "https://news.hada.io/topic?id=18281",
+      "pubDate": "2024-12-16T09:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "팜 CEO의 스티브 잡스 이메일 (2007)",
+      "description": {
+        "$text": "팜 CEO의 스티브 잡스 이메일 (2007)",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18280",
+      "guid": "https://news.hada.io/topic?id=18280",
+      "pubDate": "2024-12-16T09:49:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "크리스탈 볼 트레이딩 게임",
+      "description": {
+        "$text": "<h4>소개: 미래로 돌아가기</h4>\n<ul>\n<li>1989년 영화 <em>백 투 더 퓨처 II</em> 에서 시간 여행을 통해 Biff가 스포츠 경기 결과를 미래에서 가져와 부자가 되는 이야기를 다룸.</li>\n<li>2023년 11월, 금융 교육을 받은 118명의 젊은 성인을 대상으로 &quot;크리스탈 볼 챌린지&quot;라는 실험을 진행함.</li>\n<li>참...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18279",
+      "guid": "https://news.hada.io/topic?id=18279",
+      "pubDate": "2024-12-16T09:46:08+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
