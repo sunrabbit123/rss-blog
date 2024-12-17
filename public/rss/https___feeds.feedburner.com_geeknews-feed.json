@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-17T17:34:01+09:00",
+  "lastBuildDate": "2024-12-17T21:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8046,6 +8046,19 @@
       "link": "https://news.hada.io/topic?id=18313",
       "guid": "https://news.hada.io/topic?id=18313",
       "pubDate": "2024-12-17T17:34:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "더 빠른 SQLite 탐색",
+      "description": {
+        "$text": "<h4>SQLite를 더 빠르게 만들기 위한 연구</h4>\n<ul>\n<li>\n<strong>배경</strong>: SQLite는 이미 빠른 데이터베이스 시스템이지만, 연구자들은 이를 더 빠르게 만들 수 있는 방법을 탐구함. 헬싱키 대학교와 케임브리지의 연구자들이 &quot;비동기 I/O를 통한 서버리스 런타임/데이터베이스 공동 설계&quot;라는 논문을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18314",
+      "guid": "https://news.hada.io/topic?id=18314",
+      "pubDate": "2024-12-17T21:33:24+09:00",
       "author": "neo",
       "category": ""
     }
