@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-17T12:33:03+09:00",
+  "lastBuildDate": "2024-12-17T13:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8021,6 +8021,19 @@
       "guid": "https://news.hada.io/topic?id=18310",
       "pubDate": "2024-12-17T11:11:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년 포크너와 헤밍웨이와 함께 퍼블릭 도메인에 진입하는 Popeye와 Tintin",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>만화 캐릭터의 공공 영역 진입</strong></p>\n<ul>\n<li>2025년부터 Popeye와 Tintin이 미국에서 공공 영역에 들어감</li>\n<li>이는 저작권자의 허가나 비용 없이 사용 및 재구성이 가능해짐을 의미함</li>\n<li>Mickey Mouse의 공공 영역 진입과 비교해 올해는 큰 주목을 받지 못했으나, Faulkner와 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18312",
+      "guid": "https://news.hada.io/topic?id=18312",
+      "pubDate": "2024-12-17T13:34:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
