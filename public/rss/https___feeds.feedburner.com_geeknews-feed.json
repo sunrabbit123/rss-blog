@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-17T10:39:11+09:00",
+  "lastBuildDate": "2024-12-17T12:33:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7995,6 +7995,32 @@
       "guid": "https://news.hada.io/topic?id=18300",
       "pubDate": "2024-12-17T09:41:48+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 질문: LLMs 시대에 소프트웨어 엔지니어들이 경력을 미래에 대비하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>LLMs가 소프트웨어 엔지니어링 경력의 일부가 되고 있음</p>\n<ul>\n<li>많은 엔지니어들이 AI를 사용하여 코드를 작성하거나, 전체 프로젝트를 AI에 맡기고 코드 리뷰와 조정을 하는 경우가 많아지고 있음</li>\n<li>기업들이 자체적으로 격리된 LLMs를 호스팅하여 하드웨어가 더 많이 제공됨에 따라 &quot;독",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18311",
+      "guid": "https://news.hada.io/topic?id=18311",
+      "pubDate": "2024-12-17T12:33:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스타트업에서의 모던 스태프 엔지니어링",
+      "description": {
+        "$text": "<ul>\n<li>스타트업 환경에서 DevOps, 스태프 엔지니어링, 플랫폼 엔지니어링 개념을 효과적으로 적용한 사례 공유</li>\n<li>발표자 Chad McElligott는 Smartrr의 시니어 스태프 엔지니어로, Shopify 기반 구독 및 로열티 서비스를 제공하는 회사</li>\n<li>스타트업 특유의 문화와 요구사항에 맞춘 엔지니어링 방법론 제안...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18310",
+      "guid": "https://news.hada.io/topic?id=18310",
+      "pubDate": "2024-12-17T11:11:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
