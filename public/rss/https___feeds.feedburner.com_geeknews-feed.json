@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-17T09:31:01+09:00",
+  "lastBuildDate": "2024-12-17T10:39:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -7864,6 +7864,136 @@
       "link": "https://news.hada.io/topic?id=18297",
       "guid": "https://news.hada.io/topic?id=18297",
       "pubDate": "2024-12-17T08:34:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자율주행 기업 Waymo의 첫 국제 진출 - Tokyo",
+      "description": {
+        "$text": "<p>자율주행 기업 Waymo가 도쿄 최대 택시 회사인 Nihon Kotsu와 택시 호출 앱인 GO와 파트너십을 맺고 2025년 초 일본 도쿄에 진출할 예정입니다.</p>\n<p>이번 프로젝트에서는 재규어 I-PACE 전기차를 활용하며, 미나토, 신주쿠, 시부야, 치요다, 추오, 시나가와, 코토 등 도쿄의 주요 지역에서 운영될 계획입니다.</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18309",
+      "guid": "https://news.hada.io/topic?id=18309",
+      "pubDate": "2024-12-17T10:39:11+09:00",
+      "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "Cerbos - 언어무관, 확장가능한 사용자 권한 관리 솔루션",
+      "description": {
+        "$text": "<ul>\n<li>애플리케이션 리소스를 위한 강력하고 컨텍스트 인식적인 접근 제어 규칙을 정의할 수 있는 권한 관리 레이어</li>\n<li>간단한 YAML 정책으로 작성하며, GitOps 기반 인프라를 통해 관리 및 배포 가능</li>\n<li>\n<strong>Cerbos 정책 결정 지점(PDP, Policy Decision Point)</strong> 를 셀프호스팅 하고. 고가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18308",
+      "guid": "https://news.hada.io/topic?id=18308",
+      "pubDate": "2024-12-17T10:03:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google DeepMind, 비디오 생성 모델 Veo 2 공개",
+      "description": {
+        "$text": "<ul>\n<li>Veo 2는 최첨단 비디오 생성 모델로, 현실적인 움직임과 최대 4K의 고품질 출력을 제공</li>\n<li>다양한 스타일을 탐색하고 광범위한 카메라 제어를 통해 자신만의 스타일을 찾을 수 있음</li>\n<li>\n<strong>품질과 제어의 재정의</strong>\n<ul>\n<li>Veo 2는 단순하고 복잡한 지시를 충실히 따르며, 현실 세계의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18307",
+      "guid": "https://news.hada.io/topic?id=18307",
+      "pubDate": "2024-12-17T09:59:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미 의원들, Apple과 Google에 1월 19일까지 TikTok 앱 삭제 준비 명령",
+      "description": {
+        "$text": "<p>미국 하원 <strong>중국 관련 특별위원회</strong>의 위원장과 주요 민주당 의원이 <strong>Apple</strong>과 <strong>Google</strong>에 <strong>1월 19일</strong>까지 TikTok을 앱 스토어에서 삭제할 준비를 하라고 경고함.</p>\n<ul>\n<li>\n<strong>지난주</strong> 미국 연방 항소법원은 <strong>ByteDance</stron",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18306",
+      "guid": "https://news.hada.io/topic?id=18306",
+      "pubDate": "2024-12-17T09:56:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대다수 iPhone 사용자가 Apple Intelligence 기능에 큰 가치를 느끼지 못함",
+      "description": {
+        "$text": "<ul>\n<li>새로운 설문 조사에 따르면, iPhone 구매자들이 <strong>Apple Intelligence</strong>에 관심은 있지만, 초기 기능이 추가적인 가치를 제공한다고 느끼는 사람은 소수에 불과함</li>\n<li>iOS 18.2의 <strong>Genmoji</strong>와 <strong>ChatGPT 통합</strong>이 이러한 인식을 바꿀지는 두고 봐야 할 일</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18305",
+      "guid": "https://news.hada.io/topic?id=18305",
+      "pubDate": "2024-12-17T09:53:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "온라인 안전법 시행 전날인 2025년 3월 16일 Lfgss 폐쇄 예정",
+      "description": {
+        "$text": "온라인 안전법 시행 전날인 2025년 3월 16일 Lfgss 폐쇄 예정",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18304",
+      "guid": "https://news.hada.io/topic?id=18304",
+      "pubDate": "2024-12-17T09:50:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Xiaomi Home Integration for Home Assistant",
+      "description": {
+        "$text": "<ul>\n<li>Xiaomi Home Integration은 Xiaomi의 공식 지원을 받는 Home Assistant의 통합 구성 요소\n<ul>\n<li>Xiaomi IoT 스마트 기기를 Home Assistant에서 사용할 수 있게 해줌</li>\n</ul>\n</li>\n<li>\n<h3>설치</h3>\n<ul>\n<li>Home Assistant 버전 요구 사항:\n<ul>\n<li>Core ≥ 2024.11.0</li>\n<li>운영 체제 ≥ 13.0...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18303",
+      "guid": "https://news.hada.io/topic?id=18303",
+      "pubDate": "2024-12-17T09:47:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mailroom - 사용자 알림 관리를 위한 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>외부 시스템 이벤트를 기반으로 사용자 알림을 생성, 라우팅, 전달하는 과정을 간소화</li>\n<li>알림의 처리와 전송 과정을 효율적이고 유연하게 관리하도록 설계</li>\n<li>주요 기능\n<ul>\n<li>\n<strong>알림 중계 역할</strong>: 외부 시스템에서 들어오는 웹훅을 받아 사용자 알림으로 변환</li>\n<li>\n<stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18302",
+      "guid": "https://news.hada.io/topic?id=18302",
+      "pubDate": "2024-12-17T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "잘 작동하는 제품 구매의 어려움 (2022)",
+      "description": {
+        "$text": "<h2>왜 물건을 잘 사기가 어려운가?</h2>\n<h3>시장의 비효율성</h3>\n<ul>\n<li>시장은 효율성을 강제한다고 하지만, 많은 기업들이 비효율성을 가지고도 생존하고 있음.</li>\n<li>실리콘밸리 기업들이 인재를 찾는 데 어려움을 겪고 있음.</li>\n<li>제품의 품질이 좋지 않더라도 경쟁에서 살아남을 수 있는 이유가 있음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18301",
+      "guid": "https://news.hada.io/topic?id=18301",
+      "pubDate": "2024-12-17T09:44:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenERV",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>OpenERV는 신선한 실외 공기를 실내로 전달하고 오염된 공기를 외부로 이동시키는 탈중앙화 에너지 회수 환기 장치임.</p>\n<ul>\n<li>약 90%의 열 에너지를 회수하여 난방이나 냉방의 단점 없이 신선한 공기를 제공함.</li>\n</ul>\n</li>\n<li>\n<h2>제품 설명</h2>\n<ul>\n<li>\n<strong>TW4 모델</strong>: 깨끗",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18300",
+      "guid": "https://news.hada.io/topic?id=18300",
+      "pubDate": "2024-12-17T09:41:48+09:00",
       "author": "neo",
       "category": ""
     }
