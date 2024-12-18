@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-17T21:33:24+09:00",
+  "lastBuildDate": "2024-12-18T10:02:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8059,6 +8059,71 @@
       "link": "https://news.hada.io/topic?id=18314",
       "guid": "https://news.hada.io/topic?id=18314",
       "pubDate": "2024-12-17T21:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Khoshnus - SVG 필기체 애니메이션 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>정적인 텍스트를 예술적으로 변화시키는 SVG 텍스트 애니메이션 라이브러리</li>\n<li>손글씨로 작성되는 듯한 애니메이션 효과로 텍스트가 하나씩 쓰이는 과정을 자연스럽게 연출하여 텍스트를 생동감 있게 표현</li>\n<li>여러 고유 폰트 중 선택 가능하며, 사용자 정의 애니메이션 설정 지원</li>\n<li>각 글자...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18319",
+      "guid": "https://news.hada.io/topic?id=18319",
+      "pubDate": "2024-12-18T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "모델리카 기술 관련 뉴스",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Modelica 언어</strong></p>\n<ul>\n<li>Modelica는 객체 지향 언어로, 사이버 물리 시스템을 모델링하는 데 사용됨</li>\n<li>수학적 방정식에 의해 지배되는 재사용 가능한 구성 요소의 비인과적 연결을 지원하여 기본 원칙에서부터 모델링을 용이하게 함</li>\n</ul>\n</li>\n<li>\n<p><strong>Modelic",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18318",
+      "guid": "https://news.hada.io/topic?id=18318",
+      "pubDate": "2024-12-18T09:42:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1인 개발팀, 200만 사용자 달성 [비디오]",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>200만 사용자 달성하기: 1인 개발팀의 이야기</h2>\n</li>\n<li>\n<p><strong>Nadia Odunayo</strong>는 The StoryGraph의 창립자이자 CEO로, 이 앱은 사용자가 독서를 추적하고 기분과 선호하는 주제에 따라 다음에 읽을 책을 선택할 수 있도록 도움을 줌. 그녀는 Pivotal Labs에서 소프트웨어 엔지니어로 일...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18317",
+      "guid": "https://news.hada.io/topic?id=18317",
+      "pubDate": "2024-12-18T09:39:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "달 (Moon)",
+      "description": {
+        "$text": "<h2>달</h2>\n<ul>\n<li>지구 주변의 광활한 우주 공간에서 달은 가장 가까운 천체 이웃임. 달의 모습은 주기적으로 빛으로 가득 차고 어둠에 삼켜지며, 하늘에서 변함없이 존재함.</li>\n<li>이 글에서는 달과 지구 주위를 도는 경로에 대해 배움. 이를 직접 경험하기 위해 우주로 들어가야 함.</li>\n</ul>\n<h3>우주에서 본...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18316",
+      "guid": "https://news.hada.io/topic?id=18316",
+      "pubDate": "2024-12-18T09:36:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "항상 장례식에 참석하라 (2005)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Deirdre Sullivan은 아버지로부터 &quot;항상 장례식에 가라&quot;는 가르침을 받았음.</p>\n</li>\n<li>\n<p>16세 때, 수학 선생님의 장례식에 가기 싫어했지만 아버지의 권유로 참석했음.</p>\n</li>\n<li>\n<p>그 경험은 그녀에게 큰 영향을 미쳤으며, 선생님의 어머니는 여전히 그녀의 이름을 기억하고 있음.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18315",
+      "guid": "https://news.hada.io/topic?id=18315",
+      "pubDate": "2024-12-18T08:33:10+09:00",
       "author": "neo",
       "category": ""
     }
