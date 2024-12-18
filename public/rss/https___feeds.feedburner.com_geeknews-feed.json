@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-18T10:02:01+09:00",
+  "lastBuildDate": "2024-12-18T10:50:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8125,6 +8125,58 @@
       "guid": "https://news.hada.io/topic?id=18315",
       "pubDate": "2024-12-18T08:33:10+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI Engineering 관련 자료들 모음",
+      "description": {
+        "$text": "<ul>\n<li>Chip Huyen이 &quot;AI Engineering&quot; 책을 쓰면서 참고했던 1200개 이상의 링크와 1000개 이상의 AI Github Repo중에서 가장 도움 되는 것들만을 추린 것</li>\n<li>책의 각 챕터별로 연관된 중요 링크와 간단한 요약이 포함되어 있음</li>\n</ul>\n<h2>목차</h2>\n<ul>\n<li>ML Theory Fundamentals</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18323",
+      "guid": "https://news.hada.io/topic?id=18323",
+      "pubDate": "2024-12-18T10:50:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "FTC, 호텔 및 이벤트 티켓 가격의 숨겨진 정크 수수료 금지 조치",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>FTC의 새로운 규칙</h3>\n<ul>\n<li>미국 연방거래위원회(FTC)는 호텔, 이벤트 티켓 판매자들이 수수료를 포함한 총 가격을 사전에 공개하도록 요구하는 규칙을 통과시킴.</li>\n<li>이 규칙은 소비자 비용을 증가시키는 숨겨진 수수료를 없애기 위한 조 바이든 대통령의 정책 중 하나임.</li>\n</ul>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18322",
+      "guid": "https://news.hada.io/topic?id=18322",
+      "pubDate": "2024-12-18T10:34:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Github Actions에서 DB를 실행하고, S3에 저장한 뒤, 공개 억세스 하기",
+      "description": {
+        "$text": "<ul>\n<li>개발 및 테스트를 위한 데이터베이스 운영 시 비용 및 복잡성 문제를 해결하기 위한 꼼수</li>\n<li>VPS, 클라우드 VM, 관리형 서비스 등은 지속적인 비용과 스토리지 요금이 발생\n<ul>\n<li>구성 작업이 복잡하고, 사용하지 않을 때도 리소스 비용을 지불하게 됨</li>\n</ul>\n</li>\n<li>대안: GitHub Actions와 S...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18321",
+      "guid": "https://news.hada.io/topic?id=18321",
+      "pubDate": "2024-12-18T10:32:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TeaVM - 자바를 플러그인 없이 브라우저에서 실행하는 Java to WASM GC 트랜스파일러",
+      "description": {
+        "$text": "<ul>\n<li>TeaVM은 Java 개발자가 JavaScript 개발 스택의 복잡함 없이 웹 애플리케이션을 개발하도록 돕는 도구</li>\n<li>Ahead-of-time 컴파일러로 Java 바이트코드를 JavaScript 및 WebAssembly로 변환해 브라우저에서 실행되도록 만듦</li>\n<li>GWT와 유사하지만, <strong>소스 코드 대신 바이트코드</strong>(class ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18320",
+      "guid": "https://news.hada.io/topic?id=18320",
+      "pubDate": "2024-12-18T10:17:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
