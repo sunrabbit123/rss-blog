@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-18T11:07:01+09:00",
+  "lastBuildDate": "2024-12-18T13:58:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8190,6 +8190,32 @@
       "guid": "https://news.hada.io/topic?id=18324",
       "pubDate": "2024-12-18T11:07:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 우리끼리 시상식 Ourwardz! 다사다난 2024, 시상식으로 마무리해볼까요?",
+      "description": {
+        "$text": "<p>링크 공유만으로 친구, 연인과 시상식을 만들 수 있어요.</p>\n<p>올해의 영화, 올해의 소비, 올해의 바보짓 등 상을 만들고 후보를 추가해보세요.</p>\n<p>투표 or 실시간 방식으로 시상식을 진행할 수 있어요.</p>\n<p>올해도 고생하셨습니다 ! 🎉<br />\n무탈한 연말 보내세요 :)</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18326",
+      "guid": "https://news.hada.io/topic?id=18326",
+      "pubDate": "2024-12-18T13:58:42+09:00",
+      "author": "ohhanum",
+      "category": ""
+    },
+    {
+      "title": "Github Ops 로 Mono Repo 배포를 더욱 쉽게",
+      "description": {
+        "$text": "<ul>\n<li>기존 배포 파이프라인 방식 소개\n<ul>\n<li>방법1: 특정 브렌치에 push 되면 배포</li>\n<li>방법2: main branch에서 Github Release를 생성하여 배포</li>\n<li>방법3: Pull request에 comment를 달아 배포후 main branch merge</li>\n</ul>\n</li>\n<li>우리 팀에서 생각하는 배포 파이프라인의 핵심 가치</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18325",
+      "guid": "https://news.hada.io/topic?id=18325",
+      "pubDate": "2024-12-18T13:56:14+09:00",
+      "author": "toughrogrammer",
       "category": ""
     }
   ]
