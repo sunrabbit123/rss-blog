@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-18T13:58:42+09:00",
+  "lastBuildDate": "2024-12-18T18:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8216,6 +8216,19 @@
       "guid": "https://news.hada.io/topic?id=18325",
       "pubDate": "2024-12-18T13:56:14+09:00",
       "author": "toughrogrammer",
+      "category": ""
+    },
+    {
+      "title": "3년 만에 실패한 나의 스타트업 코드 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>스타트업 Konfig</strong></p>\n<ul>\n<li>Konfig는 API 통합을 쉽게 만드는 개발자 도구 스타트업이었음.</li>\n<li>2022년 말에 시작하여 SDK 생성, 문서화, 테스트 도구를 제공하여 개발자들의 API 작업을 단순화하는 것을 목표로 했음.</li>\n<li>주요 제품은 OpenAPI 사양을 기반으로 여러 프로그",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18327",
+      "guid": "https://news.hada.io/topic?id=18327",
+      "pubDate": "2024-12-18T18:34:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
