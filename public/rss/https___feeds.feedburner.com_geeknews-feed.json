@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-18T10:50:01+09:00",
+  "lastBuildDate": "2024-12-18T11:07:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8176,6 +8176,19 @@
       "link": "https://news.hada.io/topic?id=18320",
       "guid": "https://news.hada.io/topic?id=18320",
       "pubDate": "2024-12-18T10:17:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google Deepmind의 Project Mariner - 브라우저 자동화 도구",
+      "description": {
+        "$text": "<ul>\n<li>브라우저를 사용하는 새로운 방법</li>\n<li>Gemini 2.0 기반으로 강력한 멀티모달 이해 및 추론 능력을 이용 브라우저 작업을 자동화</li>\n<li>브라우저 화면의 픽셀, 텍스트, 코드, 이미지, 폼 등 모든 요소를 이해하고 추론</li>\n<li>Native Multimodality : <strong>브라우저 상의 모든 콘텐츠를 이해하고 추...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18324",
+      "guid": "https://news.hada.io/topic?id=18324",
+      "pubDate": "2024-12-18T11:07:01+09:00",
       "author": "xguru",
       "category": ""
     }
