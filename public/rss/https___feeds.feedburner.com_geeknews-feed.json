@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-18T18:34:21+09:00",
+  "lastBuildDate": "2024-12-19T09:53:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8229,6 +8229,97 @@
       "guid": "https://news.hada.io/topic?id=18327",
       "pubDate": "2024-12-18T18:34:21+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "선형 대수를 활용한 인터랙티브 다이어그램 편집기 개발 사례",
+      "description": {
+        "$text": "<ul>\n<li>행렬은 학교에서 배운 중요한 선형 대수 개념 중 하나이며, 다양한 문제를 해결하는 데 유용함. 이 글에서는 <strong>Schemio</strong>라는 인터랙티브 다이어그램 편집기를 개발하면서 행렬을 어떻게 활용했는지를 설명함.</li>\n</ul>\n<h2>Schemio의 초기 개발 단계</h2>\n<ul>\n<li>초기 Schemio는 간단한 형태...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18334",
+      "guid": "https://news.hada.io/topic?id=18334",
+      "pubDate": "2024-12-19T09:53:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1-800-ChatGPT 고객 지원 서비스",
+      "description": {
+        "$text": "<ul>\n<li>\n<h5><strong>1-800-ChatGPT란 무엇인가?</strong></h5>\n<ul>\n<li>1-800-ChatGPT는 ChatGPT에 더 넓은 접근을 제공하기 위한 실험적 서비스임.</li>\n<li>전화나 WhatsApp을 통해 ChatGPT와 대화 가능하며, 계정이 필요하지 않음.</li>\n<li>ChatGPT가 먼저 전화를 걸거나 채팅을 시작하지 않음.</li>\n<li>미국 또...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18333",
+      "guid": "https://news.hada.io/topic?id=18333",
+      "pubDate": "2024-12-19T09:50:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MIT 연구, 법률이 난해한 스타일로 작성되는 이유 설명",
+      "description": {
+        "$text": "<h4>법률 문서의 복잡한 언어</h4>\n<ul>\n<li>법률 문서는 이해하기 어렵고, 이는 법률 문서가 왜 그렇게 난해하게 작성되는지를 의문으로 남김.</li>\n<li>MIT 인지 과학자들은 법률 문서의 복잡한 언어가 권위를 전달하기 위한 것이라고 결론지음.</li>\n<li>연구에 따르면 비법률가들도 법을 작성할 때 이러한 언어를 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18332",
+      "guid": "https://news.hada.io/topic?id=18332",
+      "pubDate": "2024-12-19T09:47:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Termo - 웹에서 터미널 UI를 구현하는 터미널 에뮬레이터",
+      "description": {
+        "$text": "<ul>\n<li>웹페이지 상에서 콘솔 인터페이스를 제공 가능</li>\n<li>커스터마이징 가능: 터미널 타이틀, 프롬프트, 폰트, 테마</li>\n<li>터미널 웰컴 메시지 표시</li>\n<li>모든 자바스크립트를 명령으로 추가하고 실행</li>\n<li>사운드 효과 제어</li>\n<li>xterm.js 의 Wrapper로 모든 터미널 기능 활용 가능</li>\n<li>도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18331",
+      "guid": "https://news.hada.io/topic?id=18331",
+      "pubDate": "2024-12-19T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "GitHub Copilot 무료 제공 시작",
+      "description": {
+        "$text": "<h2>GitHub Copilot 소개</h2>\n<ul>\n<li>\n<strong>GitHub Copilot</strong>은 AI 기반의 코드 작성 도구로, 개발자가 코드 작성 시 실시간으로 코드 완성을 제안하는 기능을 제공함.</li>\n<li>사용자 맞춤형 설정과 문맥 인식을 통해 코드 작성 스타일에 맞춘 제안을 받을 수 있음.</li>\n<li>여러 파일을 동시에 편집할 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18330",
+      "guid": "https://news.hada.io/topic?id=18330",
+      "pubDate": "2024-12-19T09:44:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Laminar - LLM앱을 위한 오픈소스 Observability & 분석 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>LLM앱용 DataDog + PostHog 으로 빠르고 안정적이며 확장 가능하도록 설계됨\n<ul>\n<li>LLM 데이터를 Trace, Evaluate, Label, Analyze</li>\n</ul>\n</li>\n<li>RabbitMQ(메시지큐) + Postgres(스토리지) + Clickhouse(분석) + Qdrant(시맨틱 검색) 로 구성된 Rust 기반 스택</li>\n</ul>\n<h2>Laminar의 차별점</h2...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18329",
+      "guid": "https://news.hada.io/topic?id=18329",
+      "pubDate": "2024-12-19T09:30:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "GitHub Copilot, 무료 플랜 추가되어 누구나 사용 가능",
+      "description": {
+        "$text": "<ul>\n<li>이제 누구나 VS Code 와 GitHub에서 Copliot을 무료로 사용 가능\n<ul>\n<li>월 2000개의 Context-Aware 코드 추천</li>\n<li>월 40개의 Copilot Chat 메시지로 리팩토링, 디버깅, 코드 설명등 질의 가능</li>\n</ul>\n</li>\n<li>OpenAI GPT 4o와 Anthropic Claude 3.5 Sonnet 모델중에서 선택</li>\n<li>Copilot Edi...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18328",
+      "guid": "https://news.hada.io/topic?id=18328",
+      "pubDate": "2024-12-19T09:15:25+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
