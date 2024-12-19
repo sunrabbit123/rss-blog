@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-19T12:03:36+09:00",
+  "lastBuildDate": "2024-12-19T16:34:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8424,6 +8424,19 @@
       "guid": "https://news.hada.io/topic?id=18343",
       "pubDate": "2024-12-19T12:03:36+09:00",
       "author": "namojo",
+      "category": ""
+    },
+    {
+      "title": "ISO 8583: 신용카드의 언어",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ISO 8583: 신용카드의 언어</h2>\n</li>\n<li>\n<p>ISO 8583은 주요 카드 네트워크 간에 실시간 메시지를 주고받기 위한 표준임. 이 표준은 판매 시점 장치에서 카드를 터치하거나 온라인에서 &quot;구매&quot;를 클릭할 때 발생하는 메시지를 정의함. 초기에는 판매 시점 장치나 ATM이 직접 ISO 8583 메시지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18344",
+      "guid": "https://news.hada.io/topic?id=18344",
+      "pubDate": "2024-12-19T16:34:27+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
