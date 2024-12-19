@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-19T16:34:27+09:00",
+  "lastBuildDate": "2024-12-19T23:35:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8437,6 +8437,19 @@
       "guid": "https://news.hada.io/topic?id=18344",
       "pubDate": "2024-12-19T16:34:27+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Show GN: AI 개발 도구 생태계를 위한 커뮤니티 기반 매핑",
+      "description": {
+        "$text": "<p>안녕하세요! VC들이 발표하는 정적인 AI 생태계 맵과 달리, 커뮤니티가 함께 만들어가는 오픈소스 AI 개발 도구 매핑을 만들었습니다.</p>\n<p>특징:</p>\n<ul>\n<li>PR을 통해 누구나 기여 가능</li>\n<li>코드로 관리되며 자동 시각화</li>\n<li>생태계 변화에 따라 실시간 업데이트</li>\n<li>간단한 기여 프로세스</li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18345",
+      "guid": "https://news.hada.io/topic?id=18345",
+      "pubDate": "2024-12-19T23:35:58+09:00",
+      "author": "nkkko",
       "category": ""
     }
   ]
