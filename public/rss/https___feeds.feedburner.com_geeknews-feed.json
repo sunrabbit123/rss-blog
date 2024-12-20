@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-20T14:38:46+09:00",
+  "lastBuildDate": "2024-12-20T20:33:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8632,6 +8632,19 @@
       "guid": "https://news.hada.io/topic?id=18362",
       "pubDate": "2024-12-20T14:38:46+09:00",
       "author": "epdlemflaj",
+      "category": ""
+    },
+    {
+      "title": "실패할 수 없는 Kelly 전략",
+      "description": {
+        "$text": "<h3>소개</h3>\n<ul>\n<li>Kelly 베팅 할당 전략은 도박 상황에서 정보를 최대한 활용하는 시스템으로, 매우 공격적이고 높은 변동성을 가진 전략으로 알려져 있음.</li>\n<li>Peter Winkler의 책 _Mathematical Puzzles_에서 &quot;Next Card Bet&quot;라는 카드 게임을 소개하며, 이 게임에서 Kelly 전략이 위험이 없고 변...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18363",
+      "guid": "https://news.hada.io/topic?id=18363",
+      "pubDate": "2024-12-20T20:33:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
