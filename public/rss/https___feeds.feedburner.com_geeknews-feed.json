@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-20T13:53:00+09:00",
+  "lastBuildDate": "2024-12-20T14:38:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8619,6 +8619,19 @@
       "guid": "https://news.hada.io/topic?id=18360",
       "pubDate": "2024-12-20T13:53:00+09:00",
       "author": "skytin1004",
+      "category": ""
+    },
+    {
+      "title": "AWS 에서 MSP 업체에서 진행하던 클라우드 공유판매를 금지하기로 결정",
+      "description": {
+        "$text": "<p>기사 내용 : &quot;그동안 MSP 업체들은 우선 AWS 서비스를 약정할인으로 저렴하게 구매한 후, 이를 다른 고객사에 셰어링하는 방법으로 일종의 재판매(Reselling)를 해 왔다. 쉽게 비유하면 도매가로 상품을 매입해 소매가로 시장에 판매하는 식이다. MSP 입장에선 약정 부담을 지는 대신 수익을 높일 수 있고, 고객...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18362",
+      "guid": "https://news.hada.io/topic?id=18362",
+      "pubDate": "2024-12-20T14:38:46+09:00",
+      "author": "epdlemflaj",
       "category": ""
     }
   ]
