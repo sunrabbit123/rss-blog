@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-20T11:40:39+09:00",
+  "lastBuildDate": "2024-12-20T13:53:00+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8606,6 +8606,19 @@
       "guid": "https://news.hada.io/topic?id=18349",
       "pubDate": "2024-12-20T09:38:33+09:00",
       "author": "nanse84",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Co-op Translator – OpenAI 모델 지원 및 Markdown-only 기능 추가",
+      "description": {
+        "$text": "<p>오픈소스 프로젝트 Co-op Translator가 업데이트되었습니다! (v0.6.2)</p>\n<p><strong>Co-op Translator</strong>는 명령어 한 줄로 프로젝트의 <strong>다국어 번역본을 생성하고 관리</strong>해주는 오픈소스 툴입니다.</p>\n<p><strong>Co-op Translator</strong>가 이제 <strong>Azure OpenAI</strong>뿐만 아니라",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18360",
+      "guid": "https://news.hada.io/topic?id=18360",
+      "pubDate": "2024-12-20T13:53:00+09:00",
+      "author": "skytin1004",
       "category": ""
     }
   ]
