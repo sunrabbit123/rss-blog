@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-19T23:35:58+09:00",
+  "lastBuildDate": "2024-12-20T08:38:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8450,6 +8450,32 @@
       "guid": "https://news.hada.io/topic?id=18345",
       "pubDate": "2024-12-19T23:35:58+09:00",
       "author": "nkkko",
+      "category": ""
+    },
+    {
+      "title": "에어태그용 10년 지속 배터리",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>10년 지속 배터리를 소개함</h2>\n</li>\n<li>\n<p>내 카메라 가방이 도난당한 경험을 공유함. FindMy 앱을 통해 도둑을 추적하려 했으나, AirTag의 배터리를 교체하지 않아 마지막 위치가 3개월 전 사무실로 표시됨. 이로 인해 TimeCapsule을 설계하게 됨.</p>\n</li>\n<li>\n<p>TimeCapsule은 AirTag의 배터리",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18347",
+      "guid": "https://news.hada.io/topic?id=18347",
+      "pubDate": "2024-12-20T08:38:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소규모에서의 Java 활용",
+      "description": {
+        "$text": "<h2>Java의 소규모 활용</h2>\n<ul>\n<li>\n<p><strong>Java의 특징</strong>: Java는 대규모 프로젝트에 적합한 많은 기능을 가지고 있지만, 소규모 작업에도 유용함. 최근 언어 기능들이 이를 더욱 향상시킴. 컴파일 시점의 타입 검사와 훌륭한 도구 지원이 주요 장점임.</p>\n</li>\n<li>\n<p><strong>작업 자동화</strong>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18346",
+      "guid": "https://news.hada.io/topic?id=18346",
+      "pubDate": "2024-12-20T08:35:05+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
