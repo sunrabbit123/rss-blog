@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-20T08:38:05+09:00",
+  "lastBuildDate": "2024-12-20T11:40:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8476,6 +8476,136 @@
       "guid": "https://news.hada.io/topic?id=18346",
       "pubDate": "2024-12-20T08:35:05+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini Live에 한국어 지원 추가",
+      "description": {
+        "$text": "<p><a href=\"https://support.google.com/gemini/answer/15274899?hl=ko\">Google Gemini의 Interactive Voice 모드인 Gemini Live</a>에 한국어 지원이 추가되었습니다.</p>\n<p>Gemini Live는 Android 또는 iOS(별도의 Gemini Live 앱 필요)에서 사용할 수 있으며, 사람과 대화하듯이 Gemini를 이용할 수 있습니다. (Gem",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18359",
+      "guid": "https://news.hada.io/topic?id=18359",
+      "pubDate": "2024-12-20T11:40:39+09:00",
+      "author": "ganadist",
+      "category": ""
+    },
+    {
+      "title": "Google Agentspace - AI 에이전트와 AI 기반 검색을 기업에 도입",
+      "description": {
+        "$text": "<ul>\n<li>기업의 성공은 개인의 천재성뿐만 아니라 &quot;조직의 집단 지성&quot;에 달려 있음</li>\n<li>하지만 전문 지식은 종종 사일로에 갇혀 있어 필요한 사람들이 즉시 접근하기 어려움</li>\n<li>Google Agentspace는 <strong>Gemini의 고급 추론, Google 수준의 검색, 기업 데이터를 통합</strong>하여 직원 생산성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18357",
+      "guid": "https://news.hada.io/topic?id=18357",
+      "pubDate": "2024-12-20T11:03:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "wasm-vips - 브라우저와 NodeJS를 위한 빠른 이미지 처리 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>고속 이미지 처리 라이브러리 libvips를 EMscripten을 이용해 WASM으로 컴파일\n<ul>\n<li>&quot;demand-driven, horizontally threaded&quot; : 이미지의 필요한 부분만 처리하며, IO시스템 자체에 스레딩을 적용</li>\n<li>다른 라이브러리보다 빠른 처리속도와 낮은 메모리 사용량</li>\n<li>약 300개의 연산을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18356",
+      "guid": "https://news.hada.io/topic?id=18356",
+      "pubDate": "2024-12-20T10:41:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "ModernBERT - BERT를 대체할 모델",
+      "description": {
+        "$text": "<ul>\n<li>ModernBERT는 최신 기술을 적용한 새로운 인코더 전용 모델로, BERT와 그 후속 모델들보다 속도와 정확성에서 개선을 이룸</li>\n<li>8192 토큰의 긴 문맥 길이를 지원하며, 코드 데이터도 포함하여 훈련됨</li>\n<li>다양한 응용 분야에서 사용 가능하며, 특히 대규모 코드 검색 및 새로운 IDE 기능에 적합함</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18355",
+      "guid": "https://news.hada.io/topic?id=18355",
+      "pubDate": "2024-12-20T10:34:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go 1.24의 중요한 개선사항들",
+      "description": {
+        "$text": "<p><a href=\"https://cdn.gosuda.org/whats-new-in-go1.24/overview-ko.png\" rel=\"noopener noreferrer\">[IMG] Overview of Go 1.24</a></p>\n<p>Go 1.24 버전은 성능, 보안 및 개발자 경험에 초점을 맞춘 다양한 개선 사항을 도입하여 중요한 릴리스가 될 것으로 보입니다. 이러한 변경 사항은 Go를 현대적인 애플리케이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18354",
+      "guid": "https://news.hada.io/topic?id=18354",
+      "pubDate": "2024-12-20T10:17:15+09:00",
+      "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "안드로이드에서 Apple Watch 사용하기",
+      "description": {
+        "$text": "<ul>\n<li>친구가 호텔에서 혼자 있을 때 비정상적인 건강 징후를 감지하지 못해 사망한 사건이 계기로 스마트워치의 필요성을 느끼게 됨</li>\n<li>Apple Watch는 심박수, 수면, 운동 추적의 정확성 면에서 업계 선두이며, 4년 된 모델도 최신 경쟁 제품보다 정확함</li>\n<li>그러나 Apple의 폐쇄적인 생태계, 독점적 정책...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18353",
+      "guid": "https://news.hada.io/topic?id=18353",
+      "pubDate": "2024-12-20T09:46:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 에이전트 간 협력의 문화적 진화",
+      "description": {
+        "$text": "<h2>arXiv의 개인정보 보호정책 변경</h2>\n<ul>\n<li>arXiv의 개인정보 보호정책이 변경되었음. arxiv.org를 계속 사용함으로써 이 정책에 동의하는 것임.</li>\n</ul>\n<h2>협력의 문화적 진화</h2>\n<ul>\n<li>\n<strong>연구 배경</strong>: 대형 언어 모델(LLM)은 일반적으로 유능한 AI 에이전트를 구축하는 데 중요한 기반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18352",
+      "guid": "https://news.hada.io/topic?id=18352",
+      "pubDate": "2024-12-20T09:46:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대형 언어 모델에서의 정렬 위장 (Alignment Faking)",
+      "description": {
+        "$text": "<ul>\n<li>정렬 위장 (Alignment Faking)은 &quot;겉으로는 동의하는 척하며 실제로는 그렇지 않은 행동&quot;을 의미\n<ul>\n<li>예: 셰익스피어의 <em>오셀로</em>에서 이아고(Iago)의 배신적인 행동</li>\n<li>현실에서도 나타남: 정치인이 선거 기간 주장한 정책을 당선 후 버리는 경우</li>\n</ul>\n</li>\n<li>AI 모델에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18351",
+      "guid": "https://news.hada.io/topic?id=18351",
+      "pubDate": "2024-12-20T09:43:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nullboard - 단일 HTML 파일로 구현된 칸반 보드",
+      "description": {
+        "$text": "<ul>\n<li>간단하고 빠르게 사용할 수 있도록 설계된 미니멀리스트 칸반 보드 및 작업 목록 관리 도구</li>\n<li>단일 페이지 웹 앱으로, 하나의 HTML 파일, 오래된 jQuery 패키지, 웹폰트 팩으로 구성됨</li>\n<li>완전히 오프라인으로 사용 가능하며, 이를 염두에 두고 작성됨</li>\n<li>모든 데이터는 현재 localStorage를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18350",
+      "guid": "https://news.hada.io/topic?id=18350",
+      "pubDate": "2024-12-20T09:40:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CloudFront의 숨은 힘: 캐싱 없이도 극대화 되는 성능과 비용 효율성",
+      "description": {
+        "$text": "<p>CloudFront는 단순한 정적 콘텐츠용 CDN이 아닌, 동적 콘텐츠에도 뛰어난 성능을 제공하는 서비스 입니다.</p>\n<p>주요 장점으로는</p>\n<ol>\n<li>사용자와 가까운 접속지점(PoP)을 통한 최적화로, 한국에만 8개의 접속 지점이 운영 중이며, 2) AWS Global Network를 통한 빠른 라우팅으로 네트워크 지터 2배 감소, 대",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18349",
+      "guid": "https://news.hada.io/topic?id=18349",
+      "pubDate": "2024-12-20T09:38:33+09:00",
+      "author": "nanse84",
       "category": ""
     }
   ]
