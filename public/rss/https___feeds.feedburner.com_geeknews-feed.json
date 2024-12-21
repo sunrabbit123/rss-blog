@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-21T10:05:38+09:00",
+  "lastBuildDate": "2024-12-21T10:33:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8775,6 +8775,19 @@
       "guid": "https://news.hada.io/topic?id=18365",
       "pubDate": "2024-12-21T08:38:05+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Firenvim - 브라우저의 텍스트 편집창에서 NeoVim 이용하기",
+      "description": {
+        "$text": "<ul>\n<li>NeoVim을 Chrome/Firefox에 임베드하여 브라우저를 NeoVim 클라이언트로 만들기 가능</li>\n<li>아무 Textarea나 클릭하면 해당 영역이 Firenvim 인스턴스로 대체됨</li>\n<li>그 뒤에 Neovim 스타일로 텍스트를 수정한 후 :w 하면 숨겨져 있던 Textarea에 해당 내용이 대체됨</li>\n<li>설치 방법\n<ul>\n<li>Firen...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18375",
+      "guid": "https://news.hada.io/topic?id=18375",
+      "pubDate": "2024-12-21T10:33:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
