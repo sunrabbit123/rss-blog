@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-21T10:33:01+09:00",
+  "lastBuildDate": "2024-12-21T15:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8788,6 +8788,19 @@
       "guid": "https://news.hada.io/topic?id=18375",
       "pubDate": "2024-12-21T10:33:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "효과적인 \"Agents\" 구축 방안",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>효과적인 에이전트 구축</strong></p>\n<ul>\n<li>지난 1년 동안 다양한 산업에서 대형 언어 모델(LLM) 에이전트를 구축하는 여러 팀과 협력해 왔음. 가장 성공적인 구현은 복잡한 프레임워크나 전문 라이브러리를 사용하지 않고, 간단하고 조합 가능한 패턴을 사용했음.</li>\n</ul>\n</li>\n<li>\n<p>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18376",
+      "guid": "https://news.hada.io/topic?id=18376",
+      "pubDate": "2024-12-21T15:33:14+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
