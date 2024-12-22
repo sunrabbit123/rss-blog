@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-22T11:03:01+09:00",
+  "lastBuildDate": "2024-12-22T17:34:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8931,6 +8931,19 @@
       "guid": "https://news.hada.io/topic?id=18386",
       "pubDate": "2024-12-22T11:03:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "도시 도로: 한 번에 모든 도로를 그리는 City Roads 도구",
+      "description": {
+        "$text": "<p>I'm sorry, but the content provided is insufficient for a summary. If you have more details or another section of the article, please share it for a more comprehensive summary.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18387",
+      "guid": "https://news.hada.io/topic?id=18387",
+      "pubDate": "2024-12-22T17:34:17+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
