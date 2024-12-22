@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-22T10:29:30+09:00",
+  "lastBuildDate": "2024-12-22T11:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -8918,6 +8918,19 @@
       "guid": "https://news.hada.io/topic?id=18378",
       "pubDate": "2024-12-22T09:39:53+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스",
+      "description": {
+        "$text": "<ul>\n<li>tldraw의 무한 캔버스위에 구글 Gemini API를 활용한 자연어 컴퓨팅을 접목한 프로젝트</li>\n<li>대화형 AI의 기능을 시각적 프로그래밍에 도입, 자연어를 사용하여 콘텐츠를 생성하고 정보를 처리할 수 있도록 지원\n<ul>\n<li>연결된 컴포넌트의 워크플로우를 생성하고 데이터를 생성 및 변환할 수 있음</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18386",
+      "guid": "https://news.hada.io/topic?id=18386",
+      "pubDate": "2024-12-22T11:03:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
