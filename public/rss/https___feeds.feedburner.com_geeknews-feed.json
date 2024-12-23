@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-23T10:21:01+09:00",
+  "lastBuildDate": "2024-12-23T10:53:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9074,6 +9074,32 @@
       "guid": "https://news.hada.io/topic?id=18391",
       "pubDate": "2024-12-23T09:52:44+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "뉴스레터 플랫폼 스티비, 개인 정보 유출",
+      "description": {
+        "$text": "<ul>\n<li>2024년 12월 17일에 스티비 서버가 해킹 공격을 받아 일부 스티비 사용자의 개인정보가 외부에서 조회됨</li>\n<li>2024년 12월 19일에 이 사실을 인지한 즉시 관련 기관에 신고했으며, 내부적으로 필요한 조치를 완료</li>\n<li>\n<a href=\"https://leak-check.stibee.com/\">개인 정보 유출 확인</a> 링크에서 조...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18403",
+      "guid": "https://news.hada.io/topic?id=18403",
+      "pubDate": "2024-12-23T10:53:52+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "데이터 엔지니어링 전망: Data Engineering Weekly의 2025년 예상",
+      "description": {
+        "$text": "<ul>\n<li>2024년 데이터 엔지니어링의 주요 변화 : 생성형 AI의 급성장, 데이터 거버넌스의 성숙화, 효율성과 실시간 처리에 대한 집중</li>\n<li>2025년에는 이러한 흐름 위에서 데이터 세계를 변화시킬 다섯 가지 주요 트렌드가 예상됨</li>\n</ul>\n<h2>1. AI 컴퓨팅의 발전</h2>\n<ul>\n<li>NVIDIA가 시가총액 기준으로 세...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18402",
+      "guid": "https://news.hada.io/topic?id=18402",
+      "pubDate": "2024-12-23T10:36:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
