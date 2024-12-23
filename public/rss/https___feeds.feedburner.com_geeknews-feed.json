@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-23T10:53:52+09:00",
+  "lastBuildDate": "2024-12-23T15:34:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9100,6 +9100,32 @@
       "guid": "https://news.hada.io/topic?id=18402",
       "pubDate": "2024-12-23T10:36:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미셸 드 몽테뉴의 온라인 에세이",
+      "description": {
+        "$text": "<h2>HyperEssays 프로젝트 소개</h2>\n<ul>\n<li>\n<strong>HyperEssays</strong>는 Michel de Montaigne의 &quot;The Essays&quot;를 현대적이고 접근 가능한 온라인 판으로 제공하는 프로젝트임.</li>\n<li>이 사이트는 다양한 판본을 제공하며, 독자들이 Montaigne의 작품을 쉽게 이해할 수 있도록 문맥과 도구를 제공하는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18405",
+      "guid": "https://news.hada.io/topic?id=18405",
+      "pubDate": "2024-12-23T15:34:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "해커를 위한 탈중앙화된 미니멀리스트 마이크로블로깅 서비스 Twtxt",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>twtxt 소개</strong></p>\n<ul>\n<li>twtxt는 해커를 위한 분산형, 최소주의 마이크로블로깅 서비스임.</li>\n<li>GitHub에서 소스 코드를 관리하며, 프로젝트에 기여 가능함.</li>\n</ul>\n</li>\n<li>\n<p><strong>사용자 가이드</strong></p>\n<ul>\n<li>\n<strong>소개</strong>\n<ul>\n<li>twtxt의 기능과",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18404",
+      "guid": "https://news.hada.io/topic?id=18404",
+      "pubDate": "2024-12-23T14:34:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
