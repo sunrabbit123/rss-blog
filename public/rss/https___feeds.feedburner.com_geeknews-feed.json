@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-23T15:34:24+09:00",
+  "lastBuildDate": "2024-12-23T16:33:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9125,6 +9125,19 @@
       "link": "https://news.hada.io/topic?id=18404",
       "guid": "https://news.hada.io/topic?id=18404",
       "pubDate": "2024-12-23T14:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "외로움 극복 방법: 독일의 Stammtisch 문화",
+      "description": {
+        "$text": "<h4>외로움을 극복하는 방법: 독일의 Stammtisch</h4>\n<ul>\n<li>\n<p><strong>Stammtisch의 발견</strong>: Stammtisch는 독일의 전통으로, 같은 관심사를 가진 사람들이 정기적으로 모여 술을 마시며 대화를 나누는 모임을 의미함. 이는 단순한 술자리 이상의 의미를 가지며, 친구들과의 관계를 깊게 만들어 줌.</p>\n</l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18406",
+      "guid": "https://news.hada.io/topic?id=18406",
+      "pubDate": "2024-12-23T16:33:17+09:00",
       "author": "neo",
       "category": ""
     }
