@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-24T11:02:17+09:00",
+  "lastBuildDate": "2024-12-24T15:33:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9269,6 +9269,19 @@
       "guid": "https://news.hada.io/topic?id=18415",
       "pubDate": "2024-12-24T10:22:21+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "동료 줄리어스",
+      "description": {
+        "$text": "<h2>줄리우스와의 만남</h2>\n<ul>\n<li>대학 시절 줄리우스를 만났음. 그는 항상 미소를 띠고 있었고, 듣는 능력이 뛰어났음.</li>\n<li>컴퓨터 프로젝트에서 줄리우스는 코드 작성보다는 보고서 형식에 기여했음.</li>\n<li>발표에서 줄리우스는 C 가상 머신에 대해 잘못된 정보를 제공했으나, 이를 농담으로 넘겼음.</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18417",
+      "guid": "https://news.hada.io/topic?id=18417",
+      "pubDate": "2024-12-24T15:33:05+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
