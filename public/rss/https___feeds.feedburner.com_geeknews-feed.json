@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-24T15:33:05+09:00",
+  "lastBuildDate": "2024-12-24T17:23:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9282,6 +9282,19 @@
       "guid": "https://news.hada.io/topic?id=18417",
       "pubDate": "2024-12-24T15:33:05+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TEMU (Terma Emulator) - LLVM 기반의 고성능 마이크로프로세서 에뮬레이터",
+      "description": {
+        "$text": "<p>TEMU는 고성능의 프로세서 코어 및 메모리 에뮬레이션을 제공합니다. 현재의 타겟은 유럽의 우주선에 사용되는 공통 장치들과 버스입니다.</p>\n<p><strong>주요 기능</strong></p>\n<ul>\n<li>LLVM 툴체인을 사용하여 동적으로 바이너리 변환</li>\n<li>멀티코어/멀티프로세서 에뮬레이션 지원</li>\n<li>외부 장치와 데이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18418",
+      "guid": "https://news.hada.io/topic?id=18418",
+      "pubDate": "2024-12-24T17:23:12+09:00",
+      "author": "regentag",
       "category": ""
     }
   ]
