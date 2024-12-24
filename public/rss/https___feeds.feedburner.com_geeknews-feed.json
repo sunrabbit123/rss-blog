@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-23T22:33:36+09:00",
+  "lastBuildDate": "2024-12-24T09:54:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9151,6 +9151,97 @@
       "link": "https://news.hada.io/topic?id=18407",
       "guid": "https://news.hada.io/topic?id=18407",
       "pubDate": "2024-12-23T22:33:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: 2025년에 대한 예측은?",
+      "description": {
+        "$text": "<ul>\n<li>2024년은 AI 안팎으로 많은 발전이 있었던 격동의 해였음</li>\n<li>다가오는 해에 대한 예측은 무엇인지 궁금함</li>\n</ul>\n<h2>CubsFan1060</h2>\n<ul>\n<li>청소년의 소셜 미디어 사용을 제한하려는 규제가 증가할 것임. 예를 들어 학교 내 휴대폰 사용 제한 및 소셜 미디어 가입 요건 강화 등</li>\n<li>이러한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18414",
+      "guid": "https://news.hada.io/topic?id=18414",
+      "pubDate": "2024-12-24T09:54:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI의 수학 능력: 수학자의 견해",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>o3와 FrontierMath 소개</h2>\n<ul>\n<li>o3는 OpenAI의 새로운 언어 모델로, FrontierMath라는 비밀 데이터셋에서 25%의 점수를 기록함.</li>\n<li>FrontierMath는 Epoch AI가 발표한 어려운 수학 문제들로 구성된 비공개 데이터셋임.</li>\n<li>데이터셋은 &quot;이 숫자를 찾아라!&quot;와 같은 문제로 구성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18413",
+      "guid": "https://news.hada.io/topic?id=18413",
+      "pubDate": "2024-12-24T09:51:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마지막으로 알려진 43인치 Sony CRT 구출 여정",
+      "description": {
+        "$text": "<h2>43인치 소니 CRT를 구하기 위한 여정</h2>\n<ul>\n<li>\n<strong>Shank Mods의 대서사시적 탐험</strong>\n<ul>\n<li>Shank Mods는 소니 KX-45ED1 CRT TV를 구하기 위한 여정을 담은 유튜브 비디오를 통해 기술 역사 보존의 열정을 보여줌.</li>\n<li>이 TV는 CRT 수집의 '성배'로 여겨지며, 대륙을 넘나드는 모험과 헌신을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18412",
+      "guid": "https://news.hada.io/topic?id=18412",
+      "pubDate": "2024-12-24T09:48:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 \"12 Days of OpenAI\" 발표 요약",
+      "description": {
+        "$text": "<ul>\n<li>12월 5일부터 시작된 &quot;12 Days of OpenAI&quot; 에서 ChatGPT와 관련된 새로운 기능, 모델, 구독 옵션, 그리고 확장된 기능을 12일간 차례로 공개</li>\n</ul>\n<h2>Day 1: 새로운 o1 추론 모델 및 <a href=\"https://news.hada.io/topic?id=18116\">ChatGPT Pro</a> 출시</h2>\n<ul>\n<li>o1 추론 모델의 완전한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18411",
+      "guid": "https://news.hada.io/topic?id=18411",
+      "pubDate": "2024-12-24T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "상업용 티백에서 방출된 미세플라스틱, 인체 세포로 유입",
+      "description": {
+        "$text": "<p>내용이 요약할 가치가 없으므로 번역을 제공할 수 없음.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18410",
+      "guid": "https://news.hada.io/topic?id=18410",
+      "pubDate": "2024-12-24T09:45:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"United Healthcare\"의 Luigi Mangione 이미지에 대한 DMCA 사용",
+      "description": {
+        "$text": "&quot;United Healthcare&quot;의 Luigi Mangione 이미지에 대한 DMCA 사용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18409",
+      "guid": "https://news.hada.io/topic?id=18409",
+      "pubDate": "2024-12-24T09:42:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Infinigen: 절차적 생성으로 무한한 포토리얼리스틱 세계 구현",
+      "description": {
+        "$text": "<ul>\n<li>Infinigen은 &quot;절차적 3D 장면 생성기&quot;로, 컴퓨터 비전 연구를 위한 고품질 3D 학습 데이터를 생성</li>\n<li>Blender 기반으로 동작하며, BSD 3-Clause License로 무료 및 오픈소스로 제공</li>\n</ul>\n<h2>주요 기능 및 특징</h2>\n<h3>절차적 생성 (Procedural)</h3>\n<ul>\n<li>모든 모양과 재질을 수학...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18408",
+      "guid": "https://news.hada.io/topic?id=18408",
+      "pubDate": "2024-12-24T08:33:09+09:00",
       "author": "neo",
       "category": ""
     }
