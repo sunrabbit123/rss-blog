@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-24T09:54:23+09:00",
+  "lastBuildDate": "2024-12-24T11:02:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9243,6 +9243,32 @@
       "guid": "https://news.hada.io/topic?id=18408",
       "pubDate": "2024-12-24T08:33:09+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Xerox, Lexmark 인수 발표",
+      "description": {
+        "$text": "<ul>\n<li>Xerox Holdings Corporation이 2024년 12월 23일, Lexmark International을 15억 달러에 인수하기로 합의했음</li>\n<li>이번 인수는 Xerox의 프린트 포트폴리오를 강화하고, 하이브리드 업무 환경에 적합한 글로벌 프린트 및 관리형 프린트 서비스 사업을 확장하기 위한 것임</li>\n<li>Lexmark는 혁신적인 이미...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18416",
+      "guid": "https://news.hada.io/topic?id=18416",
+      "pubDate": "2024-12-24T11:02:17+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 2024년 올해 최고의 지름은?",
+      "description": {
+        "$text": "<p>올해 구매한 물품/서비스 중에서 가장 마음에 드는 것은 어떤 것인가요?<br />\n전자제품, 생활용품, 구매/구독형 서비스, 소장형 콘텐츠 다 가능합니다.<br />\n왜 만족스러운지 이유를 적어주시면 차후 지름 생활에 도움 될 것 같습니다.</p>\n<p>참고 :</p>\n<ul>\n<li>\n<a href=\"https://news.hada.io/topic?id=12406\"",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18415",
+      "guid": "https://news.hada.io/topic?id=18415",
+      "pubDate": "2024-12-24T10:22:21+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
