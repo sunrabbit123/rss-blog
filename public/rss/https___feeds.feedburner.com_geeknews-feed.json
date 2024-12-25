@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-25T10:03:59+09:00",
+  "lastBuildDate": "2024-12-25T10:39:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9425,6 +9425,45 @@
       "guid": "https://news.hada.io/topic?id=18419",
       "pubDate": "2024-12-25T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DataJourney - Design-First 오픈소스 데이터 관리 툴킷",
+      "description": {
+        "$text": "<ul>\n<li>조직이 데이터를 효과적으로 관리하고 활용할 수 있도록 오픈소스 기술의 강점을 활용하는 구조화된 접근법 제공</li>\n<li>\n<strong>확장 가능성</strong>과 <strong>재현 가능성</strong>을 중시하며, 데이터 워크플로우를 구축하는 데 필요한 필수 단계를 안내</li>\n<li>목표 설정, 도구 선택, 워크플로우 테...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18431",
+      "guid": "https://news.hada.io/topic?id=18431",
+      "pubDate": "2024-12-25T10:39:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "인스트럭트-한국 2025 1월 Meetup 소식: \"언어모델을 연구하는 나의 아이디어와 도전들\"",
+      "description": {
+        "$text": "<p>2024년 인스트럭트한국 커뮤니티 https://instruct.kr 는 LogicKor 리더보드 출시와 함께 약 700 여명의 연구자들이 자발적으로 자신의 성과를 공유하는 대한민국 최대의 오픈소스 언어모델 커뮤니티 중 하나가 되었습니다.</p>\n<p>​2025년 새해를 맞이하여 인스트럭트한국 디스코드 커뮤니티 회원 여러분의 연구 동",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18430",
+      "guid": "https://news.hada.io/topic?id=18430",
+      "pubDate": "2024-12-25T10:35:08+09:00",
+      "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "실시간 ISS 소변 탱크 상태를 보여주는 macOS 메뉴 바 앱",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>pISSStream</strong></p>\n<ul>\n<li>pISSStream은 macOS 메뉴 바 앱으로, 국제우주정거장(ISS)의 소변 탱크가 실시간으로 얼마나 차 있는지를 보여줌</li>\n<li>다운로드는 한정 수량으로 제공됨</li>\n</ul>\n</li>\n<li>\n<p><strong>Bugs</strong></p>\n<ul>\n<li>Swift와 macOS 앱 개발의 첫 시도로, 완",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18429",
+      "guid": "https://news.hada.io/topic?id=18429",
+      "pubDate": "2024-12-25T10:32:56+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
