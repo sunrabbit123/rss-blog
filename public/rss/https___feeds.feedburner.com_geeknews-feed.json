@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-25T13:34:10+09:00",
+  "lastBuildDate": "2024-12-25T23:24:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9477,6 +9477,19 @@
       "guid": "https://news.hada.io/topic?id=18432",
       "pubDate": "2024-12-25T13:34:10+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: GitHub PR을 cherry-pick 해보세요",
+      "description": {
+        "$text": "<ul>\n<li>사내에서 mono-repository를 사용하기 시작한지 4개월째</li>\n<li>mono-repository 하면 따라다니는 키워드인 <a href=\"https://trunkbaseddevelopment.com/monorepos/\">trunk-based development</a> 또한 같이 적용 중</li>\n<li>trunk-based development 전략에 따라 main 브랜치에 커밋을 하고, release 브랜...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18433",
+      "guid": "https://news.hada.io/topic?id=18433",
+      "pubDate": "2024-12-25T23:24:43+09:00",
+      "author": "a1eng0",
       "category": ""
     }
   ]
