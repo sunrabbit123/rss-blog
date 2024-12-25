@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-24T17:23:12+09:00",
+  "lastBuildDate": "2024-12-25T10:03:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9295,6 +9295,136 @@
       "guid": "https://news.hada.io/topic?id=18418",
       "pubDate": "2024-12-24T17:23:12+09:00",
       "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "자동완성/LSP를 사용하지 않는 프로그래머, 어떻게 작업하나요?",
+      "description": {
+        "$text": "<ul>\n<li>오늘날 내가 당연하게 여기는 IDE 기능을 사용하지 않는 프로그래머들에게 매료됨</li>\n<li>자동완성, 언어 서버, 최근의 Copilot 같은 도구를 사용하지 않는 개발자들에게 질문</li>\n<li>모든 타입과 필드를 기억하는지, 작업 흐름이 어떻게 되는지 궁금함</li>\n<li>언어 서버의 정의로 이동 기능 없이 어떻게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18428",
+      "guid": "https://news.hada.io/topic?id=18428",
+      "pubDate": "2024-12-25T10:03:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM을 활용하는 슬랙봇 만들기",
+      "description": {
+        "$text": "<ul>\n<li>Benchling은 여러 리전과 환경에서 클라우드 인프라를 운영\n<ul>\n<li>Terraform Cloud로 16만 개 이상의 리소스를 관리하며, 한 달 동안 약 50명의 엔지니어가 인프라 변경 사항을 릴리스</li>\n</ul>\n</li>\n<li>방대한 FAQ 문서(20페이지)와 Slack 스레드 기록이 존재하지만, &quot;검색의 비효율성&quot;이 문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18427",
+      "guid": "https://news.hada.io/topic?id=18427",
+      "pubDate": "2024-12-25T10:03:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년의 Fogus: 사물과 물건",
+      "description": {
+        "$text": "<h2>2024년의 최고의 발견들</h2>\n<ul>\n<li>\n<p><strong>읽거나 본 훌륭한 글들</strong></p>\n<ul>\n<li>\n<strong>ELITE: The game that couldn’t be written</strong>: Commodore 64의 인기 게임 Elite에 대한 기사.</li>\n<li>\n<strong>The Rich History of Ham Radio Culture</strong>: 햄 라디오의 역사에 대한 개요.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18426",
+      "guid": "https://news.hada.io/topic?id=18426",
+      "pubDate": "2024-12-25T10:00:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "암 가이드라인이 PDF에 갇힌 이유",
+      "description": {
+        "$text": "암 가이드라인이 PDF에 갇힌 이유",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18425",
+      "guid": "https://news.hada.io/topic?id=18425",
+      "pubDate": "2024-12-25T09:57:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AMD GPU의 LLM 추론 경쟁력 강화 (2023)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>MLC-LLM의 중요성</strong></p>\n<ul>\n<li>MLC-LLM은 ROCm을 사용하여 AMD GPU에서 LLM을 컴파일하고 배포할 수 있게 함</li>\n<li>AMD Radeon™ RX 7900 XTX는 NVIDIA® GeForce RTX™ 4090의 80%, RTX™ 3090Ti의 94% 성능을 제공함</li>\n<li>Vulkan 지원을 통해 SteamDeck과 같은 AMD APU 장치에서",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18424",
+      "guid": "https://news.hada.io/topic?id=18424",
+      "pubDate": "2024-12-25T09:54:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "C++의 절대적 인기",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>C++의 재미</h2>\n<ul>\n<li>프로그래머들이 프로그래밍을 시작한 이유를 잊어버렸다고 생각함.</li>\n<li>C++로 프로젝트를 진행하며 재미를 느끼고, 다양한 아이디어를 실현할 수 있었음.</li>\n<li>C++는 프로그래머가 원하는 것을 할 수 있도록 방해하지 않음.</li>\n</ul>\n</li>\n<li>\n<h2>C++ 템플릿 메타...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18423",
+      "guid": "https://news.hada.io/topic?id=18423",
+      "pubDate": "2024-12-25T09:51:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제38회 카오스 커뮤니케이션 콩그레스",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>38th Chaos Communication Congress</strong></p>\n<ul>\n<li>38번째 Chaos Communication Congress(38C3)는 2024년 12월 27일부터 30일까지 함부르크에서 개최됨. 이 행사는 Chaos Computer Club(CCC)와 자원봉사자들이 주최하는 연례 4일간의 기술, 사회, 유토피아에 관한 회의임.</li>\n<li>Congre",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18422",
+      "guid": "https://news.hada.io/topic?id=18422",
+      "pubDate": "2024-12-25T09:48:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ESP32를 활용한 저비용 드론 제작 방법",
+      "description": {
+        "$text": "<ul>\n<li>스마트폰으로 제어 가능한 DIY WiFi 드론 프로젝트</li>\n<li>드론은 초기에는 취미용으로 시작했으나, 현재는 사진 촬영, 농업, 국방 및 군사 등 다양한 분야에서 활용되는 도구로 발전</li>\n<li>용도, 기능, 페이로드 용량에 따라 가격이 천차만별로, 몇 달러에서 수백만 달러까지 다양</li>\n<li>드론의 안정적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18421",
+      "guid": "https://news.hada.io/topic?id=18421",
+      "pubDate": "2024-12-25T09:45:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Lemniscate Constant (ϖ) : π의 어두운 쌍둥이(Evil Twin)",
+      "description": {
+        "$text": "<ul>\n<li>π(파이)와 마찬가지로 ϖ는 중요한 수학적 상수\n<ul>\n<li>π는 원과 삼각 함수(sin, cos)와 연관됨</li>\n<li>ϖ는 무한대(∞) 모양의 렘니스케이트(lemniscate)와 새로운 삼각 함수(sl, cl)와 연관됨</li>\n</ul>\n</li>\n<li>렘니스케이트는 두 점에서의 곱을 일정하게 유지하는 커브(카시니의 타원)의 특별한 경우로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18420",
+      "guid": "https://news.hada.io/topic?id=18420",
+      "pubDate": "2024-12-25T09:42:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "초보자를 위한 AI Python - Andrew Ng 의 무료 강의",
+      "description": {
+        "$text": "<h2>배우는 내용</h2>\n<ul>\n<li>Python 프로그래밍 기초 및 데이터를 조작, 분석, 시각화하기 위한 AI 도구 통합 방법 학습</li>\n<li>Python을 비즈니스, 마케팅, 저널리즘 등 다양한 분야에 적용하여 실제 문제를 해결하고 효율성을 향상시키는 방법</li>\n<li>AI 어시스턴트를 활용하여 코드 디버깅, 개념 설명, 학습 강...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18419",
+      "guid": "https://news.hada.io/topic?id=18419",
+      "pubDate": "2024-12-25T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]

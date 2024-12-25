@@ -525,6 +525,15 @@
       "pubDate": "Sun, 22 Dec 2024 12:56:54 +0900",
       "author": "pjt3591oo",
       "category": "공부, 목표"
+    },
+    {
+      "title": "[react] react19 업그레이드 가이드 - 공유",
+      "description": "https://react.dev/blog/2024/04/25/react-19-upgrade-guide",
+      "link": "https://blog.naver.com/pjt3591oo/223704787788?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223704787788",
+      "pubDate": "Wed, 25 Dec 2024 08:54:08 +0900",
+      "author": "pjt3591oo",
+      "category": "Web"
     }
   ]
 }
