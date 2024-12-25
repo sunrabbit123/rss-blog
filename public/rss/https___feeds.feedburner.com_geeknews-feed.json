@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-25T10:39:01+09:00",
+  "lastBuildDate": "2024-12-25T13:34:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9463,6 +9463,19 @@
       "link": "https://news.hada.io/topic?id=18429",
       "guid": "https://news.hada.io/topic?id=18429",
       "pubDate": "2024-12-25T10:32:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "적대적 정책, 초인적 Go AI 제압 (2023)",
+      "description": {
+        "$text": "<h2>컴퓨터 과학 &gt; 머신러닝</h2>\n<ul>\n<li>\n<strong>제목</strong>: Adversarial Policies Beat Superhuman Go AIs</li>\n<li>\n<strong>저자</strong>: Tony T. Wang, Adam Gleave, Tom Tseng, Kellin Pelrine, Nora Belrose, Joseph Miller, Michael D. Dennis, Yawen Duan, Viktor Pogrebniak, Sergey Levine, Stua...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18432",
+      "guid": "https://news.hada.io/topic?id=18432",
+      "pubDate": "2024-12-25T13:34:10+09:00",
       "author": "neo",
       "category": ""
     }
