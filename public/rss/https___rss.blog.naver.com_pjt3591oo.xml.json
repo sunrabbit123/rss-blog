@@ -534,6 +534,15 @@
       "pubDate": "Wed, 25 Dec 2024 08:54:08 +0900",
       "author": "pjt3591oo",
       "category": "Web"
+    },
+    {
+      "title": "[react] react19 알아보자",
+      "description": "안녕하세요 멍개입니다. 이번 포스트에서는 react19를 다뤄보겠습니다. ● react19 프로젝트 생성 vite를 기반으로 react 프로젝트 생성을 시도합니다. · 프로젝트 생성 프로젝트 이름은 적당히 작명합니다. 저는 my-app으로 진행했습니다. · react19 업그레이드 생성된 리액트 프로젝트는 19 버전이 아니므로 react와 react-dom을 19버전으로 추가 설치합니다. ● actions 다음과 같은 코드를 살펴보겠습니다. 코드가 그다지 깔끔하지 못합니다. 이러한 문제점을 개선하기 위해 다양한 라이브러리(react-hook-form, tanstack query, react query 등)의 도움을 받습니다. 사실 이러한 문제를 해결하기 위해 react 18에서도 useTransition 함수가.......",
+      "link": "https://blog.naver.com/pjt3591oo/223704891291?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223704891291",
+      "pubDate": "Wed, 25 Dec 2024 12:05:44 +0900",
+      "author": "pjt3591oo",
+      "category": "Web"
     }
   ]
 }
