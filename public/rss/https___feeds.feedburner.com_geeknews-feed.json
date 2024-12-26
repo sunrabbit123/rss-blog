@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-26T10:09:59+09:00",
+  "lastBuildDate": "2024-12-26T11:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9620,6 +9620,19 @@
       "guid": "https://news.hada.io/topic?id=18436",
       "pubDate": "2024-12-26T09:45:57+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MDN, 새로운 웹 개발 학습 섹션 공개",
+      "description": {
+        "$text": "<ul>\n<li>&quot;MDN Learn Web Development&quot; 섹션이 2024년 11월부터 업데이트되기 시작하여 12월에 최종 완료</li>\n<li>이 섹션은 2016년 처음 출시되어 초보 웹 개발자가 &quot;초급에서 익숙한 수준&quot;으로 발전하도록 돕는 것이 목표였음\n<ul>\n<li>그러나 몇 가지 문제가 발생\n<ul>\n<li>초보자에게 적합하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18446",
+      "guid": "https://news.hada.io/topic?id=18446",
+      "pubDate": "2024-12-26T11:03:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
