@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-26T13:33:17+09:00",
+  "lastBuildDate": "2024-12-26T15:33:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9659,6 +9659,19 @@
       "guid": "https://news.hada.io/topic?id=18448",
       "pubDate": "2024-12-26T13:33:17+09:00",
       "author": "rkttu",
+      "category": ""
+    },
+    {
+      "title": "Portspoof: 모든 65535 TCP 포트에서 유효한 서비스를 에뮬레이트하는 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Portspoof 소프트웨어 개요</strong></p>\n<ul>\n<li>Portspoof는 운영 체제 보안을 강화하기 위한 소프트웨어임.</li>\n<li>모든 65535개의 TCP 포트를 항상 열어두어 공격자가 포트 상태를 확인할 수 없게 함.</li>\n<li>포트 스캔 시 모든 포트를 OPEN 상태로 보고하여 스텔스 포트 스캔을 무력화함",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18449",
+      "guid": "https://news.hada.io/topic?id=18449",
+      "pubDate": "2024-12-26T15:33:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
