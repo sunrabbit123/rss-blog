@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-26T15:33:21+09:00",
+  "lastBuildDate": "2024-12-26T21:34:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9671,6 +9671,19 @@
       "link": "https://news.hada.io/topic?id=18449",
       "guid": "https://news.hada.io/topic?id=18449",
       "pubDate": "2024-12-26T15:33:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "과소평가된 Server-Sent Events (SSE) 기술",
+      "description": {
+        "$text": "<h4>서버 전송 이벤트(Server-Sent Events, SSE)는 과소평가됨</h4>\n<ul>\n<li>대부분의 개발자는 WebSockets에 대해 알고 있지만, SSE는 더 간단하고 종종 간과되는 대안임.</li>\n<li>SSE는 서버에서 클라이언트로의 일방향 통신 채널을 HTTP를 통해 설정함.</li>\n<li>WebSockets의 양방향 연결과 달리, SSE는 서버에서 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18450",
+      "guid": "https://news.hada.io/topic?id=18450",
+      "pubDate": "2024-12-26T21:34:44+09:00",
       "author": "neo",
       "category": ""
     }
