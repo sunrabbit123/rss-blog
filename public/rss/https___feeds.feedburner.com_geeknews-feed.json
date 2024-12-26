@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-26T12:34:37+09:00",
+  "lastBuildDate": "2024-12-26T13:33:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9646,6 +9646,19 @@
       "guid": "https://news.hada.io/topic?id=18447",
       "pubDate": "2024-12-26T12:34:37+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": ".NET Conf 2025 x Seoul (닷넷콘 2025 서울)",
+      "description": {
+        "$text": "<p>닷넷콘 2025 서울이 2025년 1월 9일 오전 9시 30분부터 스페이스쉐어 삼성역센터에서 열립니다.</p>\n<p>닷넷 히어로들의 축제 (Festival of .NET Heroes)인 닷넷콘 서울은 2019년부터 매년 대한민국 서울에서 개최하고 있는 닷넷 개발자 컨퍼런스입니다.</p>\n<p>22개 세션, 21명의 발표자와 함께 만들어가는 이번 세션",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18448",
+      "guid": "https://news.hada.io/topic?id=18448",
+      "pubDate": "2024-12-26T13:33:17+09:00",
+      "author": "rkttu",
       "category": ""
     }
   ]
