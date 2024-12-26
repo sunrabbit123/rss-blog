@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-26T11:03:01+09:00",
+  "lastBuildDate": "2024-12-26T12:34:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9633,6 +9633,19 @@
       "guid": "https://news.hada.io/topic?id=18446",
       "pubDate": "2024-12-26T11:03:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 제보: 아내의 Chrome 업데이트 후 uBlock 지원 중단",
+      "description": {
+        "$text": "<p>죄송합니다. 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18447",
+      "guid": "https://news.hada.io/topic?id=18447",
+      "pubDate": "2024-12-26T12:34:37+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
