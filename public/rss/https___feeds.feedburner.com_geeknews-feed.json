@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-25T23:24:43+09:00",
+  "lastBuildDate": "2024-12-26T10:09:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9490,6 +9490,136 @@
       "guid": "https://news.hada.io/topic?id=18433",
       "pubDate": "2024-12-25T23:24:43+09:00",
       "author": "a1eng0",
+      "category": ""
+    },
+    {
+      "title": "인텔 주주, 전 CEO와 CFO에게 3년치 급여 반환 요구 소송 제기",
+      "description": {
+        "$text": "<h4>Dive Brief</h4>\n<ul>\n<li>Intel 주주들이 전 CEO Pat Gelsinger, CFO 및 현재 공동 임시 CEO David Zinsner 등 회사 경영진이 신뢰 의무와 계약 의무를 위반했다고 주장하며, 이들이 얻은 모든 이익과 보상을 반환할 것을 요구하는 주주 파생 소송을 제기함.</li>\n<li>이 소송은 캘리포니아 북부 지방법원에 주주 L...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18445",
+      "guid": "https://news.hada.io/topic?id=18445",
+      "pubDate": "2024-12-26T10:09:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: ArXiv 논문을 의미적으로 검색하는 웹사이트 제작",
+      "description": {
+        "$text": "<p>The provided content does not contain any substantial information to summarize.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18444",
+      "guid": "https://news.hada.io/topic?id=18444",
+      "pubDate": "2024-12-26T10:06:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 처음부터 새로 개발된 경량 웹 브라우저 FixBrowser",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>FixBrowser는 경량 웹 브라우저로, 자바스크립트를 지원하지 않아 빠르고 자원 소모가 적음.</li>\n<li>프라이버시를 중시하여 화이트리스트 접근 방식을 사용하여 불필요한 추적을 방지함.</li>\n<li>현재 알파 단계로, 기본적인 기능은 갖추었으나 추가 작업이 필요함.</li>\n</ul>\n</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18443",
+      "guid": "https://news.hada.io/topic?id=18443",
+      "pubDate": "2024-12-26T10:03:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마스크, 연기, 그리고 미러: EgyptAir 항공편 804의 이야기",
+      "description": {
+        "$text": "<h2><strong>서문</strong></h2>\n<ul>\n<li>이 기사는 이집트항공 804편의 미스터리를 다룸.</li>\n<li>7년 동안 비행기 사고에 대해 글을 써왔으며, 이번 사건은 해결되지 않은 상태로 남아 있었음.</li>\n<li>이 기사는 사건의 진실을 밝히기 위한 여정과 그 과정에서의 어려움을 설명함.</li>\n</ul>\n<h2><strong>1부: 80...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18442",
+      "guid": "https://news.hada.io/topic?id=18442",
+      "pubDate": "2024-12-26T10:00:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Qwen의 새로운 시각적 추론 모델 QvQ 사용 후기",
+      "description": {
+        "$text": "<ul>\n<li>Alibaba Qwen 팀이 새로운 시각적 추론 모델 QvQ-72B-Preview를 발표\n<ul>\n<li>이미지와 프롬프트를 입력받아 상세한 추론을 수행</li>\n<li>원래 Apache 2.0으로 표시되었으나 현재는 Qwen 라이선스로 변경됨</li>\n</ul>\n</li>\n<li>이전 모델 QwQ와의 차이점\n<ul>\n<li>QwQ는 텍스트 기반 추론에 집중했으며, &q...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18441",
+      "guid": "https://news.hada.io/topic?id=18441",
+      "pubDate": "2024-12-26T09:57:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "도쿄, 도시 전체의 포인트 클라우드 데이터 무료 공개",
+      "description": {
+        "$text": "도쿄, 도시 전체의 포인트 클라우드 데이터 무료 공개",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18440",
+      "guid": "https://news.hada.io/topic?id=18440",
+      "pubDate": "2024-12-26T09:54:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "루비 3.4.0 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>예년과 마찬가지로 12/25에 Ruby 3.4.0이 출시됨</p>\n</li>\n<li>\n<p>주요 업데이트로는 <code>it</code> 블록 매개변수 참조 추가, Prism을 기본 파서로 변경, 소켓 라이브러리에 Happy Eyeballs Version 2 지원 추가, YJIT 개선, 모듈식 GC 추가 등이 있음.</p>\n</li>\n<li>\n<h3><code>it</code> 블록 매개",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18439",
+      "guid": "https://news.hada.io/topic?id=18439",
+      "pubDate": "2024-12-26T09:51:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "위 문제 해결 과정에서 배운 토폴로지 개념 [비디오]",
+      "description": {
+        "$text": "위 문제 해결 과정에서 배운 토폴로지 개념 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18438",
+      "guid": "https://news.hada.io/topic?id=18438",
+      "pubDate": "2024-12-26T09:48:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JRuby 와 JBang : Ruby와 Java의 강력한 조합",
+      "description": {
+        "$text": "<ul>\n<li>JRuby는 Ruby의 생산성과 JVM의 성능을 결합한 기술이며, JBang은 간단한 의존성 관리와 실행 환경을 제공\n<ul>\n<li>두 도구를 결합하여 Ruby와 Java 라이브러리를 통합 활용 가능</li>\n<li>\n<strong>JBang</strong>: Java/Kotlin/Groovy 프로그램을 간단히 실행하고 의존성을 관리할 수 있는 도구</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18437",
+      "guid": "https://news.hada.io/topic?id=18437",
+      "pubDate": "2024-12-26T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "T * sin (t)' ≈ 장식된 크리스마스 트리 (2013)",
+      "description": {
+        "$text": "T * sin (t)' ≈ 장식된 크리스마스 트리 (2013)",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18436",
+      "guid": "https://news.hada.io/topic?id=18436",
+      "pubDate": "2024-12-26T09:45:57+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
