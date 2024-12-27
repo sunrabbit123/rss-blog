@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-27T10:34:08+09:00",
+  "lastBuildDate": "2024-12-27T11:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9815,6 +9815,32 @@
       "guid": "https://news.hada.io/topic?id=18451",
       "pubDate": "2024-12-27T09:39:19+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "시위안: 프라이버시 우선, 셀프 호스팅 개인 지식 관리 소프트웨어",
+      "description": {
+        "$text": "<h3>💡 소개</h3>\n<ul>\n<li>SiYuan은 개인 정보 보호를 우선시하는 개인 지식 관리 시스템으로, 세밀한 블록 수준의 참조와 Markdown WYSIWYG를 지원함.</li>\n<li>SiYuan 영어 토론 포럼에서 더 많은 정보를 얻을 수 있음.</li>\n</ul>\n<h3>🔮 기능</h3>\n<ul>\n<li>대부분의 기능은 무료로 제공되며, 상업적 용도로도 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18462",
+      "guid": "https://news.hada.io/topic?id=18462",
+      "pubDate": "2024-12-27T11:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년 벤처 스튜디오에 대한 예상 5+1",
+      "description": {
+        "$text": "<h2>1. 더 많은 벤처 스튜디오가 생길 것</h2>\n<ul>\n<li>현재 &quot;벤처 스튜디오&quot;의 수는 1000개를 넘을 것으로 추정되며, 정의가 광범위하므로 실제 수는 더 많을 가능성이 있음</li>\n<li>벤처 스튜디오가 글로벌 스타트업 생태계에서 주류로 자리 잡기 위해서는 품질과 성과의 기준이 높아져야 함</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18461",
+      "guid": "https://news.hada.io/topic?id=18461",
+      "pubDate": "2024-12-27T11:06:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
