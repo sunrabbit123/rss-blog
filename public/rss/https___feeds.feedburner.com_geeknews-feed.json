@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-27T11:33:22+09:00",
+  "lastBuildDate": "2024-12-27T20:33:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9841,6 +9841,19 @@
       "guid": "https://news.hada.io/topic?id=18461",
       "pubDate": "2024-12-27T11:06:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미국 기관 간 소스 코드 공유를 의무화하는 법안 법제화",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>미국 기관 간 소스 코드 공유 법안</h3>\n<ul>\n<li>조 바이든 대통령이 12월 23일 양당의 법안을 서명하여 법으로 제정함.</li>\n<li>새로운 법안은 기관 간 중복 소프트웨어 개발 계약을 방지하기 위해 맞춤형 소스 코드를 공유하도록 요구함.</li>\n<li>&quot;Source Code Harmonization And Reuse in Info...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18463",
+      "guid": "https://news.hada.io/topic?id=18463",
+      "pubDate": "2024-12-27T20:33:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
