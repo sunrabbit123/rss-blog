@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-27T20:33:19+09:00",
+  "lastBuildDate": "2024-12-28T09:51:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9853,6 +9853,97 @@
       "link": "https://news.hada.io/topic?id=18463",
       "guid": "https://news.hada.io/topic?id=18463",
       "pubDate": "2024-12-27T20:33:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Quiver: 현대적 교환 다이어그램 편집기",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>quiver: 현대적인 교환 다이어그램 편집기</h2>\n<ul>\n<li>\n<strong>quiver</strong>는 현대적인 그래픽 편집기로, 교환 및 붙여넣기 다이어그램을 위한 도구임. 고품질의 다이어그램을 화면에서 볼 수 있도록 렌더링하며, LaTeX로 내보내기 가능함. <strong>quiver</strong>를 사용하면 수작업으로 LaTeX를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18470",
+      "guid": "https://news.hada.io/topic?id=18470",
+      "pubDate": "2024-12-28T09:51:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마닐라 폴더로 제작된 Boeing 777-300ER 축소 모형",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>프로젝트 소개</h2>\n<ul>\n<li>이 프로젝트는 고등학교 건축 수업에서 시작되었으며, 마닐라 파일 폴더를 사용하여 건물 아이디어를 모델링하는 방법을 배움.</li>\n<li>종이의 다재다능함에 매료되어 보잉 777-300ER의 모형을 제작하게 되었음.</li>\n<li>2008년 중반에 시작된 이 프로젝트는 여러 번의 수정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18469",
+      "guid": "https://news.hada.io/topic?id=18469",
+      "pubDate": "2024-12-28T09:48:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "훈련받지 않은 상황 대응",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Chaos Computer Club의 지원</h2>\n<ul>\n<li>Chaos Computer Club (CCC)는 37C3에서 폴란드 철도 차량 제조업체 Newag가 자사 열차를 자사 워크숍에서만 수리할 수 있도록 조작한 방법을 설명한 세 해커를 지원함.</li>\n<li>Newag는 90년대 이후로 볼 수 없었던 태도로 반응하며 해커들을 형사 및 민사 법으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18468",
+      "guid": "https://news.hada.io/topic?id=18468",
+      "pubDate": "2024-12-28T09:45:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "현재 AI는 막다른 길을 의미하나?",
+      "description": {
+        "$text": "<h4>현재 AI가 막다른 길인가?</h4>\n<ul>\n<li>\n<p><strong>소프트웨어 엔지니어링 관점에서의 AI 문제점</strong></p>\n<ul>\n<li>현재 AI 시스템은 관리가 불가능하며, 심각한 상황에서의 사용은 무책임함.</li>\n<li>신뢰할 수 있는 소프트웨어 시스템 개발을 위해서는 관리, 투명성, 책임성이 필요함.</li>\n<li>AI 개발은",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18467",
+      "guid": "https://news.hada.io/topic?id=18467",
+      "pubDate": "2024-12-28T09:42:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "항공 승객의 최대 살상 무기로 떠오른 미사일",
+      "description": {
+        "$text": "항공 승객의 최대 살상 무기로 떠오른 미사일",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18466",
+      "guid": "https://news.hada.io/topic?id=18466",
+      "pubDate": "2024-12-28T09:39:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "루아(Lua) 저평가 현상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Lua는 과소평가된 언어임</h2>\n<ul>\n<li>Lua의 설계와 구현을 배우면 배울수록 감명받음. 적은 코드로 많은 일을 수행하는 소프트웨어는 드물음.</li>\n<li>Lua는 다른 언어들만큼의 마케팅과 주목을 받지 못함. 이로 인해 Lua의 기능과 장점을 아는 개발자가 적음.</li>\n<li>주로 게임과 임베디드 시스템에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18465",
+      "guid": "https://news.hada.io/topic?id=18465",
+      "pubDate": "2024-12-28T08:38:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "가상 머신 작성 방법 (2022)",
+      "description": {
+        "$text": "<h2>가상 머신이란?</h2>\n<ul>\n<li>가상 머신(VM)은 컴퓨터처럼 작동하는 프로그램임. CPU와 몇 가지 하드웨어 구성 요소를 시뮬레이션하여 산술 연산을 수행하고 메모리에 읽고 쓰며 I/O 장치와 상호 작용할 수 있음.</li>\n<li>VM은 특정 컴퓨터의 동작을 재현하거나, 소프트웨어 개발을 용이하게 하기 위해 만들어짐....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18464",
+      "guid": "https://news.hada.io/topic?id=18464",
+      "pubDate": "2024-12-28T08:35:51+09:00",
       "author": "neo",
       "category": ""
     }
