@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-28T15:33:27+09:00",
+  "lastBuildDate": "2024-12-28T22:34:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9983,6 +9983,19 @@
       "link": "https://news.hada.io/topic?id=18473",
       "guid": "https://news.hada.io/topic?id=18473",
       "pubDate": "2024-12-28T15:33:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스파이 장비 적재된 케이블 절단 탱커 핀란드에 의해 압류",
+      "description": {
+        "$text": "<p>The provided content does not contain any article or relevant information to summarize. It appears to be a message about updating a browser and a reference to Cloudflare.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18474",
+      "guid": "https://news.hada.io/topic?id=18474",
+      "pubDate": "2024-12-28T22:34:02+09:00",
       "author": "neo",
       "category": ""
     }
