@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-28T22:34:02+09:00",
+  "lastBuildDate": "2024-12-29T02:48:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -9997,6 +9997,19 @@
       "guid": "https://news.hada.io/topic?id=18474",
       "pubDate": "2024-12-28T22:34:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 이별 후의 감정을 기록하고 분석하는 Healing Diary",
+      "description": {
+        "$text": "<p>안녕하세요. 최근 연인과 이별을 겪으면서, 그 경험을 의미있는 것으로 만들고 싶어 Healing Diary 프로젝트를 시작했습니다.</p>\n<h2>링크</h2>\n<ul>\n<li>Github Repository: https://github.com/mansukim1125/healing-diary</li>\n<li>서비스 링크: https://healing.latentspace.world/</li>\n</ul>\n<h2>주요 기능</h",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18475",
+      "guid": "https://news.hada.io/topic?id=18475",
+      "pubDate": "2024-12-29T02:48:39+09:00",
+      "author": "mansukim1125",
       "category": ""
     }
   ]
