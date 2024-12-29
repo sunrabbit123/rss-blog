@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-29T02:48:39+09:00",
+  "lastBuildDate": "2024-12-29T10:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10010,6 +10010,123 @@
       "guid": "https://news.hada.io/topic?id=18475",
       "pubDate": "2024-12-29T02:48:39+09:00",
       "author": "mansukim1125",
+      "category": ""
+    },
+    {
+      "title": "rainfrog - Postgres용 데이터 관리 TUI 도구",
+      "description": {
+        "$text": "<ul>\n<li>경량, 터미널 기반의 pgadmin/dbeaver 대체제를 제공하는 것이 목표\n<ul>\n<li>기본적으로 postgres 기반으로 테스트 됨. mysql과 sqlite도 지원하지만 불안정함</li>\n</ul>\n</li>\n<li>vim과 유사한 키 바인딩 및 마우스 컨트롤을 통한 효율적인 네비게이션</li>\n<li>키워드 강조 표시 및 세션 기록을 제공하는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18484",
+      "guid": "https://news.hada.io/topic?id=18484",
+      "pubDate": "2024-12-29T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "iOS 18 및 macOS 15에서 Apple Photos의 원격 데이터 전송 기능",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Apple Photos의 새로운 기능</h2>\n<ul>\n<li>iOS 18과 macOS 15에서 Apple Photos에 새로운 설정인 &quot;향상된 시각적 검색&quot; 기능이 기본적으로 활성화되어 있음</li>\n<li>이 기능은 주로 Apple 뉴스 미디어에서 언급되지 않았으며, Apple 자체에서도 거의 언급되지 않았음</li>\n</ul>\n</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18483",
+      "guid": "https://news.hada.io/topic?id=18483",
+      "pubDate": "2024-12-29T10:00:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "캐주얼 시청 - Netflix의 외관이 그런 이유",
+      "description": {
+        "$text": "<h2>Netflix와 스트리밍의 문제점과 변화</h2>\n<h3>스트리밍 시대의 시작과 Netflix의 성공 전략</h3>\n<h4>초기의 Netflix: 고객 불만을 기회로 전환</h4>\n<ul>\n<li>\n<strong>시작 계기</strong>: 1997년 Reed Hastings가 Blockbuster의 연체료 정책에 불만을 품으며 새로운 비즈니스 모델을 구상</li>\n<li>\n<strong>전환...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18482",
+      "guid": "https://news.hada.io/topic?id=18482",
+      "pubDate": "2024-12-29T09:57:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 구조 변화 필요성과 향후 계획",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 <strong>AGI</strong> 의 개발이 인류 전체에 이익이 되도록 보장하는 사명을 수행하기 위해 새로운 구조를 검토 중</li>\n<li>\n<strong>목표</strong>:\n<ul>\n<li>장기적인 성공을 위한 비영리/영리 구조 선택</li>\n<li>비영리 조직의 지속 가능성 확보</li>\n<li>각 부문이 역할을 효과적으로 수행하도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18481",
+      "guid": "https://news.hada.io/topic?id=18481",
+      "pubDate": "2024-12-29T09:54:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "벤치 회계 서비스 종료",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>서비스 종료 공지</h2>\n<ul>\n<li>2024년 12월 27일부터 Bench 플랫폼이 더 이상 접근 불가함.</li>\n<li>갑작스러운 소식으로 인해 불편을 초래할 수 있어, Bench 고객이 전환을 원활히 할 수 있도록 지원할 것임.</li>\n<li>지난 13년간 소규모 비즈니스를 지원할 수 있어 영광이었음. 함께 해주셔서 감사함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18480",
+      "guid": "https://news.hada.io/topic?id=18480",
+      "pubDate": "2024-12-29T09:51:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ESP32에서 Wi-Fi 해방 [비디오]",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ESP32의 Wi-Fi 해방</h2>\n<ul>\n<li>ESP32의 Wi-Fi 주변 장치를 리버스 엔지니어링하여 오픈 소스 Wi-Fi 스택을 구축하는 내용임</li>\n<li>38c3 행사 동안 CCH에는 수천 개의 ESP32가 있으며, 모두 폐쇄형 Wi-Fi 스택을 실행하고 있음</li>\n<li>오픈 소스 스택을 사용하면 소프트웨어를 수정하고 감사할 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18479",
+      "guid": "https://news.hada.io/topic?id=18479",
+      "pubDate": "2024-12-29T09:48:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글 검색 결과는 오염되었고, Open AI는 구글의 2000년대 전략을 활용중",
+      "description": {
+        "$text": "<h3>구글의 검색 결과는 광고로 가득 차 있으며, Open AI는 2000년대 구글의 전략을 사용 중임</h3>\n<ul>\n<li>\n<p><strong>2000년대의 구글 성공 요인</strong></p>\n<ul>\n<li>구글은 단순하고 사용하기 쉬운 인터페이스로 성공을 거두었음</li>\n<li>당시 야후는 너무 많은 선택지를 제공하여 사용자가 피로감을 느끼게 했",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18478",
+      "guid": "https://news.hada.io/topic?id=18478",
+      "pubDate": "2024-12-29T09:45:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Chronotrains - 유럽에서 8시간 만에 기차로 갈 수 있는 여행지 검색하기",
+      "description": {
+        "$text": "<ul>\n<li>이 지도는 유럽의 각 역에서 8시간 이내에 여행할 수 있는 거리를 보여줌.</li>\n<li>마우스를 지도 위에 올리면 해당 도시의 등시간선을 볼 수 있으며, 역을 검색하거나 아래 예시 중 하나를 클릭할 수 있음.</li>\n<li>예시 도시: 암스테르담(네덜란드), 베를린(독일), 파리(프랑스), 밀라노(이탈리아)</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18477",
+      "guid": "https://news.hada.io/topic?id=18477",
+      "pubDate": "2024-12-29T09:42:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TSMC 애리조나 공장, 첨단 칩 생산 시작 예정",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>미국에서 첨단 칩 제조 시작</h3>\n<ul>\n<li>TSMC는 2025년 애리조나에 첨단 칩 제조 시설을 개설할 예정임. 이는 2022년 CHIPS 및 과학법의 시험대가 될 것임.</li>\n<li>이 공장은 4나노미터 기술을 사용하여 첨단 칩을 생산할 예정이며, 이는 미국 내 첨단 칩 제조의 시작을 의미함.</li>\n<li>2024년 10월...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18476",
+      "guid": "https://news.hada.io/topic?id=18476",
+      "pubDate": "2024-12-29T08:33:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
