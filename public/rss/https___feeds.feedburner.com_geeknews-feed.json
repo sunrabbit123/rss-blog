@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-29T10:03:01+09:00",
+  "lastBuildDate": "2024-12-29T11:38:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10126,6 +10126,32 @@
       "link": "https://news.hada.io/topic?id=18476",
       "guid": "https://news.hada.io/topic?id=18476",
       "pubDate": "2024-12-29T08:33:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구직 신청 프로세스 자동화",
+      "description": {
+        "$text": "<p>죄송합니다. 요약할 수 있는 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18486",
+      "guid": "https://news.hada.io/topic?id=18486",
+      "pubDate": "2024-12-29T11:38:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "피쉬 4.0: 테세우스의 물고기",
+      "description": {
+        "$text": "<h2>Fish 4.0: Theseus의 물고기</h2>\n<h3>프로젝트 배경</h3>\n<ul>\n<li>약 2년 전, Fish의 주요 유지보수자인 @ridiculousfish가 Fish를 C++에서 Rust로 전환하는 PR을 열었음.</li>\n<li>Fish는 과거에도 C에서 C++로 전환한 경험이 있지만, Rust로의 전환은 훨씬 더 큰 프로젝트였음.</li>\n<li>Fish 4.0 베타 버전은 C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18485",
+      "guid": "https://news.hada.io/topic?id=18485",
+      "pubDate": "2024-12-29T11:35:39+09:00",
       "author": "neo",
       "category": ""
     }
