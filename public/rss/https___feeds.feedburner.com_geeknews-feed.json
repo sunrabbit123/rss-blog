@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-29T19:26:56+09:00",
+  "lastBuildDate": "2024-12-29T21:34:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10152,6 +10152,19 @@
       "link": "https://news.hada.io/topic?id=18485",
       "guid": "https://news.hada.io/topic?id=18485",
       "pubDate": "2024-12-29T11:35:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "청바지 착용으로 월드 래피드 앤 블리츠 챔피언십 실격된 칼슨",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>매그너스 칼슨, 월드 래피드 및 블리츠 챔피언십에서 실격</h2>\n<ul>\n<li>매그너스 칼슨은 FIDE 드레스 코드 위반으로 월드 래피드 및 블리츠 챔피언십에서 실격됨.</li>\n<li>칼슨은 대회에 참가한 방어 챔피언으로, 실격 후 FIDE에 대한 불만을 표명함.</li>\n<li>칼슨은 &quot;FIDE에 지쳤다&quot;며 더 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18488",
+      "guid": "https://news.hada.io/topic?id=18488",
+      "pubDate": "2024-12-29T21:34:24+09:00",
       "author": "neo",
       "category": ""
     }
