@@ -543,6 +543,15 @@
       "pubDate": "Wed, 25 Dec 2024 12:05:44 +0900",
       "author": "pjt3591oo",
       "category": "Web"
+    },
+    {
+      "title": "[블록체인] 블록체인에서 소수는 어떻게 표현할까",
+      "description": "안녕하세요 멍개입니다. 이번 포스트는 블록체인에서 소숫점 아래를 어떻게 표현하는지 알아보도록 하겠습니다. 소숫점에서 가장 중요한 이슈중 하나는 라운딩에러(rounding error)입니다. 라운딩 에러의 대표적인 예가 다음과 같습니다. https://blog.naver.com/pjt3591oo/221818209435 이러한 라운딩에러를 해결하기 위해 일반적은 프로그래밍 언어에서는 Decimal을 이용합니다. ● Decimal 먼저, Decimal이 무엇인지부터 알아보겠습니다. 결론부터 말하자면 Decimal은 10의 거듭제곱으로 표현될 수 있는 수를 의미합니다. 즉, 10의 거듭제곱 형태로 표형될 수 없는 수는 Decimal Number가 아니게 됩니다. 두 가지 수를 예로 들어보겠습니다. ☞.......",
+      "link": "https://blog.naver.com/pjt3591oo/223708514570?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223708514570",
+      "pubDate": "Sun, 29 Dec 2024 16:10:45 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
