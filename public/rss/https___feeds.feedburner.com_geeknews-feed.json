@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T11:11:02+09:00",
+  "lastBuildDate": "2024-12-30T14:34:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10309,6 +10309,19 @@
       "guid": "https://news.hada.io/topic?id=18496",
       "pubDate": "2024-12-30T10:07:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "로컬에서 실행되는 LLMs",
+      "description": {
+        "$text": "<h4>시작하기</h4>\n<ul>\n<li>r/LocalLLaMA 서브레딧과 Ollama 블로그는 로컬에서 LLM을 실행하는 데 유용한 시작점임.</li>\n</ul>\n<h4>하드웨어</h4>\n<ul>\n<li>Linux가 설치된 코어 i9 CPU, 4090 GPU, 96GB RAM을 가진 노트북을 사용함.</li>\n<li>VRAM에 맞는 모델은 더 많은 토큰을 초당 생성할 수 있으며, 더 큰 모델은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18500",
+      "guid": "https://news.hada.io/topic?id=18500",
+      "pubDate": "2024-12-30T14:34:02+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
