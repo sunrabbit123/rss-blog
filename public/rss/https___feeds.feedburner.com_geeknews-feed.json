@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-29T21:34:24+09:00",
+  "lastBuildDate": "2024-12-30T09:56:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10165,6 +10165,97 @@
       "link": "https://news.hada.io/topic?id=18488",
       "guid": "https://news.hada.io/topic?id=18488",
       "pubDate": "2024-12-29T21:34:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 문의: 취업 불가능 상태?",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>여러 온라인 플랫폼에서 기술 분야에서의 취업이 어렵다는 경험담이 많이 공유되고 있음</p>\n<ul>\n<li>필자도 지난 1년간 인터뷰를 잡기 어려웠음</li>\n<li>필자는 컴퓨터 과학 학위가 없는 독학자임</li>\n<li>경험이 많고 성실한 근로자이지만, 알고리듬이 이를 고려하지 않아 필터를 통과하기 어려움</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18495",
+      "guid": "https://news.hada.io/topic?id=18495",
+      "pubDate": "2024-12-30T09:56:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "EmacsConf 2024 회의 기록",
+      "description": {
+        "$text": "<h3>EmacsConf 2024 노트</h3>\n<h4>통계</h4>\n<ul>\n<li>발표: 31개</li>\n<li>총 시간: 10.7시간</li>\n<li>Q&amp;A 웹 회의: 21개</li>\n<li>총 시간: 7.8시간</li>\n</ul>\n<h4>타임라인</h4>\n<ul>\n<li>제안 요청: 2024-06-30</li>\n<li>제안 마감: 2024-09-20</li>\n<li>발표자 통지: 2024-09-27</li>\n<li>일정 발표: 2024-1...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18494",
+      "guid": "https://news.hada.io/topic?id=18494",
+      "pubDate": "2024-12-30T09:53:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WebGL 유체 시뮬레이션 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>품질 설정</strong></p>\n<ul>\n<li>높은 품질, 중간 품질, 낮은 품질, 매우 낮은 품질 중 선택 가능</li>\n</ul>\n</li>\n<li>\n<p><strong>시뮬레이션 해상도</strong></p>\n<ul>\n<li>3264, 128, 256 중 선택 가능</li>\n</ul>\n</li>\n<li>\n<p><strong>밀도 확산</strong></p>\n<ul>\n<li>밀도의 확산 정도를",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18493",
+      "guid": "https://news.hada.io/topic?id=18493",
+      "pubDate": "2024-12-30T09:50:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Newag DRM 공개 후 삶: 훈련되지 않은 현실 [비디오]",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>뉴아그 DRM 공개 이후의 삶</h2>\n</li>\n<li>\n<p>독립 워크숍에서 서비스된 후 고장난 기차를 분석하기 위해 계약을 맺었음. 리버스 엔지니어링을 통해 서비스 시도를 감지하면 고장을 시뮬레이션하는 코드를 발견했음. 37C3에서 발표한 후 큰 파장이 있었음.</p>\n</li>\n<li>\n<h3>주요 내용</h3>\n<ul>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18492",
+      "guid": "https://news.hada.io/topic?id=18492",
+      "pubDate": "2024-12-30T09:47:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "38C3: Illegal Instructions",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>38C3: 불법 명령어</strong></p>\n<ul>\n<li>38번째 Chaos Communication Congress (38C3)는 2024년 12월 27일부터 30일까지 함부르크에서 개최됨. Chaos Computer Club (CCC)와 자원봉사자들이 주최하는 이 연례 4일간의 컨퍼런스는 기술, 사회, 유토피아에 관한 강연과 워크숍을 제공하며, 정보 기",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18491",
+      "guid": "https://news.hada.io/topic?id=18491",
+      "pubDate": "2024-12-30T09:44:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Jimmy Carter 별세",
+      "description": {
+        "$text": "Jimmy Carter 별세",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18490",
+      "guid": "https://news.hada.io/topic?id=18490",
+      "pubDate": "2024-12-30T09:41:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인텔의 4억 7,500만 달러 실수: 펜티엄 디비전 버그의 실리콘 문제",
+      "description": {
+        "$text": "<h2>인텔의 펜티엄 FDIV 버그</h2>\n<ul>\n<li>\n<p><strong>배경</strong>: 1993년, 인텔은 고성능 펜티엄 프로세서를 출시하였음. 펜티엄은 이전의 인텔 486 프로세서보다 빠른 부동소수점 나눗셈 알고리듬을 포함하여 많은 개선점을 가졌음. 그러나 1년 후, 수학 교수인 Nicely가 쌍둥이 소수의 역수를 연구하던 중 펜티...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18489",
+      "guid": "https://news.hada.io/topic?id=18489",
+      "pubDate": "2024-12-30T08:34:12+09:00",
       "author": "neo",
       "category": ""
     }
