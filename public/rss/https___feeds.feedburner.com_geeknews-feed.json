@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T17:11:27+09:00",
+  "lastBuildDate": "2024-12-30T23:53:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10360,6 +10360,32 @@
       "link": "https://news.hada.io/topic?id=18502",
       "guid": "https://news.hada.io/topic?id=18502",
       "pubDate": "2024-12-30T17:04:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: \b오픈소스 커뮤니티 빌더 TSBOARD의 새로운 백엔드 : GOAPI",
+      "description": {
+        "$text": "<p>약 7개월 전에 처음으로 TSBOARD 프로젝트를 소개드렸습니다.</p>\n<p>그 때는 프론트엔드와 백엔드 모두 타입스크립트로 작성되었고, 백엔드 구동을 위해 Bun 런타임을 사용했었습니다.</p>\n<p>그러나 여러 사정으로 백엔드를 새로 다시 만들게 되었고, 기존 TSBOARD 프로젝트와 분리된 GitHub 저장소에 올려서 공개합",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18505",
+      "guid": "https://news.hada.io/topic?id=18505",
+      "pubDate": "2024-12-30T23:53:53+09:00",
+      "author": "tsboard",
+      "category": ""
+    },
+    {
+      "title": "디지털 페인팅을 위한 피그먼트 믹싱 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>비밀 무기</h2>\n<ul>\n<li>Mixbox는 디지털 페인팅에서 실제 색소 혼합을 구현하는 실용적인 라이브러리임</li>\n<li>Kubelka &amp; Munk 모델을 사용하여 색상을 색소로 처리함</li>\n<li>간단한 RGB 입력 및 출력 인터페이스로 제공되며 C++, Python, GLSL 등에서 사용 가능함</li>\n</ul>\n</li>\n<li>\n<h2>디...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18504",
+      "guid": "https://news.hada.io/topic?id=18504",
+      "pubDate": "2024-12-30T23:34:13+09:00",
       "author": "neo",
       "category": ""
     }
