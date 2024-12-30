@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T14:34:02+09:00",
+  "lastBuildDate": "2024-12-30T16:45:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10322,6 +10322,19 @@
       "guid": "https://news.hada.io/topic?id=18500",
       "pubDate": "2024-12-30T14:34:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "▲ Show GN: 가볍고 효율적인 RAG 모델 평가 코드 프로젝트",
+      "description": {
+        "$text": "<h4>▲ Show GN: 가벼운 효율적인 RAG 모델 평가 코드 프로젝트 (https://github.com/instructkr/retriever-simple-benchmark)</h4>\n<p><strong>Retriever Simple Benchmark</strong>는 **RAG*에 필요한 리랭커를 평가하기 위해 설계된 <strong>가볍고 효율적인 벤치마크 프로젝트</strong> 를 목표로 만들고 있습니다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18501",
+      "guid": "https://news.hada.io/topic?id=18501",
+      "pubDate": "2024-12-30T16:45:55+09:00",
+      "author": "sigridjineth",
       "category": ""
     }
   ]
