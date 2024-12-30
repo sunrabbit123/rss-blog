@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T16:45:55+09:00",
+  "lastBuildDate": "2024-12-30T17:11:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10335,6 +10335,32 @@
       "guid": "https://news.hada.io/topic?id=18501",
       "pubDate": "2024-12-30T16:45:55+09:00",
       "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "Libsearch - JavaScript용 간단한 인덱스 없는 전체 텍스트 검색",
+      "description": {
+        "$text": "<ul>\n<li>JavaScript에서 <strong>인덱스 없이 텍스트 검색</strong>을 수행하는 간단한 라이브러리</li>\n<li>다양한 프로젝트에서 사용 가능하며, TF-IDF 기반의 결과 정렬과 빠른 검색 성능을 제공</li>\n<li>FlexSearch나 lunr.js만큼의 기능은 없지만, <code>text.indexOf(query) &gt; -1</code>보다 훨씬 빠르고 효율...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18503",
+      "guid": "https://news.hada.io/topic?id=18503",
+      "pubDate": "2024-12-30T17:11:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4개의 4090 GPU로 나만의 LLM 모델을 훈련하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>ChatGPT에 대한 흥미에서 시작해 LLM의 작동 원리를 깊이 이해하기 위해 직접 학습을 진행하기로 결심</li>\n<li>초기에는 M1 칩을 사용했지만 한계를 느끼고, NVIDIA 4090 GPU를 활용한 커스텀 장비를 구축</li>\n</ul>\n<h2>1. 목표 설정 및 예산 계획</h2>\n<ul>\n<li>목표 설정: 학습하려는 모델의 크기와 유형에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18502",
+      "guid": "https://news.hada.io/topic?id=18502",
+      "pubDate": "2024-12-30T17:04:43+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
