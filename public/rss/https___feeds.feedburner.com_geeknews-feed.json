@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T23:53:53+09:00",
+  "lastBuildDate": "2024-12-31T01:35:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10387,6 +10387,19 @@
       "guid": "https://news.hada.io/topic?id=18504",
       "pubDate": "2024-12-30T23:34:13+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 한국 리액트 커뮤니티가 활성화 되었으면 좋겠습니다.",
+      "description": {
+        "$text": "<p>안녕하세요, 현재 저는 '<a href=\"https://github.com/lumirlumir\">루밀</a>'이라는 이름으로 한국 리액트 공식문서(ko.react.dev)의 유지 보수를 맡고있습니다!</p>\n<p>사실, 오픈 소스 유지 보수에 대한 넋두리를 하고 싶어 이 글을 작성한 것도 없지 않아 있습니다. 스스로 자부심을 가지면서 여러 오픈소스들에 기",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18506",
+      "guid": "https://news.hada.io/topic?id=18506",
+      "pubDate": "2024-12-31T01:35:02+09:00",
+      "author": "beenzinozino",
       "category": ""
     }
   ]
