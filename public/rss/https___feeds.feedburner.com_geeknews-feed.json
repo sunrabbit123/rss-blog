@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-30T09:56:39+09:00",
+  "lastBuildDate": "2024-12-30T11:11:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10257,6 +10257,58 @@
       "guid": "https://news.hada.io/topic?id=18489",
       "pubDate": "2024-12-30T08:34:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "베네딕트 에반스의 기술트렌드 2025: AI eats the world",
+      "description": {
+        "$text": "<ul>\n<li>2025년 리포트 (90p 슬라이드) 간추린 요약 및 추가 설명</li>\n<li>&quot;내 삶에서 혁신적인 기술 데모는 딱 2개: GUI 와 ChatGPT - 빌게이츠&quot;</li>\n<li>OpenAI가 예상가치 $157B로 평가 받음 (Microsoft는 20년 걸림)\n<ul>\n<li>ChatGPT가 전례없는 속도로 메인스트림의 인지에 도달</li>\n<li>관심은 많지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18499",
+      "guid": "https://news.hada.io/topic?id=18499",
+      "pubDate": "2024-12-30T11:11:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Keypub.sh - SSH 키를 이용한 터미널용 OAuth",
+      "description": {
+        "$text": "<ul>\n<li>터미널 환경에서의 사용자 인증 문제를 해결하기 위해 설계된 도구로, SSH 키를 활용하여 OAuth와 유사한 인증 방식을 제공</li>\n<li>별도의 설치 없이 기존 SSH 설정만으로 동작</li>\n<li>개인 정보 보호: 사용자가 공유할 이메일 정보의 범위를 직접 제어 가능</li>\n<li>간단한 이메일 인증</li>\n<li>무료 공...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18498",
+      "guid": "https://news.hada.io/topic?id=18498",
+      "pubDate": "2024-12-30T10:36:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Kheish - 노코드 멀티에이전트 LLM 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>복잡한 작업을 LLM을 활용하여 처리하는 오픈소스 다중 에이전트 오케스트레이션 플랫폼</li>\n<li>여러 전문화된 &quot;에이전트&quot;와 유연한 워크플로우를 통해 파일 시스템 접근, 셸 명령 실행, RAG등 다양한 외부 모듈을 통합하여 대규모 코드베이스 또는 문서 작업을 효율적으로 지원</li>\n<li>주요 기능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18497",
+      "guid": "https://news.hada.io/topic?id=18497",
+      "pubDate": "2024-12-30T10:21:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "WebAuthn 둘러보기 [e북]",
+      "description": {
+        "$text": "<ul>\n<li>FIDO Auth 컨퍼런스에서 무료 배포된 Adam Langley의 책 &quot;A Tour of WebAuthn&quot; PDF를 HTML로 변환한 것</li>\n</ul>\n<h2>목차</h2>\n<ul>\n<li>1: Introduction</li>\n<li>2: Universal Second Factor</li>\n<li>3: FIDO2 and passkeys</li>\n<li>4: WebAuthn</li>\n<li>5: Relying party IDs</li>\n<li>6: C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18496",
+      "guid": "https://news.hada.io/topic?id=18496",
+      "pubDate": "2024-12-30T10:07:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
