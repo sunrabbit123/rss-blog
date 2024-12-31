@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-31T11:19:04+09:00",
+  "lastBuildDate": "2024-12-31T12:04:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10530,6 +10530,19 @@
       "guid": "https://news.hada.io/topic?id=18507",
       "pubDate": "2024-12-31T09:42:13+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kent Hendricks가 2024년에 배운 52가지",
+      "description": {
+        "$text": "<ol>\n<li>Firefox나 Chrome을 사용하는 직원은 Internet Explorer나 Safari를 사용하는 직원보다 직장 만족도가 더 높고 이직률이 15% 낮음. 이는 기본 설정을 그대로 따르지 않고 스스로 선택하려는 성향 때문임</li>\n<li>10월 31일, ADHD 진단율이 평소보다 14% 더 높음. 이는 아이들이 할로윈에 흥분한 상태이기 때문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18518",
+      "guid": "https://news.hada.io/topic?id=18518",
+      "pubDate": "2024-12-31T12:04:53+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
