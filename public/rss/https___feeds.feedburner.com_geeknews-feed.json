@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-31T17:33:36+09:00",
+  "lastBuildDate": "2025-01-01T00:48:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10556,6 +10556,19 @@
       "guid": "https://news.hada.io/topic?id=18520",
       "pubDate": "2024-12-31T17:33:36+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Remote MCP: 리모트 MCP(Model Context Protocol) 서버/클라이언트 구현",
+      "description": {
+        "$text": "<p>Claude Desktop과 같은 클라이언트에서 사용할 수 있는 MCP(Model Context Protocol) Server를 중앙에 두고 로컬 패키지 업데이트 없이 지속적인 업데이트가 가능하도록 리모트 MCP 서버 및 (서버이기도 한) 클라이언트를 만들어 보았습니다.</p>\n<p>MCP 공식 로드맵상 2025년 초반에 지원될 것이라 말하고 있지만 지",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18521",
+      "guid": "https://news.hada.io/topic?id=18521",
+      "pubDate": "2025-01-01T00:48:02+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
