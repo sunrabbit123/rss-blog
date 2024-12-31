@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-31T16:03:36+09:00",
+  "lastBuildDate": "2024-12-31T17:33:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10543,6 +10543,19 @@
       "guid": "https://news.hada.io/topic?id=18518",
       "pubDate": "2024-12-31T12:04:53+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google Sheets를 모바일 친화적인 웹앱으로 변환하는 사용자 증가",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Google Sheets를 웹앱으로 변환하기</h2>\n<ul>\n<li>팬데믹 동안 많은 사람들이 집에 머물면서 테이크아웃을 자주 주문하게 되었음. 저자와 그의 아내도 지역 식당을 지원하고 싶어했으며, 앱 기반 배달 서비스보다는 직접 주문을 선호했음.</li>\n<li>같은 식당에서 반복 주문하는 것을 피하고 다양한 옵션...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18520",
+      "guid": "https://news.hada.io/topic?id=18520",
+      "pubDate": "2024-12-31T17:33:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
