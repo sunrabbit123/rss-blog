@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2024-12-31T01:35:02+09:00",
+  "lastBuildDate": "2024-12-31T10:21:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10400,6 +10400,136 @@
       "guid": "https://news.hada.io/topic?id=18506",
       "pubDate": "2024-12-31T01:35:02+09:00",
       "author": "beenzinozino",
+      "category": ""
+    },
+    {
+      "title": "Anki AI Utils - AI로 Anki를 더 유용하게 만들기",
+      "description": {
+        "$text": "<ul>\n<li>Anki 학습 카드를 자동으로 개선하는 AI 기반 도구 모음\n<ul>\n<li>주요 목표는 의학, 언어, 복잡한 과목을 공부하는 사람들로, 특히 어려운 개념을 쉽게 이해하고 기억할 수 있도록 도와줌</li>\n</ul>\n</li>\n<li>ChatGPT를 활용하여 복잡한 개념에 대한 명확한 설명 제공</li>\n<li>Dall-E 또는 Stable Diffusio...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18516",
+      "guid": "https://news.hada.io/topic?id=18516",
+      "pubDate": "2024-12-31T10:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "아이슬란드의 EU 가입 준비 여부",
+      "description": {
+        "$text": "<h4>아이슬란드의 EU 가입 가능성</h4>\n<ul>\n<li>아이슬란드의 새로운 정부 변화로 인해 EU 가입 논의가 다시 활발해지고 있음. 최근 여론조사에 따르면 아이슬란드 국민들은 EU 가입을 더 선호하고 있음. 이는 2022년 2월 푸틴의 우크라이나 재침공 이후 변화한 것으로, 국내외 여러 요인들이 작용하고 있음.</li>\n</ul...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18515",
+      "guid": "https://news.hada.io/topic?id=18515",
+      "pubDate": "2024-12-31T10:06:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQLite에 관한 재미있는 사실들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>SQLite에 대한 재미있고 놀라운 사실 모음</h2>\n</li>\n<li>\n<p>SQLite는 가장 많이 배포되고 사용되는 데이터베이스임</p>\n<ul>\n<li>1조 개 이상의 SQLite 데이터베이스가 사용 중이며, 세 명의 사람이 유지 관리함</li>\n<li>외부 기여를 허용하지 않음</li>\n</ul>\n</li>\n<li>\n<p>SQLite는 다른 모든 데이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18514",
+      "guid": "https://news.hada.io/topic?id=18514",
+      "pubDate": "2024-12-31T10:03:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "패스키 기술의 우아함, 그러나 사용 가능한 보안은 아님",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>프라임타임을 위한 준비가 덜 된 패스키 기술</h3>\n<ul>\n<li>패스키 기술은 우아하지만, 사용하기에는 보안성이 부족함</li>\n<li>패스키는 비밀번호의 대안으로 주목받고 있으며, 피싱 및 데이터베이스 해킹에 강력한 방어책으로 여겨짐</li>\n</ul>\n</li>\n<li>\n<h3>우아하지만 사용하기 쉬운가?</h3>\n<ul>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18513",
+      "guid": "https://news.hada.io/topic?id=18513",
+      "pubDate": "2024-12-31T10:00:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "존 그루버(DF)의 OpenAI 이사회 발표 요약: \"상상할 수 없는 막대한 자금 필요\"",
+      "description": {
+        "$text": "<ul>\n<li>AI 개발에 주요 기업들이 수백억 달러를 투자하고 있으며, OpenAI도 지속적인 목표 추구를 위해서는 예상보다 더 많은 자본이 필요하다고 강조</li>\n<li>투자자들은 OpenAI에 관심이 있지만, 이 정도 규모의 자본에는 전통적인 주식 구조가 필요하다고 언급함</li>\n<li>OpenAI는 현재 AI 챗봇 분야에서 가장 뛰...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18512",
+      "guid": "https://news.hada.io/topic?id=18512",
+      "pubDate": "2024-12-31T09:57:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "'Obelisks': 인간 소화계에서 발견된 새로운 생명체 클래스",
+      "description": {
+        "$text": "<h2>인간 소화계에서 발견된 새로운 생명체 클래스 'Obelisks'</h2>\n<ul>\n<li>\n<p><strong>연구 배경</strong></p>\n<ul>\n<li>연구자들이 인간 내부의 미생물 군집을 조사하던 중, 새로운 종류의 바이러스와 유사한 객체를 발견함.</li>\n<li>이 객체들은 기존의 생물학적 에이전트와 유사한 구조나 서열이 없어, 바이러스",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18511",
+      "guid": "https://news.hada.io/topic?id=18511",
+      "pubDate": "2024-12-31T09:54:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Curl-Impersonate - 더 진짜 브라우저 같은 Curl",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>curl-impersonate</code>는 주요 웹 브라우저인 Chrome, Edge, Safari, Firefox를 모방할 수 있는 특별한 curl 빌드\n<ul>\n<li>TLS 및 HTTP 핸드셰이크를 실제 브라우저와 동일하게 수행</li>\n<li>명령줄 도구로 사용하거나 라이브러리로 통합 가능</li>\n</ul>\n</li>\n<li>\n<strong>중요성</strong>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18510",
+      "guid": "https://news.hada.io/topic?id=18510",
+      "pubDate": "2024-12-31T09:51:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Pegasus에서 Predator까지 – iOS 상의 상업용 스파이웨어 진화 [비디오]",
+      "description": {
+        "$text": "<ul>\n<li>&quot;iOS 스파이웨어의 진화: 2016년 Pegasus부터 2024년 최신 사례까지&quot;</li>\n</ul>\n<h2>1. 스파이웨어의 진화 (2016-2024)</h2>\n<ul>\n<li>Pegasus 이후의 주요 익스플로잇, 전술(TTP), 감염 벡터 및 IOC(Indicator of Compromise) 분석</li>\n<li>시간이 지남에 따라 스파이웨어가 어떻게 발전하고 정교...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18509",
+      "guid": "https://news.hada.io/topic?id=18509",
+      "pubDate": "2024-12-31T09:48:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 회사들이 대부분의 웹 트래픽을 만들고 있음",
+      "description": {
+        "$text": "<ul>\n<li>최근 diaspora 프로젝트의 웹 인프라(Discourse, Wiki, 프로젝트 웹사이트 등)에서 발생하는 로드 스파이크와 느려짐 문제를 분석한 결과, &quot;대부분의 트래픽이 LLM 크롤링 봇에 의해 발생&quot;하고 있음</li>\n<li>지난 60일 동안 1,130만 요청(평균 2.19 req/s)이 들어왔는데 그중 <em>70% 이상이 LLM 관...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18508",
+      "guid": "https://news.hada.io/topic?id=18508",
+      "pubDate": "2024-12-31T09:45:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN에 전하는 소식: 인터넷 개척자이자 QModem 개발자인 아버지 John Friel 별세",
+      "description": {
+        "$text": "<p>The content provided does not contain sufficient information to summarize or translate according to the given guidelines.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18507",
+      "guid": "https://news.hada.io/topic?id=18507",
+      "pubDate": "2024-12-31T09:42:13+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
