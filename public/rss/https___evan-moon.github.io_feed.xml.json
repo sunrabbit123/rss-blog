@@ -2,7 +2,7 @@
   "title": "Evans Library",
   "description": "개발을 잘하기 위해서가 아닌 개발을 즐기기 위해 노력하는 개발자입니다. 사소한 생각 정리부터 튜토리얼, 삽질기 정도를 주로 끄적이고 있습니다.",
   "link": "https://evan-moon.github.io",
-  "lastBuildDate": "Tue, 31 Dec 2024 12:54:32 GMT",
+  "lastBuildDate": "Wed, 01 Jan 2025 02:30:27 GMT",
   "items": [
     {
       "title": "지금 프로그래밍을 하고 있는 당신은 누구인가",
@@ -928,6 +928,24 @@
       "link": "https://evan-moon.github.io/2017/05/03/calculate-orbit-1/",
       "guid": "20170503-calculate-orbit-1",
       "pubDate": "Wed, 03 May 2017 15:29:22 GMT",
+      "author": "",
+      "category": ""
+    },
+    {
+      "title": "[번역] 프로그래머를 위한 카테고리 이론 - 11. 선언적 프로그래밍",
+      "description": "필자는 이 책의 첫 번째 파트에서 카테고리 이론과 프로그래밍이 모두 합성 가능성(Composability)에 대한 것이라는 주장을 하였다. 프로그래밍에서는 문제를 조금씩 세분화해나가며 다룰 수 있는 세부 수준으로 분해한 다음, 각 하위 문제를 해결하고, 하위 문제의 해결책들을 다시 합성하여 전체 문제를 해결하는 방식을 사용한다.",
+      "link": "https://evan-moon.github.io/2024/12/25/category-theory-for-programmers-11-declarative-programming/",
+      "guid": "20241225-category-theory-for-programmers-11-declarative-programming",
+      "pubDate": "Wed, 25 Dec 2024 07:45:20 GMT",
+      "author": "",
+      "category": ""
+    },
+    {
+      "title": "좋은 코드란 무엇일까? - 가독성이란 허상에 대하여",
+      "description": "우리는 인생을 살아가며 수없이 많은 문제들과 마주친다. 당장 현실적인 부분들만 보아도 입시, 취업, 이직, 재테크, 커리어, 성장 등 다양한 미션을 만나게 되는데, 종종 사람들과 이에 대해 이야기를 나누다보면 마치 정답이 정해져있다는 것과 같은 이야기 혹은 정답이 있기를 바라는 것과 같은 이야기를 듣고는 한다.",
+      "link": "https://evan-moon.github.io/2024/12/23/the-illusion-of-a-right-answer/",
+      "guid": "20241223-the-illusion-of-a-right-answer",
+      "pubDate": "Mon, 23 Dec 2024 09:34:56 GMT",
       "author": "",
       "category": ""
     }
