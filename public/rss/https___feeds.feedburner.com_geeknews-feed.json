@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-01T00:48:02+09:00",
+  "lastBuildDate": "2025-01-01T09:52:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10569,6 +10569,97 @@
       "guid": "https://news.hada.io/topic?id=18521",
       "pubDate": "2025-01-01T00:48:02+09:00",
       "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "Zig로 작성한 게임보이 어드밴스 게임",
+      "description": {
+        "$text": "<h3>왜 Zig로 게임보이 어드밴스 게임을 작성했는가</h3>\n<ul>\n<li>\n<p><strong>게임보이 어드밴스의 매력</strong><br />\n게임보이 어드밴스는 현대적인 CPU(32비트 ARM, 많은 레지스터)를 가지고 있지만, 오래된 타일 기반 렌더러를 사용함. 이는 NES가 80년대에 사용했던 방식과 유사함. 닌텐도의 마지막 타일 기반 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18528",
+      "guid": "https://news.hada.io/topic?id=18528",
+      "pubDate": "2025-01-01T09:52:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Coconut by Meta AI – 연속적 사고 사슬로 향상된 LLM 추론?",
+      "description": {
+        "$text": "<h3>소개</h3>\n<ul>\n<li>대형 언어 모델(LLM)은 다양한 분야에서 뛰어난 추론 능력을 보여주고 있음.</li>\n<li>이러한 모델은 방대한 양의 인간 언어를 사전 학습하여 이러한 능력을 달성함.</li>\n<li>Chain-of-Thought(CoT)라는 방법은 모델이 단계별로 해결책을 생성하도록 유도하여 최종 답변에 도달하는 이유를 제공...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18527",
+      "guid": "https://news.hada.io/topic?id=18527",
+      "pubDate": "2025-01-01T09:49:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "더 많은 통신사, Salt Typhoon 침해 확인, 백악관 개입 검토",
+      "description": {
+        "$text": "<h4>사이버 범죄: Salt Typhoon 침입</h4>\n<ul>\n<li>AT&amp;T, Verizon, Lumen Technologies는 중국 정부가 지원하는 해커들이 자사 시스템에 침입했다고 확인함.</li>\n<li>이 침입은 &quot;우리나라 역사상 최악의 통신 해킹&quot;으로 불리며, 중국이 수백만 명의 위치를 추적하고 전화 통화를 기록할 수 있는 능력을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18526",
+      "guid": "https://news.hada.io/topic?id=18526",
+      "pubDate": "2025-01-01T09:46:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 LLMs에 대해 배운 것들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>GPT-4 장벽이 완전히 무너짐</h2>\n<ul>\n<li>2023년 말까지 GPT-4는 최고 수준의 모델로 여겨졌으나, 2024년에는 18개 조직이 GPT-4보다 뛰어난 모델을 개발함.</li>\n<li>Google의 Gemini 1.5 Pro는 비디오 입력 기능과 200만 토큰 입력 길이를 제공하며, GPT-4 수준의 출력을 생성함.</li>\n<li>Anthropic의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18525",
+      "guid": "https://news.hada.io/topic?id=18525",
+      "pubDate": "2025-01-01T09:43:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모질라의 Orbit 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>긴 이메일 스레드</strong></p>\n<ul>\n<li>AI의 발전을 찬양하며, 알고리듬의 복잡성과 자동화의 유토피아를 탐험하는 내용임.</li>\n<li>AI의 예측 분석 능력과 챗봇의 발전을 언급하며, 인간의 자유 의지와 상호작용의 중요성을 풍자적으로 표현함.</li>\n<li>AI 생성 콘텐츠의 발전과 윤리적 문제에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18524",
+      "guid": "https://news.hada.io/topic?id=18524",
+      "pubDate": "2025-01-01T09:40:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 개발을 위한 생성형 AI 강좌",
+      "description": {
+        "$text": "<ul>\n<li>DeepLearning.ai 의 무료 강좌 : 3개 과정, 15시간 이상, 입문 레벨</li>\n<li>Generative AI 기술을 실제 소프트웨어 개발에 적용하는 방법을 안내</li>\n<li>학습 목표:\n<ul>\n<li>개발에 생성형 AI 통합: GitHub Copilot 및 ChatGPT와 같은 도구를 사용해 디자인부터 배포까지 개발 워크플로 최적화</li>\n<li>코...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18523",
+      "guid": "https://news.hada.io/topic?id=18523",
+      "pubDate": "2025-01-01T09:35:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SkunkHTML - 마크다운으로 GitHub Page에 웹사이트 자동 생성",
+      "description": {
+        "$text": "<ul>\n<li>60초내에 GitHub에 마크다운 블로그를 생성 가능\n<ul>\n<li>Repo를 Fork한후 GitHub 설정에서 GitHub Pages를 활성화하면 바로 블로그 완성</li>\n<li>이제 마크다운만 추가로 업로드 하면 새로운 글이 등록됨</li>\n</ul>\n</li>\n<li>\n<code>/markdown-blog/</code>에 새 .md 파일이 들어오면 GitHub Actions가 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18522",
+      "guid": "https://news.hada.io/topic?id=18522",
+      "pubDate": "2025-01-01T09:16:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
