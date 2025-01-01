@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-01T15:32:54+09:00",
+  "lastBuildDate": "2025-01-01T18:25:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10712,6 +10712,19 @@
       "guid": "https://news.hada.io/topic?id=18532",
       "pubDate": "2025-01-01T15:32:54+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 삶의 방향성을 어떻게 찾으셨나요? 특히 기술을 통해 어떤 가치를 만들고 싶으신지 궁금합니다.",
+      "description": {
+        "$text": "<p>안녕하세요. 최근 삶의 방향성에 대해 깊은 고민을 하고 있습니다.</p>\n<p>주변을 보면 확실한 목표를 가지고 성장해나가시는 분들이 계신데요. &quot;업계의 이런 문제를 해결하겠다&quot;, &quot;이런 혁신을 이루겠다&quot; 같이 뚜렷한 지향점이 있으신 분들을 보면 부럽습니다.</p>\n<p>저는 제가 진정으로 해결하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18533",
+      "guid": "https://news.hada.io/topic?id=18533",
+      "pubDate": "2025-01-01T18:25:23+09:00",
+      "author": "mansukim1125",
       "category": ""
     }
   ]
