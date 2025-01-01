@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-01T13:32:56+09:00",
+  "lastBuildDate": "2025-01-01T15:32:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10698,6 +10698,19 @@
       "link": "https://news.hada.io/topic?id=18531",
       "guid": "https://news.hada.io/topic?id=18531",
       "pubDate": "2025-01-01T13:32:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년 새해 축하 행사",
+      "description": {
+        "$text": "<p>There is no content to summarize from the provided text.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18532",
+      "guid": "https://news.hada.io/topic?id=18532",
+      "pubDate": "2025-01-01T15:32:54+09:00",
       "author": "neo",
       "category": ""
     }
