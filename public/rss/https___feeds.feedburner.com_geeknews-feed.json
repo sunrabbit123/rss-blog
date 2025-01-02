@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-02T06:10:30+09:00",
+  "lastBuildDate": "2025-01-02T09:39:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10764,6 +10764,32 @@
       "guid": "https://news.hada.io/topic?id=18537",
       "pubDate": "2025-01-02T06:10:30+09:00",
       "author": "namojo",
+      "category": ""
+    },
+    {
+      "title": "DOOM CAPTCHA",
+      "description": {
+        "$text": "DOOM CAPTCHA",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18539",
+      "guid": "https://news.hada.io/topic?id=18539",
+      "pubDate": "2025-01-02T09:39:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "과도한 시간 소요",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>비합리적인 시간의 투자</h2>\n</li>\n<li>\n<p>몇 년 전, 텔러는 마술을 선보였음.</p>\n<ul>\n<li>먼저 카드를 고르게 하고, 카드를 찾으려 하지만 실패한 후 카드가 다른 곳으로 이동했을 가능성을 암시함.</li>\n<li>근처 공원으로 짧은 산책을 이끌고, 영감을 받아 땅을 파면, 손상되지 않은 잔디 아래 상자",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18538",
+      "guid": "https://news.hada.io/topic?id=18538",
+      "pubDate": "2025-01-02T08:34:05+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
