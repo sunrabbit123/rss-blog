@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-02T10:37:01+09:00",
+  "lastBuildDate": "2025-01-02T15:33:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10854,6 +10854,19 @@
       "link": "https://news.hada.io/topic?id=18540",
       "guid": "https://news.hada.io/topic?id=18540",
       "pubDate": "2025-01-02T09:42:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년에 내가 사랑한 책들",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Cicero Letter to Friends: Volume 1</strong></p>\n<ul>\n<li>로마 정치가이자 뛰어난 웅변가인 Cicero의 편지 모음집</li>\n<li>친구, 가족, 동료에게 보낸 편지로, 건강 걱정이나 가족의 안부를 묻는 내용 포함</li>\n<li>고대 로마 시대의 삶과 문화를 엿볼 수 있는 기회 제공</li>\n</ul>\n</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18545",
+      "guid": "https://news.hada.io/topic?id=18545",
+      "pubDate": "2025-01-02T15:33:27+09:00",
       "author": "neo",
       "category": ""
     }
