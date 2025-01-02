@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-02T15:33:27+09:00",
+  "lastBuildDate": "2025-01-02T22:34:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10867,6 +10867,19 @@
       "link": "https://news.hada.io/topic?id=18545",
       "guid": "https://news.hada.io/topic?id=18545",
       "pubDate": "2025-01-02T15:33:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: API Parrot – HTTP API 자동 리버스 엔지니어링 도구",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>API Parrot 소개</strong></p>\n<ul>\n<li>API Parrot는 웹사이트의 HTTP API를 역설계하는 도구로, 공개 API가 없는 웹사이트를 자동화, 통합 또는 스크래핑하려는 개발자에게 유용함.</li>\n<li>Windows 및 Linux에서 다운로드 가능함.</li>\n</ul>\n</li>\n<li>\n<p><strong>주요 기능</strong></p>\n<u",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18546",
+      "guid": "https://news.hada.io/topic?id=18546",
+      "pubDate": "2025-01-02T22:34:33+09:00",
       "author": "neo",
       "category": ""
     }
