@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-02T09:39:19+09:00",
+  "lastBuildDate": "2025-01-02T10:37:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10789,6 +10789,71 @@
       "link": "https://news.hada.io/topic?id=18538",
       "guid": "https://news.hada.io/topic?id=18538",
       "pubDate": "2025-01-02T08:34:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CodingFont - 코딩용 폰트를 토너먼트로 찾아보기",
+      "description": {
+        "$text": "<ul>\n<li>32가지의 코딩용 폰트를 토너먼트 방식으로 하나씩 제거해 나가면서 자신에게 가장 잘 맞는 폰트를 찾아보는 사이트</li>\n<li>다양한 테마 및 다크모드 지정해서 확인가능</li>\n<li>마우스 클릭 또는 ← / → 키로 선택</li>\n<li>무료 폰트만 포함. 모든 폰트의 바로 가기 및 다운로드 링크 제공</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18544",
+      "guid": "https://news.hada.io/topic?id=18544",
+      "pubDate": "2025-01-02T10:37:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Databases in 2024 : 한해 돌아보기",
+      "description": {
+        "$text": "<p>Andy Pavlo(CMU 교수)의 2024년 데이터베이스 업계 전체 리뷰</p>\n<h2>내 데이터베이스, 내가 원하는 대로 라이선스한다!</h2>\n<ul>\n<li>\n<strong>데이터베이스와 오픈소스의 딜레마</strong>:\n<ul>\n<li>오픈소스 DBMS는 종종 VC가 지원하는 수익성 있는 회사에서 개발.</li>\n<li>클라우드 업체가 인기 있는 DBMS를 서",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18543",
+      "guid": "https://news.hada.io/topic?id=18543",
+      "pubDate": "2025-01-02T09:51:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테렌스 타오: 논문이 거절됨",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>오늘 한 저널에서 논문이 거절됨. 편지에는 논문이 흥미롭지만, 저널의 성격과 잘 맞지 않는다는 이유가 명시됨.</p>\n</li>\n<li>\n<p>저널의 의견에 대체로 동의하며, 현재 더 적합한 저널에 논문을 제출.</p>\n</li>\n<li>\n<p><strong>거절은 흔한 일</strong>:</p>\n<ul>\n<li>거절은 연구 과정에서 흔히 발생",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18542",
+      "guid": "https://news.hada.io/topic?id=18542",
+      "pubDate": "2025-01-02T09:48:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Putnam 문제 약간 변형 시 O1-preview 정확도 30% 하락",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Putnam-AXIOM 벤치마크 소개</strong></p>\n<ul>\n<li>Putnam-AXIOM은 대형 언어 모델(LLM)의 수학적 추론 능력을 평가하기 위한 도전적인 벤치마크임.</li>\n<li>William Lowell Putnam Mathematical Competition의 236개 수학 문제와 단계별 솔루션을 포함함.</li>\n<li>데이터 오염을 방지하기 위해",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18541",
+      "guid": "https://news.hada.io/topic?id=18541",
+      "pubDate": "2025-01-02T09:45:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Static Search Trees : 이진 검색보다 40배 빠르게",
+      "description": {
+        "$text": "<ul>\n<li>&quot;S+ 트리&quot;라는 정적 탐색 트리를 구현하여 정렬된 데이터의 고속 검색을 수행</li>\n<li>Algorithmica 포스트에서 제안된 코드를 출발점으로 삼아 최적화하고, 제안된 추가 아이디어 및 개선 작업을 코드화</li>\n<li>어셈블리 코드를 분석후 가능한 모든 명령어를 최적화하여 성능 극대화</li>\n<li>다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18540",
+      "guid": "https://news.hada.io/topic?id=18540",
+      "pubDate": "2025-01-02T09:42:19+09:00",
       "author": "neo",
       "category": ""
     }
