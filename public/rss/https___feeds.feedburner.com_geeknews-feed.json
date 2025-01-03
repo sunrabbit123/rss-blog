@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-03T10:01:15+09:00",
+  "lastBuildDate": "2025-01-03T10:39:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -10958,6 +10958,71 @@
       "link": "https://news.hada.io/topic?id=18547",
       "guid": "https://news.hada.io/topic?id=18547",
       "pubDate": "2025-01-03T09:11:37+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MitmProxy2Swagger - REST API 자동 리버스 엔지니어링 도구",
+      "description": {
+        "$text": "<ul>\n<li>mitmproxy로 캡처된 HTTP 트래픽을 OpenAPI 3.0 스펙으로 자동 변환하는 도구</li>\n<li>앱을 실행하고 트래픽을 캡처하는 것만으로 REST API를 역설계할 수 있음</li>\n<li>브라우저 DevTools에서 내보낸 HAR 파일을 처리하는 기능 추가됨</li>\n<li>동작 방식\n<ul>\n<li>mitmproxy (권장: mitmweb 사용)를 통해 H...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18558",
+      "guid": "https://news.hada.io/topic?id=18558",
+      "pubDate": "2025-01-03T10:39:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "iTerm2 중대한 보안 업데이트 발표",
+      "description": {
+        "$text": "<ul>\n<li>iTerm2 버전 3.5.11은 2025년 1월 2일에 빌드되었으며, 중요한 보안 수정이 포함되어 있음. 즉시 업데이트할 것을 강력히 권장함.</li>\n</ul>\n<h2>영향을 받는 사용자</h2>\n<ul>\n<li>SSH 통합 기능을 사용한 경우, 다음 버전에서 영향을 받을 수 있음:\n<ul>\n<li>3.5.6</li>\n<li>3.5.7</li>\n<li>3.5.8</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18557",
+      "guid": "https://news.hada.io/topic?id=18557",
+      "pubDate": "2025-01-03T10:35:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "순수 SQL로 구현된 Advent of Code 2024",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>순수 SQL로 Advent of Code 2024 도전</h2>\n</li>\n<li>\n<p><strong>개요</strong></p>\n<ul>\n<li>필자는 올해 Advent of Code를 순수 SQL로 해결해보기로 결정했음.</li>\n<li>이 경험은 문제를 다르게 생각하도록 강요하여 흥미로웠으며, 모든 문제를 SQL로 해결할 수 있었음.</li>\n<li>SQL은 의외로 사용하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18556",
+      "guid": "https://news.hada.io/topic?id=18556",
+      "pubDate": "2025-01-03T10:07:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: 40세 이후 일할 곳이 있나요?",
+      "description": {
+        "$text": "<ul>\n<li>지난달 40세가 되었고, 지난 10년 동안 나만의 스타트업을 운영했으나 결국 실패함</li>\n<li>현재 다음 단계에 대해 고민 중임</li>\n<li>누군가가 40세 이후에는 Google이 은퇴하는 곳이라고 말한 적이 있음</li>\n<li>여러 스타트업에서 일했고, Google에서도 시간을 보냈음</li>\n<li>엔지니어로서 기술 환경은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18555",
+      "guid": "https://news.hada.io/topic?id=18555",
+      "pubDate": "2025-01-03T10:04:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Neatnik Calendar - 출력용 1년 달력 페이지",
+      "description": {
+        "$text": "<ul>\n<li>모든 페이지와 종이에 맞게 자동 조정됨\n<ul>\n<li>가로 모드에서 가장 보기 좋게 출력</li>\n</ul>\n</li>\n<li>출력 년도 지정 가능 : <code>year=2025</code>\n</li>\n<li>각 월의 주별 정렬 맞춤(같은 요일이 모두 같은 줄에 위치되게) : <a href=\"https://neatnik.net/calendar/?year=2025&amp;layout=aligned-w...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18554",
+      "guid": "https://news.hada.io/topic?id=18554",
+      "pubDate": "2025-01-03T10:02:02+09:00",
       "author": "xguru",
       "category": ""
     }
