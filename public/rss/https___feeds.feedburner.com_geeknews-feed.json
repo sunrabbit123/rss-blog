@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-03T10:39:02+09:00",
+  "lastBuildDate": "2025-01-03T11:34:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11024,6 +11024,32 @@
       "guid": "https://news.hada.io/topic?id=18554",
       "pubDate": "2025-01-03T10:02:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek v3에 대한 노트 - \"정말로 GPT-4o나 3.5 Sonnet보다 좋은가?\"",
+      "description": {
+        "$text": "<ul>\n<li>DeepSeek이 플래그십 모델 v3를 출시함\n<ul>\n<li>607B 파라미터의 Mixture-of-Experts(MoE) 모델로, 활성 파라미터는 37B</li>\n<li>v3는 Llama 3.1 405B, Qwen, Mistral을 능가하며, OpenAI GPT-4o와 Claude 3.5 Sonnet과 동등하거나 특정 작업에서는 이를 능가</li>\n<li>이는 최초로 주요 폐쇄형 모델과 경쟁하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18560",
+      "guid": "https://news.hada.io/topic?id=18560",
+      "pubDate": "2025-01-03T11:34:31+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "부유하지만 방향을 잃은 사람",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>내 삶의 방향을 잃은 부유한 사람의 이야기</h2>\n<ul>\n<li>회사를 매각한 후, 더 이상 일할 필요가 없는 상황에 처하게 되었음. 모든 것이 부차적인 일처럼 느껴지며, 삶에 대한 낙관적인 시각이 부족함. 이 글의 목적은 자랑하거나 동정을 구하는 것이 아님.</li>\n</ul>\n</li>\n<li>\n<h2>레드우드 숲에서의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18559",
+      "guid": "https://news.hada.io/topic?id=18559",
+      "pubDate": "2025-01-03T11:34:23+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
