@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-04T10:33:01+09:00",
+  "lastBuildDate": "2025-01-04T13:32:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11141,6 +11141,19 @@
       "guid": "https://news.hada.io/topic?id=18568",
       "pubDate": "2025-01-04T10:33:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스페이스심 기술 관련 뉴스",
+      "description": {
+        "$text": "스페이스심 기술 관련 뉴스",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18569",
+      "guid": "https://news.hada.io/topic?id=18569",
+      "pubDate": "2025-01-04T13:32:56+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
