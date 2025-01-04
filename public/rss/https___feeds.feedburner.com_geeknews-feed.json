@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-03T19:53:11+09:00",
+  "lastBuildDate": "2025-01-04T09:55:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11049,6 +11049,84 @@
       "link": "https://news.hada.io/topic?id=18559",
       "guid": "https://news.hada.io/topic?id=18559",
       "pubDate": "2025-01-03T11:34:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "샹산 – 오픈소스 고성능 RISC-V 프로세서",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>XiangShan 프로젝트 소개</strong></p>\n<ul>\n<li>XiangShan은 고성능 RISC-V 프로세서를 개발하기 위한 오픈 소스 프로젝트로, 중국과학원 컴퓨팅 기술 연구소와 펑청 연구소에서 진행 중임.</li>\n<li>이 프로젝트는 애자일 개발 방법론을 활용하여 칩 개발 과정을 가속화하는 다양한 도구를 개발하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18567",
+      "guid": "https://news.hada.io/topic?id=18567",
+      "pubDate": "2025-01-04T09:55:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블로그스크롤 – 개인 사이트 및 블로그의 오픈 디렉토리",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>BlogScroll 소개</strong></p>\n<ul>\n<li>BlogScroll은 개인 사이트와 블로그의 오픈 디렉토리로, GitHub에서 관리됨.</li>\n<li>Den Delimarsky가 &quot;Big Tech&quot;의 울타리를 벗어나 개인의 디지털 공간을 강조하기 위해 만든 프로젝트임.</li>\n<li>GitHub를 사용하지 않고도 이메일을 통해 기",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18566",
+      "guid": "https://news.hada.io/topic?id=18566",
+      "pubDate": "2025-01-04T09:52:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인터넷에서 임차인이 아닌 소유자가 되는 방법",
+      "description": {
+        "$text": "<h3>인터넷에서 임차인이 아닌 소유자가 되기</h3>\n<ul>\n<li>\n<p><strong>현재 상황</strong></p>\n<ul>\n<li>2025년, 인터넷은 과거와 많이 달라졌음. 블로그, 피드, 개인 사이트, 포럼 등은 대형 플랫폼에 의해 대체되었음.</li>\n<li>많은 사람들이 인터넷을 Facebook, Instagram, Discord와 동일시함.</li>\n<li>이러한 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18565",
+      "guid": "https://news.hada.io/topic?id=18565",
+      "pubDate": "2025-01-04T09:49:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 튜토리얼 작성 규칙",
+      "description": {
+        "$text": "<h2>소프트웨어 튜토리얼 작성 규칙</h2>\n<p>대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게 만듦. 그러나 몇 가지 간단한 규칙을 따르면 뛰어난 소프트웨어 튜토리얼을 작성하는 것이 생각보다 쉬움.</p>\n<h3>규칙</h3>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18564",
+      "guid": "https://news.hada.io/topic?id=18564",
+      "pubDate": "2025-01-04T09:46:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 항소법원, FCC의 Net Neutrality 규정 무효화 판결",
+      "description": {
+        "$text": "<h4>뉴스</h4>\n<ul>\n<li>미국 제6순회 항소법원이 FCC의 망 중립성 규정을 무효화함. 이는 최근 미국 대법원의 판결 이후 FCC의 규제 권한에 대한 우려를 제기함.</li>\n<li>망 중립성 규정은 모든 인터넷 트래픽을 동등하게 취급하고 특정 사이트에 대한 우선 처리를 금지하는 내용이었음.</li>\n<li>오바마 행정부 시절 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18563",
+      "guid": "https://news.hada.io/topic?id=18563",
+      "pubDate": "2025-01-04T09:43:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"LLM, '더 나은 코드 작성' 요청 반복 시 코드 품질 향상 가능성\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>LLM을 사용한 코드 개선 실험</h3>\n<ul>\n<li>2023년 11월, OpenAI가 ChatGPT에 DALL-E 3를 통한 이미지 생성 기능을 추가한 후, 사용자가 LLM에 기본 이미지를 제공하고 &quot;더 _X_하게 만들어줘&quot;라는 요청을 반복하는 밈이 유행했음.</li>\n<li>이러한 밈은 빠르게 사라졌지만, 코드에 비슷한 접근...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18562",
+      "guid": "https://news.hada.io/topic?id=18562",
+      "pubDate": "2025-01-04T09:40:01+09:00",
       "author": "neo",
       "category": ""
     }
