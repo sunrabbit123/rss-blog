@@ -570,6 +570,15 @@
       "pubDate": "Sat, 04 Jan 2025 13:43:59 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[ethereum] foundry를 이용하여 스마트 컨트랙트 개발하기",
+      "description": "안녕하세요 멍개입니다. 이번글에서는 foundry을 이용하여 스마트 컨트랙트를 개발하는 방법을 다룹니다. foundry는 truffle, hardhat 처럼 스마트 컨트랙트 개발을 도와주는 도구입니다. foundry는 4개의 명령 도구를 제공합니다. forge: test, compile, build, deploy cast: rpc 통신 anvil: local testnet chisel: REPL ● 셋업 foundry는 공식문서를 통해 설치 가이드를 확인할 수 있습니다. foundry는 rust 기반이기 때문에 rust가 설치되어 있어야 합니다. https://book.getfoundry.sh/getting-started/installation foundry에서 스마트 컨트랙트 개발/테스트/배포하는 과정은 forge를 이용합니다. · 프로젝트 생성 ▶ foundry.toml: 프로.......",
+      "link": "https://blog.naver.com/pjt3591oo/223715195651?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223715195651",
+      "pubDate": "Sun, 05 Jan 2025 12:43:05 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }
