@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-05T10:33:03+09:00",
+  "lastBuildDate": "2025-01-05T14:45:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11323,6 +11323,19 @@
       "guid": "https://news.hada.io/topic?id=18574",
       "pubDate": "2025-01-05T09:45:17+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "pypi 에서 이제 한국어를 지원합니다.",
+      "description": {
+        "$text": "<p>pip 로 파이썬 패키지를 설치할때 https://pypi.org/ 에서 받아오게 됩니다.</p>\n<p>해당 싸이트는 받을때도 사용되지만 패키지 업로드나 변경사항을 확인할때도 사용이 가능합니다.</p>\n<p>한국어지원이 되지 않고 다른 언어들은 지원했는데 드디어 100%를 달성하여 싸이트 하단 우측에 한국어가 추가되었습니다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18584",
+      "guid": "https://news.hada.io/topic?id=18584",
+      "pubDate": "2025-01-05T14:45:19+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
