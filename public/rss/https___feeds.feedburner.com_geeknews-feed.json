@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-06T17:22:36+09:00",
+  "lastBuildDate": "2025-01-06T18:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11544,6 +11544,19 @@
       "guid": "https://news.hada.io/topic?id=18600",
       "pubDate": "2025-01-06T17:22:36+09:00",
       "author": "bigmart0918",
+      "category": ""
+    },
+    {
+      "title": "제 인생에서 목격한 세 명의 뛰어난 Elite Salespeople",
+      "description": {
+        "$text": "<h2>미국 정신의 향기</h2>\n<ul>\n<li>\n<p><strong>세일즈의 비밀</strong>: 저자는 인생에서 세 명의 뛰어난 세일즈맨을 만난 경험을 공유함. 첫 번째는 감옥에서 만난 사람으로, 그의 이야기는 사람들을 매료시켰음. 그는 단순한 이야기로 사람들의 관심을 끌었음.</p>\n</li>\n<li>\n<p><strong>텔레마케팅 경험</strong>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18601",
+      "guid": "https://news.hada.io/topic?id=18601",
+      "pubDate": "2025-01-06T18:33:26+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
