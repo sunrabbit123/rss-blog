@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-05T14:45:19+09:00",
+  "lastBuildDate": "2025-01-06T10:09:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11336,6 +11336,136 @@
       "guid": "https://news.hada.io/topic?id=18584",
       "pubDate": "2025-01-05T14:45:19+09:00",
       "author": "darjeeling",
+      "category": ""
+    },
+    {
+      "title": "개 한 마리와 Windows 3.1 그래픽 스택 대결",
+      "description": {
+        "$text": "<h2>One Dog v. the Windows 3.1 Graphics Stack</h2>\n<h3>Introduction</h3>\n<ul>\n<li>VGA 하드웨어에 대해 배우면서 오래된 비디오 드라이버를 수정하는 과정에서 발생한 문제를 해결하려고 시도함.</li>\n<li>Asus Eee PC 1000H에 Windows 3.11을 설치하여 적절한 비디오 출력을 얻으려는 시도.</li>\n</ul>\n<h3>Window...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18594",
+      "guid": "https://news.hada.io/topic?id=18594",
+      "pubDate": "2025-01-06T10:09:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모바일 앱에서 AI 모델 추출",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>AI 모델 추출하기</h4>\n<ul>\n<li>많은 앱이 AI 모델을 기기에 직접 통합하고 있음. 이는 빠른 추론과 오프라인 접근이 중요한 경우에 유리함.</li>\n<li>기기에서 실행되는 모든 것은 접근 가능하므로, 호기심 있는 사람들에게 기회가 열림.</li>\n</ul>\n</li>\n<li>\n<h4>목표</h4>\n<ul>\n<li>Microsoft의 See...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18593",
+      "guid": "https://news.hada.io/topic?id=18593",
+      "pubDate": "2025-01-06T10:06:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구텐: 소형 신문 프린터",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Guten 소개</strong></p>\n<ul>\n<li>Guten은 맞춤형 열전사 프린터로, 매일 아침 7시에 작은 신문을 출력함</li>\n<li>신문에는 개인의 일일 일정(구글 캘린더에서 가져옴), 시, 그리고 현재 뉴스(뉴욕 타임즈에서 가져옴)가 포함됨</li>\n</ul>\n</li>\n<li>\n<p><strong>Guten의 반응</strong></p>\n<ul",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18592",
+      "guid": "https://news.hada.io/topic?id=18592",
+      "pubDate": "2025-01-06T10:03:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Akamai, 중국에서 CDN 직접 운영 중단 및 파트너사를 통한 리셀링 형태로 전환",
+      "description": {
+        "$text": "<ul>\n<li>Akamai China CDN 서비스가 <strong>2026년 6월 30일</strong>에 서비스 종료 예정</li>\n<li>종료 이후 남은 트래픽은 이웃 국가에서 제공되며, 필요한 경우 파트너 솔루션으로 전환 가능</li>\n<li>\n<strong>Tencent Cloud</strong> 및 <strong>Wangsu Science &amp; Technology</strong>와의 파트너십을 통해 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18591",
+      "guid": "https://news.hada.io/topic?id=18591",
+      "pubDate": "2025-01-06T10:00:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: CSS Flexbox 어려움 해결을 위한 Playground",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>CSS Flexbox Playground</strong></p>\n<ul>\n<li>다양한 flex 속성을 실험하여 레이아웃에 미치는 영향을 이해할 수 있는 도구임</li>\n<li>실시간으로 변화를 확인하고 생성된 CSS 코드를 복사할 수 있음</li>\n</ul>\n</li>\n<li>\n<p><strong>flex-direction</strong></p>\n<ul>\n<li>\n<code>row</code>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18590",
+      "guid": "https://news.hada.io/topic?id=18590",
+      "pubDate": "2025-01-06T09:57:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "당신에게 강요하지 않는 웹 페이지 성가심 요소",
+      "description": {
+        "$text": "당신에게 강요하지 않는 웹 페이지 성가심 요소",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18589",
+      "guid": "https://news.hada.io/topic?id=18589",
+      "pubDate": "2025-01-06T09:54:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mercure - WebSocket을 대체 가능한 SSE(Server Sent Events)기반 실시간 통신 솔루션",
+      "description": {
+        "$text": "<ul>\n<li>쉽고, 빠르고, 안정적이며, 배터리 효율이 좋은 개방형 솔루션</li>\n<li>웹 브라우저 및 기타 HTTP 클라이언트에 데이터 업데이트를 푸시</li>\n<li>특히 웹 API를 통해 제공되는 리소스의 비동기/실시간 업데이트를 반응형 웹과 모바일 앱에서 표시하는 데 유용</li>\n<li>순수 HTTP 기반 : HTTP/2 이상의 프로토...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18588",
+      "guid": "https://news.hada.io/topic?id=18588",
+      "pubDate": "2025-01-06T09:53:22+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "NAT Traversal 작동 방식 (2020)",
+      "description": {
+        "$text": "<h2>NAT 트래버설의 작동 원리</h2>\n<ul>\n<li>\n<p><strong>기본 문제</strong>: 두 기계 간의 피어 투 피어 연결을 설정하는 문제를 다룸. Tailscale의 경우, WireGuard® 터널을 설정하고자 함. 이 기술은 WebRTC, VoIP 전화, 비디오 게임 등 다양한 분야에서 사용됨.</p>\n</li>\n<li>\n<p><strong>UDP 기반 프로토콜</str",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18587",
+      "guid": "https://news.hada.io/topic?id=18587",
+      "pubDate": "2025-01-06T09:51:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI에게 시니어 개발자처럼 코드를 읽도록 가르치다",
+      "description": {
+        "$text": "<ul>\n<li>&quot;AI 코드 분석에 대한 사고방식을 바꾼 혼란스러운 실험&quot;</li>\n<li>기존 AI가 React 코드베이스를 분석하다가 자주 실패하는 상황을 목격했음</li>\n<li>원인은 주니어 개발자가 코드를 처음 읽을 때처럼 라인 단위로만 분석하는 방식에 있었다고 깨달음</li>\n</ul>\n<h2>부트캠프 시절과 시니어 마인드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18586",
+      "guid": "https://news.hada.io/topic?id=18586",
+      "pubDate": "2025-01-06T09:48:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "연구진, 포도당 수치를 더 정확하게 감지하는 웨어러블 기술 개발",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>바늘 없는 혈당 추적 기술</h2>\n<ul>\n<li>워털루 대학 연구진이 당뇨병 환자를 위한 혈당 수치를 더 정확하게 감지할 수 있는 웨어러블 기술을 개발함.</li>\n<li>이 기술은 기존의 침습적 방법 대신 비침습적이고 지속적인 혈당 모니터링을 가능하게 함.</li>\n<li>현재 당뇨병 환자들은 손가락을 찌르거나...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18585",
+      "guid": "https://news.hada.io/topic?id=18585",
+      "pubDate": "2025-01-06T09:45:49+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
