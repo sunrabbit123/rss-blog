@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-06T10:09:51+09:00",
+  "lastBuildDate": "2025-01-06T11:34:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11466,6 +11466,58 @@
       "guid": "https://news.hada.io/topic?id=18585",
       "pubDate": "2025-01-06T09:45:49+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딕 조크로 10만 달러 수익 창출",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>2015년 2월의 아이디어</strong></p>\n<ul>\n<li>바텐더로 일하던 중, 한 여성 파티가 바에 들어왔고, 그들은 다양한 남근 모양의 물건들을 가지고 있었음.</li>\n<li>이 경험과 누군가에게 '꺼져'라는 메시지를 전하고 싶다는 욕구가 결합되어, 'EAT A BAG OF DICKS'라는 메시지와 함께 남근 모양의 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18598",
+      "guid": "https://news.hada.io/topic?id=18598",
+      "pubDate": "2025-01-06T11:34:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년의 AI: AI의 기초가 완성되는 해",
+      "description": {
+        "$text": "<ul>\n<li>세콰이어 캐피탈의 2025년 AI 업계 예상</li>\n<li>2024년은 AI의 “원시 수프(primordial soup)” 단계로, 새로운 아이디어와 가능성이 넘쳐났음.\n<ul>\n<li>&quot;잠재력은 무궁무진하지만 아직은 무정형. 실체적이며 궁극적으로 영향력 있는 것으로 전환하려면 비전이 필요&quot;</li>\n</ul>\n</li>\n<li>2025년...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18597",
+      "guid": "https://news.hada.io/topic?id=18597",
+      "pubDate": "2025-01-06T11:24:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년 AI 예측",
+      "description": {
+        "$text": "<h3>주요 예측</h3>\n<ul>\n<li>향상된 AI 역량: 다양한 산업에 걸쳐 AI 역량의 극적인 향상이 예상됨.</li>\n<li>특화 에이전트: 범용 AI 에이전트가 아닌 구체적이고 측정 가능한 문제를 해결하는 특화 AI 에이전트의 부상.</li>\n<li>개인 능력 향상: 소규모 팀과 개인이 자신의 분야에서 막대한 영향을 미칠 수 있도록 A...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18596",
+      "guid": "https://news.hada.io/topic?id=18596",
+      "pubDate": "2025-01-06T11:12:10+09:00",
+      "author": "taehun9312",
+      "category": ""
+    },
+    {
+      "title": "생성형 모델의 현황",
+      "description": {
+        "$text": "<ul>\n<li>2024년 한 해 동안 텍스트 및 이미지 생성 분야 모두 큰 발전이 있었음</li>\n<li>OpenAI가 독주하던 초기와 달리, 지난 연말에는 Anthropic, DeepSeek, Qwen 등 다양한 연구소가 경쟁적으로 전선을 확장하고 있음</li>\n<li>2024~2025년 연구 동향을 정리하고, 향후 기대되는 분야에 대해 간단히 정리\n<blockquo...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18595",
+      "guid": "https://news.hada.io/topic?id=18595",
+      "pubDate": "2025-01-06T10:21:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
