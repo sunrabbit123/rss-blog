@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-07T18:32:49+09:00",
+  "lastBuildDate": "2025-01-08T04:48:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11713,6 +11713,19 @@
       "guid": "https://news.hada.io/topic?id=18614",
       "pubDate": "2025-01-07T12:33:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024 JavaScript Rising Stars",
+      "description": {
+        "$text": "<p>2024년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.</p>\n<p>전체 프로젝트 부문<br />\n1위. shadcn/ui<br />\n2위. Excalidraw<br />\n3위. AFFiNE<br />\n4위. Bruno<br />\n5위. n8n<br />\n6위. htmx<br />\n7위. Tauri<br />\n8위. Supabase<br />\n9위. Flowise<br />\n10위. Payload...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18616",
+      "guid": "https://news.hada.io/topic?id=18616",
+      "pubDate": "2025-01-08T04:48:07+09:00",
+      "author": "soaple",
       "category": ""
     }
   ]
