@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-07T10:00:15+09:00",
+  "lastBuildDate": "2025-01-07T12:33:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11700,6 +11700,19 @@
       "guid": "https://news.hada.io/topic?id=18604",
       "pubDate": "2025-01-07T09:36:47+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플의 성배 낭비",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>그들은 성배를 낭비했음</h3>\n<ul>\n<li>한때 강력했던 건물의 폐허 사진과 함께, 필자는 삼성 S7의 문제로 인해 아이폰 7을 구매하게 되었음을 설명함. 이후 아이폰의 카메라와 기능에 감명을 받았다고 함.</li>\n</ul>\n</li>\n<li>\n<h3>마음의 자전거</h3>\n<ul>\n<li>1981년 스티브 잡스는 애플 컴퓨터를 '마...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18614",
+      "guid": "https://news.hada.io/topic?id=18614",
+      "pubDate": "2025-01-07T12:33:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
