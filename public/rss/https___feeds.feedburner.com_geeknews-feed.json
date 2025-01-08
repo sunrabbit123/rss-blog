@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-08T13:33:16+09:00",
+  "lastBuildDate": "2025-01-08T17:17:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11869,6 +11869,19 @@
       "guid": "https://news.hada.io/topic?id=18631",
       "pubDate": "2025-01-08T13:33:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: TypeScript 기반 JSON Schema 구현과 개발 도구 모음",
+      "description": {
+        "$text": "<p>&quot;내 취향의 타입 안전한 라이브러리를 만들어보자&quot;는 마음으로 시작한 프로젝트입니다.</p>\n<p>이 프로젝트는 타입 안전한 JSON Schema 구현체를 시작으로 개발 과정에서 필요한 다양한 도구들로 자연스럽게 확장되었습니다.</p>\n<p>현재 구직을 위해 1차적으로 마침표를 찍어보았습니다.</p>\n<h2>프로젝트",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18634",
+      "guid": "https://news.hada.io/topic?id=18634",
+      "pubDate": "2025-01-08T17:17:13+09:00",
+      "author": "honglu",
       "category": ""
     }
   ]
