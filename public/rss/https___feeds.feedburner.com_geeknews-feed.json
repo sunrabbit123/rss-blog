@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-08T11:10:25+09:00",
+  "lastBuildDate": "2025-01-08T13:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11855,6 +11855,19 @@
       "link": "https://news.hada.io/topic?id=18619",
       "guid": "https://news.hada.io/topic?id=18619",
       "pubDate": "2025-01-08T09:43:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "매직/트래직 이메일 링크: 유일한 옵션으로 만들지 않기",
+      "description": {
+        "$text": "<h4>Magic/Tragic Email Links: 유일한 옵션으로 만들지 말 것</h4>\n<ul>\n<li>\n<strong>Magic Links의 의미</strong>: 과거에는 미래지향적인 PDA를 의미했으나, 현재는 Auth0와 같은 회사들이 이메일에 로그인 링크를 포함하는 약간 마법 같은 기능을 지칭함.</li>\n<li>\n<strong>Magic Links의 장점</strong>: 비밀번호...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18631",
+      "guid": "https://news.hada.io/topic?id=18631",
+      "pubDate": "2025-01-08T13:33:16+09:00",
       "author": "neo",
       "category": ""
     }
