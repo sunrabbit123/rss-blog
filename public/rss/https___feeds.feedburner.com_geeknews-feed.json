@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-08T21:18:18+09:00",
+  "lastBuildDate": "2025-01-09T01:13:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11908,6 +11908,19 @@
       "guid": "https://news.hada.io/topic?id=18636",
       "pubDate": "2025-01-08T21:18:18+09:00",
       "author": "jhj0517",
+      "category": ""
+    },
+    {
+      "title": "2024년을 빛낸 자바스크립트 생태계의 최고 아이템은?",
+      "description": {
+        "$text": "<p>State of JavaScript는 매년 개발자 설문조사를 하며, 지난해는 2024 State of JavaScript라는 이름으로 결과를 발표했습니다.</p>\n<p>수 많은 자바스크립트 생태계 기술들 중 과연 어떤 기술이 2024년 가장 인기 있었을까요?</p>\n<p>상단 링크에 '인구 통계' 등 더욱 다양한 정보들이 있으니 참고해주세요!</p>\n<h3>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18637",
+      "guid": "https://news.hada.io/topic?id=18637",
+      "pubDate": "2025-01-09T01:13:34+09:00",
+      "author": "beenzinozino",
       "category": ""
     }
   ]
