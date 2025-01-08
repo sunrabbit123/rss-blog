@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-08T04:48:07+09:00",
+  "lastBuildDate": "2025-01-08T10:21:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11726,6 +11726,136 @@
       "guid": "https://news.hada.io/topic?id=18616",
       "pubDate": "2025-01-08T04:48:07+09:00",
       "author": "soaple",
+      "category": ""
+    },
+    {
+      "title": "NVIDIA CEO 젠슨 황의 CES 2025 키노트",
+      "description": {
+        "$text": "<ul>\n<li>영상 스크립트를 이용한 전체 발표 요약</li>\n<li>핵심 발표 : GeForce RTX, Blackwell, Agentic AI, AI PCs, Physical AI, Autonomous Vehicles, Robotics</li>\n</ul>\n<h2>인트로 영상 : &quot;토큰은 AI의 기반&quot;</h2>\n<ul>\n<li>\n<p><strong>토큰의 역할</strong>:</p>\n<ul>\n<li>토큰은 AI가 데이터를 이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18628",
+      "guid": "https://news.hada.io/topic?id=18628",
+      "pubDate": "2025-01-08T10:21:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년 디자이너를 위한 새로운 프론트엔드 기능들",
+      "description": {
+        "$text": "<ul>\n<li>현대 웹 기술의 발전으로 과거에는 JavaScript로 구현해야 했던 많은 작업이 이제 HTML과 CSS로 간단히 가능</li>\n<li>컴포넌트 중심 스타일링, 부모 요소 스타일링, 상대 색상 정의 등 새로운 기술이 여러 브라우저에서 폭넓게 사용 가능</li>\n<li>디자이너와 개발자들이 UI 컴포넌트를 더욱 간단하고 효과적으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18627",
+      "guid": "https://news.hada.io/topic?id=18627",
+      "pubDate": "2025-01-08T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Zig의 컴타임 성능 뛰어난 평가",
+      "description": {
+        "$text": "<h2>Zig의 Comptime에 대한 다양한 관점</h2>\n<ul>\n<li>\n<p><strong>Zig의 메타프로그래밍</strong>: Zig는 메타프로그래밍을 주요 기능으로 제공하며, 이는 코드가 데이터를 다루는 방식으로 프로그래밍의 힘을 극대화함. 특히, 하드웨어에 가까운 프로그래밍에서 고급 개념을 저수준 작업으로 정확하게 매핑하는 데 유...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18626",
+      "guid": "https://news.hada.io/topic?id=18626",
+      "pubDate": "2025-01-08T10:01:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엔비디아 차세대 RTX 5090 및 RTX 5080 GPU 발표",
+      "description": {
+        "$text": "<h2>Nvidia, 차세대 RTX 5090 및 RTX 5080 GPU 발표</h2>\n<ul>\n<li>Nvidia가 공식적으로 RTX 50 시리즈 GPU를 발표함. RTX Blackwell GPU는 총 네 가지 모델로 출시될 예정이며, RTX 5090은 $1,999, RTX 5080은 $999로 가격이 책정됨.</li>\n<li>RTX 5090과 RTX 5080은 1월 30일에 출시되며, RTX 5070 Ti와 RTX 5070은 2월...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18625",
+      "guid": "https://news.hada.io/topic?id=18625",
+      "pubDate": "2025-01-08T09:58:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Tramway SDK – Half-Life와 Morrowind 엔진의 불경스러운 결합",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Tramway SDK 소개</strong></p>\n<ul>\n<li>Tramway SDK는 그래픽 패키지/프레임워크/게임 엔진으로, 지난 3년간 개발됨.</li>\n<li>주류 엔진과 비교하여 Tramway SDK의 장점을 설명함.</li>\n</ul>\n</li>\n<li>\n<p><strong>Turbobloat 문제</strong></p>\n<ul>\n<li>Unity와 Godot 같은 주류 엔진은 강력",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18624",
+      "guid": "https://news.hada.io/topic?id=18624",
+      "pubDate": "2025-01-08T09:55:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "정규 표현식으로 구현된 미니맥스 체스 엔진",
+      "description": {
+        "$text": "<h2>2-겹 미니맥스 체스 엔진</h2>\n<ul>\n<li>\n<p><strong>체스와 정규 표현식</strong>: 저자는 정규 표현식만을 사용하여 체스를 두는 프로그램을 만들었음. 이 프로그램은 체스판을 입력으로 받아 유효한 수를 두는 84,688개의 정규 표현식으로 구성됨.</p>\n</li>\n<li>\n<p><strong>정규 표현식 CPU 설계</strong>: 정규",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18623",
+      "guid": "https://news.hada.io/topic?id=18623",
+      "pubDate": "2025-01-08T09:52:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제3자 팩트체크 프로그램 종료 및 Community Notes 모델 전환",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Meta의 플랫폼은 사람들이 자유롭게 자신을 표현할 수 있는 공간으로 설계됨. 이는 때로는 혼란스러울 수 있음. 수십억 명의 사람들이 목소리를 낼 수 있는 플랫폼에서는 좋은 것, 나쁜 것, 추한 것 모두가 드러남. 그러나 이는 자유로운 표현임. 2019년 Georgetown University 연설에서 Mark Zuckerberg는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18622",
+      "guid": "https://news.hada.io/topic?id=18622",
+      "pubDate": "2025-01-08T09:49:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 소프트웨어 엔지니어 급여 통계",
+      "description": {
+        "$text": "<p>Levels.fyi의 연례 보고서 : 급여, 주식, 상여금을 포함한 연간 총 보상(Compensation) 금액</p>\n<h2>2024년 급여 트렌드</h2>\n<p>주요 직군별 중간값 기준 2023년 대비 2024년 연간 총 보상 변화율. USD(미국 달러) 기준</p>\n<ul>\n<li>\n<strong>소프트웨어 엔지니어 (Software Engineer)</strong>: $175,000 → $188",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18621",
+      "guid": "https://news.hada.io/topic?id=18621",
+      "pubDate": "2025-01-08T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "엔비디아의 프로젝트 Digits, \"개인용 AI 슈퍼컴퓨터\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Nvidia의 Project Digits 소개</h2>\n<ul>\n<li>CES 2025에서 Nvidia는 '개인 AI 슈퍼컴퓨터'인 Project Digits를 공개함</li>\n<li>Grace Blackwell 하드웨어 플랫폼을 소형 폼 팩터로 제공함</li>\n<li>Nvidia의 AI 소프트웨어 스택 전체를 실행할 수 있는 클라우드 컴퓨팅 플랫폼임</li>\n</ul>\n</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18620",
+      "guid": "https://news.hada.io/topic?id=18620",
+      "pubDate": "2025-01-08T09:46:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM과 함께 프로그래밍하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>지난 1년간 LLM(대규모 언어 모델)을 사용한 프로그래밍 경험을 요약한 글</li>\n<li>LLM은 생산성을 높였으며, 이를 사용하지 않는 프로그래밍으로 돌아가는 것은 어려움</li>\n<li>주로 Go 프로그래밍 환경에 초점을 맞춰 <a href=\"https://sketch.dev\">sketch.dev</a>라는 도구 개발 진행 중</li>\n</ul>\n<h2>배...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18619",
+      "guid": "https://news.hada.io/topic?id=18619",
+      "pubDate": "2025-01-08T09:43:49+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
