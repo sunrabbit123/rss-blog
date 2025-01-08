@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-08T17:17:13+09:00",
+  "lastBuildDate": "2025-01-08T17:33:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -11882,6 +11882,19 @@
       "guid": "https://news.hada.io/topic?id=18634",
       "pubDate": "2025-01-08T17:17:13+09:00",
       "author": "honglu",
+      "category": ""
+    },
+    {
+      "title": "대규모 기존 코드베이스에서 엔지니어들이 저지르는 실수",
+      "description": {
+        "$text": "<h4>대규모 코드베이스에서 엔지니어들이 저지르는 실수</h4>\n<ul>\n<li>대규모 코드베이스에서 작업하는 것은 소프트웨어 엔지니어에게 가장 어려운 일 중 하나임. 개인 프로젝트나 오픈 소스 프로젝트로는 이러한 경험을 얻기 어려움.</li>\n<li>대규모 코드베이스는 수백만 줄의 코드와 수백 명의 엔지니어가 작업하며,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18635",
+      "guid": "https://news.hada.io/topic?id=18635",
+      "pubDate": "2025-01-08T17:33:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
