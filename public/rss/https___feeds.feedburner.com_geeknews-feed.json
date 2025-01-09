@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-09T10:14:19+09:00",
+  "lastBuildDate": "2025-01-09T11:33:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12012,6 +12012,32 @@
       "guid": "https://news.hada.io/topic?id=18638",
       "pubDate": "2025-01-09T09:46:28+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "강제 폐쇄된 내 Course-Swapping 사이트 퇴학 위기",
+      "description": {
+        "$text": "<p>요청된 내용을 요약할 수 있는 정보가 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18646",
+      "guid": "https://news.hada.io/topic?id=18646",
+      "pubDate": "2025-01-09T11:33:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Windows 게이밍 시대의 종말? SteamOS, Steam Deck을 넘어 확장하다",
+      "description": {
+        "$text": "<p>Windows 게이밍 시대의 종말? SteamOS, Steam Deck을 넘어 확장</p>\n<ul>\n<li>Lenovo의 &quot;Legion Go S&quot;는 Valve가 공식적으로 라이선스를 부여한 최초의 SteamOS 탑재 비-Valve 휴대용 게임 기기\n<ul>\n<li>Valve는 SteamOS를 다운로드 및 설치 가능한 베타 버전으로 제공 예정</li>\n</ul>\n</li>\n</ul>\n<h2>L",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18645",
+      "guid": "https://news.hada.io/topic?id=18645",
+      "pubDate": "2025-01-09T10:56:41+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
