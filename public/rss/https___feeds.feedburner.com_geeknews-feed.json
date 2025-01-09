@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-09T17:45:41+09:00",
+  "lastBuildDate": "2025-01-09T20:20:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12037,6 +12037,32 @@
       "link": "https://news.hada.io/topic?id=18645",
       "guid": "https://news.hada.io/topic?id=18645",
       "pubDate": "2025-01-09T10:56:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "기본으로 돌아가기: 웹소켓 대신 롱폴링을 선택한 이유",
+      "description": {
+        "$text": "<ul>\n<li>Node.js/TypeScript 기반 백엔드에서 대규모 실시간 업데이트를 처리해야 하는 상황이었음</li>\n<li>PostgreSQL을 백엔드로 사용하여 수백 개의 워커 노드가 새로운 작업을 지속적으로 확인하고, 에이전트가 실행 및 채팅 상태 업데이트를 받아야 함</li>\n<li>웹소켓에 대한 탐구로 시작했지만, 놀랍도록 효과적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18649",
+      "guid": "https://news.hada.io/topic?id=18649",
+      "pubDate": "2025-01-09T20:20:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Rust로 게임 개발: 1년 후 현황",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 3D 게임을 개발하는 것에 대해 1년전에 글을 작성했고, 그 이후 흐름을 1년간 살펴본 후기</li>\n<li>여전히 Rend3, WGPU, Vulkan 그래픽스 스택을 활용중이며, 현재는 꽤 잘 작동함</li>\n<li>2024년에 Rust로 진행되던 몇몇 대형 게임 프로젝트들이 중단됨\n<ul>\n<li>소유권(ownership) 제약을 부담스럽게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18648",
+      "guid": "https://news.hada.io/topic?id=18648",
+      "pubDate": "2025-01-09T20:10:53+09:00",
       "author": "neo",
       "category": ""
     }
