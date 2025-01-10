@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-10T19:50:05+09:00",
+  "lastBuildDate": "2025-01-10T21:33:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12246,6 +12246,32 @@
       "guid": "https://news.hada.io/topic?id=18665",
       "pubDate": "2025-01-10T19:36:54+09:00",
       "author": "mnncat",
+      "category": ""
+    },
+    {
+      "title": "WorstFit: Windows ANSI의 숨겨진 Transformers 공개",
+      "description": {
+        "$text": "<h2>WorstFit: Windows ANSI의 숨겨진 변환기 공개</h2>\n<h3>TL;DR</h3>\n<ul>\n<li>Windows의 내부 문자 집합 변환 기능인 <strong>Best-Fit</strong>을 악용하여 새로운 공격 표면을 발견함.</li>\n<li>이 기능을 경로 탐색, 인수 주입, 원격 코드 실행(RCE) 등의 실질적인 공격으로 변환함.</li>\n<li>문제의 근본 원인은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18668",
+      "guid": "https://news.hada.io/topic?id=18668",
+      "pubDate": "2025-01-10T21:33:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미니 PC로 홈서버 운영하기",
+      "description": {
+        "$text": "<h2>홈서버를 운영하게 된 계기</h2>\n<ul>\n<li>초기 셋업: 처음에는 인텔 N100 CPU를 탑재한 미니 PC를 알리에서 구매해 ASUS 공유기를 활용, 포트 포워딩 및 DDNS를 설정하여 홈서버를 운영했습니다.</li>\n<li>운영 중 문제: 예기치 못한 문제로 가끔씩 접속 장애가 발생하면서, TSBOARD 사이트는 안정적은 운영을 위해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18667",
+      "guid": "https://news.hada.io/topic?id=18667",
+      "pubDate": "2025-01-10T21:11:08+09:00",
+      "author": "tsboard",
       "category": ""
     }
   ]
