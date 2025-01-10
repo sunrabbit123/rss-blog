@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-10T09:50:54+09:00",
+  "lastBuildDate": "2025-01-10T11:34:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12155,6 +12155,84 @@
       "guid": "https://news.hada.io/topic?id=18650",
       "pubDate": "2025-01-10T08:41:53+09:00",
       "author": "jic5760",
+      "category": ""
+    },
+    {
+      "title": "과학자들, 수면 중 뇌의 자가 세척 메커니즘 발견",
+      "description": {
+        "$text": "<p>The content provided does not contain any substantial information to summarize.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18663",
+      "guid": "https://news.hada.io/topic?id=18663",
+      "pubDate": "2025-01-10T11:34:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "우분투 리눅스의 선구자 중 한 명인 스티브 랭가섹 별세",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>스티브 랭가섹의 업적과 영향</h2>\n<ul>\n<li>스티브 랭가섹은 오픈 소스 커뮤니티의 중요한 인물로, 2025년 1월 1일에 45세의 나이로 세상을 떠남.</li>\n<li>그의 경력은 1996년 Slackware에서 시작되었으며, 이후 Debian과 Ubuntu Linux에 기여함.</li>\n<li>Debian에서 2001년 공식 개발자가 되었고, Deb...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18661",
+      "guid": "https://news.hada.io/topic?id=18661",
+      "pubDate": "2025-01-10T10:05:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Stagehand는 간단하고 확장 가능한 AI 웹 브라우징 프레임워크로, Playwright와 완벽하게 호환됨\n<ul>\n<li>\n<code>act</code>, <code>extract</code>, <code>observe</code>라는 세 가지 간단한 AI API를 제공하여 자연어를 통해 웹 자동화를 가능하게 함</li>\n<li>비기술 사용자에게도 접근성을 높이고 UI/DOM...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18660",
+      "guid": "https://news.hada.io/topic?id=18660",
+      "pubDate": "2025-01-10T10:02:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SerenityOS의 실제 하드웨어 구현하기, 한번에 하나씩 드라이버 개발 진행",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>SerenityOS를 실제 하드웨어로 가져오기</h2>\n<ul>\n<li>SerenityOS 프로젝트에 더 깊이 관여하기로 결심한 이유는 코드베이스가 QEMU에서만 실행되고 실제 하드웨어에서는 실행되지 않는다는 점이었음. 이를 해결하기 위해 Dell 3100 크롬북을 선택했음.</li>\n</ul>\n</li>\n<li>\n<h2>크롬북 선택 이유</h2>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18659",
+      "guid": "https://news.hada.io/topic?id=18659",
+      "pubDate": "2025-01-10T09:59:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Salesforce는 2025년엔 더 이상 소프트웨어를 고용하지 않을 것",
+      "description": {
+        "$text": "<ul>\n<li>Salesforce의 CEO인 Marc Benioff는 2025년에 소프트웨어 엔지니어를 더 이상 채용하지 않을 것임을 밝힘</li>\n<li>AI로 인한 생산성 향상이 주요 원인으로, 회사의 주력 인공지능 제품인 Agentforce가 &quot;현재 가장 중요한 유일한 것&quot;이라고 말함</li>\n</ul>\n<h2>&quot;30% 생산성 상승&quot;이라는 A...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18658",
+      "guid": "https://news.hada.io/topic?id=18658",
+      "pubDate": "2025-01-10T09:56:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LA 산불로 수천 명 대피, NASA JPL 폐쇄",
+      "description": {
+        "$text": "<h4>로스앤젤레스 산불로 인한 대피 및 NASA JPL 폐쇄</h4>\n<ul>\n<li>로스앤젤레스 카운티에서 여러 대형 산불이 통제 불능 상태로 번지고 있으며, 소방대원들이 사람, 주택, 그리고 중요한 NASA 시설을 보호하기 위해 목숨을 걸고 있음</li>\n<li>약 70,000명이 대피 명령을 받았으며, 강풍이 불어 수천 에이커에 걸쳐 불...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18657",
+      "guid": "https://news.hada.io/topic?id=18657",
+      "pubDate": "2025-01-10T09:53:54+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
