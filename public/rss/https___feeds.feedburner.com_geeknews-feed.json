@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-10T15:52:56+09:00",
+  "lastBuildDate": "2025-01-10T19:50:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12233,6 +12233,19 @@
       "guid": "https://news.hada.io/topic?id=18657",
       "pubDate": "2025-01-10T09:53:54+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gen AI 플랫폼 만들기",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Chip Huyen이 작성한 <a href=\"https://huyenchip.com/2024/07/25/genai-platform.html\">“Building A Generative AI Platform”</a> 의 한글 번역입니다.</p>\n</li>\n<li>\n<p>이 글은 다양한 회사에서 구축하고 있는 생성 AI 플랫폼의 일반적인 공통 구성 요소와 각각의 역할, 그리고 어떻게 구현 되는지 설",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18665",
+      "guid": "https://news.hada.io/topic?id=18665",
+      "pubDate": "2025-01-10T19:36:54+09:00",
+      "author": "mnncat",
       "category": ""
     }
   ]
