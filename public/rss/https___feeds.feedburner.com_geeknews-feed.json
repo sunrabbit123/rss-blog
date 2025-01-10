@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-09T20:20:44+09:00",
+  "lastBuildDate": "2025-01-10T09:50:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12064,6 +12064,97 @@
       "guid": "https://news.hada.io/topic?id=18648",
       "pubDate": "2025-01-09T20:10:53+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Factorio Blueprint 시각화 도구",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Factorio Blueprint Visualizer</strong></p>\n<ul>\n<li>Factorio 게임을 좋아하며, 공장이 성장하거나 청사진을 완벽하게 조정한 후의 모습을 시각화하기 위해 웹사이트를 만듦.</li>\n<li>이 웹사이트를 통해 Factorio 청사진을 텍스트로 가져와 시각화할 수 있음.</li>\n<li>모든 건물과 타일, 연결",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18656",
+      "guid": "https://news.hada.io/topic?id=18656",
+      "pubDate": "2025-01-10T09:50:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LogLayer - 여러 Javascript 로깅 라이브러리 위에서 동작하는 통합 로거",
+      "description": {
+        "$text": "<ul>\n<li>다양한 로깅 라이브러리와 클라우드 제공자로 로그를 라우팅\n<ul>\n<li>로그 메시지, 메타데이터, 오류를 명확하게 지정할 수 있는 API를 제공</li>\n</ul>\n</li>\n<li>개발자가 로그를 작성할 때 적합한 로거를 선택, 사용, 유지하는 어려움을 해결. 더 나은 경험을 제공하고 코드 표준화 및 개선</li>\n<li>일반적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18655",
+      "guid": "https://news.hada.io/topic?id=18655",
+      "pubDate": "2025-01-10T09:50:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Microsoft 365 가격 인상 회피 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Microsoft 365 구독자는 요금이 월 $5 또는 연간 $50 인상된다는 통지를 받을 수 있음.</p>\n<ul>\n<li>실제로 요금이 인상되는 것이 아니라 업셀링이 이루어지고 있음.</li>\n<li>Microsoft 365는 Word, Excel 등의 오피스 소프트웨어와 OneDrive 같은 클라우드 서비스를 포함하는 올인원 서비스임.</li>\n<li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18654",
+      "guid": "https://news.hada.io/topic?id=18654",
+      "pubDate": "2025-01-10T09:47:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PDF 내에서 구현된 테트리스",
+      "description": {
+        "$text": "<ul>\n<li>최신 브라우저용 PDF엔진들(PDFium 과 PDF.js)는 기본 게임을 만들 수준의 Javasrcript를 지원</li>\n<li>양쪽 엔진에서 모두 돌아가는 기능을 찾는게 까다로웠지만 주석 필드를 보이기/감추기 하는 것으로 모노크롬 픽셀을 만들수 있게 됨.</li>\n<li>키보드 입력은 텍스트 인풋 창에 입력하는 것으로 가능</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18653",
+      "guid": "https://news.hada.io/topic?id=18653",
+      "pubDate": "2025-01-10T09:44:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "루이지 망지오네의 계정 이름 변경된 Stack Overflow 계정",
+      "description": {
+        "$text": "<h4>Luigi Mangione의 삭제</h4>\n<ul>\n<li>\n<p><strong>Stack Exchange와 Stack Overflow</strong></p>\n<ul>\n<li>Stack Exchange는 다양한 주제의 질문과 답변을 제공하는 대규모 온라인 플랫폼임.</li>\n<li>2021년, Prosus라는 사모펀드에 18억 달러에 매각되었음.</li>\n<li>Stack Overflow는 프로그래머를 위한 중요한",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18652",
+      "guid": "https://news.hada.io/topic?id=18652",
+      "pubDate": "2025-01-10T09:41:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bolt.diy - 아무 LLM으로 풀스택 앱 만들기",
+      "description": {
+        "$text": "<ul>\n<li>Bolt.new 의 오픈소스 버전</li>\n<li>원하는 LLM을 활용하여 프롬프트로 풀스택 웹 앱을 처음부터 생성\n<ul>\n<li>Vercel AI SDK를 이용하므로 OpenAI, Claude, Gemini, Ollama, xAI, DeepSeek 등을 모두 지원</li>\n</ul>\n</li>\n<li>프롬프트에 이미지 첨부가능</li>\n<li>내장 터미널에서 LLM의 실행 명령 및 결...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18651",
+      "guid": "https://news.hada.io/topic?id=18651",
+      "pubDate": "2025-01-10T09:16:28+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: AI를 사용하여 처음부터 프로젝트를 생성할 수 있는 툴이 있나요?",
+      "description": {
+        "$text": "<p>안녕하세요.</p>\n<p>AI 코딩 어시스턴트는 많은데 일반적으로 기존 코드베이스에서 작업하거나 단일 파일만 수정이 가능합니다.</p>\n<p>그런데 Claude Chat에서 프로젝트를 새롭게 만들어 달라고 말하면 여러 파일(예: 프론트에 필요한 여러 컴포넌트 등)이 artifact로 만들어 지기도 하고,<br />\n수정을 요청하면 또",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18650",
+      "guid": "https://news.hada.io/topic?id=18650",
+      "pubDate": "2025-01-10T08:41:53+09:00",
+      "author": "jic5760",
       "category": ""
     }
   ]
