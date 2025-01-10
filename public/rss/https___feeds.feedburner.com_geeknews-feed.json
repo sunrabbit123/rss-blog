@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-10T22:08:29+09:00",
+  "lastBuildDate": "2025-01-10T23:52:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12285,6 +12285,32 @@
       "guid": "https://news.hada.io/topic?id=18669",
       "pubDate": "2025-01-10T22:08:29+09:00",
       "author": "benjamin",
+      "category": ""
+    },
+    {
+      "title": "CORS는 멍청하다",
+      "description": {
+        "$text": "<h4>1. CORS는 브라우저 설계 결함을 보완하기 위한 임시방편임을 이해하세요.</h4>\n<ul>\n<li>CORS(교차 출처 리소스 공유)는 교차 출처 요청의 암묵적 자격 증명으로 인한 보안 문제를 해결합니다.</li>\n<li>브라우저의 기본 동작은 사용자에게 XSRF 공격에 노출될 위험을 초래합니다.</li>\n<li>CORS는 이러한 문제를 완...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18671",
+      "guid": "https://news.hada.io/topic?id=18671",
+      "pubDate": "2025-01-10T23:52:19+09:00",
+      "author": "ragus",
+      "category": ""
+    },
+    {
+      "title": "Node.js 타입스크립트를 기본으로 지원하기 시작",
+      "description": {
+        "$text": "<ol>\n<li>Node.js 23부터 TypeScript 지원<br />\nNode.js 23에서는 TypeScript 파일을 별도 설정 없이 실행 가능.<br />\nnode index.ts 명령으로 TypeScript 파일 실행 가능.<br />\nSWC를 활용해 타입을 제거한 뒤 실행.</li>\n<li>타입 체크는 별도로 실행 필요<br />\nNode.js는 실행 시 타입 검사를 수행하지 않음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18670",
+      "guid": "https://news.hada.io/topic?id=18670",
+      "pubDate": "2025-01-10T23:44:04+09:00",
+      "author": "ragus",
       "category": ""
     }
   ]
