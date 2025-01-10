@@ -12312,6 +12312,19 @@
       "pubDate": "2025-01-10T23:44:04+09:00",
       "author": "ragus",
       "category": ""
+    },
+    {
+      "title": "Show GN: AI로 요약한 한글 해커 뉴스를 이메일, 슬랙으로 받아보세요 (완전 무료, 광고 없음)",
+      "description": {
+        "$text": "<p>(정말 제가 보려고 만든건데 필요하신 분이 계실까봐 공유드려요)<br />\n해커뉴스 많이 보시나요? 영어에 제목과 링크만 있다보니 여기저기 찾아다니며 보기 힘드셨죠? 번거롭고 귀찮은 걸 제가 무료로 해드려요 👏</p>\n<h2>다음 조건으로 수집된 뉴스</h2>\n<ul>\n<li>해커뉴스(news.ycombinator.com) BEST 50에 신규 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18666",
+      "guid": "https://news.hada.io/topic?id=18666",
+      "pubDate": "2025-01-10T19:50:05+09:00",
+      "author": "leelou2",
+      "category": ""
     }
   ]
 }
