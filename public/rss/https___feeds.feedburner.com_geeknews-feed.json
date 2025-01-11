@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T09:57:56+09:00",
+  "lastBuildDate": "2025-01-11T10:34:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12453,6 +12453,19 @@
       "link": "https://news.hada.io/topic?id=18672",
       "guid": "https://news.hada.io/topic?id=18672",
       "pubDate": "2025-01-11T07:31:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "표준 52장 카드 덱을 사용하는 MTG 유사 게임 Cuttle",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>Cuttle은 1970년대 북미에서 시작된 2인용 전투 카드 게임으로, Magic the Gathering과 유사한 점이 있음. 목표는 21점 이상의 포인트 카드를 모으는 것임.</li>\n<li>Richard Sipie의 FAQ가 2000년에 처음 발행되었으며, 게임의 규칙에 대한 자세한 설명을 제공함.</li>\n</ul>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18682",
+      "guid": "https://news.hada.io/topic?id=18682",
+      "pubDate": "2025-01-11T10:34:16+09:00",
       "author": "neo",
       "category": ""
     }
