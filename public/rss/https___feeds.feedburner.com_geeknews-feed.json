@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T15:33:17+09:00",
+  "lastBuildDate": "2025-01-11T19:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12505,6 +12505,19 @@
       "link": "https://news.hada.io/topic?id=18685",
       "guid": "https://news.hada.io/topic?id=18685",
       "pubDate": "2025-01-11T15:33:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "핀란드의 제로 홈리스 전략 (2021)",
+      "description": {
+        "$text": "<h3>핀란드의 제로 홈리스 전략: 성공 사례에서 배우기</h3>\n<ul>\n<li>\n<p><strong>핀란드의 홈리스 감소</strong>: 핀란드는 지난 30년 동안 홈리스 수를 1989년 16,000명 이상에서 약 4,000명으로 줄였음. 이는 인구의 0.08%에 해당하며, 핀란드가 친구나 친척과 임시로 거주하는 사람도 홈리스로 포함하는 넓은 정의를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18686",
+      "guid": "https://news.hada.io/topic?id=18686",
+      "pubDate": "2025-01-11T19:33:22+09:00",
       "author": "neo",
       "category": ""
     }
