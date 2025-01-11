@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T11:05:55+09:00",
+  "lastBuildDate": "2025-01-11T14:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12480,6 +12480,19 @@
       "guid": "https://news.hada.io/topic?id=18683",
       "pubDate": "2025-01-11T11:05:55+09:00",
       "author": "nemorize",
+      "category": ""
+    },
+    {
+      "title": "OpenTelemetry 작동 성공, 복잡한 이유는?",
+      "description": {
+        "$text": "<h3>OTel?</h3>\n<ul>\n<li>**OpenTelemetry (OTel)**은 관측 가능성 프레임워크 및 도구 모음임.</li>\n<li>기존 도구로는 <strong>Prometheus</strong>(메트릭), <strong>Logstash</strong>(로그), <strong>OpenTracing</strong>(분산 추적)이 있음.</li>\n<li>OTel은 메트릭, 로그, 추적이라는 세 가지 신호를 표준화하고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18684",
+      "guid": "https://news.hada.io/topic?id=18684",
+      "pubDate": "2025-01-11T14:33:24+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
