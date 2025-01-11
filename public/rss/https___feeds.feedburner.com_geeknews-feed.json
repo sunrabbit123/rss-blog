@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-10T23:52:19+09:00",
+  "lastBuildDate": "2025-01-11T09:57:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12324,6 +12324,136 @@
       "guid": "https://news.hada.io/topic?id=18666",
       "pubDate": "2025-01-10T19:50:05+09:00",
       "author": "leelou2",
+      "category": ""
+    },
+    {
+      "title": "캔디 크러시, 틴더, 마이피트니스팔: 위치 추적에 악용된 앱들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>수천 개의 앱이 위치 정보를 수집하는 방법</h2>\n</li>\n<li>\n<p><strong>위치 데이터 수집</strong>: Gravy Analytics라는 위치 데이터 회사의 해킹으로 인해, <em>Candy Crush</em>, Tinder, MyFitnessPal 등 인기 앱들이 사용자 위치 정보를 수집하는 데 사용되고 있음이 드러남. 이 데이터는 광고 생태...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18681",
+      "guid": "https://news.hada.io/topic?id=18681",
+      "pubDate": "2025-01-11T09:57:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테크 방식의 납땜 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Retrotechtacular: Tek 방식의 납땜</h2>\n</li>\n<li>\n<p>많은 사람들에게 납땜은 자연스럽게 느껴지지만, 사실 납땜은 좋은 습관과 오랜 연습의 결과임. Tektronix는 1970년대 후반과 1980년대 초반에 직원들이 고품질의 납땜을 할 수 있도록 심도 있는 교육 비디오를 제작함.</p>\n</li>\n<li>\n<p>첫 번째 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18680",
+      "guid": "https://news.hada.io/topic?id=18680",
+      "pubDate": "2025-01-11T09:54:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQL 널 값의 이상함",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>SQL NULL은 이상함</h2>\n</li>\n<li>\n<p>SQL에서 NULL 값은 독특하게 처리됨. UNIQUE 제약 조건이 있는 열은 여러 NULL 값을 가질 수 있음. 이는 각 NULL 값이 다른 NULL과 다른 독립적인 값으로 간주되기 때문임. SQLite, Postgres, MySQL 모두 동일하게 동작함.</p>\n</li>\n<li>\n<h3>기준 설정</h3>\n<ul>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18679",
+      "guid": "https://news.hada.io/topic?id=18679",
+      "pubDate": "2025-01-11T09:51:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일부 아프리카 국가에서 주요 인터넷 제공업체보다 저렴해진 Starlink",
+      "description": {
+        "$text": "<ul>\n<li>\n<h6>기술 대기업</h6>\n</li>\n<li>\n<h4>Starlink, 일부 아프리카 국가에서 주요 인터넷 제공업체보다 저렴함</h4>\n<ul>\n<li>가나에서는 Starlink가 현지 ISP의 절반 가격임.</li>\n<li>Starlink는 케냐의 기존 인터넷 서비스 제공업체 산업에 변화를 일으킴.</li>\n</ul>\n</li>\n<li>\n<p>Starlink는 2019년 Elon M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18678",
+      "guid": "https://news.hada.io/topic?id=18678",
+      "pubDate": "2025-01-11T09:48:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 ISBN 시각화",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ISBN 시각화</h2>\n<ul>\n<li>Anna's Archive는 인류 역사상 가장 큰 개방형 도서 목록을 제공함.</li>\n<li>각 픽셀은 2,500개의 ISBN을 나타내며, 파일이 있는 경우 픽셀이 녹색으로 표시됨.</li>\n<li>전체 도서의 16%만 백업되어 있으며, 더 많은 작업이 필요함.</li>\n</ul>\n</li>\n<li>\n<h2>배경</h2>\n<ul...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18677",
+      "guid": "https://news.hada.io/topic?id=18677",
+      "pubDate": "2025-01-11T09:45:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메타의 직원들에게 보내는 DEI 프로그램 축소 메모",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Meta의 DEI 프로그램 종료</strong></p>\n<ul>\n<li>Meta는 다양성, 형평성, 포용성(DEI) 프로그램을 즉시 종료함.</li>\n<li>이는 Meta가 트럼프 행정부와의 관계를 강화하려는 움직임의 일환으로, 회사의 경영 관행에 영향을 미칠 것임을 시사함.</li>\n</ul>\n</li>\n<li>\n<p><strong>변경 사항</stro",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18676",
+      "guid": "https://news.hada.io/topic?id=18676",
+      "pubDate": "2025-01-11T09:42:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 슈퍼파워 획득",
+      "description": {
+        "$text": "<ul>\n<li>어제 Reddit를 탐색하던 중, 독일 TV 쇼에서 9세 소녀가 두 개의 유사한 이미지 사이의 차이를 빠르게 식별하는 능력을 시연하는 영상을 발견함</li>\n<li>예를 들어, 수백 개의 커피콩이 테이블에 펼쳐진 두 이미지가 있었는데, 내 눈에는 두 이미지가 똑같아 보였음</li>\n<li>하지만 소녀는 몇 초 만에 왼쪽 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18675",
+      "guid": "https://news.hada.io/topic?id=18675",
+      "pubDate": "2025-01-11T09:39:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GGH - SSH 세션을 Recall하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>SSH 코맨드를 감싸서 기존에 사용했던 세션을 그대로 사용하게(Recall) 해주는 도구</li>\n<li>일반 <code>ssh</code> 를 사용하는 것 처럼 <code>ggh</code>를 사용하면 됨</li>\n<li>인자 없이 실행하면 기존 세션 리스트를 보여주고 선택가능</li>\n<li>\n<code>ggh -</code> 로 실행하면 <code>./ssh/config</c...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18674",
+      "guid": "https://news.hada.io/topic?id=18674",
+      "pubDate": "2025-01-11T09:33:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "CES 2025에서 TV가 실망스러웠던 이유",
+      "description": {
+        "$text": "<h2>TV 업계의 방향성 문제</h2>\n<ul>\n<li>소비자들이 TV에서 진정으로 원하는 개선점보다 기업의 이익을 우선시하는 현상이 두드러짐</li>\n<li>2025년 CES에서 공개된 TV들은 실질적 화질/음질 개선보다 AI와 소프트웨어 기능에 집중하는 경향을 보임</li>\n</ul>\n<h2>LG의 리모컨 퇴보</h2>\n<ul>\n<li>기존 Magic Remote...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18673",
+      "guid": "https://news.hada.io/topic?id=18673",
+      "pubDate": "2025-01-11T07:40:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자율주행, 로봇공학, AI 및 ML, 유인 우주비행에 대한 예측성적표, 2025년 업데이트",
+      "description": {
+        "$text": "<ul>\n<li>MIT 로봇 공학과 교수인 Rodney Brooks가 매년 발행하는 연간 기술 예측 검토 보고서의 7번째 업데이트</li>\n<li>그는 2018년부터 (1) 자율주행차, (2) 로봇공학, AI, 머신러닝, (3) 유인 우주비행에 대한 예측을 매년 검토하기로 자신에게 약속함\n<ul>\n<li>2050년(저자의 95번째 생일)까지 총 32년간 예측에 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18672",
+      "guid": "https://news.hada.io/topic?id=18672",
+      "pubDate": "2025-01-11T07:31:54+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
