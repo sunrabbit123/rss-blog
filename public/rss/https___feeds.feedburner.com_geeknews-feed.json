@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T10:34:16+09:00",
+  "lastBuildDate": "2025-01-11T11:05:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12467,6 +12467,19 @@
       "guid": "https://news.hada.io/topic?id=18682",
       "pubDate": "2025-01-11T10:34:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 블로그의 마지막 빌드 시각을 시드로 하는 로또 번호 생성기",
+      "description": {
+        "$text": "<p>11ty로 작성된 블로그의 마지막 빌드 시각과 로또6/45의 이번 회차 번호를 시드로 하여 결정론적인 조합을 생성합니다.</p>\n<p>100줄이 채 되지 않는 간단한 바닐라 JS와 약간의 HTML, CSS로 만들었습니다.<br />\nhttps://github.com/nemorize/nemorize/blob/main/src/tool/random-lotto-645-generator/index.html...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18683",
+      "guid": "https://news.hada.io/topic?id=18683",
+      "pubDate": "2025-01-11T11:05:55+09:00",
+      "author": "nemorize",
       "category": ""
     }
   ]
