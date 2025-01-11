@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T14:33:24+09:00",
+  "lastBuildDate": "2025-01-11T15:33:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12492,6 +12492,19 @@
       "link": "https://news.hada.io/topic?id=18684",
       "guid": "https://news.hada.io/topic?id=18684",
       "pubDate": "2025-01-11T14:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Datadog의 Quickwit 인수",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>Quickwit, Datadog 합류</h3>\n<ul>\n<li>Quickwit이 Datadog에 합류하게 되었음. 새로운 제품 개발에 집중할 예정이며, 오픈 소스 커뮤니티를 위해 Apache License 2.0으로 Quickwit의 새로운 버전을 곧 출시할 계획임.</li>\n</ul>\n</li>\n<li>\n<h3>우정에서 시작된 기초</h3>\n<ul>\n<li>세 명의 엔지니어, P...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18685",
+      "guid": "https://news.hada.io/topic?id=18685",
+      "pubDate": "2025-01-11T15:33:17+09:00",
       "author": "neo",
       "category": ""
     }
