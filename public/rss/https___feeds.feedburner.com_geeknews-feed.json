@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-12T10:33:08+09:00",
+  "lastBuildDate": "2025-01-12T13:33:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12648,6 +12648,19 @@
       "link": "https://news.hada.io/topic?id=18696",
       "guid": "https://news.hada.io/topic?id=18696",
       "pubDate": "2025-01-12T10:33:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "통화 일정 조율 중단 요청",
+      "description": {
+        "$text": "<ul>\n<li>새로운 서비스나 제품을 시도할 때 가장 큰 장애물 중 하나는 지속적인 마케팅 연락임\n<ul>\n<li>처음에는 친절한 문의로 시작되지만, 점차 고객 성공 엔지니어가 연락을 취하며 경험을 확인함</li>\n<li>사용자가 특정 기능만 필요로 할 때, 이러한 연락은 불필요하게 느껴질 수 있음</li>\n<li>메일링 리스트에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18697",
+      "guid": "https://news.hada.io/topic?id=18697",
+      "pubDate": "2025-01-12T13:33:19+09:00",
       "author": "neo",
       "category": ""
     }
