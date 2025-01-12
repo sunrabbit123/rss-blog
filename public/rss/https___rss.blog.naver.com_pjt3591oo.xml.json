@@ -588,6 +588,15 @@
       "pubDate": "Sun, 12 Jan 2025 11:54:03 +0900",
       "author": "pjt3591oo",
       "category": "멍선생의 EVM"
+    },
+    {
+      "title": "EVM 강좌 2. hardhat를 이용하여 스마트 컨트랙트 개발",
+      "description": "https://youtu.be/eRRIX_F6Xyg",
+      "link": "https://blog.naver.com/pjt3591oo/223723331651?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223723331651",
+      "pubDate": "Sun, 12 Jan 2025 14:04:40 +0900",
+      "author": "pjt3591oo",
+      "category": "멍선생의 EVM"
     }
   ]
 }
