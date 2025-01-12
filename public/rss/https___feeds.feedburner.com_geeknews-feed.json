@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-12T13:33:19+09:00",
+  "lastBuildDate": "2025-01-12T18:05:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12662,6 +12662,19 @@
       "guid": "https://news.hada.io/topic?id=18697",
       "pubDate": "2025-01-12T13:33:19+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "저커버그 \"AI가 2025년에 중급 코딩 엔지니어를 대체할 것\"",
+      "description": {
+        "$text": "<p>2025년까지  인공지능 ( AI ) 가 중간 수준의 엔지니어와 동등한 수준의  코딩  능력을 가질 것이라는  마크 저커버그 의 예측이 담긴 기사입니다.  메타 는  AI  시스템이 점점 더  코딩  작업을 대체 할 것으로 보고 있으며, 이는 인력 수요에 큰 영향을 미칠 수 있습니다.  메타 의  Llama  시리즈는  오픈소스 로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18698",
+      "guid": "https://news.hada.io/topic?id=18698",
+      "pubDate": "2025-01-12T18:05:34+09:00",
+      "author": "jasper1080",
       "category": ""
     }
   ]
