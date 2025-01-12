@@ -579,6 +579,15 @@
       "pubDate": "Sun, 05 Jan 2025 12:43:05 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "EVM 강좌 1. foundry를 이용하여 스마트 컨트랙트 개발",
+      "description": "https://youtu.be/9LDkEugcFS8",
+      "link": "https://blog.naver.com/pjt3591oo/223723243616?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223723243616",
+      "pubDate": "Sun, 12 Jan 2025 11:54:03 +0900",
+      "author": "pjt3591oo",
+      "category": "멍선생의 EVM"
     }
   ]
 }
