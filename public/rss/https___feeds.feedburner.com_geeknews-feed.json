@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-12T09:59:54+09:00",
+  "lastBuildDate": "2025-01-12T10:33:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12635,6 +12635,19 @@
       "link": "https://news.hada.io/topic?id=18687",
       "guid": "https://news.hada.io/topic?id=18687",
       "pubDate": "2025-01-12T08:36:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: TypeScript/React/Vue 창 레이아웃 관리자 (탭, 플로팅, 팝아웃)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>dockview</strong>는 탭, 그룹, 그리드 및 분할 뷰를 지원하는 의존성 없는 레이아웃 관리자임</li>\n<li>React, Vue, Vanilla TypeScript를 지원함</li>\n</ul>\n<h3>특징</h3>\n<ul>\n<li>전체 레이아웃 관리가 가능한 직렬화/역직렬화 기능 제공</li>\n<li>분할 뷰, 그리드 뷰 및 '도킹 가능한' 뷰 지원...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18696",
+      "guid": "https://news.hada.io/topic?id=18696",
+      "pubDate": "2025-01-12T10:33:08+09:00",
       "author": "neo",
       "category": ""
     }
