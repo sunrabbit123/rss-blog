@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-11T19:33:22+09:00",
+  "lastBuildDate": "2025-01-12T09:59:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12518,6 +12518,123 @@
       "link": "https://news.hada.io/topic?id=18686",
       "guid": "https://news.hada.io/topic?id=18686",
       "pubDate": "2025-01-11T19:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "형식적 기법: 단지 좋은 공학 실천인가? (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>Marc Brooker는 AWS에서 데이터베이스와 서버리스 시스템을 다루는 엔지니어로, 소프트웨어 엔지니어링에서 포멀 메소드의 중요성을 강조함.</li>\n</ul>\n</li>\n<li>\n<h2>포멀 메소드의 중요성</h2>\n<ul>\n<li>포멀 메소드는 대규모 시스템, 분산 시스템, 중요한 저수준 시스템에서 시간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18695",
+      "guid": "https://news.hada.io/topic?id=18695",
+      "pubDate": "2025-01-12T09:59:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "매트 뮬렌웨그, 포크 계획 중인 기여자들의 WordPress 계정 비활성화",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>앱</h3>\n<ul>\n<li>Automattic의 CEO이자 WordPress 공동 창립자인 Matt Mullenweg가 WordPress.org 커뮤니티 멤버들의 계정을 비활성화함. 이 중 두 명은 WordPress 프로젝트의 새로운 포크를 계획했다고 함.</li>\n<li>WordPress의 거버넌스에 대한 비판은 새로운 것이 아니며, 최근 WP Engine과의 갈등으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18694",
+      "guid": "https://news.hada.io/topic?id=18694",
+      "pubDate": "2025-01-12T09:56:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마셜 옥스브리지의 De-smarting 기술",
+      "description": {
+        "$text": "<h2>마샬 Uxbridge의 스마트 기능 제거</h2>\n<ul>\n<li>\n<strong>소개</strong>: 이 글은 마샬 Uxbridge 스마트 스피커의 전자 부품을 교체하여 고음질 스테레오 시스템으로 변환한 경험을 다루고 있음. 스마트 기능을 제거하고 아날로그 입력을 추가하여 더 나은 음질을 얻고자 함.</li>\n</ul>\n<h3>Uxbridge 내부</h3>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18693",
+      "guid": "https://news.hada.io/topic?id=18693",
+      "pubDate": "2025-01-12T09:53:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오징어 게임 이전에 있었던 배틀 로얄",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>오징어 게임 이전에 배틀 로얄이 있었음</h2>\n<ul>\n<li>\n<p><strong>오징어 게임</strong>의 두 번째 시즌은 출시 후 일주일도 안 되어 70개국에서 가장 인기 있는 넷플릭스 쇼가 되었음. 이 드라마의 성공은 새로운 시도를 통해 이루어졌으며, 그 기반에는 <strong>배틀 로얄</strong>이라는 '치명적인 게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18692",
+      "guid": "https://news.hada.io/topic?id=18692",
+      "pubDate": "2025-01-12T09:50:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메타 체인-오브-쏘트로 사고하는 방법 학습",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>System 2 추론을 위한 LLMs의 발전</h2>\n<ul>\n<li>Violet Xiang 등 연구진은 Meta Chain-of-Thought (Meta-CoT)라는 새로운 프레임워크를 제안함</li>\n<li>Meta-CoT는 기존의 Chain-of-Thought (CoT)를 확장하여 특정 CoT에 도달하기 위해 필요한 근본적인 추론을 명시적으로 모델링함</li>\n<li>최신 모델...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18691",
+      "guid": "https://news.hada.io/topic?id=18691",
+      "pubDate": "2025-01-12T09:47:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마크 저커버그, 애플을 비난 \"최근에 위대한 발명을 한적이 없어요\"",
+      "description": {
+        "$text": "<ul>\n<li>Joe Jogan 팟캐스트에서 콘텐츠 규제, 트럼프 행정부, 애플의 혁신 부족등에 대한 폭넓은 인터뷰를 진행</li>\n<li>그는 오랜 애플에 대한 비난자였으며, 애플이 최근 몇 년간 &quot;위대한 발명&quot;을 하지 않았다고 주장\n<ul>\n<li>아이폰을 기반으로 &quot;30%의 개발자 수수료&quot;를 부과해, 아이폰 판매...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18690",
+      "guid": "https://news.hada.io/topic?id=18690",
+      "pubDate": "2025-01-12T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Go/TinyGo에서 Apple FindMy 네트워크를 통한 기기 추적 기능",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>go-haystack</strong></p>\n<ul>\n<li>Go Haystack는 Apple의 &quot;Find My&quot; 네트워크를 통해 개인 블루투스 기기를 추적할 수 있게 해주는 도구임.</li>\n<li>OpenHaystack와 Macless-Haystack을 사용하여 Go/TinyGo로 작성된 도구로 맞춤형 FindMy 네트워크를 설정할 수 있음.</li>\n<li>Apple",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18689",
+      "guid": "https://news.hada.io/topic?id=18689",
+      "pubDate": "2025-01-12T09:44:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Makefile 효과 경계령",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Makefile 효과에 대한 인식</h2>\n<ul>\n<li>\n<strong>Makefile 효과</strong>란 복잡하거나 익숙하지 않은 도구를 처음부터 작성하지 않고, 이전에 잘 작동했던 예제를 복사하여 수정하는 현상을 의미함.</li>\n<li>이 효과는 다양한 엔지니어들이 Make와 같은 도구를 사용할 때 자주 나타남.</li>\n<li>과거...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18688",
+      "guid": "https://news.hada.io/topic?id=18688",
+      "pubDate": "2025-01-12T09:41:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "번아웃: 보이지 않는 쓰나미",
+      "description": {
+        "$text": "<ul>\n<li>번아웃은 개인의 문제로 치부되지만, <strong>시스템적 요인</strong>이 더 큰 원인임</li>\n<li>문제의 본질을 해결하지 않고 <strong>겉치레 &quot;해결책&quot;</strong> 으로 꾸미는 관행이 만연\n<ul>\n<li>&quot;모든 게 잘되고 있다&quot;는 <strong>행복한 이야기</strong>가 문제를 덮음</li>\n<li>결과적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18687",
+      "guid": "https://news.hada.io/topic?id=18687",
+      "pubDate": "2025-01-12T08:36:13+09:00",
       "author": "neo",
       "category": ""
     }
