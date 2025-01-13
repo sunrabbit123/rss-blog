@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-12T18:05:34+09:00",
+  "lastBuildDate": "2025-01-13T10:03:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12675,6 +12675,136 @@
       "guid": "https://news.hada.io/topic?id=18698",
       "pubDate": "2025-01-12T18:05:34+09:00",
       "author": "jasper1080",
+      "category": ""
+    },
+    {
+      "title": "Uv의 킬러 기능은 즉석(ad-hoc) 환경을 쉽게 만드는 것",
+      "description": {
+        "$text": "<ul>\n<li>성능이나 Python과의 호환성은 uv의 차별점이 아님. uv는 PEPs를 준수하며, Python의 패키지 관리자로서 추천할 만함. 그러나 가장 놀라운 기능은 따로 있음.</li>\n<li>Python 3.12에서 ad-hoc 스크립팅을 할 때, 종종 Pandas와 같은 의존성을 추가해야 할 때가 있음. 일반적인 방법은 다음과 같음:\n<ul>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18711",
+      "guid": "https://news.hada.io/topic?id=18711",
+      "pubDate": "2025-01-13T10:03:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테슬라의 FSD v13은 생애에서 가장 놀라운 경험중 하나",
+      "description": {
+        "$text": "<ul>\n<li>투자 유튜버인 Amit Kukreja의 FSD 경험담</li>\n<li>본인의 Tesla Model Y를 이용해 40분간 Jersey City로 이동하며 FSD v13을 사용함</li>\n<li>고속도로, 복잡한 교차로, 주거 지역, NJ 턴파이크 등 다양한 도로 환경에서 &quot;단 한 번의 개입 없이&quot; 주행 완료</li>\n<li>차선 변경, 사람을 기다린 후 도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18710",
+      "guid": "https://news.hada.io/topic?id=18710",
+      "pubDate": "2025-01-13T10:02:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "백도어를 통한 백도어 침입 – 또 다른 $20 도메인, 더 많은 정부들",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>백도어를 백도어링하기 - 또 다른 $20 도메인, 더 많은 정부</strong></p>\n<ul>\n<li>2024년, .MOBI 도메인 소유권 검증을 우회하여 유효한 TLS/SSL 인증서를 발급할 수 있었던 연구를 통해 인터넷 전반에 큰 변화를 일으켰음</li>\n<li>이번에는 만료되거나 버려진 인프라를 활용하여 수천 개의 시스",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18709",
+      "guid": "https://news.hada.io/topic?id=18709",
+      "pubDate": "2025-01-13T10:00:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아론 스워츠와 샘 알트만",
+      "description": {
+        "$text": "<ul>\n<li>Aaron Swartz는 지식의 자유로운 공유를 위해 노력한 인물로, RSS, Creative Commons 등 다양한 프로젝트에 기여했음.</li>\n<li>Markdown의 공동 개발자로, John Gruber와 함께 Markdown의 형식 구문에 대한 피드백을 제공했으며, html2text 변환기를 작성했음.</li>\n<li>그의 노력은 기술 산업의 비윤리성을 명...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18708",
+      "guid": "https://news.hada.io/topic?id=18708",
+      "pubDate": "2025-01-13T09:57:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 Common Lisp을 선택한 이유",
+      "description": {
+        "$text": "<h2>굿바이, Clojure</h2>\n<ul>\n<li>약 7년간 Clojure를 사용해 왔으나 CLI 앱의 &quot;느린 시작 속도&quot; 문제 때문에 더 이상 만족스럽지 않았음</li>\n<li>babashka 같은 프로젝트가 있었지만 GraalVM의 native-image 등으로도 느린 시작 속도를 해결하기 어려웠음</li>\n<li>&quot;단독 실행 파일의 빠른 시작 속도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18706",
+      "guid": "https://news.hada.io/topic?id=18706",
+      "pubDate": "2025-01-13T09:51:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Vim에서 검색하는 6,500개의 정규 표현식으로 구성된 Bad Apple",
+      "description": {
+        "$text": "<h3>Bad Apple을 vim에서 재생하기</h3>\n<ul>\n<li>\n<p><strong>Bad Apple이란?</strong></p>\n<ul>\n<li>Bad Apple은 시각적으로 매력적인 뮤직 비디오로, 다양한 곳에 삽입되어 밈으로 사용됨.</li>\n<li>스마트 냉장고에서 DOOM을 실행하는 것과 비슷한 밈으로 인식됨.</li>\n</ul>\n</li>\n<li>\n<p><strong>프레임 얻기</st",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18704",
+      "guid": "https://news.hada.io/topic?id=18704",
+      "pubDate": "2025-01-13T09:48:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nvidia, 새로운 키노트의 제왕",
+      "description": {
+        "$text": "<ul>\n<li>Nvidia의 CEO 젠슨 황은 &quot;CES 2025 키노트&quot;에서 흥미로운 발표를 진행함:\n<ul>\n<li>RTX 50 시리즈: 최고 $1,999에 이르는 새로운 게이밍 GPU 라인업</li>\n<li>Project Digits: $3,000 상당의 개인 AI 슈퍼컴퓨터</li>\n</ul>\n</li>\n<li>6,000명 이상의 청중이 참석한 만달레이 베이 아레나에서 발표\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18703",
+      "guid": "https://news.hada.io/topic?id=18703",
+      "pubDate": "2025-01-13T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "박사 학위에 대한 일러스트 가이드",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>매년 가을, 새로운 박사 과정 학생들에게 박사가 무엇인지 설명함. 이를 설명하기 위해 그림을 사용함.</p>\n</li>\n<li>\n<p>인간 지식의 모든 것을 포함하는 원을 상상함. 초등학교를 마치면 조금 알게 되고, 고등학교를 마치면 더 많이 알게 됨. 학사 학위를 받으면 전문 분야를 얻게 되고, 석사 학위는 그",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18702",
+      "guid": "https://news.hada.io/topic?id=18702",
+      "pubDate": "2025-01-13T09:45:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kenney.nl: 무료 게임 에셋",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>게임 자산 무료 제공</strong></p>\n<ul>\n<li>커뮤니티의 기부 덕분에 게임 자산이 무료로 제공됨</li>\n<li>기부를 고려할 수 있음</li>\n</ul>\n</li>\n<li>\n<p><strong>Kenney Club</strong></p>\n<ul>\n<li>클럽에 가입하면 게임 자산 제작을 지원하고, 새로운 창작물에 대한 조기 접근, 클럽 채널 입",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18701",
+      "guid": "https://news.hada.io/topic?id=18701",
+      "pubDate": "2025-01-13T09:42:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "C 언어가 해야 할 명백한 사항들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>C의 명백한 개선점</h2>\n<ul>\n<li>\n<strong>C23 표준</strong>: C 언어는 정기적으로 개선되며 현재 C23에 이르렀음. 그러나 여전히 해결되지 않은 문제들이 존재함.</li>\n<li>\n<strong>Dlang 커뮤니티의 노력</strong>: D 프로그래밍 언어 컴파일러에 C 컴파일러(ImportC)를 내장하여 이러한 문제를 해결...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18700",
+      "guid": "https://news.hada.io/topic?id=18700",
+      "pubDate": "2025-01-13T08:34:22+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
