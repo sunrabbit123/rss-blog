@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-13T10:03:52+09:00",
+  "lastBuildDate": "2025-01-13T11:12:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12805,6 +12805,32 @@
       "guid": "https://news.hada.io/topic?id=18700",
       "pubDate": "2025-01-13T08:34:22+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "a16z의 2025 기술분야 빅 아이디어들",
+      "description": {
+        "$text": "<ul>\n<li>a16z가 예상한 2025년의 큼직한 아이디어들</li>\n<li>구성원별로 의견을 낸 것을 정리한 글이라 해석 및 신뢰도에 있어서는 주의 필요</li>\n<li>하지만 현재 바이오+헬스, 컨슈머 기술, 크립토, 엔터프라이즈+핀테크, 게임, 성장단계 기술, 인프라 분야등에서 현재 상황 및 다양한 아이디어를 얻을 수 있음</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18713",
+      "guid": "https://news.hada.io/topic?id=18713",
+      "pubDate": "2025-01-13T11:12:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가: 불편한 진실",
+      "description": {
+        "$text": "<ul>\n<li>GenAI(LLM)는 코드를 자동 생성하고 보조하는 기능으로 개발자들의 생산성을 높이고 있음</li>\n<li>과거부터 “코딩이 필요 없는 툴”들이 있었지만, 결국 실제 소프트웨어 엔지니어링 과정에는 여전히 고유한 복잡도가 존재함</li>\n<li>ChatGPT 출시 이후 AI 도구의 빠른 발전 속도가 눈에 띄지만, 모든 과정을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18712",
+      "guid": "https://news.hada.io/topic?id=18712",
+      "pubDate": "2025-01-13T10:44:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
