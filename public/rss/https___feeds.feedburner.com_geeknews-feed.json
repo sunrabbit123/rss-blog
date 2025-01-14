@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T08:33:14+09:00",
+  "lastBuildDate": "2025-01-14T11:26:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12869,6 +12869,123 @@
       "link": "https://news.hada.io/topic?id=18718",
       "guid": "https://news.hada.io/topic?id=18718",
       "pubDate": "2025-01-14T08:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트 - 기회, 도전 과제, 그리고 일상에 미치는 영향",
+      "description": {
+        "$text": "<ul>\n<li>&quot;AI 에이전트&quot;는 최근 18개월 동안 기술 실험에서 주류로 급격히 발전했으며, 초기 사용자들은 비용 절감, 시간 단축, 생산성 향상 등의 놀라운 결과를 보고함</li>\n<li>이러한 혁신은 복잡한 작업 자동화의 근본적인 변화를 제공하지만, 여전히 한계와 도전 과제, 해결되지 않은 질문들이 존재</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18727",
+      "guid": "https://news.hada.io/topic?id=18727",
+      "pubDate": "2025-01-14T11:26:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 봇이 작은 회사 웹사이트를 'DDoS 공격'처럼 마비시켜",
+      "description": {
+        "$text": "<ul>\n<li>Triplegangers는 7명의 직원이 운영하는 소규모 기업으로, &quot;인간 디지털 더블&quot; 데이터베이스를 판매함\n<ul>\n<li>3D 이미지 파일과 사진을 3D 아티스트, 비디오 게임 제작자 등에게 제공</li>\n</ul>\n</li>\n<li>문제 발생: OpenAI의 봇이 600개 이상의 IP를 사용하여 웹사이트를 과도하게 크롤링하면서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18726",
+      "guid": "https://news.hada.io/topic?id=18726",
+      "pubDate": "2025-01-14T10:11:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "18년간 리눅스 콘솔을 사용했고, 후회하지 않음",
+      "description": {
+        "$text": "<h2>Linux를 처음 만나다</h2>\n<ul>\n<li>첫 컴퓨터를 받은 후 프로그래머인 친구로부터 Linux라는 운영체제에 대해 들음</li>\n<li>인터넷 접근이 제한적이었던 2000년대 초, 학교에서 56kbps 모뎀으로 1~2주에 몇 시간씩 인터넷을 사용함</li>\n<li>Windows XP를 사용하며 게임을 즐기고 Pascal 프로그래밍을 배움</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18725",
+      "guid": "https://news.hada.io/topic?id=18725",
+      "pubDate": "2025-01-14T09:57:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "KAG - Knowledge Graph RAG Framework",
+      "description": {
+        "$text": "<ul>\n<li>OpenSPG엔진과 LLM을 기반으로 한 논리적 형식 안내(form-guided) 추론 및 Q&amp;A 프레임워크\n<ul>\n<li>버티컬한 도메인 지식 기반에 대해 논리적 추론 및 Q&amp;A 솔루션을 구축하기 위해 설계됨</li>\n</ul>\n</li>\n<li>기존 RAG의 한계 극복:\n<ul>\n<li>전통적인 RAG의 벡터 유사도 계산의 모호성</li>\n<li>Op...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18724",
+      "guid": "https://news.hada.io/topic?id=18724",
+      "pubDate": "2025-01-14T09:55:15+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: PDF로 구현된 Doom (1993)",
+      "description": {
+        "$text": "HN 공개: PDF로 구현된 Doom (1993)",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18723",
+      "guid": "https://news.hada.io/topic?id=18723",
+      "pubDate": "2025-01-14T09:50:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HardBreak - 초보자를 위한 튜토리얼을 포함한 오픈소스 하드웨어 해킹 위키",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>HardBreak는 하드웨어 해킹 및 IoT 해킹에 대한 지식을 한 곳에 모으기 위한 오픈 소스 위키</p>\n</li>\n<li>\n<p>여러 블로그에서 정보를 찾는 번거로움을 줄이고자 함</p>\n</li>\n<li>\n<p>Discord 서버를 통해 하드웨어 해킹 및 IoT 보안에 대해 논의하고 프로젝트를 공유할 수 있는 커뮤니티 제공</p>\n</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18722",
+      "guid": "https://news.hada.io/topic?id=18722",
+      "pubDate": "2025-01-14T09:47:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "디버깅: 가장 찾기 어려운 문제까지 해결하는 필수 규칙 (2004)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>데이비드 A. 휠러의 리뷰</strong></p>\n<ul>\n<li>데이비드 J. 아간스의 &quot;Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems&quot;는 소프트웨어 및 하드웨어 개발자를 위한 필수적인 디버깅 책으로 평가됨.</li>\n<li>이 책은 특정 기술",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18721",
+      "guid": "https://news.hada.io/topic?id=18721",
+      "pubDate": "2025-01-14T09:44:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Wokeness의 기원",
+      "description": {
+        "$text": "<ul>\n<li>‘Prig’이라는 개념에 주목할 필요가 있음\n<ul>\n<li>자기 의가 넘치고, 도덕적 우월감을 과시하며 규칙 위반자를 공격하는 유형을 의미함</li>\n</ul>\n</li>\n<li>‘Wokeness’는 오래된 현상의 또 다른 형태임\n<ul>\n<li>역사적으로 시대마다 달랐던 이 규칙과 도덕적 집착의 흐름을 현대 사회에선 ‘Social Jus...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18720",
+      "guid": "https://news.hada.io/topic?id=18720",
+      "pubDate": "2025-01-14T09:41:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "위기에 처한 WordPress",
+      "description": {
+        "$text": "<ul>\n<li>지난 11월 이후 WordPress 관련 상황이 많이 바뀌었음\n<ul>\n<li>Matt Mullenweg는 한동안 조용했지만, 그의 회사는 WP Engine에서 벗어난 워드프레스 기반 웹사이트를 추적하는 사이트인 WP Engine 트래커를 출시</li>\n<li>다소 무례하다고 생각하지만, 현재 상황을 고려하면 공정한 마케팅으로 보임</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18719",
+      "guid": "https://news.hada.io/topic?id=18719",
+      "pubDate": "2025-01-14T09:38:48+09:00",
       "author": "neo",
       "category": ""
     }
