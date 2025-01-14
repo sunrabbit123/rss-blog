@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T00:18:48+09:00",
+  "lastBuildDate": "2025-01-14T08:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12856,6 +12856,19 @@
       "link": "https://news.hada.io/topic?id=18716",
       "guid": "https://news.hada.io/topic?id=18716",
       "pubDate": "2025-01-13T23:33:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "루트 액세스 권리",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>루트 접근 권리</h2>\n<ul>\n<li>2025년, 소비자는 자신이 소유한 모든 컴퓨팅 장치에 원하는 소프트웨어를 설치할 권리가 있어야 함.</li>\n<li>이 권리는 PC와 노트북 같은 전통적인 컴퓨팅 장치뿐만 아니라 모바일 폰, 스마트 홈 기기, 산업 장비에도 적용되어야 함.</li>\n<li>현재 많은 장치가 부트로더 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18718",
+      "guid": "https://news.hada.io/topic?id=18718",
+      "pubDate": "2025-01-14T08:33:14+09:00",
       "author": "neo",
       "category": ""
     }
