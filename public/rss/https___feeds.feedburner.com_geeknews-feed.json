@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T20:34:20+09:00",
+  "lastBuildDate": "2025-01-14T21:34:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13038,6 +13038,19 @@
       "link": "https://news.hada.io/topic?id=18731",
       "guid": "https://news.hada.io/topic?id=18731",
       "pubDate": "2025-01-14T20:34:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유체 시뮬레이션 펜던트",
+      "description": {
+        "$text": "<h2>유체 시뮬레이션 펜던트</h2>\n<h3>소개</h3>\n<ul>\n<li>유체 시뮬레이션 펜던트는 실시간 FLIP 유체 시뮬레이션을 실행하는 수제 보석임.</li>\n<li>금 도금된 외관과 시계 유리로 보호된 디스플레이를 가짐.</li>\n<li>초기 디자인과 동기는 유튜브 비디오에서 설명됨.</li>\n<li>이 프로젝트는 여러 다른 프로젝트로 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18732",
+      "guid": "https://news.hada.io/topic?id=18732",
+      "pubDate": "2025-01-14T21:34:37+09:00",
       "author": "neo",
       "category": ""
     }
