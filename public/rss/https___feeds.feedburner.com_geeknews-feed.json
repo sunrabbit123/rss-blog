@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T16:38:29+09:00",
+  "lastBuildDate": "2025-01-14T20:34:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13025,6 +13025,19 @@
       "link": "https://news.hada.io/topic?id=18729",
       "guid": "https://news.hada.io/topic?id=18729",
       "pubDate": "2025-01-14T16:35:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Snyk 보안 연구원, cursor.com을 겨냥한 악성 NPM 패키지 배포",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Snyk 보안 연구원의 악성 NPM 패키지 배포</strong></p>\n<ul>\n<li>매일 아침, 필자는 전날 밤에 탐지된 악성 패키지를 확인함. 이는 마치 어부가 그물에 잡힌 물고기를 확인하는 것과 같음.</li>\n<li>최근 Snyk의 한 사용자가 Cursor.com을 대상으로 하는 여러 패키지를 NPM에 배포한 것을 발견함.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18731",
+      "guid": "https://news.hada.io/topic?id=18731",
+      "pubDate": "2025-01-14T20:34:20+09:00",
       "author": "neo",
       "category": ""
     }
