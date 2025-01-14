@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T14:38:23+09:00",
+  "lastBuildDate": "2025-01-14T16:38:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13000,6 +13000,32 @@
       "guid": "https://news.hada.io/topic?id=18728",
       "pubDate": "2025-01-14T14:38:23+09:00",
       "author": "rtyu1120",
+      "category": ""
+    },
+    {
+      "title": "AI 엔지니어 독서 목록",
+      "description": {
+        "$text": "<h2>2025 AI 엔지니어 독서 목록</h2>\n<ul>\n<li>AI 엔지니어를 위한 50개의 논문, 모델, 블로그를 10개의 분야로 나누어 선정함. LLMs, 벤치마크, 프롬프팅, RAG, 에이전트, 코드 생성, 비전, 음성, 확산, 파인튜닝 분야를 포함함.</li>\n</ul>\n<h3>섹션 1: 최전선 LLMs</h3>\n<ul>\n<li>\n<strong>GPT 시리즈 논문</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18730",
+      "guid": "https://news.hada.io/topic?id=18730",
+      "pubDate": "2025-01-14T16:38:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "앱 업데이트 논란 후 사임한 Sonos CEO",
+      "description": {
+        "$text": "앱 업데이트 논란 후 사임한 Sonos CEO",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18729",
+      "guid": "https://news.hada.io/topic?id=18729",
+      "pubDate": "2025-01-14T16:35:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
