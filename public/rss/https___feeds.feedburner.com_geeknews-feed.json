@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-14T11:26:01+09:00",
+  "lastBuildDate": "2025-01-14T14:38:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -12987,6 +12987,19 @@
       "guid": "https://news.hada.io/topic?id=18719",
       "pubDate": "2025-01-14T09:38:48+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Frontend Fundamentals",
+      "description": {
+        "$text": "<p>토스 프론트엔드 챕터에서 생각하는 좋은 프론트엔드 코드의 기준에 대해서 소개하는 사이트를 게시했습니다.</p>\n<ul>\n<li>프론트엔드 개발자들이 주로 사용하는 TypeScript를 기반으로 설명</li>\n<li>가독성/예측 가능성/응집도/결합도의 4가지 관점에서 best practice를 제시함</li>\n<li>실제 프론트엔드에서 자주",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18728",
+      "guid": "https://news.hada.io/topic?id=18728",
+      "pubDate": "2025-01-14T14:38:23+09:00",
+      "author": "rtyu1120",
       "category": ""
     }
   ]
