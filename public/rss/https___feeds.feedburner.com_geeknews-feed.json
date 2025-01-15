@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-15T12:33:28+09:00",
+  "lastBuildDate": "2025-01-15T23:04:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13221,6 +13221,19 @@
       "guid": "https://news.hada.io/topic?id=18745",
       "pubDate": "2025-01-15T12:33:28+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 프로그래매틱 광고 생태계 시뮬레이터 (TypeScript)",
+      "description": {
+        "$text": "<p>주말 동안 프로그래매틱 광고에 대해 공부하면서, 이 복잡한 생태계를 이해하기 쉽도록 TypeScript 프로젝트를 제작하였습니다.</p>\n<p>광고 기술(Ad Tech) 생태계의 각 구성 요소들이 어떻게 상호작용하는지 실제 동작하는 코드로 구현해보았습니다.</p>\n<p>광고 업계 전문가는 아니지만, 개발자 관점에서 이해한 내",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18746",
+      "guid": "https://news.hada.io/topic?id=18746",
+      "pubDate": "2025-01-15T23:04:42+09:00",
+      "author": "mansukim1125",
       "category": ""
     }
   ]
