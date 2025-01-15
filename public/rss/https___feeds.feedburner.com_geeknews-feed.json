@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-15T10:41:02+09:00",
+  "lastBuildDate": "2025-01-15T11:05:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13195,6 +13195,19 @@
       "guid": "https://news.hada.io/topic?id=18739",
       "pubDate": "2025-01-15T09:49:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트 시장 지도",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트 관련 138개의 기업을 Agent Orchestration 과 Application 으로 크게 분류하고 서브 카테고리에 배치</li>\n</ul>\n<h2>[AGENT ORCHESTRATION]</h2>\n<h3>개발 플랫폼</h3>\n<ul>\n<li>\n<p><strong>No/Low-Code 플랫폼</strong><br />\nAutoComputer, Autotab, Basepilot, Brainbase, Epsilla, Extend, G...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18744",
+      "guid": "https://news.hada.io/topic?id=18744",
+      "pubDate": "2025-01-15T11:05:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
