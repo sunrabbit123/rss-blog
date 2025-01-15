@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-15T11:05:02+09:00",
+  "lastBuildDate": "2025-01-15T12:33:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13208,6 +13208,19 @@
       "guid": "https://news.hada.io/topic?id=18744",
       "pubDate": "2025-01-15T11:05:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "예제로 배우는 FFmpeg",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>FFmpeg By Example</strong>는 FFmpeg의 다양한 사용 방법을 보여주는 문서 사이트임\n<ul>\n<li>커뮤니티와 공유할 멋진 아이디어가 있다면 기여 가능</li>\n</ul>\n</li>\n</ul>\n<h2>텍스트 파일을 STDOUT로 출력하기</h2>\n<ul>\n<li>ffmpeg 명령어를 사용하여 텍스트 파일을 STDOUT로 출력하는 방법을 설...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18745",
+      "guid": "https://news.hada.io/topic?id=18745",
+      "pubDate": "2025-01-15T12:33:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
