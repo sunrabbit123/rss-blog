@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-15T09:46:29+09:00",
+  "lastBuildDate": "2025-01-15T10:41:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13130,6 +13130,71 @@
       "guid": "https://news.hada.io/topic?id=18734",
       "pubDate": "2025-01-15T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 튜토리얼 작성 규칙",
+      "description": {
+        "$text": "<ul>\n<li>대부분의 소프트웨어 튜토리얼은 중요한 세부사항을 빠뜨리거나 독자의 기대에 맞지 않는 숨겨진 가정을 포함하여 독자가 과정을 재현할 수 없게 만듦</li>\n<li>간단한 몇 가지 규칙을 따르면 탁월한 튜토리얼을 작성하는 것이 생각보다 쉬움</li>\n</ul>\n<h2>규칙</h2>\n<ol>\n<li>초보자를 위한 글쓰기</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18743",
+      "guid": "https://news.hada.io/topic?id=18743",
+      "pubDate": "2025-01-15T10:41:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "GitHub Git 운영 중단",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>사건 보고</h3>\n<ul>\n<li>2025년 1월 13일 23:35 UTC부터 00:24 UTC까지 GitHub의 모든 Git 작업이 불가능했음</li>\n<li>내부 로드 밸런서의 요청 드롭으로 인해 발생한 구성 변경이 원인이었음</li>\n<li>구성 변경을 롤백하여 문제를 해결했음</li>\n<li>향후 유사한 문제를 자동으로 완화하기 위해 모니터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18742",
+      "guid": "https://news.hada.io/topic?id=18742",
+      "pubDate": "2025-01-15T09:58:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ZFS raidz 확장 기능을 포함한 ZFS 2.3 출시",
+      "description": {
+        "$text": "<h2>OpenZFS 2.3.0 릴리스</h2>\n<ul>\n<li>\n<p><strong>주요 기능</strong></p>\n<ul>\n<li>\n<strong>RAIDZ 확장</strong>: 기존 RAIDZ 풀에 새로운 장치를 추가하여 저장 용량을 증가시킬 수 있음.</li>\n<li>\n<strong>빠른 중복 제거</strong>: OpenZFS 중복 제거 기능의 성능이 크게 향상됨.</li>\n<li>\n<strong>직접 IO...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18741",
+      "guid": "https://news.hada.io/topic?id=18741",
+      "pubDate": "2025-01-15T09:55:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "온라인 구인 공고 5개 중 1개는 가짜이거나 채워지지 않는다는 연구 결과",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>1/5의 온라인 구인 공고는 가짜이거나 채워지지 않음</h3>\n<ul>\n<li>최근 연구에 따르면, 온라인 구인 공고의 약 18%에서 22%가 가짜이거나 채워지지 않는 것으로 나타남.</li>\n<li>이러한 데이터는 Greenhouse라는 채용 플랫폼의 내부 데이터에서 수집되었으며, 이 플랫폼은 자동화 소프트웨어를 통해 구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18740",
+      "guid": "https://news.hada.io/topic?id=18740",
+      "pubDate": "2025-01-15T09:52:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google OAuth 로그인은 실패한 스타트업 도메인을 사버리는 경우 보호 불가능",
+      "description": {
+        "$text": "<ul>\n<li>Google OAuth의 보안 결함으로 &quot;Sign in with Google&quot; 인증 과정에 심각한 취약점이 있음\n<ul>\n<li>실패한 스타트업의 도메인을 구매한 후, 해당 도메인 이메일 계정을 재구성해 SaaS 서비스에 로그인 가능</li>\n<li>민감한 데이터가 포함된 서비스 접근 가능:\n<ul>\n<li>\n<strong>Slack</strong>, <s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18739",
+      "guid": "https://news.hada.io/topic?id=18739",
+      "pubDate": "2025-01-15T09:49:30+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
