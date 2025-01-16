@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-16T13:39:20+09:00",
+  "lastBuildDate": "2025-01-16T15:20:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13390,6 +13390,19 @@
       "guid": "https://news.hada.io/topic?id=18757",
       "pubDate": "2025-01-16T13:36:19+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: React Native CodePush Alternative- HotUpdater",
+      "description": {
+        "$text": "<p>Docs: https://gronxb.github.io/hot-updater/</p>\n<p>CodePush의 대체제로 개발 된 React Native Self-Hosted OTA 라이브러리입니다.</p>\n<ul>\n<li>Support New Arch</li>\n<li>Plugin System</li>\n<li>Deploy</li>\n<li>Console (Rollback / Force Update)</li>\n</ul>\n<p>현재는 supabase를 대표적으로 지원하지만, 플",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18759",
+      "guid": "https://news.hada.io/topic?id=18759",
+      "pubDate": "2025-01-16T15:20:36+09:00",
+      "author": "gronxb",
       "category": ""
     }
   ]
