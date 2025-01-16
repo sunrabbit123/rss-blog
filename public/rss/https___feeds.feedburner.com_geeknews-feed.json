@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-16T15:20:36+09:00",
+  "lastBuildDate": "2025-01-16T21:34:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13403,6 +13403,19 @@
       "guid": "https://news.hada.io/topic?id=18759",
       "pubDate": "2025-01-16T15:20:36+09:00",
       "author": "gronxb",
+      "category": ""
+    },
+    {
+      "title": "스웨덴, 학교에 더 많은 책과 손글씨 연습 도입 (2023)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>스웨덴의 교육 변화</h2>\n<ul>\n<li>스웨덴은 최근 학교에서 전통적인 학습 방법으로 돌아가고 있음. 이는 디지털화된 교육 방식이 기본 학습 능력 저하를 초래했다는 비판에 대한 대응임.</li>\n<li>스웨덴 교육부 장관 로타 에드홀름은 학생들이 더 많은 교과서를 필요로 한다고 강조하며, 유치원에서 디지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18760",
+      "guid": "https://news.hada.io/topic?id=18760",
+      "pubDate": "2025-01-16T21:34:50+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
