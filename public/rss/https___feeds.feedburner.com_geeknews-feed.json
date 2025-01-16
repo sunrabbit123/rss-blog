@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-16T10:01:37+09:00",
+  "lastBuildDate": "2025-01-16T13:39:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13363,6 +13363,32 @@
       "link": "https://news.hada.io/topic?id=18747",
       "guid": "https://news.hada.io/topic?id=18747",
       "pubDate": "2025-01-16T08:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "힌덴버그 리서치 해체 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>개인적인 메시지</h3>\n<ul>\n<li>2025년 1월 15일, Hindenburg Research의 창립자가 회사를 해체하기로 결정했음을 발표함.</li>\n<li>창립자는 이 결정을 기쁨의 마음으로 내렸으며, 회사를 세우는 것이 평생의 꿈이었음을 밝힘.</li>\n<li>전통적인 금융 배경이 없었지만, 열정과 지원을 통해 회사를 성장시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18758",
+      "guid": "https://news.hada.io/topic?id=18758",
+      "pubDate": "2025-01-16T13:39:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "관심 받지 못하는 상황",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>아무도 신경 쓰지 않음</h2>\n<ul>\n<li>세상에는 조금만 더 노력하면 훌륭해질 수 있는 것들이 많지만, 사람들은 신경 쓰지 않음.</li>\n<li>DMV나 버그가 많은 소프트웨어처럼, 많은 것들이 개선될 수 있지만, 관련된 사람들은 신경 쓰지 않음.</li>\n</ul>\n</li>\n<li>\n<h2>무관심의 예시</h2>\n<ul>\n<li>자전...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18757",
+      "guid": "https://news.hada.io/topic?id=18757",
+      "pubDate": "2025-01-16T13:36:19+09:00",
       "author": "neo",
       "category": ""
     }
