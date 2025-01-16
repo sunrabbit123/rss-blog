@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-16T21:34:50+09:00",
+  "lastBuildDate": "2025-01-16T22:34:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13415,6 +13415,19 @@
       "link": "https://news.hada.io/topic?id=18760",
       "guid": "https://news.hada.io/topic?id=18760",
       "pubDate": "2025-01-16T21:34:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이스라엘과 하마스, 15개월간의 가자 전쟁 종식을 위한 휴전 합의",
+      "description": {
+        "$text": "이스라엘과 하마스, 15개월간의 가자 전쟁 종식을 위한 휴전 합의",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18761",
+      "guid": "https://news.hada.io/topic?id=18761",
+      "pubDate": "2025-01-16T22:34:12+09:00",
       "author": "neo",
       "category": ""
     }
