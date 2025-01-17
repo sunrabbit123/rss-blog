@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-17T13:43:51+09:00",
+  "lastBuildDate": "2025-01-17T15:42:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13572,6 +13572,32 @@
       "guid": "https://news.hada.io/topic?id=18773",
       "pubDate": "2025-01-17T11:11:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "NextUI, HeroUI로 명칭 변경",
+      "description": {
+        "$text": "<p>NextUI 프로젝트는 웹 사이트에 UI를 제공하는 라이브러리입니다. 프로젝트 시작 당시 NextJS의 기능을 완전히 지원하는 데 목적을 두었지만, 이제는 NextJS 뿐 아니라 Astro, Remix, Vite, Laravel까지 지원함에 따라 HeroUI라는 명칭을 변경했습니다. 현재 React Native 지원을 목표로 하고 있습니다.</p>\n<h2>기존",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18776",
+      "guid": "https://news.hada.io/topic?id=18776",
+      "pubDate": "2025-01-17T15:42:38+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "스타십 7호 비행",
+      "description": {
+        "$text": "<p>요청이 차단되어 내용을 요약할 수 없음.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18775",
+      "guid": "https://news.hada.io/topic?id=18775",
+      "pubDate": "2025-01-17T15:34:27+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
