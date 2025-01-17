@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-17T10:19:58+09:00",
+  "lastBuildDate": "2025-01-17T11:11:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13559,6 +13559,19 @@
       "guid": "https://news.hada.io/topic?id=18763",
       "pubDate": "2025-01-17T09:43:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google, Gmail/Docs에 AI를 무료로 제공하면서 Workspace의 가격을 인상",
+      "description": {
+        "$text": "<ul>\n<li>Google은 Gmail, Docs, Sheets, Meet 등 Workspace 앱의 &quot;AI 기능을 모든 유료 기업 고객에게 무료&quot;로 제공하기 시작\n<ul>\n<li>이전에는 &quot;Gemini Business 플랜&quot;을 통해 사용자당 월 $20의 추가 비용이 필요했으나, 이제 추가 비용 없이 사용 가능</li>\n</ul>\n</li>\n<li>하지만, 모든 Work...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18773",
+      "guid": "https://news.hada.io/topic?id=18773",
+      "pubDate": "2025-01-17T11:11:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
