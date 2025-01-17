@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-17T15:42:38+09:00",
+  "lastBuildDate": "2025-01-17T18:38:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13598,6 +13598,32 @@
       "guid": "https://news.hada.io/topic?id=18775",
       "pubDate": "2025-01-17T15:34:27+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 IP 주소 동향",
+      "description": {
+        "$text": "<ul>\n<li>1992년 IETF는 &quot;IP Next Generation&quot; 연구를 통해 인터넷 성장과 주소 시스템에 대한 요구사항을 예측\n<ul>\n<li>오늘날 기하급수적으로 증가한 연결 장치 수는 당시의 예측 범위에 포함</li>\n<li>증가하는 장치 수를 처리하기 위해 대규모 주소 공간이 필요한 점을 확인, IPv6 설계로 이어짐</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18778",
+      "guid": "https://news.hada.io/topic?id=18778",
+      "pubDate": "2025-01-17T18:38:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왜 미국 주식인가",
+      "description": {
+        "$text": "<p>2024년 9월 20일, 토스증권 리서치센터가 발간한 미국 주식 시장 보고서입니다. 이 보고서는 왜 미국 주식 시장이 명실상부 가장 최고의 시장인지 알려주고 있습니다.</p>\n<hr />\n<h2>좋은 시장</h2>\n<p>좋은 시장이란 거대한 규모, 활발한 거래와 주주환원, 높은 신뢰도로 이루어져 있습니다. 미국 주식 시장은 이 모",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18777",
+      "guid": "https://news.hada.io/topic?id=18777",
+      "pubDate": "2025-01-17T17:40:21+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
