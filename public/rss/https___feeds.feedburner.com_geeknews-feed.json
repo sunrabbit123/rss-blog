@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-16T22:34:12+09:00",
+  "lastBuildDate": "2025-01-17T10:19:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13428,6 +13428,136 @@
       "link": "https://news.hada.io/topic?id=18761",
       "guid": "https://news.hada.io/topic?id=18761",
       "pubDate": "2025-01-16T22:34:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "rqlite가 테스트하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>rqlite는 가벼운 오픈 소스 분산 관계형 데이터베이스로, Go로 작성되었으며, SQLite와 Raft를 기반으로 개발됨</li>\n<li>2014년부터 개발이 시작되었으며, 신뢰성과 품질을 우선시하며, 10년 이상의 개발과 배포 후에도 프로덕션 환경에서 10건 미만의 패닉 사례만 보고됨</li>\n<li>분산 시스템 테스트는 여러...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18772",
+      "guid": "https://news.hada.io/topic?id=18772",
+      "pubDate": "2025-01-17T10:19:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cosmos - 손을 스캔해서 만드는 맞춤형 키보드",
+      "description": {
+        "$text": "<ul>\n<li>스마트폰 카메라로 손을 스캔한 데이터를 기반으로 키보드 키 위치를 손가락 길이와 움직임에 맞게 조정하는 커스텀 키보드 제작 도구</li>\n<li>각 손의 독특한 구조를 반영하고, 손의 움직임과 형태를 중심으로 설계하여 편안하고 효율적인 입력 경험 제공</li>\n<li>트랙볼, 트랙패드, 인코더(로터리), 썸스틱...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18771",
+      "guid": "https://news.hada.io/topic?id=18771",
+      "pubDate": "2025-01-17T10:02:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Nepenthes - AI 웹 크롤러를 잡는 함정",
+      "description": {
+        "$text": "<ul>\n<li>웹 크롤러를 잡기 위한 소프트웨어로, 특히 대규모 언어 모델(LLM)을 위한 데이터를 스크랩하는 크롤러를 대상으로 함.\n<ul>\n<li>무한한 페이지 시퀀스를 생성하여 크롤러가 빠져나가지 못하게 함.</li>\n<li>크롤러가 서버를 과부하시키지 않도록 의도적인 지연을 추가하며, Markov-babble을 사용하여 크롤러가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18770",
+      "guid": "https://news.hada.io/topic?id=18770",
+      "pubDate": "2025-01-17T09:58:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국, 시리얼 및 기타 식품에서 암 유발 물질인 Red Dye No. 3 금지 예정",
+      "description": {
+        "$text": "미국, 시리얼 및 기타 식품에서 암 유발 물질인 Red Dye No. 3 금지 예정",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18769",
+      "guid": "https://news.hada.io/topic?id=18769",
+      "pubDate": "2025-01-17T09:55:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "알고리듬을 포기하고 RSS를 선택하다",
+      "description": {
+        "$text": "<ul>\n<li>나는 소셜 미디어에서 너무 많은 시간을 낭비하고 있음. 건강에 좋지 않음에도 불구하고 계속 사용하는 이유는 가끔씩 매우 유익한 게시물을 발견하기 때문임. 그러나 현대 미디어의 문제를 해결할 수 있는 오래된 기술인 RSS를 발견했음.</li>\n</ul>\n<h2>RSS</h2>\n<ul>\n<li>RSS는 좋아하는 사이트를 구독하고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18768",
+      "guid": "https://news.hada.io/topic?id=18768",
+      "pubDate": "2025-01-17T09:52:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아이폰 출시 후 노키아 내부 프레젠테이션 (2007) [pdf]",
+      "description": {
+        "$text": "아이폰 출시 후 노키아 내부 프레젠테이션 (2007) [pdf]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18767",
+      "guid": "https://news.hada.io/topic?id=18767",
+      "pubDate": "2025-01-17T09:49:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Meta, '강도 높은 한 해'를 대비해 5% 감원 발표",
+      "description": {
+        "$text": "<ul>\n<li>메타는 약 72,000명의 직원 중 저성과자 5%를 정리할 예정</li>\n<li>CEO 마크 저커버그는 내부 메모를 통해 &quot;저성과자를 빠르게 정리&quot; 할 것이라고 발표하고, 2025년은 &quot;강도 높은 한 해&quot;가 될 것이라고 강조</li>\n<li>해고 대상자는 &quot;2025년 2월 10일&quot; 또는 미국 외 지역에서는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18766",
+      "guid": "https://news.hada.io/topic?id=18766",
+      "pubDate": "2025-01-17T09:47:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "닌텐도, Switch 2 발표 [비디오]",
+      "description": {
+        "$text": "<ul>\n<li>닌텐도 스위치의 후속 기종</li>\n<li>휴대용 디스플레이에 분리가능한 양쪽 조이콘 디자인은 유지되나, 디스플레이/컨트롤러 크기가 전반적으로 커짐\n<ul>\n<li>조이콘은 슬라이딩 방식이 아니라 꼽는 형태로 변경</li>\n</ul>\n</li>\n<li>전용 소프트웨어 및 기존 스위치 소프트웨어와 호환(패키지/다운로드 모두...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18765",
+      "guid": "https://news.hada.io/topic?id=18765",
+      "pubDate": "2025-01-17T09:46:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기",
+      "description": {
+        "$text": "<ul>\n<li>Sky-T1-32B-Preview는 o1-preview와 비슷한 수준의 성능을 발휘하는 추론 및 코딩 모델로 $450(65만원)의 적은 비용만으로 훈련됨</li>\n<li>모든 코드가 오픈소스로 제공되어 누구나 재현 및 개선 가능\n<ul>\n<li>o1 및 Gemini 2.0과 같은 고성능 추론 모델은 복잡한 작업을 해결할 수 있지만, 기술 세부 사항과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18764",
+      "guid": "https://news.hada.io/topic?id=18764",
+      "pubDate": "2025-01-17T09:45:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "데이비드 린치 사망 소식",
+      "description": {
+        "$text": "<h3>데이비드 린치, '트윈 픽스'와 '블루 벨벳'의 비전 있는 감독, 78세로 별세</h3>\n<ul>\n<li>\n<p><strong>데이비드 린치의 사망 소식</strong>: 미국 영화와 TV에 어두운 초현실주의적 예술적 비전을 도입한 감독 겸 작가 데이비드 린치가 78세로 사망함. 그는 2024년에 폐기종 진단을 받았으며, 가족은 그의 사망 소식...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18763",
+      "guid": "https://news.hada.io/topic?id=18763",
+      "pubDate": "2025-01-17T09:43:32+09:00",
       "author": "neo",
       "category": ""
     }
