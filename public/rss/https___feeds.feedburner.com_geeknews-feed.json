@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-18T10:32:02+09:00",
+  "lastBuildDate": "2025-01-18T12:33:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13766,6 +13766,19 @@
       "link": "https://news.hada.io/topic?id=18782",
       "guid": "https://news.hada.io/topic?id=18782",
       "pubDate": "2025-01-18T09:43:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"Evil\" RJ45 동글 조사",
+      "description": {
+        "$text": "<h4>&quot;악성&quot; RJ45 동글 조사</h4>\n<ul>\n<li>\n<p><strong>하드웨어 리버스 엔지니어링</strong><br />\n하드웨어 리버스 엔지니어링은 어려울 수 있지만, 때로는 편안한 의자와 Google 번역만으로도 충분함.</p>\n</li>\n<li>\n<p><strong>공급망 공격의 현실</strong><br />\n정보 보안에서 공급망 공격은 복잡하고 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18790",
+      "guid": "https://news.hada.io/topic?id=18790",
+      "pubDate": "2025-01-18T12:33:25+09:00",
       "author": "neo",
       "category": ""
     }
