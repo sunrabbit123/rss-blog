@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-18T12:33:25+09:00",
+  "lastBuildDate": "2025-01-18T14:33:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13779,6 +13779,19 @@
       "link": "https://news.hada.io/topic?id=18790",
       "guid": "https://news.hada.io/topic?id=18790",
       "pubDate": "2025-01-18T12:33:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자체 데이터 센터 구축 계획",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>당신의 데이터 센터를 구축하고 싶다면</h2>\n<ul>\n<li>Railway는 처음부터 Google Cloud Platform을 기반으로 컴퓨팅을 구축했음. 그러나 이로 인해 가격, 서비스 수준, 엔지니어링 제약 등 여러 문제가 발생했음. 이러한 문제를 해결하기 위해 Railway Metal 프로젝트를 시작했으며, 캘리포니아에 첫 번째...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18791",
+      "guid": "https://news.hada.io/topic?id=18791",
+      "pubDate": "2025-01-18T14:33:29+09:00",
       "author": "neo",
       "category": ""
     }
