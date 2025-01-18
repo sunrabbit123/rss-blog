@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-18T14:33:29+09:00",
+  "lastBuildDate": "2025-01-18T20:27:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13793,6 +13793,19 @@
       "guid": "https://news.hada.io/topic?id=18791",
       "pubDate": "2025-01-18T14:33:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 키우는 고양이와 채팅하는 웹앱",
+      "description": {
+        "$text": "<p>저희집 고양이 역할을 하는 봇과 대화하는 작은 프로젝트입니다.</p>\n<p>프롬프트는 아내가 만들고 껍데기는 제가 supabase + expo로 만들어 firebase hosting에 올렸습니다. 이번에도 역시 Cursor 에디터가 많은 도움을 주었습니다.</p>\n<p>URL은 스크린샷과 링크를 포함한 저희 고양이들의 트위터 글을 걸었습니다.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18792",
+      "guid": "https://news.hada.io/topic?id=18792",
+      "pubDate": "2025-01-18T20:27:16+09:00",
+      "author": "sungchi",
       "category": ""
     }
   ]
