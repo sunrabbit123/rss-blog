@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-19T10:33:04+09:00",
+  "lastBuildDate": "2025-01-19T13:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13935,6 +13935,19 @@
       "link": "https://news.hada.io/topic?id=18795",
       "guid": "https://news.hada.io/topic?id=18795",
       "pubDate": "2025-01-19T09:42:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "벌이 사람을 쏘면 죽는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>벌침은 낚시바늘과 같음</h4>\n<ul>\n<li>꿀벌이 사람을 쏘면 벌침이 바늘처럼 박히는 것이 아니라 바늘에 갈고리가 달려 있음.</li>\n<li>벌이 쏘고 날아가려 할 때 갈고리 때문에 벌침이 빠지지 않아 벌의 복부가 찢어져 죽음.</li>\n<li>이러한 자살적인 메커니즘이 진화적으로 왜 선택되었는지 의문임.</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18805",
+      "guid": "https://news.hada.io/topic?id=18805",
+      "pubDate": "2025-01-19T13:33:15+09:00",
       "author": "neo",
       "category": ""
     }
