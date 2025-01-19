@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-18T20:27:16+09:00",
+  "lastBuildDate": "2025-01-19T10:33:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13806,6 +13806,136 @@
       "guid": "https://news.hada.io/topic?id=18792",
       "pubDate": "2025-01-18T20:27:16+09:00",
       "author": "sungchi",
+      "category": ""
+    },
+    {
+      "title": "VS Code 애완동물",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>VS Code Pets</h2>\n<ul>\n<li>VS Code Pets는 코드 편집기에 작은 고양이, 열정적인 강아지, 활발한 뱀, 고무 오리 또는 클리피 📎를 추가하여 생산성을 높이는 확장 프로그램임.</li>\n</ul>\n</li>\n<li>\n<h3>설치</h3>\n<ul>\n<li>이 확장 프로그램은 VS Code 마켓플레이스에서 설치 가능함.</li>\n<li>VS Cod...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18804",
+      "guid": "https://news.hada.io/topic?id=18804",
+      "pubDate": "2025-01-19T10:33:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이 필기체를 읽을 수 있나요? 국립문서보관소의 도움 요청",
+      "description": {
+        "$text": "<h3>SMART NEWS</h3>\n<h4>필기체 읽을 수 있나요? 국립 기록 보관소가 당신의 도움을 원함</h4>\n<ul>\n<li>국립 기록 보관소는 200년 이상 된 필기체로 작성된 역사적 문서들로 가득 차 있음. 이러한 문서들은 읽기 어렵고, 특히 학교에서 필기체를 배우지 않은 미국인들에게는 더욱 그러함.</li>\n<li>Citizen Archivist ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18803",
+      "guid": "https://news.hada.io/topic?id=18803",
+      "pubDate": "2025-01-19T10:03:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LinkedIn은 새로운 HR - 회사 프로세스에 지친 사람들이 소셜미디어에 끔찍한 상사를 신고중",
+      "description": {
+        "$text": "<ul>\n<li>호주의 가족법 변호사였던 스테파니 코스티는 나쁜 직장 문화를 경험함\n<ul>\n<li>상사가 스트레스 속에서 서류를 던지는 등 폭력적인 행동을 보임</li>\n<li>동료들도 장시간 근무와 불합리한 대우로 인해 공황 발작을 겪었다고 말함</li>\n</ul>\n</li>\n<li>인사부에 보고했으나 효과적인 조치가 이루어지지 않아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18802",
+      "guid": "https://news.hada.io/topic?id=18802",
+      "pubDate": "2025-01-19T10:02:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Mermaid 클래스 다이어그램 편집용 GUI",
+      "description": {
+        "$text": "<h4>Mermaid 클래스 다이어그램 편집을 위한 GUI</h4>\n<ul>\n<li>\n<strong>Mermaid 차트의 장점</strong>: 복잡한 다이어그램을 빠르게 표현할 수 있는 Mermaid 차트는 최근 업데이트로 인해 클래스 다이어그램 편집이 더욱 직관적이고 쉬워졌음. 새로운 기능은 시각적 편집기를 확장하여 클래스 다이어그램과의 직접적인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18801",
+      "guid": "https://news.hada.io/topic?id=18801",
+      "pubDate": "2025-01-19T10:00:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ChatGPT 사용은 환경에 나쁘지 않음",
+      "description": {
+        "$text": "<ul>\n<li>AI, 특히 ChatGPT와 같은 LLM이 환경에 큰 해악을 끼친다는 통념은 부정확함</li>\n<li>많은 이들이 “개인적 AI 사용이 기후 위기에 악영향을 준다”는 주장을 퍼뜨리지만, 실제 배출량 규모와 비교 대상이 부적절함</li>\n<li>AI 관련 에너지 및 물 사용 데이터를 가능한 정확히 살펴보면서, 실질적인 탄소 배출...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18800",
+      "guid": "https://news.hada.io/topic?id=18800",
+      "pubDate": "2025-01-19T09:57:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "저녁 식사 시 높은 Potassium 섭취, 수면 장애 감소와 연관 – 연구",
+      "description": {
+        "$text": "<ul>\n<li>수면 장애는 많은 사람들에게 영향을 미치며, 수면 지원에 대한 수요가 증가하고 있음</li>\n<li>이전 연구에서는 특정 영양소와 불면증 간의 관계를 탐구했지만, 매크로 및 미세 영양소의 일일 섭취 패턴에 대한 포괄적인 분석은 제한적이었음</li>\n<li>나트륨이 높고 칼륨이 낮은 식단은 야간 혈압 감소에 영향...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18799",
+      "guid": "https://news.hada.io/topic?id=18799",
+      "pubDate": "2025-01-19T09:54:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 및 종단간 암호화 논의",
+      "description": {
+        "$text": "<ul>\n<li>최근 NYU와 Cornell 연구진이 발표한 &quot;How to think about end-to-end encryption and AI&quot;라는 논문을 접하게 되었음. 이 논문은 AI와 종단간 암호화에 대한 중요한 질문들을 다루고 있으며, 일부 결론에는 동의하지 않지만 매우 중요한 주제를 다루고 있음.</li>\n</ul>\n<h4>종단간 암호화란 무엇이며...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18798",
+      "guid": "https://news.hada.io/topic?id=18798",
+      "pubDate": "2025-01-19T09:51:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: 인터랙티브 Systemd – Systemd 유닛 작업의 개선된 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>isd</code>는 <code>systemd</code> 유닛을 관리하는 더 나은 방법을 제공하는 도구로, 터미널 사용자 인터페이스(TUI)를 통해 유닛을 검색하고 미리보기를 자동으로 갱신하며, 스마트한 <code>sudo</code> 처리와 사용자 맞춤형 인터페이스를 제공함</li>\n</ul>\n<h3>짧은 동기</h3>\n<ul>\n<li>\n<code>is...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18797",
+      "guid": "https://news.hada.io/topic?id=18797",
+      "pubDate": "2025-01-19T09:48:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "RSS 지원 옹호, 당신도 동참해야 할 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>블로그 글</h2>\n<ul>\n<li>필자는 RSS 지원을 옹호하고 있으며, 독자들도 이를 지지해야 한다고 주장함</li>\n<li>필자는 Feeder를 사용하여 뉴스를 따라가고 있으며, 다양한 뉴스 사이트와 조직들이 RSS를 지원하는 것을 발견함</li>\n<li>GovTrack.us는 RSS를 지원하지 않았으나, 필자의 요청으로 지원을 추...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18796",
+      "guid": "https://news.hada.io/topic?id=18796",
+      "pubDate": "2025-01-19T09:45:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존 AI 크롤러로 불안정해진 내 Git 서버",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Amazon의 AI 크롤러로 인해 내 Git 서버가 불안정해짐</h2>\n</li>\n<li>\n<p><strong>서포트 블로그</strong>: 블로그를 즐기신다면 Patreon에서 Xe를 지원할 수 있음</p>\n</li>\n<li>\n<p><strong>Patreon 구독</strong>: EthicalAds 광고</p>\n</li>\n<li>\n<p><strong>수정(2025-01-18 23:50 UTC)</strong>: G",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18795",
+      "guid": "https://news.hada.io/topic?id=18795",
+      "pubDate": "2025-01-19T09:42:45+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
