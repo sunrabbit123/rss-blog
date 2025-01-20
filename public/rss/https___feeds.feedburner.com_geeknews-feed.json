@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T10:47:35+09:00",
+  "lastBuildDate": "2025-01-20T11:34:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14104,6 +14104,32 @@
       "link": "https://news.hada.io/topic?id=18815",
       "guid": "https://news.hada.io/topic?id=18815",
       "pubDate": "2025-01-20T10:25:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "컴퓨팅의 개인화 시대 도래",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>감시 자본주의와 DRM의 영향</h2>\n<ul>\n<li>1980년대부터 2000년대 초반까지 기술이 세상을 더 나은 곳으로 만들고 있다는 느낌이 있었음</li>\n<li>그러나 인터넷 감시, 소셜 미디어의 알고리듬적 양극화, 약탈적인 앱 스토어, 추출적 비즈니스 모델이 개인 컴퓨터가 약속했던 자유를 침식함</li>\n<li>개인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18819",
+      "guid": "https://news.hada.io/topic?id=18819",
+      "pubDate": "2025-01-20T11:34:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스콧 갤러웨이의 2025년 예상",
+      "description": {
+        "$text": "<h2>파워 커플: OpenVidia</h2>\n<ul>\n<li>ChatGPT 출시 이후(2022년 11월), 기술 업계의 <strong>Big Six</strong>(Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia) 기업 가치는 <strong>8.2조 달러</strong> 증가\n<ul>\n<li>참고로, 2024년 미국 연방 예산은 6.8조 달러</li>\n</ul>\n</li>\n<li>AI를 실적 발표에서 언...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18818",
+      "guid": "https://news.hada.io/topic?id=18818",
+      "pubDate": "2025-01-20T11:08:02+09:00",
       "author": "xguru",
       "category": ""
     }
