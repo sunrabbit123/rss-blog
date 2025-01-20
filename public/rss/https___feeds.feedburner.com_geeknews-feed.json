@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T12:34:26+09:00",
+  "lastBuildDate": "2025-01-20T17:33:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14143,6 +14143,19 @@
       "link": "https://news.hada.io/topic?id=18820",
       "guid": "https://news.hada.io/topic?id=18820",
       "pubDate": "2025-01-20T12:34:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Git Autocorrect가 포뮬러 원 드라이버에게 너무 빠른 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>Git 자동 수정 기능이 너무 빠른 이유</h3>\n<ul>\n<li>Git의 자동 수정 기능은 잘못 입력된 명령어를 실행하기 전에 0.1초를 기다림.</li>\n<li>이는 인간의 눈이 깜빡이는 시간과 비슷하여, 반응하기 어려운 시간임.</li>\n<li>이 기능은 Git 유지 관리자가 제안한 시간 단위의 오해와 잘못된 설정에서 비롯...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18821",
+      "guid": "https://news.hada.io/topic?id=18821",
+      "pubDate": "2025-01-20T17:33:19+09:00",
       "author": "neo",
       "category": ""
     }
