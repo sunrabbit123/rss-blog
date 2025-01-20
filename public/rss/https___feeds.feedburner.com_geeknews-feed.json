@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-19T16:34:16+09:00",
+  "lastBuildDate": "2025-01-20T10:06:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -13961,6 +13961,110 @@
       "link": "https://news.hada.io/topic?id=18806",
       "guid": "https://news.hada.io/topic?id=18806",
       "pubDate": "2025-01-19T16:34:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Jazz - Local-Fist 앱을 위한 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>클라이언트 사이드 코드만으로 앱 전체 구축\n<ul>\n<li>데이터베이스 배포, SQL 스키마 설계, 관계 설정 및 쿼리 작성이 필요 없음</li>\n<li>TypeScript만 알면 Jazz를 이용해 앱 개발 및 배포 가능</li>\n</ul>\n</li>\n<li>데이터는 먼저 로컬에 저장되고, 이후 서버로 동기화됨\n<ul>\n<li>인터넷 연결이 불안정하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18814",
+      "guid": "https://news.hada.io/topic?id=18814",
+      "pubDate": "2025-01-20T10:06:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "RSS 피드를 통한 폐쇄형 생태계 및 알고리즘 블랙박스 탈출",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>RSS 또는 Atom이란</h3>\n<ul>\n<li>RSS와 Atom은 웹 콘텐츠 구독에 사용되는 피드 형식임. 이들은 본질적으로 분산형임.</li>\n<li>피드는 게시자가 웹사이트에 콘텐츠를 게시하고, 사용자가 원하는 클라이언트를 통해 이를 소비할 수 있게 함.</li>\n<li>콘텐츠 제작자는 사용자가 콘텐츠를 소비하는 방식을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18813",
+      "guid": "https://news.hada.io/topic?id=18813",
+      "pubDate": "2025-01-20T09:55:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Haskell: 뛰어난 절차적 언어",
+      "description": {
+        "$text": "<h2>부작용을 일급 값으로 취급하기</h2>\n<ul>\n<li>Haskell에서는 부작용을 일급 값으로 취급함. 이는 부작용을 변수나 데이터 구조에 저장하여 나중에 사용할 수 있음을 의미함.</li>\n<li>\n<code>randomRIO</code> 함수는 두 정수 사이의 랜덤 정수를 생성하는 부작용을 포함하는 객체를 반환함.</li>\n<li>Haskell에서는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18812",
+      "guid": "https://news.hada.io/topic?id=18812",
+      "pubDate": "2025-01-20T09:52:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 데이터 엔지니어의 새로운 역할",
+      "description": {
+        "$text": "<h2>데이터 기반 환경에서 AI Data Engineer의 핵심 역할</h2>\n<ul>\n<li>챗봇이 사용자의 질문을 부드럽게 이해하는 방식, 자율주행 차량이 복잡한 도로 환경을 파악하는 방식은 모두 비정형 데이터 처리 과정에 뿌리를 둠</li>\n<li>텍스트, 이미지, 비디오, 오디오와 같은 비정형 데이터는 스프레드시트처럼 정돈된 구조...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18811",
+      "guid": "https://news.hada.io/topic?id=18811",
+      "pubDate": "2025-01-20T09:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "64kb RAM에서 실행된 Unix spell",
+      "description": {
+        "$text": "<h4>Unix Spell이 64kB RAM에서 실행된 방법</h4>\n<h5>64kB RAM에 사전을 어떻게 맞출 수 있을까?</h5>\n<ul>\n<li>Unix 엔지니어들은 데이터 구조와 압축 기법을 활용하여 64kB RAM에 250kB 사전을 맞추는 문제를 해결함.</li>\n<li>1970년대에 Douglas McIlroy는 AT&amp;T의 Unix 철자 검사기를 구현하면서 이 문제에 직면...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18810",
+      "guid": "https://news.hada.io/topic?id=18810",
+      "pubDate": "2025-01-20T09:49:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Forgejo: 자체 호스팅 경량 소프트웨어 포지",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Forgejo 소개</strong></p>\n<ul>\n<li>Forgejo는 경량의 자체 호스팅 소프트웨어 포지로, 설치가 쉽고 유지보수가 간단함.</li>\n<li>Codeberg e.V.라는 비영리 조직의 지원을 받으며, 완전한 자유 소프트웨어로 신뢰할 수 있음.</li>\n<li>보안, 확장성, 연합 및 프라이버시에 중점을 둠.</li>\n</ul>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18809",
+      "guid": "https://news.hada.io/topic?id=18809",
+      "pubDate": "2025-01-20T09:46:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TikTok, 미국 사용자 서비스 복구 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>TikTok 서비스 복구</h4>\n<ul>\n<li>TikTok이 미국 사용자에게 서비스를 복구하기 시작했음. 이는 도널드 트럼프 대통령 당선자가 서비스 제공업체에 필요한 보장을 제공한 후 이루어졌음.</li>\n<li>TikTok은 서비스 제공업체와의 합의에 따라 서비스를 복구 중이라고 발표했음. 트럼프 대통령에게 감사를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18808",
+      "guid": "https://news.hada.io/topic?id=18808",
+      "pubDate": "2025-01-20T09:43:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국에서 TikTok 서비스 중단",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>TikTok 미국 서비스 중단</h2>\n<ul>\n<li>TikTok이 미국에서 연방 법률로 인해 서비스가 중단되었음. 그러나 일요일 정오까지 서비스가 복구되기 시작했음.</li>\n<li>사용자들은 토요일 저녁부터 TikTok 사용 불가 메시지를 받았으며, 앱은 Apple과 Google Play 스토어에서 사라졌음.</li>\n<li>TikTok은 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18807",
+      "guid": "https://news.hada.io/topic?id=18807",
+      "pubDate": "2025-01-20T09:40:14+09:00",
       "author": "neo",
       "category": ""
     }
