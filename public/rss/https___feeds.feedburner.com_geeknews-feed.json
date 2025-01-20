@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T18:33:57+09:00",
+  "lastBuildDate": "2025-01-21T01:37:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14170,6 +14170,19 @@
       "guid": "https://news.hada.io/topic?id=18822",
       "pubDate": "2025-01-20T18:33:57+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제품 보안에 있어 나쁜 방식",
+      "description": {
+        "$text": "<h2>제품 자체에 있어</h2>\n<h3>메모리에 안전하지 않는 언어(C, C++ 등)</h3>\n<p>가급적 메모리에 안전한 단어를 쓰고, 그러지 않은 기존 프로그램은 2025년 말까지 점진적으로 대체해야 합니다.</p>\n<h3>SQL 명령문 직접 실행</h3>\n<p>매개변수화된 쿼리, 미리 정의된 명령문이나 ORM을 쓰세요.</p>\n<h3>운영체제 명령",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18823",
+      "guid": "https://news.hada.io/topic?id=18823",
+      "pubDate": "2025-01-21T01:37:46+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
