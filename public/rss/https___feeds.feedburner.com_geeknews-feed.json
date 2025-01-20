@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T17:33:19+09:00",
+  "lastBuildDate": "2025-01-20T18:33:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14156,6 +14156,19 @@
       "link": "https://news.hada.io/topic?id=18821",
       "guid": "https://news.hada.io/topic?id=18821",
       "pubDate": "2025-01-20T17:33:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "영국의 하드웨어 인재 낭비 현상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>영국의 하드웨어 인재 낭비 문제</h2>\n<ul>\n<li>영국의 명문 대학인 임페리얼, 옥스퍼드, 케임브리지에서 세계적인 엔지니어를 배출하지만, 졸업 후 이들의 경로는 경제적 비극이며 숨겨진 차익 기회임.</li>\n</ul>\n</li>\n<li>\n<p><strong>현실의 문제점</strong></p>\n<ul>\n<li>런던의 하드웨어 엔지니어 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18822",
+      "guid": "https://news.hada.io/topic?id=18822",
+      "pubDate": "2025-01-20T18:33:57+09:00",
       "author": "neo",
       "category": ""
     }
