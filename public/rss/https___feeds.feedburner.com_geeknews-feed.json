@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T10:06:01+09:00",
+  "lastBuildDate": "2025-01-20T10:47:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14066,6 +14066,45 @@
       "guid": "https://news.hada.io/topic?id=18807",
       "pubDate": "2025-01-20T09:40:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오늘의위키: Gemini AI로 업데이트하는 신개념 위키 (베타)",
+      "description": {
+        "$text": "<p><strong>개요</strong></p>\n<ul>\n<li>'오늘의위키'는 AI가 직접 위키를 쓰고, 고치고, 업데이트하는 새로운 형태의 위키 서비스</li>\n<li>Google의 Gemini AI 모델을 활용</li>\n</ul>\n<p><strong>핵심 기능 및 특징</strong></p>\n<ul>\n<li>\n<strong>AI 기반 자동화:</strong> Gemini AI가 위키 페이지를 자동으로 생성",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18817",
+      "guid": "https://news.hada.io/topic?id=18817",
+      "pubDate": "2025-01-20T10:47:35+09:00",
+      "author": "calmlake79",
+      "category": ""
+    },
+    {
+      "title": "MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷",
+      "description": {
+        "$text": "<ul>\n<li>효율적인 Binary Serialization 포맷</li>\n<li>JSON처럼 여러 언어 간 데이터 교환 가능</li>\n<li>작은 정수는 단일 바이트로 인코딩, 짧은 문자열은 문자열 자체에 추가 바이트가 하나만 더 필요</li>\n<li>50개 이상의 프로그래밍 언어 및 환경에서 지원</li>\n<li>사용 사례:\n<ul>\n<li>Redis: Lua용 MessagePa...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18816",
+      "guid": "https://news.hada.io/topic?id=18816",
+      "pubDate": "2025-01-20T10:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Shopify의 5년간 React Native 사용 경험",
+      "description": {
+        "$text": "<ul>\n<li>Shopify는 5년 전 React Native(RN)를 모바일 개발의 미래로 선언한 이후, 모든 앱을 RN으로 성공적으로 전환하였음</li>\n<li>React Native 도입의 주요 이유\n<ul>\n<li>\n<strong>한 번의 작성으로 두 플랫폼 지원</strong>: iOS와 Android에서 동일한 기능을 두 번 개발하는 비효율을 제거하기 위함</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18815",
+      "guid": "https://news.hada.io/topic?id=18815",
+      "pubDate": "2025-01-20T10:25:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
