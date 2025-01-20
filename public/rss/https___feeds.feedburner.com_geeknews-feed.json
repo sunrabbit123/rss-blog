@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-20T11:34:31+09:00",
+  "lastBuildDate": "2025-01-20T12:34:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14131,6 +14131,19 @@
       "guid": "https://news.hada.io/topic?id=18818",
       "pubDate": "2025-01-20T11:08:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 지원을 받은 FrontierMath 프로젝트",
+      "description": {
+        "$text": "<h2>meemi의 짧은 글</h2>\n<ul>\n<li>\n<strong>Arxiv v5 (12월 20일 버전)</strong>: OpenAI의 지원을 받아 벤치마크를 만들었다고 언급함.</li>\n<li>\n<strong>자금 출처의 불투명성</strong>: OpenAI가 FrontierMath를 지원했지만, 많은 사람들이 이 사실을 몰랐음. 12월 20일 이전에는 공개적으로 언급되지 않았음.</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18820",
+      "guid": "https://news.hada.io/topic?id=18820",
+      "pubDate": "2025-01-20T12:34:26+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
