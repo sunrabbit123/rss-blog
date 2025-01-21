@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-21T01:37:46+09:00",
+  "lastBuildDate": "2025-01-21T09:52:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14183,6 +14183,136 @@
       "guid": "https://news.hada.io/topic?id=18823",
       "pubDate": "2025-01-21T01:37:46+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "다크 모드 강제 사용 금지 요청",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>제발 다크 모드를 강요하지 말아주세요</h2>\n<ul>\n<li>웹사이트 디자이너들에게 다크 모드를 사용자에게 강요하지 말라는 요청임.</li>\n<li>다크 모드가 브랜드의 특징이라면, 텍스트의 편안한 대비 비율을 선택해야 함.</li>\n<li>많은 웹사이트가 다크 모드로만 디자인되어 있어 읽기 어려운 경우가 많음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18833",
+      "guid": "https://news.hada.io/topic?id=18833",
+      "pubDate": "2025-01-21T09:52:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실패가 아닌 나: 여섯 번의 실패한 스타트업 시도에서 얻은 교훈",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>서론</strong></p>\n<ul>\n<li>저자는 두 가지 주요 목표를 가지고 성장했음: 대학 교수와 성공적인 스타트업 창업자.</li>\n<li>Rodney Brooks와 같은 인물을 롤모델로 삼았으나, 목표를 달성하지 못했음.</li>\n<li>여섯 번의 스타트업 시도 모두 실패했음.</li>\n</ul>\n</li>\n<li>\n<p><strong>실패 #",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18832",
+      "guid": "https://news.hada.io/topic?id=18832",
+      "pubDate": "2025-01-21T09:49:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mixxx: GPL DJ 소프트웨어",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>강력한 기능</strong></p>\n<ul>\n<li>Mixxx는 DJ들이 디지털 음악 파일로 창의적인 라이브 믹스를 수행하는 데 필요한 도구를 통합함.</li>\n<li>초보 DJ부터 경험 많은 턴테이블리스트까지 다양한 스타일과 기술을 지원함.</li>\n</ul>\n</li>\n<li>\n<p><strong>BPM, 키 감지 및 동기화</strong></p>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18831",
+      "guid": "https://news.hada.io/topic?id=18831",
+      "pubDate": "2025-01-21T09:46:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bambu Connect 역설계 분석",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Bambu Connect의 역공학</h2>\n</li>\n<li>\n<p><strong>Bambu Connect 개요</strong></p>\n<ul>\n<li>Bambu Connect는 Electron 앱으로, 보안이 불투명한 방식으로 구현되어 있어 본질적으로 안전하지 않음.</li>\n<li>이 가이드는 사용자가 구매한 제품에 대한 권리를 더 많이 가질 수 있도록 돕기 위한 것임.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18830",
+      "guid": "https://news.hada.io/topic?id=18830",
+      "pubDate": "2025-01-21T09:43:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "폴 그레이엄과의 만남",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>서문</strong></p>\n<ul>\n<li>2025년 초반의 어려움과 불안감을 설명하며, 사람들이 자신을 지지하지 않을까 걱정하는 상황을 공유함.</li>\n<li>Paul Graham과의 만남을 통해 느낀 점을 설명하기 위해 이 에세이를 작성함.</li>\n</ul>\n</li>\n<li>\n<p><strong>Y Combinator 경험</strong></p>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18829",
+      "guid": "https://news.hada.io/topic?id=18829",
+      "pubDate": "2025-01-21T09:40:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "재미와 이익을 위한 \"LLM 기반 TDD\"",
+      "description": {
+        "$text": "<h2>TDD(Test-Driven Development)와 LLM의 결합</h2>\n<ul>\n<li>TDD는 프로그램 작성을 시작하기 전, 포괄적인 단위 테스트를 먼저 작성하는 개발 방법론임</li>\n<li>테스트가 사실상 사양서 역할을 맡기 때문에, 최종적으로 모든 테스트가 통과하면 코드의 정확성을 어느 정도 증명할 수 있음</li>\n<li>전통적으로 TDD는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18828",
+      "guid": "https://news.hada.io/topic?id=18828",
+      "pubDate": "2025-01-21T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "음악 검색 시스템 만들기",
+      "description": {
+        "$text": "<ul>\n<li>음악 검색 시스템은 <strong>등록</strong>과 <strong>검색</strong> 두 단계로 이루어짐\n<ul>\n<li>등록: 기존 음원을 소리 지문(Audio Fingerprint)으로 변환해 데이터베이스에 저장</li>\n<li>검색: 입력 음원을 소리 지문으로 변환한 후 데이터베이스와 비교해 유사 음원 검색</li>\n</ul>\n</li>\n<li>베경 지식...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18827",
+      "guid": "https://news.hada.io/topic?id=18827",
+      "pubDate": "2025-01-21T08:46:06+09:00",
+      "author": "kciter1",
+      "category": ""
+    },
+    {
+      "title": "[2025/01/13 ~ 01/19] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>DAIR.AI에서 매주 공개하는 ML 논문들에 대한 글을 자동 번역해보았습니다.</p>\n</li>\n<li>\n<p>이번 주에 선정된 논문의 두드러진 경향은 대형 언어 모델(LLM, Large Language Models) 및 멀티모달 AI에 관한 연구가 활발하다는 점입니다. 예를 들어, &quot;Self-Adaptive LLMs&quot;, &quot;Foundations o",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18826",
+      "guid": "https://news.hada.io/topic?id=18826",
+      "pubDate": "2025-01-21T08:26:56+09:00",
+      "author": "ninebow",
+      "category": ""
+    },
+    {
+      "title": "물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기",
+      "description": {
+        "$text": "<ul>\n<li>물리적 SIM 슬롯만 있는 장치에서 eSIM을 사용하기 위해 9eSIM의 SIM 카드를 사용하는 방법</li>\n<li>9eSIM 공식 웹사이트에서 SIM 카드와 스마트카드 리더 번들을 구매\n<ul>\n<li>일반/마이크로/나노 크기로 떼어낼 수 있는 SIM 카드</li>\n<li>SIM 카드를 스마트카드 리더에 맞게 끼우는 어댑터</li>\n<li>USB 스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18825",
+      "guid": "https://news.hada.io/topic?id=18825",
+      "pubDate": "2025-01-21T07:36:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek-R1 모델 공개",
+      "description": {
+        "$text": "<ul>\n<li>DeepSeek이 1세대 추론모델인 DeepSeek-R1-Zero와 DeepSeek-R1 모델을 공개</li>\n<li>DeepSeek-R1-Zero는 대규모 강화학습(RL)만으로 학습되었고, 스스로 다양한 추론 능력을 습득했음</li>\n<li>그러나 반복/가독성 문제, 언어 혼용이 나타나, 이를 보완하고 성능을 높이기 위해 SFT 단계를 추가한 DeepSeek-R1...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18824",
+      "guid": "https://news.hada.io/topic?id=18824",
+      "pubDate": "2025-01-21T07:22:08+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
