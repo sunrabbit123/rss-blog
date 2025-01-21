@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-21T17:33:07+09:00",
+  "lastBuildDate": "2025-01-21T18:33:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14338,6 +14338,19 @@
       "link": "https://news.hada.io/topic?id=18835",
       "guid": "https://news.hada.io/topic?id=18835",
       "pubDate": "2025-01-21T17:33:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "콜 오브 듀티 안티치트 리버스 엔지니어링 분석",
+      "description": {
+        "$text": "<h2>콜 오브 듀티 안티치트 리버스 엔지니어링</h2>\n<ul>\n<li>\n<strong>소개</strong>\n<ul>\n<li>Black Ops Cold War의 사용자 모드 안티치트를 연구한 결과를 공유함.</li>\n<li>Treyarch의 게임으로, TAC(Treyarch Anti-Cheat)로 지칭함.</li>\n<li>최신 게임과의 주요 차이점은 커널 모드 드라이버의 유무임.</li>\n</ul>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18836",
+      "guid": "https://news.hada.io/topic?id=18836",
+      "pubDate": "2025-01-21T18:33:38+09:00",
       "author": "neo",
       "category": ""
     }
