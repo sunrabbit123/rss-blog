@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-21T18:33:38+09:00",
+  "lastBuildDate": "2025-01-21T21:12:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14352,6 +14352,19 @@
       "guid": "https://news.hada.io/topic?id=18836",
       "pubDate": "2025-01-21T18:33:38+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "친절 엔지니어링 - 구체적인 친절 가이드",
+      "description": {
+        "$text": "<h2>친절함이란</h2>\n<ul>\n<li>친절함 (kindness) 은 단순한 다정함 (niceness) 보다 더 적극적인 활동</li>\n<li>\n<strong>상대방이 서있는 그 위치에서 상대하기 (put myself in their shoes)</strong>\n</li>\n</ul>\n<h3>a. 솔직함</h3>\n<ul>\n<li>건설적인 비판의 원천</li>\n<li>자신의 삶을 솔직하게 드러내서 신뢰를 쌓...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18837",
+      "guid": "https://news.hada.io/topic?id=18837",
+      "pubDate": "2025-01-21T21:12:10+09:00",
+      "author": "roxie",
       "category": ""
     }
   ]
