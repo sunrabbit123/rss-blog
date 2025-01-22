@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-22T10:34:33+09:00",
+  "lastBuildDate": "2025-01-22T14:03:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14507,6 +14507,19 @@
       "link": "https://news.hada.io/topic?id=18850",
       "guid": "https://news.hada.io/topic?id=18850",
       "pubDate": "2025-01-22T10:34:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 문의: Tiny Language Models로 멋진 프로젝트 진행 중인 사람 있나요?",
+      "description": {
+        "$text": "<ul>\n<li>Ollama에서 사용할 수 있는 0.5B-3B 범위의 모델에 대한 논의임</li>\n<li>이러한 모델을 작업 흐름의 일부로 사용하는 멋진 도구를 구축했는지에 대한 질문임</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18851",
+      "guid": "https://news.hada.io/topic?id=18851",
+      "pubDate": "2025-01-22T13:33:06+09:00",
       "author": "neo",
       "category": ""
     }
