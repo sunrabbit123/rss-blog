@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-21T21:12:10+09:00",
+  "lastBuildDate": "2025-01-22T10:08:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14365,6 +14365,136 @@
       "guid": "https://news.hada.io/topic?id=18837",
       "pubDate": "2025-01-21T21:12:10+09:00",
       "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "메타인지적 게으름: 생성형 AI가 학습 동기에 미치는 영향",
+      "description": {
+        "$text": "<p>죄송하지만, 제공된 링크는 유효한 기사 내용을 포함하고 있지 않습니다. 다른 기사나 내용을 제공해 주시면 요약 및 번역을 도와드리겠습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18848",
+      "guid": "https://news.hada.io/topic?id=18848",
+      "pubDate": "2025-01-22T10:02:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스타게이트 프로젝트: 소프트뱅크, 오픈AI, 오라클, MGX 데이터 센터 건설 계획",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>트럼프, AI에 5천억 달러 투자 강조</h2>\n<ul>\n<li>도널드 트럼프 대통령은 화요일에 OpenAI, Oracle, SoftBank가 공동으로 AI 관련 인프라에 최대 5천억 달러를 투자하는 새로운 파트너십을 발표함.</li>\n<li>새로운 법인인 Stargate는 텍사스에서 데이터 센터와 전력 발전을 시작할 예정이며, 초기 투자...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18847",
+      "guid": "https://news.hada.io/topic?id=18847",
+      "pubDate": "2025-01-22T09:59:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엘론 머스크, 트럼프 취임식에서 Sieg Heil 제스처 논란",
+      "description": {
+        "$text": "<h3>엘론 머스크, 트럼프 취임식에서 논란의 제스처</h3>\n<ul>\n<li>엘론 머스크가 트럼프 취임식에서 논란의 제스처를 했다는 보도가 있었음. 머스크는 워싱턴 DC 트럼프 퍼레이드에서 두 번의 제스처를 했으며, 이는 생방송으로 중계되었음.</li>\n<li>그는 Capital One Arena에서 20,000명의 트럼프 지지자들 앞에 서서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18846",
+      "guid": "https://news.hada.io/topic?id=18846",
+      "pubDate": "2025-01-22T09:56:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub Actions 재사용을 재고하는 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>GitHub Actions 사용에 대한 불만</strong></p>\n<ul>\n<li>팀은 약 15명의 엔지니어로 구성되어 있으며, 모노레포에서 코드를 관리하고 있음</li>\n<li>GitHub Actions는 작은 프로젝트에서는 유용하지만, 모든 문제에 적합하지 않을 수 있음</li>\n</ul>\n</li>\n<li>\n<p><strong>풀 리퀘스트와 필수 검",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18845",
+      "guid": "https://news.hada.io/topic?id=18845",
+      "pubDate": "2025-01-22T09:53:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 문의: Facebook 없이 지역 커뮤니티 조직 방법?",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>지역 사회 이동 계획</strong></p>\n<ul>\n<li>Facebook에서 자체 플랫폼으로 지역 사회를 이동시키고자 하는 필요성 제기</li>\n<li>기존의 Facebook 의존성을 줄이고 독립적인 플랫폼 구축을 희망함</li>\n</ul>\n</li>\n<li>\n<p><strong>현재 상황</strong></p>\n<ul>\n<li>사용자는 대도시에서 더 작은",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18844",
+      "guid": "https://news.hada.io/topic?id=18844",
+      "pubDate": "2025-01-22T09:50:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Signal, Discord 등 플랫폼을 겨냥한 0-click 익명성 해제 공격",
+      "description": {
+        "$text": "<ul>\n<li>안녕하세요, 저는 다니엘입니다. 저는 15세의 고등학교 3학년 학생입니다. 여가 시간에 대기업을 해킹하고 멋진 것들을 만듦. 3개월 전, 특정 앱이 설치된 기기를 통해 공격자가 250마일 반경 내의 대상의 위치를 추적할 수 있는 0-클릭 익명 해제 공격을 발견함. 이 연구를 통해 기자, 활동가, 해커들에게 경고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18843",
+      "guid": "https://news.hada.io/topic?id=18843",
+      "pubDate": "2025-01-22T09:47:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Brisa - 웹 플랫폼 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>각종 프레임워크의 좋은 부분을 가져와서 빠르고 간단하게 웹 앱을 만드는게 목표\n<ul>\n<li>JSX, TypeScript, 서버/웹 컴포넌트, Server Actions, SSR, 스트리밍, Suspense, Signals, 웹소켓, 미들웨어, 레이아웃,..</li>\n</ul>\n</li>\n<li>매우 작음: 기본으로 0바이트(동적 서버렌더링 되는 JSX 컴포넌트로 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18842",
+      "guid": "https://news.hada.io/topic?id=18842",
+      "pubDate": "2025-01-22T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Postal-mime - 브라우저 및 서버리스용 이메일 파싱 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>브라우저 환경(웹워커 포함) 및 서버리스 함수(Cloudflare Email Workers 처럼)에서 동작</li>\n<li>RFC822 이메일 메시지를 읽어서 헤더/수신자/첨부파일등의 객체로 구성된 구조체로 파싱</li>\n<li>\n<code>PostalMime.parse(email, options) -&gt; Promise&lt;ParsedEmail&gt;</code>\n<ul>\n<li>구조화 객체를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18841",
+      "guid": "https://news.hada.io/topic?id=18841",
+      "pubDate": "2025-01-22T09:30:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Foqos - NFC를 물리적 스위치로 사용하여 방해 요소를 차단하는 앱",
+      "description": {
+        "$text": "<ul>\n<li>NFC 태깅을 하면 특정 앱들을 차단시켜서 집중하게 만들어 주는 도구\n<ul>\n<li>멀티 프로파일을 만들어서 직장, 공부, 잠잘때등 앱내에서 스와이프만으로 전환 가능</li>\n<li>각 프로파일을 NFC 태그에 기록해서 기기가 잠긴상태 또는 앱을 실행할 필요없이 NFC태깅만으로 차단 프로필 활성화</li>\n</ul>\n</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18840",
+      "guid": "https://news.hada.io/topic?id=18840",
+      "pubDate": "2025-01-22T08:50:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ollama에 공식 DeepSeek R1 등록",
+      "description": {
+        "$text": "<ul>\n<li>DeepSeek의 첫 번째 세대 추론 모델 R1은 OpenAI-o1과 비교할 만한 성능을 보유하고 있음\n<ul>\n<li>수학, 코드, 추론 작업에서 뛰어난 성능을 발휘함</li>\n</ul>\n</li>\n<li>다양한 크기의 모델 제공: 1.5B, 7B, 8B, 14B, 32B, 70B, 671B\n<ul>\n<li>각 모델은 특정 작업에 최적화되어 있음</li>\n</ul>\n</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18839",
+      "guid": "https://news.hada.io/topic?id=18839",
+      "pubDate": "2025-01-22T08:32:13+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
