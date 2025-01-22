@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-22T10:08:25+09:00",
+  "lastBuildDate": "2025-01-22T10:34:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14495,6 +14495,19 @@
       "guid": "https://news.hada.io/topic?id=18839",
       "pubDate": "2025-01-22T08:32:13+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "3M 공장의 보이지 않는 Electrostatic Wall (1996)",
+      "description": {
+        "$text": "<h2>특이한 현상</h2>\n<ul>\n<li>\n<p><strong>보이지 않는 전기장벽</strong>: 3M 공장에서 폴리프로필렌 필름이 빠르게 움직일 때, 작업자들이 &quot;보이지 않는 벽&quot;을 경험함. 이 벽은 사람을 통과하지 못하게 할 정도로 강력했음. 이 현상은 1980년 여름, 남부 캐롤라이나에서 발생함.</p>\n</li>\n<li>\n<p><stron",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18850",
+      "guid": "https://news.hada.io/topic?id=18850",
+      "pubDate": "2025-01-22T10:34:33+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
