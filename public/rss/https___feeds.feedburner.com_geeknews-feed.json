@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-23T20:33:32+09:00",
+  "lastBuildDate": "2025-01-23T22:46:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14729,6 +14729,19 @@
       "guid": "https://news.hada.io/topic?id=18869",
       "pubDate": "2025-01-23T20:33:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Voice-Pro – 강력한 AI 음성 복제 도구",
+      "description": {
+        "$text": "<p><strong>Voice-Pro</strong>가 더 강력하고 사용하기 쉬워졌습니다! 모든 음성 복제 작업을 손쉽게 수행할 수 있도록 <strong>주요 업데이트</strong>를 진행했습니다 🚀</p>\n<h4>✨ 새로운 업데이트 및 기능</h4>\n<ul>\n<li>\n<strong>Gradio 5.x 및 yt-dlp 지원:</strong> 개선된 웹 인터페이스와 강화된 YouTube 오디",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18870",
+      "guid": "https://news.hada.io/topic?id=18870",
+      "pubDate": "2025-01-23T22:46:05+09:00",
+      "author": "abuskorea",
       "category": ""
     }
   ]
