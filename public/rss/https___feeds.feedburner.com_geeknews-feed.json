@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-23T10:00:27+09:00",
+  "lastBuildDate": "2025-01-23T11:33:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14651,6 +14651,58 @@
       "guid": "https://news.hada.io/topic?id=18854",
       "pubDate": "2025-01-23T08:33:23+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WFH 조명 개선을 통한 눈의 피로 감소 방법",
+      "description": {
+        "$text": "<h3>WFH 조명 개선하기</h3>\n<ul>\n<li>\n<strong>TLDR</strong>\n<ul>\n<li>균일하고 확산된 조명 환경이 눈에 가장 좋음</li>\n<li>조명의 밝기는 너무 많거나 적어도 문제가 됨</li>\n<li>가능한 한 자연광을 사용함</li>\n<li>인공 조명의 품질이 중요함</li>\n<li>카메라에 좋은 조명이 항상 인체공학적으로 좋은 것은 아님...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18867",
+      "guid": "https://news.hada.io/topic?id=18867",
+      "pubDate": "2025-01-23T11:33:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "한국 디지털 정부서비스 UI/UX 가이드라인, KRDS로 발전",
+      "description": {
+        "$text": "<p>한국의 행정/공공 기관의 웹 어플리케이션을 만들 때 적용할 디자인 목록을 보여주는 사이트입니다. 2025.1.16 &quot;디지털 정부서비스 UI/UX 가이드라인&quot;에서 &quot;한국 디자인 시스템(KRDS)&quot;이라는 이름으로 새롭게 변경되었습니다.</p>\n<h2>주요 변경사항</h2>\n<ol>\n<li>신규 가이드라인 추가 (11종)\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18866",
+      "guid": "https://news.hada.io/topic?id=18866",
+      "pubDate": "2025-01-23T10:58:31+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Tailwind CSS v4.0 정식 릴리즈",
+      "description": {
+        "$text": "<p>Tailwind CSS v4.0이 출시되었습니다! 🎉</p>\n<p>이번 Tailwind CSS v4.0은 성능과 유연성을 한층 더 강화한 완전히 새로운 버전으로, 구성과 커스터마이징 경험을 완전히 새롭게 재구성했습니다. 또한, 최신 웹 플랫폼의 기술을 최대한 활용하도록 설계되었습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18865",
+      "guid": "https://news.hada.io/topic?id=18865",
+      "pubDate": "2025-01-23T10:58:11+09:00",
+      "author": "ragus",
+      "category": ""
+    },
+    {
+      "title": "Amurex - 미팅용 AI Copilot",
+      "description": {
+        "$text": "<ul>\n<li>간단하면서도 강력한 AI 미팅 어시스턴트</li>\n<li>온라인 회의 진행시 AI로 중요 세부 사항을 놓치지 않고 액션 아이템을 관리해 생산성을 높여 줌</li>\n<li>실시간 제안, 스마트 요약, 후속 이메일 등 다양한 기능으로 미팅 진행 시간을 절약해 줌</li>\n<li>오픈 소스 기반으로 투명성, 보안, 프라이버시를 중...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18864",
+      "guid": "https://news.hada.io/topic?id=18864",
+      "pubDate": "2025-01-23T10:50:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
