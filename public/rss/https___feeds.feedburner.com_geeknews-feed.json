@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-23T14:42:18+09:00",
+  "lastBuildDate": "2025-01-23T20:33:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14716,6 +14716,19 @@
       "guid": "https://news.hada.io/topic?id=18868",
       "pubDate": "2025-01-23T14:42:18+09:00",
       "author": "kyc1682",
+      "category": ""
+    },
+    {
+      "title": "둠 스크롤링과의 고군분투",
+      "description": {
+        "$text": "<h3>나의 둠 스크롤링과의 싸움</h3>\n<p>몇 달 전, 나는 휴대폰에서 많은 앱을 삭제하고, 무분별한 스크롤링 중독을 제어하기 위해 여러 제한 앱을 설치했음.</p>\n<h4>상호 연결된 현실과의 싸움</h4>\n<ul>\n<li>전자 기기에는 탈출구가 너무 많음\n<ul>\n<li>콘텐츠 앱: Instagram, YouTube, TikTok 등</li>\n<li>업무 앱: ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18869",
+      "guid": "https://news.hada.io/topic?id=18869",
+      "pubDate": "2025-01-23T20:33:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
