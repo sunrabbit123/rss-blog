@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-23T11:33:41+09:00",
+  "lastBuildDate": "2025-01-23T14:42:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14703,6 +14703,19 @@
       "guid": "https://news.hada.io/topic?id=18864",
       "pubDate": "2025-01-23T10:50:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "대규모 앵귤러 웹 애플리케이션 성능 최적화: 카카오 챗봇 관리자센터 사례",
+      "description": {
+        "$text": "<ul>\n<li>개요\n<ul>\n<li>챗봇 관리자센터 소개</li>\n<li>프로젝트 배경</li>\n<li>목표 및 개선 방향</li>\n</ul>\n</li>\n<li>성능 개선 내용\n<ul>\n<li>CLS 개선</li>\n<li>TBT 개선</li>\n</ul>\n</li>\n<li>트러블 슈팅 - CLS 개선 작업 중 발생한 DOM 업데이트 문제\n<ul>\n<li>문제 현상</li>\n<li>원인 분석</li>\n<li>문제 해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18868",
+      "guid": "https://news.hada.io/topic?id=18868",
+      "pubDate": "2025-01-23T14:42:18+09:00",
+      "author": "kyc1682",
       "category": ""
     }
   ]
