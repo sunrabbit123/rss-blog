@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-24T10:04:01+09:00",
+  "lastBuildDate": "2025-01-24T10:45:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14871,6 +14871,45 @@
       "link": "https://news.hada.io/topic?id=18872",
       "guid": "https://news.hada.io/topic?id=18872",
       "pubDate": "2025-01-24T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Bun 1.2 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>Node.js 호환성 대폭 업데이트</li>\n<li>자체 S3 객체 저장소 API 추가 : <code>Bun.s3</code>\n</li>\n<li>자체 Postgres 클라이언트 추가 : <code>Bun.sql</code> (MySQL도 곧 지원예정)</li>\n<li>\n<code>bun install</code> 이 이제 text 기반의 lockfile 사용 <code>bun.lock</code>\n</li>\n<li>Express 가 Bu...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18884",
+      "guid": "https://news.hada.io/topic?id=18884",
+      "pubDate": "2025-01-24T10:45:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN에 공개: 온라인에서 활성화된 트랜스젠더 커뮤니티 구축",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>t4t 소개</strong></p>\n<ul>\n<li>t4t는 트랜스 및 젠더 비순응자를 위한 소셜 네트워크임.</li>\n<li>아름답고 미니멀하며 텍스트 기반으로 무료로 제공됨.</li>\n<li>iOS 또는 Android 앱을 다운로드하여 가입 가능함.</li>\n</ul>\n</li>\n<li>\n<p><strong>최근 게시물</strong></p>\n<ul>\n<li>@abwaum",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18883",
+      "guid": "https://news.hada.io/topic?id=18883",
+      "pubDate": "2025-01-24T10:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nue - Standard-First 웹 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Next.js 보다 30배 작은 설치 파일 및 번들 크기. 속도는 100배 빠름</li>\n<li>\n<strong>표준 우선(Standards First)</strong>: 현대 브라우저의 표준을 최대한 활용하여 최소한의 코드로 고품질의 제품을 개발 가능</li>\n<li>\n<strong>HTML 우선(HTML First)</strong>: 시맨틱 HTML을 기반으로 레이아웃, 서버...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18882",
+      "guid": "https://news.hada.io/topic?id=18882",
+      "pubDate": "2025-01-24T10:23:01+09:00",
       "author": "xguru",
       "category": ""
     }
