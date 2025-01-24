@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-24T15:24:36+09:00",
+  "lastBuildDate": "2025-01-24T17:36:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14950,6 +14950,32 @@
       "guid": "https://news.hada.io/topic?id=18887",
       "pubDate": "2025-01-24T15:24:36+09:00",
       "author": "geeksk553",
+      "category": ""
+    },
+    {
+      "title": "JavaScript Temporal이 옵니다",
+      "description": {
+        "$text": "<ol>\n<li>개요</li>\n</ol>\n<ul>\n<li>JavaScript Temporal 객체의 구현이 브라우저의 실험적 버전에서 출시되기 시작</li>\n<li>웹 개발자들을 위한 날짜와 시간 처리가 크게 단순화되고 현대화될 예정</li>\n<li>스케줄링, 국제화, 시간 관련 데이터를 다루는 애플리케이션에서 효율적이고 정확한 내장 기능 사용 가능</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18889",
+      "guid": "https://news.hada.io/topic?id=18889",
+      "pubDate": "2025-01-24T17:36:14+09:00",
+      "author": "hongminhee",
+      "category": ""
+    },
+    {
+      "title": "렌티큘러 및 적대적 기술로 다른 목적지로 안내하는 QR 코드",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>mstdn.social 개요</strong></p>\n<ul>\n<li>mstdn.social은 Mastodon 서버 중 하나로, 사용자가 페디버스에 참여할 수 있게 해주는 일반 목적의 Mastodon 서버임.</li>\n<li>500자 제한이 있으며 모든 언어를 환영함.</li>\n<li>관리자: stux@stux</li>\n<li>서버 통계: 18K 활성 사용자</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18888",
+      "guid": "https://news.hada.io/topic?id=18888",
+      "pubDate": "2025-01-24T17:34:30+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
