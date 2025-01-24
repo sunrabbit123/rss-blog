@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-24T10:45:02+09:00",
+  "lastBuildDate": "2025-01-24T12:34:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14911,6 +14911,32 @@
       "guid": "https://news.hada.io/topic?id=18882",
       "pubDate": "2025-01-24T10:23:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "오퍼레이터 도입",
+      "description": {
+        "$text": "<p>There is no content to summarize.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18886",
+      "guid": "https://news.hada.io/topic?id=18886",
+      "pubDate": "2025-01-24T12:34:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Llama.vim – 로컬 LLM 지원 텍스트 완성 기능",
+      "description": {
+        "$text": "<h2>llama.vim</h2>\n<h3>기능</h3>\n<ul>\n<li>\n<code>Insert</code> 모드에서 커서 이동 시 자동 제안 기능</li>\n<li>\n<code>Ctrl+F</code>로 수동 제안 전환 가능</li>\n<li>\n<code>Tab</code>으로 제안 수락</li>\n<li>\n<code>Shift+Tab</code>으로 첫 번째 줄 제안 수락</li>\n<li>최대 텍스트 생성 시간 제어 가능</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18885",
+      "guid": "https://news.hada.io/topic?id=18885",
+      "pubDate": "2025-01-24T11:33:29+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
