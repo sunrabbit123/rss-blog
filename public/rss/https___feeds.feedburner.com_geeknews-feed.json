@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-24T17:36:14+09:00",
+  "lastBuildDate": "2025-01-24T22:38:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14976,6 +14976,19 @@
       "guid": "https://news.hada.io/topic?id=18888",
       "pubDate": "2025-01-24T17:34:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Snap Scope - 렌즈 초점거리 사용 분포 한눈에 보기",
+      "description": {
+        "$text": "<p>안녕하세요. 사진을 찍다가 필요를 느껴 만든 도구를 하나 소개합니다.</p>\n<p>이름은 Snap Scope 입니다. 사진의 메타데이터(EXIF 데이터)를 분석해 자주 사용하는 렌즈 초점거리 분포를 시각화해주는 웹앱입니다. 주로 사용하는 초점거리를 알고싶다거나, 다음 렌즈를 구매할 때 고민이 되시는 분들에게 도움이 될 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18890",
+      "guid": "https://news.hada.io/topic?id=18890",
+      "pubDate": "2025-01-24T22:38:06+09:00",
+      "author": "kan02134",
       "category": ""
     }
   ]
