@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-23T22:46:05+09:00",
+  "lastBuildDate": "2025-01-24T10:04:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14742,6 +14742,136 @@
       "guid": "https://news.hada.io/topic?id=18870",
       "pubDate": "2025-01-23T22:46:05+09:00",
       "author": "abuskorea",
+      "category": ""
+    },
+    {
+      "title": "국내 증권사 CES 2025 리포트 파일 모음",
+      "description": {
+        "$text": "<ul>\n<li>IBK 투자증권 : AI into Real Life</li>\n<li>iM증권 : Physical AI, 혁신을 주도하다</li>\n<li>대신증권 : AI, 모빌리티가 Life로 들어오다</li>\n<li>삼성증권 : 자율주행, 불신지옥</li>\n<li>미래에셋 : AI 생태계 확장으로 더 가까워진 의료서비스</li>\n<li>신한투자증권 : CES2025 - 가장 빠른 한걸음</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18881",
+      "guid": "https://news.hada.io/topic?id=18881",
+      "pubDate": "2025-01-24T10:04:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "C stdlib의 비스레드 안전성과 안전한 Rust의 실패",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ARM64에서만 발생한 충돌</h2>\n<ul>\n<li>EdgeDB의 네트워크 I/O 코드를 Python에서 Rust로 포팅하는 과정에서 ARM64 CI 러너에서 테스트가 간헐적으로 실패하는 문제가 발생함.</li>\n<li>처음에는 데드락으로 보였으나, 실제로는 프로세스가 충돌하여 테스트 러너가 이를 감지하지 못한 것임.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18880",
+      "guid": "https://news.hada.io/topic?id=18880",
+      "pubDate": "2025-01-24T10:00:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "gRPC, OpenAPI 및 REST 이해와 API 설계에서의 활용 시기 (2020)",
+      "description": {
+        "$text": "<h2>API 관리</h2>\n<h3>gRPC와 REST: API 설계에서 gRPC, OpenAPI, REST의 이해와 사용 시점</h3>\n<ul>\n<li>\n<strong>API 설계 모델</strong>: API 설계에는 주로 RPC와 REST 두 가지 모델이 사용됨. 대부분의 현대 API는 HTTP 프로토콜을 기반으로 구현됨.</li>\n<li>\n<strong>gRPC</strong>: HTTP 2.0을 전송 프로토콜로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18879",
+      "guid": "https://news.hada.io/topic?id=18879",
+      "pubDate": "2025-01-24T09:57:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스타링크 관리자 패널을 통한 스바루 차량 해킹 및 제어 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>2024년 11월 20일, Subaru의 STARLINK 연결 차량 서비스에서 보안 취약점을 발견함.</li>\n<li>이 취약점을 통해 공격자는 피해자의 성과 우편번호, 이메일 주소, 전화번호, 차량 번호판만 알고 있어도 차량을 원격으로 제어할 수 있었음.</li>\n<li>취약점 보고 후 24시간 내에 시스템이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18878",
+      "guid": "https://news.hada.io/topic?id=18878",
+      "pubDate": "2025-01-24T09:54:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "F-Droid의 진전과 2025년 전망",
+      "description": {
+        "$text": "<h3>2024년 성과 리뷰</h3>\n<h4>앱 배포의 탈중앙화: 핵심 초점</h4>\n<ul>\n<li>2024년에는 앱 탈중앙화 노력을 계속 발전시켰음.</li>\n<li>F-Droid를 더 강력하고 접근 가능한 플랫폼으로 만들기 위해 노력했음.</li>\n<li>Filecoin Foundation for the Decentralized Web의 지원을 받아 개발자와 사용자에게 더 많은 앱 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18877",
+      "guid": "https://news.hada.io/topic?id=18877",
+      "pubDate": "2025-01-24T09:51:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "컴퓨터 과학 역사에서 가장 영향력 있는 논문들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>이 글은 컴퓨터 과학 역사에서 가장 영향력 있는 7개의 논문을 소개함. 각 논문은 현대 세계에 큰 영향을 미쳤으며, 각 논문은 자체적으로 블로그 글이나 책으로 다룰 가치가 있음.</li>\n</ul>\n</li>\n<li>\n<h2>&quot;On Computable Numbers, with an Application to the Entscheidungs...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18876",
+      "guid": "https://news.hada.io/topic?id=18876",
+      "pubDate": "2025-01-24T09:48:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CES 2024 혁신상 그 이후",
+      "description": {
+        "$text": "<ul>\n<li>CES 2025에서 한국은 역대 최대 규모로 1,031개사가 참가\n<ul>\n<li>참가 기업 수로 미국(1,509개), 중국(1,339개)에 이어 3위</li>\n<li>스타트업관 참가 기업 중 한국 기업은 625개사로 전체의 28% 차지</li>\n<li>CES 2025 혁신상 수상 한국 기업은 151개사로 2년 연속 최다 수상 기록</li>\n</ul>\n</li>\n<li>CE...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18875",
+      "guid": "https://news.hada.io/topic?id=18875",
+      "pubDate": "2025-01-24T09:47:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Tailwind CSS v4.0 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Tailwind CSS v4.0 출시</strong></p>\n<ul>\n<li>성능과 유연성을 최적화한 새로운 버전으로, 최신 웹 플랫폼의 발전을 최대한 활용함</li>\n<li>새로운 고성능 엔진으로 전체 빌드 속도가 최대 5배, 증분 빌드 속도가 100배 이상 빨라짐</li>\n<li>최신 CSS 기능을 활용하여 현대 웹에 맞게 설계됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18874",
+      "guid": "https://news.hada.io/topic?id=18874",
+      "pubDate": "2025-01-24T09:45:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN에 감사: 오늘 내 부트스트랩 스타트업 인수 완료",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>안녕하세요 HN, 저는 VWO의 창립자 파라스 초프라임</p>\n<ul>\n<li>VWO는 2009년 Show HN에서 시작된 A/B 테스트 플랫폼임</li>\n<li>오늘, 회사를 사모펀드에 2억 달러에 매각했음</li>\n<li>이 소식은 TechCrunch에 보도되었음</li>\n</ul>\n</li>\n<li>\n<p>VWO의 시작과 성장</p>\n<ul>\n<li>22세의 신입 졸업생",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18873",
+      "guid": "https://news.hada.io/topic?id=18873",
+      "pubDate": "2025-01-24T09:42:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WhoDB - 가볍고 강력한 데이터베이스 관리 도구",
+      "description": {
+        "$text": "<ul>\n<li>20MB이하로 가볍지만 강력한, 사용자 친화적 데이터베이스 관리 도구\n<ul>\n<li>PostgreSQL, MySQL, SQLite3, MongoDB, Redis, MariaDB, ElasticSearch</li>\n</ul>\n</li>\n<li>복잡한 SQL 작성 대신 자연어로 데이터 쿼리 및 관리 가능 : Ollama, ChatGPT, Anthropic과 통합</li>\n<li>프론트엔드 테이블 가상화 지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18872",
+      "guid": "https://news.hada.io/topic?id=18872",
+      "pubDate": "2025-01-24T09:31:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
