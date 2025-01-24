@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-24T12:34:16+09:00",
+  "lastBuildDate": "2025-01-24T15:24:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -14937,6 +14937,19 @@
       "guid": "https://news.hada.io/topic?id=18885",
       "pubDate": "2025-01-24T11:33:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 세일정보 모아보는 서비스 sale archive",
+      "description": {
+        "$text": "<p>안녕하세요, 개발자 여러분.</p>\n<p>최근에 개인적으로 필요해서 재미 삼아 ‘세일 아카이브’라는 웹사이트를 만들어봤습니다.<br />\n이 사이트는 패션 브랜드와 식료품 관련 세일 정보를 한곳에 모아서 볼 수 있도록 구성했어요.<br />\n평소에 할인 정보를 여기저기 찾아보는 게 번거롭다고 느끼셨다면, 한 번쯤 방",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18887",
+      "guid": "https://news.hada.io/topic?id=18887",
+      "pubDate": "2025-01-24T15:24:36+09:00",
+      "author": "geeksk553",
       "category": ""
     }
   ]
