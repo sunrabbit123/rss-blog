@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-25T16:33:02+09:00",
+  "lastBuildDate": "2025-01-25T22:36:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15145,6 +15145,19 @@
       "guid": "https://news.hada.io/topic?id=18900",
       "pubDate": "2025-01-25T16:15:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Node.js 환경에서 Clang을 이용한 C, C++, Java, JavaScript 포매터를 개발하였습니다.",
+      "description": {
+        "$text": "<ul>\n<li>깃허브 레포지토리: <a href=\"https://github.com/lumirlumir/npm-clang-format-node\">https://github.com/lumirlumir/npm-clang-format-node</a>\n</li>\n<li>공식문서 홈페이지: <a href=\"https://clang-format-node.lumir.page/\">https://clang-format-node.lumir.page/</a>\n</li>\n</ul>\n<hr />\n<p>안녕하세요...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18903",
+      "guid": "https://news.hada.io/topic?id=18903",
+      "pubDate": "2025-01-25T22:36:38+09:00",
+      "author": "beenzinozino",
       "category": ""
     }
   ]
