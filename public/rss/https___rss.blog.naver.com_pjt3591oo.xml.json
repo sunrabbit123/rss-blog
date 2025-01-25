@@ -597,6 +597,24 @@
       "pubDate": "Sun, 12 Jan 2025 14:04:40 +0900",
       "author": "pjt3591oo",
       "category": "멍선생의 EVM"
+    },
+    {
+      "title": "EVM 강좌 4. remix IDE를 이용하여 스마트 컨트랙트 개발",
+      "description": "https://www.youtube.com/watch?v=1t2k0up4zqc",
+      "link": "https://blog.naver.com/pjt3591oo/223738225561?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223738225561",
+      "pubDate": "Sat, 25 Jan 2025 16:50:56 +0900",
+      "author": "pjt3591oo",
+      "category": "멍선생의 EVM"
+    },
+    {
+      "title": "EVM 강좌 3. hardhat를 이용하여 스마트 컨트랙트 개발",
+      "description": "https://www.youtube.com/watch?v=L1TwJ2Jsp9A",
+      "link": "https://blog.naver.com/pjt3591oo/223738223341?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223738223341",
+      "pubDate": "Sat, 25 Jan 2025 16:48:15 +0900",
+      "author": "pjt3591oo",
+      "category": "멍선생의 EVM"
     }
   ]
 }

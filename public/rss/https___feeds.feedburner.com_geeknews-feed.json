@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-25T11:33:18+09:00",
+  "lastBuildDate": "2025-01-25T16:33:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15105,6 +15105,45 @@
       "link": "https://news.hada.io/topic?id=18899",
       "guid": "https://news.hada.io/topic?id=18899",
       "pubDate": "2025-01-25T11:33:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 문의: 도메인을 구매하고 301 리디렉션으로 연결하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>도메인 리디렉션 상황</strong></p>\n<ul>\n<li>SaaS 제품인 example.com을 운영 중일 때, 누군가가 getexample.com, buyexample.io, joinexample.net 같은 여러 도메인을 구매하여 example.com으로 301 리디렉션하고 있음</li>\n<li>이러한 행동의 의도가 무엇인지 궁금함</li>\n</ul>\n</li>\n<li>\n<p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18902",
+      "guid": "https://news.hada.io/topic?id=18902",
+      "pubDate": "2025-01-25T16:33:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "g.co, Google의 숏 URL을 이용한 피싱 공격 사례",
+      "description": {
+        "$text": "<ul>\n<li>해커가 Google 공식 URL 숏도메인 <code>g.co</code>의 하위 도메인(<code>important.g.co</code>)을 악용해 정교한 피싱 공격을 시도한 사례임</li>\n<li>전화 발신자 표시가 &quot;Google&quot;로 뜨고, 발신번호도 (650) 203-0000이어서 실제 Google에서 걸려온 것처럼 보임</li>\n<li>통화 품질이나 언어 구사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18901",
+      "guid": "https://news.hada.io/topic?id=18901",
+      "pubDate": "2025-01-25T16:21:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Vim의 현황",
+      "description": {
+        "$text": "<ul>\n<li>2023년 VIM의 창시자이자 BDFL(자비로운 종신독재자)이었던 Bram Moolenaar의 사망으로 Vim 커뮤니티에 충격이 있었음</li>\n<li>2024년 11월 VimConf에서 유지 보수자인 Christian Brabandt가 새롭게 조직된 Vim 프로젝트와 미래에 대해 발표했음</li>\n</ul>\n<h2>Vim after Bram</h2>\n<ul>\n<li>Bram Moolenaar가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18900",
+      "guid": "https://news.hada.io/topic?id=18900",
+      "pubDate": "2025-01-25T16:15:30+09:00",
       "author": "neo",
       "category": ""
     }
