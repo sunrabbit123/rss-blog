@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-26T10:33:14+09:00",
+  "lastBuildDate": "2025-01-26T11:38:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15300,6 +15300,32 @@
       "link": "https://news.hada.io/topic?id=18906",
       "guid": "https://news.hada.io/topic?id=18906",
       "pubDate": "2025-01-26T09:48:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "화면과 컨트롤러 없는 Steam Brick: 전원 버튼과 USB 포트만 있는 기기",
+      "description": {
+        "$text": "<h2>왜?</h2>\n<ul>\n<li>Steam Deck는 여행에 혁신적이었지만, 크기와 무게 때문에 자주 가져가지 않음.</li>\n<li>AR 안경이나 TV에 연결해 사용했으며, 컨트롤러와 화면이 없으면 더 작고 가벼울 것이라 생각함.</li>\n</ul>\n<h2>시작하기</h2>\n<ul>\n<li>iFixIt의 Steam Deck 수리 가이드와 Valve의 DIY 수리 및 모드 커뮤...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18917",
+      "guid": "https://news.hada.io/topic?id=18917",
+      "pubDate": "2025-01-26T11:38:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CIA, Covid 기원 설명에 실험실 유출설 지지",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>C.I.A.의 새로운 분석</h2>\n<ul>\n<li>C.I.A.는 Covid 팬데믹의 기원이 우한의 시장에서 자연 발생했는지, 연구소에서의 실수로 유출되었는지에 대한 결론을 내리지 못했음.</li>\n<li>최근 C.I.A.의 새로운 분석에서는 연구소 유출 이론을 선호하는 것으로 나타남.</li>\n<li>새로운 정보에 기반한 것이 아니...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18916",
+      "guid": "https://news.hada.io/topic?id=18916",
+      "pubDate": "2025-01-26T11:35:03+09:00",
       "author": "neo",
       "category": ""
     }
