@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-25T22:36:38+09:00",
+  "lastBuildDate": "2025-01-26T09:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15158,6 +15158,19 @@
       "guid": "https://news.hada.io/topic?id=18903",
       "pubDate": "2025-01-25T22:36:38+09:00",
       "author": "beenzinozino",
+      "category": ""
+    },
+    {
+      "title": "StreamyFin - Expo로 만든 Jellyfin 클라이언트",
+      "description": {
+        "$text": "<ul>\n<li>Jellyfin 서버에 접속해서 미디어를 재생하는 클라이언트</li>\n<li>인트로/엔딩 건너뛰기 지원</li>\n<li>챕터 미리보기 지원(Trickplay 이미지)</li>\n<li>백그라운드 오디오 지원하여 폰 잠금 상태에서도 음악 스트리밍 가능</li>\n<li>미디어 다운로드: 로컬 저장 후 오프라인 재생</li>\n<li>Chromecast 지원 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18904",
+      "guid": "https://news.hada.io/topic?id=18904",
+      "pubDate": "2025-01-26T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
