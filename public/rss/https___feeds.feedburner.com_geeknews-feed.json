@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-26T09:31:01+09:00",
+  "lastBuildDate": "2025-01-26T10:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15171,6 +15171,136 @@
       "guid": "https://news.hada.io/topic?id=18904",
       "pubDate": "2025-01-26T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenRA – 현대 시대를 위해 재구성된 클래식 전략 게임",
+      "description": {
+        "$text": "<h4>Playtest 20241228</h4>\n<ul>\n<li>새해를 맞아 Playtest 20241228을 출시함. 여러 중요한 수정과 소규모 기능 추가가 포함됨.</li>\n<li>주요 변경 사항:\n<ul>\n<li>사보타주가 이동 중에도 은폐 가능해짐</li>\n<li>지도 편집기에 삭제 영역 버튼 추가</li>\n<li>전장 뉴스 드롭다운 개선</li>\n<li>유닛 설명 및 백과사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18915",
+      "guid": "https://news.hada.io/topic?id=18915",
+      "pubDate": "2025-01-26T10:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 책 정렬 알고리즘, 완벽에 가까운 성과",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>새로운 알고리듬이 도서관 정렬 문제를 해결하는 방법을 제시함.</li>\n<li>이 문제는 단순히 책을 정렬하는 것뿐만 아니라, 하드 드라이브와 데이터베이스의 파일 배열에도 적용됨.</li>\n<li>새로운 접근법은 책장의 과거 내용과 무작위성을 결합하여 이론적 이상에 가까운 결과를 도출함.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18914",
+      "guid": "https://news.hada.io/topic?id=18914",
+      "pubDate": "2025-01-26T10:12:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년 Home Assistant 활용 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Home Assistant 사용 경험</strong></p>\n<ul>\n<li>약 7년 전 작은 아파트에서 Home Assistant를 사용하기 시작함.</li>\n<li>초기에는 IKEA Smart Hub를 사용하여 조명을 제어했으며, 이후 온도 및 습도 센서와 같은 맞춤형 하드웨어를 구축함.</li>\n<li>장치와 자동화가 많아지면서 Raspberry Pi에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18913",
+      "guid": "https://news.hada.io/topic?id=18913",
+      "pubDate": "2025-01-26T10:09:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PhysicsForums와 죽은 인터넷 이론",
+      "description": {
+        "$text": "<h2>인터넷의 미래 모습</h2>\n<ul>\n<li>PhysicsForums는 2001년에 설립된 과학 포럼으로, 학생들에게 물리학 숙제에 대한 힌트를 제공하는 데 중점을 두었음.</li>\n<li>2012년까지 꾸준히 성장했으나, 이후 StackExchange와 같은 중앙 집중형 사이트로 인해 쇠퇴함.</li>\n<li>2025년까지 URL을 변경하지 않고 게시물을 삭...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18912",
+      "guid": "https://news.hada.io/topic?id=18912",
+      "pubDate": "2025-01-26T10:06:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Pixelfed 사용자 50만 명 돌파",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>FediDB 및 Pixelfed 개요</strong></p>\n<ul>\n<li>FediDB는 Fediverse 네트워크의 통계 정보를 제공하는 사이트임.</li>\n<li>Pixelfed는 사진 공유 플랫폼으로, Fediverse의 일부로 작동함.</li>\n</ul>\n</li>\n<li>\n<p><strong>사용자 및 서버 통계</strong></p>\n<ul>\n<li>총 사용자 수: 525,078명...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18911",
+      "guid": "https://news.hada.io/topic?id=18911",
+      "pubDate": "2025-01-26T10:03:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "서브픽셀 스네이크 [비디오]",
+      "description": {
+        "$text": "서브픽셀 스네이크 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18910",
+      "guid": "https://news.hada.io/topic?id=18910",
+      "pubDate": "2025-01-26T10:00:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "직접 제작하는 Build It Yourself 프로그램",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>또 다른 의존성에 대한 생각</h2>\n<ul>\n<li>의존성에 대한 새로운 관점을 제안함. 의존성의 과도한 사용을 줄이고, 직접 코드를 작성하는 방향으로 전환할 필요가 있음.</li>\n</ul>\n</li>\n<li>\n<h2>의존성 문제</h2>\n<ul>\n<li>&quot;의존성 소모&quot;는 개발자들이 생산성을 위해 설치하는 업데이트, 패치...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18909",
+      "guid": "https://news.hada.io/topic?id=18909",
+      "pubDate": "2025-01-26T09:57:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Zig 기반 오픈소스 헤드리스 브라우저 Lightpanda 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Lightpanda 소개</strong></p>\n<ul>\n<li>Lightpanda는 헤드리스 사용을 위해 만들어진 오픈 소스 브라우저임.</li>\n<li>Javascript 실행과 Web API 지원을 제공하며, Playwright 및 Puppeteer와 호환 가능함.</li>\n<li>AI 에이전트, LLM 훈련, 스크래핑 및 테스트를 위한 빠른 웹 자동화를 지원하며",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18908",
+      "guid": "https://news.hada.io/topic?id=18908",
+      "pubDate": "2025-01-26T09:54:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "어셈블리어로 처음부터 개발된 홈브루 운영체제 Snowdrop OS",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>Snowdrop OS는 IBM PC 아키텍처를 위한 16비트 실모드 운영체제임.</li>\n<li>x86 어셈블리 언어로 처음부터 설계 및 개발되었음.</li>\n<li>파일 관리자, 텍스트 편집기, 그래픽 애플리케이션, BASIC 인터프리터, x86 어셈블러 및 디버거 등 다양한 유틸리티 포함.</li>\n<li>DOS 게임을 포팅하여 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18907",
+      "guid": "https://news.hada.io/topic?id=18907",
+      "pubDate": "2025-01-26T09:51:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "칼트레인 전기 열차, 예상보다 효율적인 성능",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>- 새로운 일정 변경, 1/27</h3>\n<ul>\n<li>Caltrain은 1월 27일 월요일부터 새로운 일정 변경이 있을 것임을 보고함</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18906",
+      "guid": "https://news.hada.io/topic?id=18906",
+      "pubDate": "2025-01-26T09:48:39+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
