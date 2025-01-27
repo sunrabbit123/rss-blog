@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-26T16:37:36+09:00",
+  "lastBuildDate": "2025-01-27T10:22:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15352,6 +15352,136 @@
       "link": "https://news.hada.io/topic?id=18918",
       "guid": "https://news.hada.io/topic?id=18918",
       "pubDate": "2025-01-26T16:34:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PdfDing - 개인용 PDF 관리자",
+      "description": {
+        "$text": "<ul>\n<li>PDF를 관리, 뷰잉, 편집할 수 있는 셀프 호스팅 웹 애플리케이션</li>\n<li>데스크톱 및 모바일 기기의 브라우저에서 PDF를 원활히 열람 가능</li>\n<li>간단하고 빠르며 Docker를 통해 셀프 호스팅 및 쉽게 설정할 수 있도록 설계</li>\n<li>모든 사용자가 파일을 업로드 가능</li>\n<li>주요 기능\n<ul>\n<li>다중 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18931",
+      "guid": "https://news.hada.io/topic?id=18931",
+      "pubDate": "2025-01-27T10:22:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "R1과 그외 모든 것들에 대한 설명",
+      "description": {
+        "$text": "<ul>\n<li>갑자기 튀어나온 R1, 그리고 o1과 o3 등 빠르게 변하는 것들을 이해하기 위한 현재 상황 정리</li>\n</ul>\n<h2>타임라인</h2>\n<ul>\n<li>2024년 9월 12일: o1-preview 출시</li>\n<li>2024년 12월 5일: o1 정식 버전 및 o1-pro 출시</li>\n<li>2024년 12월 20일: o3 발표 (ARC-AGI 통과, “AGI”로 주목받음)</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18930",
+      "guid": "https://news.hada.io/topic?id=18930",
+      "pubDate": "2025-01-27T10:21:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LakeDB 구상 - LakeHouse 아키텍처의 차세대 진화",
+      "description": {
+        "$text": "<ul>\n<li>데이터 관리 분야가 빠르게 변화 중이며, 클라우드 스토리지와 실시간 분석 수요 증가로 인해 Data Lakehouse 개념이 부상하고 있음</li>\n<li>Apache Iceberg, Apache Hudi, Delta Lake 같은 프로젝트가 Lakehouse 아키텍처에 스키마 진화, ACID 트랜잭션, 효율적 업데이트 등 핵심 기능을 제공해 왔음</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18929",
+      "guid": "https://news.hada.io/topic?id=18929",
+      "pubDate": "2025-01-27T10:07:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "시위자를 위한 스마트폰 보안 가이드",
+      "description": {
+        "$text": "<h3>스마트폰 보안 가이드</h3>\n<ul>\n<li>시위, 활동가, 기자들에게 스마트폰은 중요한 도구이지만, 감시의 위험이 있음.</li>\n<li>시위에 스마트폰을 가져갈지 고민해야 함. 가져가지 않으면 데이터 보안이 높아짐.</li>\n<li>별도의 기기(버너폰, 오래된 폰, 카메라)를 사용하는 것이 더 나은 선택일 수 있음.</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18928",
+      "guid": "https://news.hada.io/topic?id=18928",
+      "pubDate": "2025-01-27T10:05:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트 365 Copilot 출시 참사",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>가격 인상 실수</h3>\n<ul>\n<li>Microsoft는 새해 초에 Microsoft 365의 가격을 30% 인상함.</li>\n<li>고객 반응은 부정적이며, 많은 불만이 제기됨.</li>\n</ul>\n</li>\n<li>\n<h3>AI에 대한 비용 부담</h3>\n<ul>\n<li>AI의 잠재력은 크지만, Microsoft 365의 AI 기능은 아직 미흡함.</li>\n<li>개인 및 가족 구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18927",
+      "guid": "https://news.hada.io/topic?id=18927",
+      "pubDate": "2025-01-27T10:02:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "잘못된 68030 명령어로 인해 Mac Classic II 부팅 허용 사고",
+      "description": {
+        "$text": "<h2>68030의 잘못된 명령어가 Mac Classic II의 부팅을 가능하게 한 이야기</h2>\n<ul>\n<li>Apple은 Macintosh Classic II의 ROM에서 실수를 저질렀고, 이는 부팅을 방해할 수 있었음. 그러나 Motorola MC68030 CPU가 정의되지 않은 명령어를 실행하여 충돌을 방지하고 부팅을 성공시킴.</li>\n</ul>\n<h3>MAME와 Mac 에뮬레...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18926",
+      "guid": "https://news.hada.io/topic?id=18926",
+      "pubDate": "2025-01-27T09:59:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "가족을 구하기 위해 항공모함에 Cessna를 착륙시킨 남베트남 조종사 (2019)",
+      "description": {
+        "$text": "<h2>남베트남 조종사의 대담한 비행</h2>\n<ul>\n<li>\n<p><strong>배경</strong>: 1975년 4월 29일, 남베트남 공군의 부앙 리 소령은 가족을 구하기 위해 작은 비행기를 몰래 가져가 미드웨이 항공모함에 착륙하려는 위험한 시도를 함. 당시 남베트남은 혼란에 빠져 있었고, 북베트남군이 남베트남을 점령하고 있었음.</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18925",
+      "guid": "https://news.hada.io/topic?id=18925",
+      "pubDate": "2025-01-27T09:56:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "YC Graveyard: 821개의 비활성 Y Combinator 스타트업",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>YC Graveyard 소개</strong></p>\n<ul>\n<li>YC Graveyard는 YCombinator의 비활성 스타트업을 모아둔 목록임.</li>\n<li>총 821개의 스타트업이 39개의 배치와 50개의 산업에 걸쳐 포함됨.</li>\n<li>&quot;Better to have launched and lost than never to have launched at all&quot;이라는 모토를 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18924",
+      "guid": "https://news.hada.io/topic?id=18924",
+      "pubDate": "2025-01-27T09:53:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kronotop - Redis 호환 분산 문서 저장소, FoundationDB 기반",
+      "description": {
+        "$text": "<ul>\n<li>Redis 호환 방식으로 동작하는 분산형 트랜잭션 문서 데이터베이스로 FoundationDB를 메타데이터 및 스토리지 관리에 활용</li>\n<li>MQL과 유사한 쿼리 언어, ACID 트랜잭션, Primary-Standby 복제 모델을 갖춘 디스크 기반 스토리지 엔진을 목표로 함</li>\n</ul>\n<h2>한눈에 보기</h2>\n<ul>\n<li>기본적으로 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18923",
+      "guid": "https://news.hada.io/topic?id=18923",
+      "pubDate": "2025-01-27T09:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Wayland vs. X11 입력 지연 논의의 구체적 수치",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>어제 읽은 블로그 게시물에서는 Linux 사용자가 Wayland에서의 입력 지연에 대한 불만을 논의함. 이 사용자는 주관적인 경험을 설명했지만, 명확한 증거를 제시하지 못했음.</p>\n</li>\n<li>\n<p>필자는 Wayland 사용자로서 커서 지연이 X11보다 더 크다는 인상을 공유함. 실험은 90 FPS의 카메라로 제한되었",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18922",
+      "guid": "https://news.hada.io/topic?id=18922",
+      "pubDate": "2025-01-27T09:50:04+09:00",
       "author": "neo",
       "category": ""
     }
