@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-27T10:22:01+09:00",
+  "lastBuildDate": "2025-01-27T11:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15483,6 +15483,32 @@
       "guid": "https://news.hada.io/topic?id=18922",
       "pubDate": "2025-01-27T09:50:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "북한 IT 직원의 데이터 침해",
+      "description": {
+        "$text": "<p>최근 북한 IT 직원으로부터 데이터를 침해당한 사례가 있어 FBI에서 경보를 발령했습니다.</p>\n<h2>피해 사례</h2>\n<ul>\n<li>중요 데이터를 인질로 삼아 회사에 몸값을 요구</li>\n<li>타사의 리포지토리(예: Github 등)를 자신의 사용자 프로필과 개인 클라우드 계정으로 복사</li>\n<li>중요한 데이터에 접근할 수 있",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18933",
+      "guid": "https://news.hada.io/topic?id=18933",
+      "pubDate": "2025-01-27T11:33:22+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "1인 여성 개발팀으로 2백만명 사용자 달성하기",
+      "description": {
+        "$text": "<ul>\n<li>Nadia Odunayo가 Brighton Ruby에서 발표한 내용의 요약</li>\n</ul>\n<h2>2020년 1월 1일로 돌아가기</h2>\n<ul>\n<li>2024년 6월 시점에서 2020년 1월 1일로 돌아가 Storygraph의 초기 성과를 회상\n<ul>\n<li>창업 후 1년 동안 매일 개발에 매진하며, 드디어 &quot;사용자 100명 가입&quot;이라는 목표를 달성</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18932",
+      "guid": "https://news.hada.io/topic?id=18932",
+      "pubDate": "2025-01-27T10:43:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
