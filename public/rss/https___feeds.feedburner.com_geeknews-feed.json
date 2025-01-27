@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-27T13:33:51+09:00",
+  "lastBuildDate": "2025-01-27T18:08:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15521,6 +15521,19 @@
       "link": "https://news.hada.io/topic?id=18934",
       "guid": "https://news.hada.io/topic?id=18934",
       "pubDate": "2025-01-27T13:33:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sony가 Blu-ray 디스크, MiniDisc 및 MiniDV 미디어 생산을 종료하기로 결정",
+      "description": {
+        "$text": "<ul>\n<li>소니는 2025년 2월부로 아래의 제품 전 모델 생산을 종료함\n<ul>\n<li>블루레이(Blu-ray) 디스크 미디어</li>\n<li>녹음용 미니디스크(MiniDisc)</li>\n<li>기록용 MD 데이터</li>\n<li>미니 DV 카세트(MiniDV)</li>\n</ul>\n</li>\n<li>해당 제품군의 후속 모델은 출시되지 않음</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18935",
+      "guid": "https://news.hada.io/topic?id=18935",
+      "pubDate": "2025-01-27T18:08:01+09:00",
       "author": "neo",
       "category": ""
     }
