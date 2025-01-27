@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-27T18:08:01+09:00",
+  "lastBuildDate": "2025-01-27T21:34:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15535,6 +15535,32 @@
       "guid": "https://news.hada.io/topic?id=18935",
       "pubDate": "2025-01-27T18:08:01+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: DeepSeek 사용자 에이전트",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>DeepSeek R1 소개</strong>\n<ul>\n<li>DeepSeek R1은 사용자가 사고 과정을 이해할 수 있도록 돕는 새로운 모델 및 서비스임</li>\n<li>사용자는 chat.deepseek.com에서 무료로 실시간으로 사용할 수 있으며, platform.deepseek.com API를 통해 저렴한 비용으로 이용 가능함</li>\n<li>&quot;Judge Me&qu...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18937",
+      "guid": "https://news.hada.io/topic?id=18937",
+      "pubDate": "2025-01-27T21:34:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 이메일 발송 시스템 오픈소스 (AWS SQS, SES, SNS 등을 활용한 Golang 프로젝트)",
+      "description": {
+        "$text": "<p>안녕하세요,<br />\nGolang 을 이용해서 구축한 이메일 발송 시스템을 소개합니다 🙇‍♂️<br />\n(참고로, 이 프로젝트는 AWS SES 에 맞춰 설계/개발 되었습니다)</p>\n<ul>\n<li>Github : https://github.com/lee-lou2/email-go</li>\n</ul>\n<h2>프로젝트 구조</h2>\n<ol>\n<li>\n<p>Client<br />\nAWS SQS 를 이용해서 이메",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18936",
+      "guid": "https://news.hada.io/topic?id=18936",
+      "pubDate": "2025-01-27T21:08:55+09:00",
+      "author": "leelou2",
       "category": ""
     }
   ]
