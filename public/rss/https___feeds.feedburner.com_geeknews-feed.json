@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-27T11:33:22+09:00",
+  "lastBuildDate": "2025-01-27T13:33:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15509,6 +15509,19 @@
       "guid": "https://news.hada.io/topic?id=18932",
       "pubDate": "2025-01-27T10:43:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "캔자스 결핵 발병, 기록된 역사상 미국 최대 규모 발생",
+      "description": {
+        "$text": "<p>죄송하지만 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18934",
+      "guid": "https://news.hada.io/topic?id=18934",
+      "pubDate": "2025-01-27T13:33:51+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
