@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-28T17:33:52+09:00",
+  "lastBuildDate": "2025-01-28T22:33:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15729,6 +15729,19 @@
       "link": "https://news.hada.io/topic?id=18951",
       "guid": "https://news.hada.io/topic?id=18951",
       "pubDate": "2025-01-28T17:33:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일러스트레이티드 DeepSeek-R1",
+      "description": {
+        "$text": "<h4>The Illustrated DeepSeek-R1</h4>\n<ul>\n<li>\n<p><strong>DeepSeek-R1 소개</strong></p>\n<ul>\n<li>DeepSeek-R1은 AI 발전의 중요한 이정표로, ML 연구개발 커뮤니티에 큰 영향을 미침.</li>\n<li>이 모델은 오픈 웨이트 모델로, 작은 크기의 디스틸 버전도 제공함.</li>\n<li>OpenAI O1과 같은 추론 모델을 재현하는 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18952",
+      "guid": "https://news.hada.io/topic?id=18952",
+      "pubDate": "2025-01-28T22:33:13+09:00",
       "author": "neo",
       "category": ""
     }
