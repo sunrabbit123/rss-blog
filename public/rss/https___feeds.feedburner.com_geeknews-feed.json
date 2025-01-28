@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-28T10:59:50+09:00",
+  "lastBuildDate": "2025-01-28T17:33:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15716,6 +15716,19 @@
       "link": "https://news.hada.io/topic?id=18941",
       "guid": "https://news.hada.io/topic?id=18941",
       "pubDate": "2025-01-28T09:41:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엔비디아의 5,890억 달러 DeepSeek Rout(패배)",
+      "description": {
+        "$text": "<ul>\n<li>Nvidia Corp.의 주가가 중국 인공지능 스타트업 DeepSeek에 대한 투자자 우려로 인해 급락함.\n<ul>\n<li>월요일에 17% 하락하며, 회사의 시장 가치에서 5,890억 달러가 사라짐.</li>\n<li>이는 미국 주식 시장 역사상 가장 큰 하락 기록임.</li>\n</ul>\n</li>\n<li>\n<strong>시장에 미친 영향</strong>\n<ul>\n<li>Nv...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18951",
+      "guid": "https://news.hada.io/topic?id=18951",
+      "pubDate": "2025-01-28T17:33:52+09:00",
       "author": "neo",
       "category": ""
     }
