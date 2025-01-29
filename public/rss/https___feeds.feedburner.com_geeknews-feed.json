@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-29T10:24:25+09:00",
+  "lastBuildDate": "2025-01-29T10:31:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15860,6 +15860,19 @@
       "guid": "https://news.hada.io/topic?id=18953",
       "pubDate": "2025-01-29T09:31:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Qwen2.5-Max: 대규모 MoE 모델의 지능 탐구",
+      "description": {
+        "$text": "<ul>\n<li>Qwen2.5-Max는 20조(20T) 개 이상의 토큰으로 사전 학습한 대규모 Mixture-of-Experts(MoE) 모델</li>\n<li>Supervised Fine-Tuning(SFT) 및 인간 피드백을 활용한 강화학습(RLHF)을 통해 후속 학습 진행</li>\n<li>DeepSeek V3, GPT-4o, Claude-3.5-Sonnet, Llama-3.1-405B 등과 비교한 대부분의 벤치마크에서 탁...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18964",
+      "guid": "https://news.hada.io/topic?id=18964",
+      "pubDate": "2025-01-29T10:31:47+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
