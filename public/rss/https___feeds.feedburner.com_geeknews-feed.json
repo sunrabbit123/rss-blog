@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-29T10:31:47+09:00",
+  "lastBuildDate": "2025-01-29T12:33:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -15872,6 +15872,19 @@
       "link": "https://news.hada.io/topic?id=18964",
       "guid": "https://news.hada.io/topic?id=18964",
       "pubDate": "2025-01-29T10:31:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "알파 신화: 사육된 늑대가 우리를 잘못 이끈 이야기",
+      "description": {
+        "$text": "<h4>알파 신화: 사로잡힌 늑대가 우리를 잘못 이끌었던 방법</h4>\n<ul>\n<li>1947년 스위스 바젤 동물원에서 동물 행동학자 루돌프 쉔켈은 사로잡힌 늑대들의 행동을 관찰하며 공격적 지배와 엄격한 계층 구조를 기록함. 이는 알파 수컷 개념을 과학 문헌과 대중 상상 속에 자리 잡게 함.</li>\n</ul>\n<h3>야생의 진실</h3...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18965",
+      "guid": "https://news.hada.io/topic?id=18965",
+      "pubDate": "2025-01-29T12:33:25+09:00",
       "author": "neo",
       "category": ""
     }
