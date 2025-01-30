@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-30T10:00:35+09:00",
+  "lastBuildDate": "2025-01-30T10:03:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16016,6 +16016,19 @@
       "guid": "https://news.hada.io/topic?id=18967",
       "pubDate": "2025-01-30T09:31:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "박테리아(및 그 대사산물)와 우울증 관계",
+      "description": {
+        "$text": "<p>There is no content to summarize from the provided text.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18976",
+      "guid": "https://news.hada.io/topic?id=18976",
+      "pubDate": "2025-01-30T10:03:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
