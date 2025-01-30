@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-30T10:03:36+09:00",
+  "lastBuildDate": "2025-01-30T11:59:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16029,6 +16029,45 @@
       "guid": "https://news.hada.io/topic?id=18976",
       "pubDate": "2025-01-30T10:03:36+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "[번역] RAG 세상을 헤엄치는 사람들을 위한 가이드북",
+      "description": {
+        "$text": "<p>임베딩과 정보 검색 전 과정 — 임베딩 개념과 한계, 데이터셋 생성·라벨링, 각종 오프 더 셸프 모델 평가, 하이브리드·리랭킹, 임베딩 모델 파인튜닝 및 최적화, 해석 가능성까지 –을 주욱 살펴보는 글입니다.</p>\n<p>다루는 주제들</p>\n<ul>\n<li>임베딩과 그 일반화 가능성(Generalizability)에 대한 논의</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18979",
+      "guid": "https://news.hada.io/topic?id=18979",
+      "pubDate": "2025-01-30T11:59:11+09:00",
+      "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek의 R1-Zero 및 R1 분석",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>ARC Prize의 목표와 중요성</strong></p>\n<ul>\n<li>ARC Prize Foundation은 AGI(인공지능 일반화)를 정의하고, 측정하며, 새로운 아이디어를 고취하는 것을 목표로 함.</li>\n<li>AGI를 아직 달성하지 못했으며, 순수 LLM(대규모 언어 모델) 사전 훈련의 확장이 해결책이 아님을 강조함.</li>\n<li>2",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18978",
+      "guid": "https://news.hada.io/topic?id=18978",
+      "pubDate": "2025-01-30T11:34:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek R1의 추론 능력을 바탕으로 100분의 1 작은 ModernBERT 훈련하기",
+      "description": {
+        "$text": "<p>DeepSeek R1 으로부터 만든 라벨을 사용해 ModernBERT 모델이 “논문이 새 데이터셋을 소개하는지”를 예측하도록 학습할 수 있다. 이렇게 만들어진 모델은 곧바로 사용이 가능하며, 실무 서비스 환경에서 추론만 할 때는 LLM처럼 거대한 리소스가 필요 없다. 그럼에도 레이블이 필요한 분류 문제에서 LLM의 추론 능력...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18977",
+      "guid": "https://news.hada.io/topic?id=18977",
+      "pubDate": "2025-01-30T11:21:53+09:00",
+      "author": "sigridjineth",
       "category": ""
     }
   ]
