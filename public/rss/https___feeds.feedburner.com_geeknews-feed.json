@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-31T10:34:21+09:00",
+  "lastBuildDate": "2025-01-31T16:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16249,6 +16249,19 @@
       "link": "https://news.hada.io/topic?id=18994",
       "guid": "https://news.hada.io/topic?id=18994",
       "pubDate": "2025-01-31T10:34:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2023년 캘리포니아 법 집행기관의 7천 건 이상의 주 데이터베이스 오용 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>로스앤젤레스 카운티 보안관 부서의 데이터베이스 남용</h2>\n<ul>\n<li>2023년 로스앤젤레스 카운티 보안관 부서(LACSD)는 민감한 범죄 데이터베이스를 남용하여 캘리포니아 법 집행 전기통신 시스템(CLETS)의 규칙을 위반함.</li>\n<li>LACSD의 남용 사례는 캘리포니아 전역에서 보고된 7,275건의 위반 중 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18995",
+      "guid": "https://news.hada.io/topic?id=18995",
+      "pubDate": "2025-01-31T16:33:23+09:00",
       "author": "neo",
       "category": ""
     }
