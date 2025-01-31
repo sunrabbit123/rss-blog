@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-30T21:38:27+09:00",
+  "lastBuildDate": "2025-01-31T10:02:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16107,6 +16107,136 @@
       "guid": "https://news.hada.io/topic?id=18983",
       "pubDate": "2025-01-30T21:38:27+09:00",
       "author": "gurugio",
+      "category": ""
+    },
+    {
+      "title": "Apple과 SpaceX, 아이폰에서 Starlink 위성 네트워크 지원을 위한 협력 체결",
+      "description": {
+        "$text": "<ul>\n<li>Apple이 T-Mobile, SpaceX와 협력해 iPhone 소프트웨어에 Starlink 네트워크를 추가 지원하기 시작함</li>\n<li>이전에는 T-Mobile이 Starlink를 Samsung 스마트폰(S24, Z Fold 등) 위주로만 언급했으나, 이번에 극소수 iPhone에 대한 베타 테스트도 열림</li>\n<li>기존에 Apple은 Globalstar를 통해 위성 통신 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18993",
+      "guid": "https://news.hada.io/topic?id=18993",
+      "pubDate": "2025-01-31T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SmolGPT: 작은 LLM을 처음부터 훈련하기 위한 최소한의 PyTorch 구현",
+      "description": {
+        "$text": "<h2>SMOL-GPT 🦾</h2>\n<p>교육 목적으로 설계된 PyTorch 기반의 간단한 LLM 훈련 프로젝트로, 효율적인 훈련과 최신 샘플링 기법을 특징으로 함.</p>\n<h3>특징 ✨</h3>\n<ul>\n<li>\n<strong>최소 코드베이스</strong>: PyTorch로 구현되어 복잡한 추상화가 없음</li>\n<li>\n<strong>최신 아키텍처</strong>: GPT 모델로, 플",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18992",
+      "guid": "https://news.hada.io/topic?id=18992",
+      "pubDate": "2025-01-31T09:49:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년에 인쇄된 것으로 보이는 다수의 포켓몬 플레이테스트 카드",
+      "description": {
+        "$text": "<h2>추적 점에 대하여</h2>\n<ul>\n<li>대부분의 가정 및 사무실 프린터는 인쇄된 용지에 매우 작은 노란 점 형태로 메타데이터를 추가함. 이 점들은 육안으로는 보이지 않음.</li>\n<li>점의 배열은 프린터 브랜드마다 다르며, 일부는 아예 점을 남기지 않음. 이 점들은 프린터의 일종의 &quot;서명&quot; 역할을 하며, 법...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18991",
+      "guid": "https://news.hada.io/topic?id=18991",
+      "pubDate": "2025-01-31T09:46:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Postiz - AI를 이용한 소셜 미디어 스케쥴링 도구",
+      "description": {
+        "$text": "<ul>\n<li>Buffer, Hypefury 등의 셀프호스트 가능 대체제</li>\n<li>모든 소셜 미디어 포스팅을 스케줄 가능\n<ul>\n<li>인스타그램, 페이스북, X, Threads, Bluesky, 유튜브, 틱톡,  슬랙, 디스코드, 레딧, 핀터레스트, 마스토돈, 링크드인, Dribbble</li>\n</ul>\n</li>\n<li>분석도구를 통한 성과 분석</li>\n<li>다른 팀 멤...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18990",
+      "guid": "https://news.hada.io/topic?id=18990",
+      "pubDate": "2025-01-31T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미스트랄 스몰 3 출시",
+      "description": {
+        "$text": "<h4>Mistral Small 3 소개</h4>\n<ul>\n<li>Mistral AI 팀은 Mistral Small 3라는 24B-파라미터 모델을 Apache 2.0 라이선스로 출시함.</li>\n<li>이 모델은 Llama 3.3 70B나 Qwen 32B와 같은 더 큰 모델과 경쟁할 수 있으며, GPT4o-mini와 같은 독점 모델의 대체품으로 적합함.</li>\n<li>Mistral Small 3는 로컬 배포에 적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18989",
+      "guid": "https://news.hada.io/topic?id=18989",
+      "pubDate": "2025-01-31T09:43:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "레이건 공항 인근에서 상업용 제트기와 블랙 호크 헬리콥터 충돌 사고",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>상업용 여객기와 블랙 호크 헬리콥터 충돌 후 시신 발견</h2>\n</li>\n<li>\n<p>위키타, 캔자스에서 출발한 여객기가 버지니아 북부의 로널드 레이건 워싱턴 내셔널 공항 근처에서 미 육군 블랙 호크 헬리콥터와 공중 충돌함</p>\n</li>\n<li>\n<p>포토맥 강에서 생존자를 수색하기 위해 공항의 항공편이 중단됨",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18988",
+      "guid": "https://news.hada.io/topic?id=18988",
+      "pubDate": "2025-01-31T09:40:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JavaScript Temporal 출시 예정 소식",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>JavaScript Temporal이 다가옴</h2>\n<ul>\n<li>새로운 JavaScript Temporal 객체의 구현이 브라우저의 실험적 릴리스에 포함되기 시작함. 이는 웹 개발자들에게 큰 소식이며, JavaScript에서 날짜와 시간을 다루는 것이 크게 간소화되고 현대화될 것임.</li>\n<li>일정 관리, 국제화, 시간 민감 데이터에 의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18987",
+      "guid": "https://news.hada.io/topic?id=18987",
+      "pubDate": "2025-01-31T09:37:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Beszel - 셀프호스트 가능한 경량 서버 모니터링 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>Docker 통계, 이력 데이터, 알림 기능 제공</li>\n<li>직관적인 웹 인터페이스와 간단한 설정으로 &quot;바로 사용 가능&quot;</li>\n<li>자동 백업, 멀티 사용자 지원, OAuth 인증, REST API 액세스를 제공</li>\n<li>주요 기능\n<ul>\n<li>경량으로 다른 솔루션들보다 더 작고 자원 소모가 적음</li>\n<li>간단함: ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18986",
+      "guid": "https://news.hada.io/topic?id=18986",
+      "pubDate": "2025-01-31T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2032년 지구 소행성 충돌 가능성 1% 및 8Mt 에너지",
+      "description": {
+        "$text": "<h2>지구 충돌 모니터링 소개</h2>\n<ul>\n<li>\n<strong>Sentry</strong>는 지구에 충돌할 가능성이 있는 천체를 모니터링하는 시스템임.</li>\n<li>이 시스템은 Torino 및 Palermo 척도를 사용하여 잠재적 위험을 평가함.</li>\n<li>각 천체의 충돌 가능성과 관련된 평균값을 제공함.</li>\n</ul>\n<h2>(2024 YR4) 지구 충돌 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18985",
+      "guid": "https://news.hada.io/topic?id=18985",
+      "pubDate": "2025-01-31T08:38:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아들을 위한 T1D 스마트워치 직접 제작",
+      "description": {
+        "$text": "<h2>배경</h2>\n<ul>\n<li>9살 아들이 1형 당뇨병을 앓고 있어, 췌장이 항상 수동 모드로 작동해야 하는 상황임.</li>\n<li>건강한 췌장은 인슐린과 글루카곤을 생성하여 혈당을 조절함.</li>\n<li>1형 당뇨병 환자는 이러한 조절 장치 없이 혈당을 관리해야 하며, 저혈당은 치료하지 않으면 응급 상황이 될 수 있음.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18984",
+      "guid": "https://news.hada.io/topic?id=18984",
+      "pubDate": "2025-01-31T08:35:51+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
