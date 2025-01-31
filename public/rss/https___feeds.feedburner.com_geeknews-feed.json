@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-31T10:02:01+09:00",
+  "lastBuildDate": "2025-01-31T10:34:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16236,6 +16236,19 @@
       "link": "https://news.hada.io/topic?id=18984",
       "guid": "https://news.hada.io/topic?id=18984",
       "pubDate": "2025-01-31T08:35:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Antiqua et Nova: AI와 인간 지능의 관계에 대한 고찰",
+      "description": {
+        "$text": "<h2>인공지능과 인간 지능의 관계에 대한 고찰</h2>\n<h3>I. 서론</h3>\n<ul>\n<li>과학과 기술의 발전, 특히 인공지능(AI)의 발전은 현대 사회에 도전과 기회를 제공함.</li>\n<li>기독교 전통에서는 지능을 인간이 &quot;하나님의 형상&quot;으로 창조된 본질적인 측면으로 간주함.</li>\n<li>인간의 지능은 창조 세계를 책...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18994",
+      "guid": "https://news.hada.io/topic?id=18994",
+      "pubDate": "2025-01-31T10:34:21+09:00",
       "author": "neo",
       "category": ""
     }
