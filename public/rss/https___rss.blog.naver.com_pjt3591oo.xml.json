@@ -624,6 +624,15 @@
       "pubDate": "Sun, 26 Jan 2025 09:14:03 +0900",
       "author": "pjt3591oo",
       "category": "인공지능 활용"
+    },
+    {
+      "title": "[블록체인] multi-sig와 key rotation을 이용한 악용사례",
+      "description": "안녕하세요 멍개입니다. 이번 시간엔 multi-sig와 key rotation을 이용한 사기 수법을 소개합니다. 본 포스트의 목적은 사기 수법을 공개함으로써 피해자가 없기를 바라는 마음으로 작성합니다. evm, aptos, solana 등 대부분의 블록체인에서는 어카운트 구조를 사용합니다. 개인키는 해당 어카운트의 모든 권한을 가지게 됩니다. · 다중서명(Multi-Sig) or 권한(Permission) 한 어카운트를 하나의 개인키가 아닌 다수의 개인키를 등록시켜서 다수의 개인키 서명을 받아야 트랜잭션을 성공시키는 방법이 multi sig 입니다. multi sig를 사용하는 이유는 어카운트의 제어권을 여러 개인키로 분산함으로써 도난 / 무단 액세스 등의 위험으로부터 보.......",
+      "link": "https://blog.naver.com/pjt3591oo/223744196919?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223744196919",
+      "pubDate": "Sat, 01 Feb 2025 13:20:36 +0900",
+      "author": "pjt3591oo",
+      "category": "블록체인"
     }
   ]
 }

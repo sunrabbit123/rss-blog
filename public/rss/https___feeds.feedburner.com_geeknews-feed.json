@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-01T10:33:26+09:00",
+  "lastBuildDate": "2025-02-01T11:40:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16406,6 +16406,19 @@
       "guid": "https://news.hada.io/topic?id=19006",
       "pubDate": "2025-02-01T10:33:26+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "명령줄 인터페이스 가이드라인",
+      "description": {
+        "$text": "<p><a href=\"https://github.com/moreal\">이도건</a> 님께서 <a href=\"https://clig.dev/\">Command-line interface guideline</a>를 한국어로 번역하신 것을 공유합니다! 번역본의 소스 코드는 <a href=\"https://github.com/moreal/cli-guidelines-kr\">GitHub 저장소</a>에서 확인하실 수 있습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19007",
+      "guid": "https://news.hada.io/topic?id=19007",
+      "pubDate": "2025-02-01T11:40:43+09:00",
+      "author": "hongminhee",
       "category": ""
     }
   ]
