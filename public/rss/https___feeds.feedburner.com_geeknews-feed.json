@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-01T10:04:12+09:00",
+  "lastBuildDate": "2025-02-01T10:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16392,6 +16392,19 @@
       "link": "https://news.hada.io/topic?id=18996",
       "guid": "https://news.hada.io/topic?id=18996",
       "pubDate": "2025-02-01T09:40:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "헥스 언어로 DeepSeek 검열 우회 방법",
+      "description": {
+        "$text": "<h4>소개</h4>\n<ul>\n<li>최근 중국에서 출시된 DeepSeek-R1 LLM 모델이 주목받고 있음.</li>\n<li>OpenAI, Meta 등의 모델과 비교되며, 적은 자원으로 훈련되어 비용 효율적인 AI 개발 가능성에 대한 논의가 있음.</li>\n</ul>\n<h4>오픈소스 모델, 독점 채팅 애플리케이션</h4>\n<ul>\n<li>DeepSeek-R1 모델은 MIT 라이선스로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19006",
+      "guid": "https://news.hada.io/topic?id=19006",
+      "pubDate": "2025-02-01T10:33:26+09:00",
       "author": "neo",
       "category": ""
     }
