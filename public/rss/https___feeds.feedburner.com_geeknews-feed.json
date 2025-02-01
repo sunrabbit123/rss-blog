@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-01-31T16:33:23+09:00",
+  "lastBuildDate": "2025-02-01T10:04:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16262,6 +16262,136 @@
       "link": "https://news.hada.io/topic?id=18995",
       "guid": "https://news.hada.io/topic?id=18995",
       "pubDate": "2025-01-31T16:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대규모 연구, 젊은 대마초 사용자 뇌 기능 감소 발견",
+      "description": {
+        "$text": "<h4>젊은 대마초 사용자의 뇌 기능 저하</h4>\n<ul>\n<li>\n<p><strong>연구 배경</strong></p>\n<ul>\n<li>대마초 사용이 젊은 성인의 뇌 기능에 미치는 영향을 조사한 가장 큰 연구가 진행됨.</li>\n<li>연구 결과는 대마초 사용의 장단점을 이해하는 데 도움을 줄 것임.</li>\n<li>대마초의 합법화가 증가하면서 젊은 성인에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19005",
+      "guid": "https://news.hada.io/topic?id=19005",
+      "pubDate": "2025-02-01T10:04:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek에서 검열한 1,156개의 질문들",
+      "description": {
+        "$text": "<ul>\n<li>DeepSeek-R1은 중국 기업 DeepSeek이 공개한 오픈소스 모델로, 미국 앱 스토어 1위에 오르며 주목을 받고 있음</li>\n<li>중국회사이기 때문에 중국 당국(CCP)의 검열 정책이 그대로 반영되어 있으며, 이를 우려하는 시각이 존재함</li>\n<li>Promptfoo 팀은 이 CCP 검열 의심 콘텐츠를 평가하기 위해, 1,360개의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19004",
+      "guid": "https://news.hada.io/topic?id=19004",
+      "pubDate": "2025-02-01T10:02:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Mathesar – 직관적인 스프레드시트 유사 인터페이스를 통한 Postgres 데이터 접근",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>직관적인 스프레드시트 인터페이스</strong>\n<ul>\n<li>모든 기술 수준의 사용자가 Postgres 데이터를 직접 보고, 편집하고, 쿼리하고 협업할 수 있는 인터페이스 제공</li>\n<li>자체 호스팅 가능하며, Postgres의 네이티브 접근 제어 기능 사용</li>\n</ul>\n</li>\n</ul>\n<h2>Mathesar</h2>\n<ul>\n<li>Ma...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19003",
+      "guid": "https://news.hada.io/topic?id=19003",
+      "pubDate": "2025-02-01T10:01:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "$15짜리 Casio F91W 5km 수중 테스트",
+      "description": {
+        "$text": "$15짜리 Casio F91W 5km 수중 테스트",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19002",
+      "guid": "https://news.hada.io/topic?id=19002",
+      "pubDate": "2025-02-01T09:58:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, 미국 vs. 구글 소송 피고 참여 긴급 신청 [pdf]",
+      "description": {
+        "$text": "애플, 미국 vs. 구글 소송 피고 참여 긴급 신청 [pdf]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19001",
+      "guid": "https://news.hada.io/topic?id=19001",
+      "pubDate": "2025-02-01T09:55:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OCaml을 위한 개선된 빌드 시스템",
+      "description": {
+        "$text": "OCaml을 위한 개선된 빌드 시스템",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19000",
+      "guid": "https://news.hada.io/topic?id=19000",
+      "pubDate": "2025-02-01T09:52:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google 검색에 \"fucking\" 추가하여 AI 요약 중립화 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Google 검색에서 AI 요약을 피하는 방법</strong></p>\n<ul>\n<li>구글 검색에서 욕설을 포함하면 AI 요약이 표시되지 않음</li>\n<li>예를 들어, &quot;Yale University의 학생 수는?&quot; 대신 &quot;Yale University의 학생 수는 대체 얼마나 많은 거야?&quot;라고 검색하면 AI 요약 없이 일반적인",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18999",
+      "guid": "https://news.hada.io/topic?id=18999",
+      "pubDate": "2025-02-01T09:49:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메뉴 바에 있는 macOS 시스템 모니터 Stats",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>StatsmacOS 시스템 모니터</h2>\n</li>\n<li>\n<h3>설치</h3>\n<ul>\n<li>\n<h4>수동 설치</h4>\n<ul>\n<li>최신 버전을 다운로드하여 <code>Stats.dmg</code> 파일을 열고 애플리케이션 폴더로 이동함</li>\n</ul>\n</li>\n<li>\n<h4>Homebrew</h4>\n<ul>\n<li>터미널 앱을 열고 <code>brew install stats</code> 명령어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18998",
+      "guid": "https://news.hada.io/topic?id=18998",
+      "pubDate": "2025-02-01T09:46:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "게임 개발자를 위한 Hacker News",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>HackerNews 전면 페이지에 도달</strong></p>\n<ul>\n<li>최근 HackerNews의 전면 페이지에 도달한 소식 공유.</li>\n</ul>\n</li>\n<li>\n<p><strong>픽셀 아트 업스케일러</strong></p>\n<ul>\n<li>irokaru.github.io에서 제공하는 오픈 소스 아트 개발 도구.</li>\n<li>효과적인 알고리듬을 사용하여 픽셀",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18997",
+      "guid": "https://news.hada.io/topic?id=18997",
+      "pubDate": "2025-02-01T09:43:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI O3-Mini 출시",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI o3-mini는 비용 효율적인 추론 모델 시리즈 중 가장 최신 모델임</li>\n<li>2024년 12월 미리보기 이후 공식 출시되었으며, ChatGPT와 API에서 사용 가능함</li>\n<li>과학, 수학, 코딩 등 STEM 분야에서 뛰어난 성능을 보이며, OpenAI o1-mini보다 낮은 비용과 지연 시간 유지</li>\n</ul>\n<h3>주요 기능 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=18996",
+      "guid": "https://news.hada.io/topic?id=18996",
+      "pubDate": "2025-02-01T09:40:10+09:00",
       "author": "neo",
       "category": ""
     }
