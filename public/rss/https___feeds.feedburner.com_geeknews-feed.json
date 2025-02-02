@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-02T09:52:01+09:00",
+  "lastBuildDate": "2025-02-02T10:07:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16509,6 +16509,45 @@
       "link": "https://news.hada.io/topic?id=19008",
       "guid": "https://news.hada.io/topic?id=19008",
       "pubDate": "2025-02-02T09:11:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Simon Willison의 o3-mini에 대한 노트",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI의 o3-mini 모델이 새로 공개되었고, 다른 o 시리즈 모델과 마찬가지로 평가하기가 약간 어려움\n<ul>\n<li>이제 기존 GPT-4o, o1, o1 Pro 등에 이어 사용 목적에 따라 어떤 모델을 선택할지 결정해야 하는 상황</li>\n</ul>\n</li>\n<li>o3-mini System Card (PDF)에 따르면 일부 평가 지표에서 o3-mini가 GP...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19018",
+      "guid": "https://news.hada.io/topic?id=19018",
+      "pubDate": "2025-02-02T10:07:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Hydro: Rust용 분산 프로그래밍 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>Hydro는 Rust를 위한 고수준 분산 프로그래밍 프레임워크임.</li>\n<li>Hydro는 확장 가능한 분산 서비스를 빠르게 작성할 수 있도록 도와주며, Rust가 메모리 안전성을 보장하는 것처럼 분산 안전성을 보장함.</li>\n<li>테스트 모드나 배포 모드에서 분산 프로그램을 쉽게 실행할 수 있...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19017",
+      "guid": "https://news.hada.io/topic?id=19017",
+      "pubDate": "2025-02-02T09:58:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지구별 – 개인 분산형 오프라인 우선 애플리케이션을 위한 Earthstar 데이터베이스",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Earthstar란?</h2>\n<ul>\n<li>Earthstar는 사용자 소유의 연결된 애플리케이션을 구축하기 위한 사양 및 JavaScript 라이브러리임.</li>\n<li>개인적이고 분산된 오프라인 우선 애플리케이션을 위한 데이터베이스임.</li>\n</ul>\n</li>\n<li>\n<h2>작동 방식</h2>\n<ul>\n<li>오프라인에서도 작동하며, 음악, 사진...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19016",
+      "guid": "https://news.hada.io/topic?id=19016",
+      "pubDate": "2025-02-02T09:55:01+09:00",
       "author": "neo",
       "category": ""
     }
