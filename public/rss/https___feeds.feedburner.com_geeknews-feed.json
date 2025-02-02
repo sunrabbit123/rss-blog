@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-02T12:34:19+09:00",
+  "lastBuildDate": "2025-02-02T17:20:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16562,6 +16562,19 @@
       "guid": "https://news.hada.io/topic?id=19019",
       "pubDate": "2025-02-02T12:34:19+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 브라우저에서 생성형 AI를 로컬로 실행하는 크롬 익스텐션",
+      "description": {
+        "$text": "<h3>프로젝트 설명</h3>\n<p>자바스크립트로 생성형 AI 모델을 실행하는 Transformers.js의 크롬 익스텐션 프로젝트입니다.</p>\n<p>Ollama, llama.cpp 등 로컬에서 생성형 AI 모델을 실행할 수 있는 방법은 많지만, 설정 과정이 번거롭고 매번 화면을 전환해야 하는 불편함이 있습니다. 이를 해결하기 위해 Transformers.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19020",
+      "guid": "https://news.hada.io/topic?id=19020",
+      "pubDate": "2025-02-02T17:20:01+09:00",
+      "author": "tantara",
       "category": ""
     }
   ]
