@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-03T12:02:19+09:00",
+  "lastBuildDate": "2025-02-03T13:41:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16756,6 +16756,19 @@
       "link": "https://news.hada.io/topic?id=19034",
       "guid": "https://news.hada.io/topic?id=19034",
       "pubDate": "2025-02-03T11:16:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, Deep Research 공개",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI가 ChatGPT에 도입한 새로운 에이전트형 기능 &quot;심층 연구&quot;</li>\n<li>인터넷에서 방대한 정보를 수집·분석·종합해, 복잡한 과제를 수십 분 안에 자동으로 해결해주는 역할을 수행함</li>\n<li>향후 AGI 달성을 위한 핵심 단계로서, 새로운 지식을 창출할 수 있는 ‘지식 종합’ 능력은 필수적</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19036",
+      "guid": "https://news.hada.io/topic?id=19036",
+      "pubDate": "2025-02-03T13:41:21+09:00",
       "author": "xguru",
       "category": ""
     }
