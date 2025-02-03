@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-03T15:51:43+09:00",
+  "lastBuildDate": "2025-02-03T16:26:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16796,6 +16796,19 @@
       "guid": "https://news.hada.io/topic?id=19037",
       "pubDate": "2025-02-03T15:34:38+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 올인원 계약관리 SaaS, prix",
+      "description": {
+        "$text": "<h2>올인원 계약관리 SaaS, prix</h2>\n<p>prix는 기업의 계약관리를 근본적으로 혁신하는 올인원 솔루션입니다. 단순한 전자계약 서비스를 넘어, 계약 관리에 필요한 모든 업무를 지원하는 통합 플랫폼을 목표로 만들고 있습니다.</p>\n<h4>[왜 prix를 만들었나]</h4>\n<p>저희 팀 상원님은 과거 법무법인을 운영하면서 매",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19039",
+      "guid": "https://news.hada.io/topic?id=19039",
+      "pubDate": "2025-02-03T16:26:32+09:00",
+      "author": "dukjin",
       "category": ""
     }
   ]
