@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-03T16:26:32+09:00",
+  "lastBuildDate": "2025-02-03T18:33:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16809,6 +16809,19 @@
       "guid": "https://news.hada.io/topic?id=19039",
       "pubDate": "2025-02-03T16:26:32+09:00",
       "author": "dukjin",
+      "category": ""
+    },
+    {
+      "title": "AI 활용 면접 현황: Ask HN",
+      "description": {
+        "$text": "<ul>\n<li>전통적인 기술 면접의 변화에 대한 의문 제기\n<ul>\n<li>최근 기술 면접에서 대면 화이트보드 사용이 다시 증가하고 있는지에 대한 질문.</li>\n<li>GPT와 같은 도구로 문제를 쉽게 해결할 수 있는 상황에서 전통적인 기술 면접이 어떻게 작동해야 하는지에 대한 의문.</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19040",
+      "guid": "https://news.hada.io/topic?id=19040",
+      "pubDate": "2025-02-03T18:33:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
