@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-03T10:31:01+09:00",
+  "lastBuildDate": "2025-02-03T10:52:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16718,6 +16718,19 @@
       "guid": "https://news.hada.io/topic?id=19023",
       "pubDate": "2025-02-03T08:38:11+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PwC의 2025년 AI 비즈니스 예상",
+      "description": {
+        "$text": "<ul>\n<li>PwC는 AI가 전사적·산업적 차원에서 가치를 창출하며, 이를 주도적으로 활용하는 기업이 장기적으로 앞서나갈 것이라고 전망</li>\n<li>AI가 실무·전략·비즈니스 모델 전반에서 중요한 역할을 하며, 2025년에 더욱 빠른 속도로 통합되고 확산될 것으로 예측</li>\n<li>&quot;AI에 대한 비전과 채택 방식이 기업의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19033",
+      "guid": "https://news.hada.io/topic?id=19033",
+      "pubDate": "2025-02-03T10:52:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
