@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-04T10:21:01+09:00",
+  "lastBuildDate": "2025-02-04T11:33:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16977,6 +16977,19 @@
       "link": "https://news.hada.io/topic?id=19044",
       "guid": "https://news.hada.io/topic?id=19044",
       "pubDate": "2025-02-04T09:44:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딥시크(DeepSeek) 다운로드한 사람들에게 징역형 제안하는 미국 법안",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>미주리 공화당 상원의원 조쉬 홀리의 새로운 법안</h2>\n<ul>\n<li>조쉬 홀리 상원의원이 중국과의 인공지능 기술 수출입을 금지하는 법안을 발의함.</li>\n<li>이 법안이 통과되면 중국에서 개발된 AI 모델을 다운로드하는 행위가 최대 20년의 징역형이나 백만 달러의 벌금에 처해질 수 있음.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19053",
+      "guid": "https://news.hada.io/topic?id=19053",
+      "pubDate": "2025-02-04T11:33:34+09:00",
       "author": "neo",
       "category": ""
     }
