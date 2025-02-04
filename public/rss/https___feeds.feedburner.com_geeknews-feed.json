@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-04T09:41:39+09:00",
+  "lastBuildDate": "2025-02-04T10:21:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16860,6 +16860,123 @@
       "link": "https://news.hada.io/topic?id=19041",
       "guid": "https://news.hada.io/topic?id=19041",
       "pubDate": "2025-02-04T08:34:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "YC의 Requests for Startups - Spring 2025",
+      "description": {
+        "$text": "<ul>\n<li>Y Combinator는 오랫동안 사람들이 더 많이 시도했으면 하는 아이디어를 모으고, 이를 Request for Startups(RFS) 형태로 공유해왔음</li>\n<li>이 목록에 있지 않은 아이디어도 충분히 가치 있으며, 해당 목록에 있는 아이디어가 창업자가 이미 흥미로워하던 분야라면, YC가 공감하고 지지한다는 점에서 동기가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19052",
+      "guid": "https://news.hada.io/topic?id=19052",
+      "pubDate": "2025-02-04T10:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년을 위한 도구들 : Oils, Radicle, Simplex Chat",
+      "description": {
+        "$text": "<ul>\n<li>저자는 Oils, Radicle, Simplex Chat 3가지가 더욱 널리 사용되면 좋겠다고 생각\n<ul>\n<li>Oils: 기존 POSIX 쉘(Bash 등)을 대체</li>\n<li>Radicle: 분산형 Git 호스팅 솔루션으로 Github/GitLab을 대체 가능</li>\n<li>Simplex Chat: 이메일을 대체하거나 혁신 가능</li>\n</ul>\n</li>\n<li>보통 새로운 도구를 발...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19051",
+      "guid": "https://news.hada.io/topic?id=19051",
+      "pubDate": "2025-02-04T10:04:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "알츠하이머 연구의 거짓말이 남긴 파괴적인 유산",
+      "description": {
+        "$text": "<h2>알츠하이머 발병 현황 및 문제점</h2>\n<ul>\n<li>최근 수십 년간 암·심장 질환 등은 다양한 치료법으로 사망률이 크게 줄어드는 추세임</li>\n<li>그러나 고령화 인구 증가와 함께 알츠하이머 사망률은 반대로 증가하고 있음</li>\n<li>미국에서는 65세 이상 인구 중 약 9명 중 1명이 알츠하이머를 앓고 있음</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19050",
+      "guid": "https://news.hada.io/topic?id=19050",
+      "pubDate": "2025-02-04T10:02:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Lume - 애플 실리콘 맥을 위한 경량 맥/리눅스 VM 도구",
+      "description": {
+        "$text": "<ul>\n<li>애플의 <code>Virtualization.Framework</code>를 이용하여 거의 네이티브 속도로 macOS 와 리눅스 VM을 운용하는 도구</li>\n<li>경량 CLI로 로컬 API 서버를 통해서 VM들을 생성/실행/관리</li>\n<li>\n<code>lume run macos-sequoia-vanilla:latest</code> 만 입력하면 미리 만들어진 macOS 이미지로 VM을 한번...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19049",
+      "guid": "https://news.hada.io/topic?id=19049",
+      "pubDate": "2025-02-04T09:59:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GarminDB - 가민 커넥터/워치에서 데이터를 가져와 파싱하는 DB",
+      "description": {
+        "$text": "<ul>\n<li>건강 데이터를 SQLite 데이터베이스로 파싱하고 조작하는 Python 스크립트</li>\n<li>Garmin Connect 또는 Garmin 시계, FitBit CSV, MS Health CSV 파일에서 데이터를 다운로드하여 구문 분석하고, Jupyter 노트북을 사용해 Sqlite 데이터베이스에 있는 데이터를 분석</li>\n</ul>\n<h2>기능</h2>\n<ul>\n<li>Garmi...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19048",
+      "guid": "https://news.hada.io/topic?id=19048",
+      "pubDate": "2025-02-04T09:56:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: VideoToFlip - 비디오를 인쇄된 플립북으로 변환해주는 서비스",
+      "description": {
+        "$text": "<ul>\n<li>영상을 업로드 하면 플립북(손으로 빠르게 넘기면 애니메이션 처럼 보이는 책)으로 만들어주는 서비스</li>\n<li>지원되는 형식: MP4, AVI, MOV 등 ( 가로 비디오가 가장 잘 작동함 )</li>\n<li>프리미엄 커버 선택 가능</li>\n<li>실시간 미리보기 지원</li>\n<li>제작 플립북 사양\n<ul>\n<li>10.5cm x 5cm x 1cm...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19047",
+      "guid": "https://news.hada.io/topic?id=19047",
+      "pubDate": "2025-02-04T09:53:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Httptap: 모든 Linux 프로그램의 HTTP/HTTPS 요청 보기 기능",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>httptap</h2>\n<ul>\n<li>\n<code>httptap</code>은 리눅스 프로그램이 수행하는 HTTP 및 HTTPS 요청을 쉽게 볼 수 있게 해주는 도구임.</li>\n<li>\n<code>httptap -- &lt;command&gt;</code>를 사용하여 특정 명령어의 네트워크 요청을 추적할 수 있음.</li>\n<li>예를 들어, <code>curl</code> 명령어를 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19046",
+      "guid": "https://news.hada.io/topic?id=19046",
+      "pubDate": "2025-02-04T09:50:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"스팸 및 기만 정책\"으로 삭제된 YouTube 채널",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Sinevibes의 YouTube 채널이 &quot;스팸 및 기만적 정책&quot; 위반으로 삭제됨</p>\n</li>\n<li>\n<p>브랜드 역사상 가장 충격적인 순간으로, 오직 자사 제품의 데모만 게시했음</p>\n</li>\n<li>\n<h2>커뮤니티 반응</h2>\n<ul>\n<li>Richie Asimilon이 Hacker News에 이 문제를 제기하여 주목받기를 희망함.</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19045",
+      "guid": "https://news.hada.io/topic?id=19045",
+      "pubDate": "2025-02-04T09:47:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Anthropic: \"지원자는 AI 어시스턴트를 사용하지 말아야 한다\" 방침",
+      "description": {
+        "$text": "<ul>\n<li>Anthropic의 온라인 지원 서류에 있는 내용\n<blockquote>\n<p>&quot;AI 시스템을 사용하여 업무 효율성을 높이는 것을 권장하지만, 지원 과정에서는 AI 도우미를 사용하지 말 것을 요청합니다. 이는 지원자의 개인적인 관심사를 이해하고, AI 없이 의사소통 능력을 평가하기 위함입니다.&quot;<br />\nAnthropic에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19044",
+      "guid": "https://news.hada.io/topic?id=19044",
+      "pubDate": "2025-02-04T09:44:40+09:00",
       "author": "neo",
       "category": ""
     }
