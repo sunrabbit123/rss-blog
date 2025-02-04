@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-03T18:33:06+09:00",
+  "lastBuildDate": "2025-02-04T09:41:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16821,6 +16821,45 @@
       "link": "https://news.hada.io/topic?id=19040",
       "guid": "https://news.hada.io/topic?id=19040",
       "pubDate": "2025-02-03T18:33:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딥 리서치 도입 발표",
+      "description": {
+        "$text": "<p>The article does not contain any content to summarize.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19043",
+      "guid": "https://news.hada.io/topic?id=19043",
+      "pubDate": "2025-02-04T09:41:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스타트업레시피 투자리포트 2024 [34p PDF]",
+      "description": {
+        "$text": "<ul>\n<li>2024년 한 해, 투자를 중심으로 한 국내 스타트업 생태계 트렌드를 한눈에 조망할 수 있게 정리한 보고서</li>\n<li>투자 금액과 건수를 비롯한 전체 투자 동향을 분야별로 분석\n<ul>\n<li>13개 분야 : 컨슈머테크, 바이오/헬스케어, 소프트웨어, 핀테크, 미디어/콘텐츠, 에튜테크, 물류/배송, 제조(소부장), 블록...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19042",
+      "guid": "https://news.hada.io/topic?id=19042",
+      "pubDate": "2025-02-04T09:13:40+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DOGE를 지원하는 젊고 경험이 부족한 엔지니어들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>젊고 경험이 부족한 엔지니어들이 엘론 머스크의 정부 장악을 돕고 있음</h2>\n<ul>\n<li>엘론 머스크가 연방 정부 인프라를 장악하는 과정에서 19세에서 24세 사이의 젊은 엔지니어들이 중요한 역할을 하고 있음.</li>\n<li>이들 대부분은 머스크의 회사와 연관이 있으며, 일부는 머스크의 오랜 동료인 피터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19041",
+      "guid": "https://news.hada.io/topic?id=19041",
+      "pubDate": "2025-02-04T08:34:07+09:00",
       "author": "neo",
       "category": ""
     }
