@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-04T13:19:59+09:00",
+  "lastBuildDate": "2025-02-04T21:36:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17004,6 +17004,19 @@
       "guid": "https://news.hada.io/topic?id=19054",
       "pubDate": "2025-02-04T13:19:59+09:00",
       "author": "hiddenest",
+      "category": ""
+    },
+    {
+      "title": "'수용 불가 위험' AI 시스템, EU에서 금지",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>AI 시스템의 '수용 불가 위험' 금지</h2>\n<ul>\n<li>유럽 연합에서는 '수용 불가 위험'을 초래하는 AI 시스템의 사용을 금지함</li>\n<li>2025년 2월 2일은 EU AI 법안의 첫 번째 준수 마감일임</li>\n<li>이 법안은 다양한 AI 사용 사례를 포괄하며, 개인과의 상호작용을 규제함</li>\n</ul>\n</li>\n<li>\n<h2>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19055",
+      "guid": "https://news.hada.io/topic?id=19055",
+      "pubDate": "2025-02-04T21:36:35+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
