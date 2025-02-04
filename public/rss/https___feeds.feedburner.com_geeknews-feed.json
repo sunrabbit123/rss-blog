@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-04T11:33:34+09:00",
+  "lastBuildDate": "2025-02-04T13:19:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -16991,6 +16991,19 @@
       "guid": "https://news.hada.io/topic?id=19053",
       "pubDate": "2025-02-04T11:33:34+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 캐럿: 실시간 기록부터 요약까지 해주는 똑똑한 AI 미팅노트",
+      "description": {
+        "$text": "<p>캐럿은 실시간으로 대화를 기록 &amp; 번역해주는 AI 미팅 노트에요.<br />\n2주만에(!) 만들었지만, 클로바노트 등 다른 도구보다 10배 좋다고 이야기드리고 싶어요.</p>\n<ol>\n<li>어떤 온·오프라인 회의도 기록할 수 있어요. 미팅 봇 초대 없이 Google Meet부터 Zoom, 슬랙 허들까지!</li>\n<li>갑작스러운 회의에도 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19054",
+      "guid": "https://news.hada.io/topic?id=19054",
+      "pubDate": "2025-02-04T13:19:59+09:00",
+      "author": "hiddenest",
       "category": ""
     }
   ]
