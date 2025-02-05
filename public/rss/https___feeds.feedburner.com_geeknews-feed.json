@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-05T13:34:10+09:00",
+  "lastBuildDate": "2025-02-05T15:02:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17238,6 +17238,19 @@
       "guid": "https://news.hada.io/topic?id=19070",
       "pubDate": "2025-02-05T13:12:00+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Show GN: [Show GN] TDD를 통해 ModernBERT 밑바닥부터 이해하기",
+      "description": {
+        "$text": "<p>ModernBERT는 최신 논문과 기법이 집약된 임베딩/리랭커 모델이며, RAG 등 다양한 자연어처리 파이프라인의 핵심 모델로 활용되고 있습니다. 하지만 내부 구조가 복잡하여, 모델링 코드만 가지고는 이해하기 어려운 부분이 많지요.</p>\n<p>저희 사이오닉 AI의 오픈소스는 이러한 ModernBERT를 유닛 테스트 기반으로 단",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19073",
+      "guid": "https://news.hada.io/topic?id=19073",
+      "pubDate": "2025-02-05T15:02:49+09:00",
+      "author": "sigridjineth",
       "category": ""
     }
   ]
