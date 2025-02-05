@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-05T15:02:49+09:00",
+  "lastBuildDate": "2025-02-05T16:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17251,6 +17251,19 @@
       "guid": "https://news.hada.io/topic?id=19073",
       "pubDate": "2025-02-05T15:02:49+09:00",
       "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "NIH와 NSF 내부 동향",
+      "description": {
+        "$text": "<p>죄송합니다. 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19074",
+      "guid": "https://news.hada.io/topic?id=19074",
+      "pubDate": "2025-02-05T16:34:01+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
