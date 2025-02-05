@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-05T11:40:14+09:00",
+  "lastBuildDate": "2025-02-05T13:34:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17199,6 +17199,45 @@
       "guid": "https://news.hada.io/topic?id=19069",
       "pubDate": "2025-02-05T11:40:14+09:00",
       "author": "yuno815",
+      "category": ""
+    },
+    {
+      "title": "구글, AI를 무기 및 감시에 사용하지 않겠다는 약속 철회",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Google의 AI 원칙 변경 배경</strong></p>\n<ul>\n<li>기존 AI 원칙에서 무기나 감시 용도로 AI를 사용하지 않는다고 명시했던 약속이 사라짐</li>\n<li>Google의 Demis Hassabis와 James Manyika가 AI의 확산과 국가 안보 수요를 이유로 정책 변경을 발표함</li>\n<li>“민주 국가들이 AI 개발을 주도",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19072",
+      "guid": "https://news.hada.io/topic?id=19072",
+      "pubDate": "2025-02-05T13:34:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Open Deep Research - 오픈소스로 구현한 딥 리서치",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI가 발표한 DeepResearch는 웹 검색을 통해 콘텐츠를 요약하고 질의 응답을 수행함\n<ul>\n<li>GAIA 벤치마크에서 높은 점수를 달성해 주목받음</li>\n<li>강력한 LLM과 내부적인 에이전트 프레임워크를 결합해 웹 브라우징 등 다양한 도구를 단계적으로 활용</li>\n</ul>\n</li>\n<li>OpenAI가 에이전트 프레임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19071",
+      "guid": "https://news.hada.io/topic?id=19071",
+      "pubDate": "2025-02-05T13:13:12+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "제로섬 게임: Nuxt.js는 공공재입니다.",
+      "description": {
+        "$text": "<p>몽고DB, 엘라스틱 서치, 워드프레스... 이들은 자신의 프로젝트를 영업에 사용하는 제3자를 시기했습니다. 하지만 Nuxt 개발자로서, 저는 제 프로젝트를 쓰는 사람들이 모두 번창했으면 좋겠습니다. 그에 대한 대가는 바라지도 않습니다.</p>\n<p>제가 개의치 않는 이유는 다음과 같습니다:</p>\n<ol>\n<li>오픈 소스는 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19070",
+      "guid": "https://news.hada.io/topic?id=19070",
+      "pubDate": "2025-02-05T13:12:00+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
