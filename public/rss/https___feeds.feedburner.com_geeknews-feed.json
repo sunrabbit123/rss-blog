@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-05T10:37:44+09:00",
+  "lastBuildDate": "2025-02-05T11:40:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17186,6 +17186,19 @@
       "guid": "https://news.hada.io/topic?id=19065",
       "pubDate": "2025-02-05T10:20:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 연봉협상 대작전 - 재미로 해보는 연봉 협상 스킬 테스트",
+      "description": {
+        "$text": "<p>저희 회사 (시그널플래너를 운영하는 해빗팩토리) 에서 토이 프로젝트로 만든 연봉협상 미니게임 '연봉협상 대작전'을 소개합니다.</p>\n<p>4가지 유형의 대표님을 클리어 (!) 하고 연봉 인상률을 확인할 수 있어요.</p>\n<ul>\n<li>4가지 유형의 대표님: 갓생형, 엄근진형, 트렌드 민감형, 보살형</li>\n<li>협상 방식: ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19069",
+      "guid": "https://news.hada.io/topic?id=19069",
+      "pubDate": "2025-02-05T11:40:14+09:00",
+      "author": "yuno815",
       "category": ""
     }
   ]
