@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T23:24:59+09:00",
+  "lastBuildDate": "2025-02-07T06:13:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17498,6 +17498,32 @@
       "guid": "https://news.hada.io/topic?id=19096",
       "pubDate": "2025-02-06T23:24:59+09:00",
       "author": "kuber",
+      "category": ""
+    },
+    {
+      "title": "내가 LLM을 스태프 엔지니어처럼 쓰는 방법",
+      "description": {
+        "$text": "<ul>\n<li>LLM에 대해 소프트웨어 엔지니어들은 크게 두 입장으로 나뉨\n<ul>\n<li>일각에서는 산업을 뒤흔드는 혁신적인 기술이라고 믿음</li>\n<li>다른 한편에서는 그저 과장된 신기루에 불과하다는 시각을 갖고 있음</li>\n</ul>\n</li>\n<li>글 작성자는 개인적으로 LLM을 유용하게 사용하고 있다고 느끼며, 이를 효과적으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19098",
+      "guid": "https://news.hada.io/topic?id=19098",
+      "pubDate": "2025-02-07T06:13:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "당신의 모델을 스케일 하는 법: TPU에서의 LLM에 대한 시스템적 관점",
+      "description": {
+        "$text": "<ul>\n<li>딥러닝 성능을 대규모로 최적화하는 것은 ‘연금술’처럼 보이지만, 실제로는 이해 가능한 단순한 원칙으로 모델 효율을 높일 수 있음</li>\n<li>단일 가속기부터 수만 개의 가속기까지 비교적 간단한 원칙이 모든 곳에 적용되며, 이를 이해함으로써 다음과 같은 유용한 작업 수행이 가능함:\n<ul>\n<li>모델의 각...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19097",
+      "guid": "https://news.hada.io/topic?id=19097",
+      "pubDate": "2025-02-07T06:12:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
