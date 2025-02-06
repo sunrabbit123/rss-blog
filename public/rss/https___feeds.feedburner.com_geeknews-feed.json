@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T12:00:38+09:00",
+  "lastBuildDate": "2025-02-06T14:16:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17459,6 +17459,19 @@
       "guid": "https://news.hada.io/topic?id=19090",
       "pubDate": "2025-02-06T11:33:34+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "셰이더 책(미완성)",
+      "description": {
+        "$text": "<p>컴퓨터에 그림을 그릴 때 필수 요소인 Fragment Shader를 가르치는 사이트. <a href=\"http://patriciogonzalezvivo.com/\">Patricio Gonzalez Vivo</a>, <a href=\"http://jenlowe.net/\">Jen Lowe</a>가 쓰고, 현재 <a href=\"https://thebookofshaders.com/13/\">Fractional brownian motion</a> 장까지 끝낸 상태.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19094",
+      "guid": "https://news.hada.io/topic?id=19094",
+      "pubDate": "2025-02-06T14:16:21+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
