@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T10:00:03+09:00",
+  "lastBuildDate": "2025-02-06T11:03:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17393,6 +17393,32 @@
       "link": "https://news.hada.io/topic?id=19077",
       "guid": "https://news.hada.io/topic?id=19077",
       "pubDate": "2025-02-06T09:11:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Yoyak: LLM 기반의 간단한 웹페이지 요약 CLI",
+      "description": {
+        "$text": "<p>반나절 정도 투자하여 LLM 기반의 간단한 웹페이지 요약 도구를 CLI 앱으로 만들어서 공개해 봅니다. 사용한 기술은 Deno, LangChain.js, cheer-reader (Readability.js의 대체품) 정도인 것 같네요.</p>\n<p>설치하려면 Deno가 필요합니다:</p>\n<pre><code>deno install --global --allow-net --allow-env jsr:@hongm",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19089",
+      "guid": "https://news.hada.io/topic?id=19089",
+      "pubDate": "2025-02-06T11:03:53+09:00",
+      "author": "hongminhee",
+      "category": ""
+    },
+    {
+      "title": "HN에 알리기: Cloudflare, Pale Moon 및 기타 비주류 브라우저 차단",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Cloudflare의 브라우저 무결성 검사 문제</strong></p>\n<ul>\n<li>Cloudflare의 브라우저 무결성 검사 기능이 Pale Moon과 같은 비주류 브라우저 사용자에게 접근을 차단하는 문제 발생</li>\n<li>1월 31일부터 사용자 보고 시작됨</li>\n</ul>\n</li>\n<li>\n<p><strong>문제 발생 및 대응</strong></p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19087",
+      "guid": "https://news.hada.io/topic?id=19087",
+      "pubDate": "2025-02-06T10:33:27+09:00",
       "author": "neo",
       "category": ""
     }
