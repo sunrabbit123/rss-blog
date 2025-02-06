@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T14:16:21+09:00",
+  "lastBuildDate": "2025-02-06T16:33:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17472,6 +17472,19 @@
       "guid": "https://news.hada.io/topic?id=19094",
       "pubDate": "2025-02-06T14:16:21+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "분노 피로를 피하면서 정보를 유지하는 방법",
+      "description": {
+        "$text": "<h2>분노 피로를 피하면서 정보를 유지하는 방법</h2>\n<ul>\n<li>\n<p><strong>Rachel Feltman</strong>: 최근 많은 사람들이 분노를 느끼고 있으며, 이는 피로를 유발할 수 있음. Tanya Lewis가 이 현상에 대해 설명함.</p>\n</li>\n<li>\n<p><strong>Tanya Lewis</strong>: 분노 피로는 반복적으로 도덕적 위반을 경험하고 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19095",
+      "guid": "https://news.hada.io/topic?id=19095",
+      "pubDate": "2025-02-06T16:33:37+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
