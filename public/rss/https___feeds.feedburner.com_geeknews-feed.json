@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T11:03:53+09:00",
+  "lastBuildDate": "2025-02-06T12:00:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17419,6 +17419,45 @@
       "link": "https://news.hada.io/topic?id=19087",
       "guid": "https://news.hada.io/topic?id=19087",
       "pubDate": "2025-02-06T10:33:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Dearly: 친구에게 말하기 어려웠던 연애 고민을 털어 놓아보세요",
+      "description": {
+        "$text": "<p>Cursor와 함께 혼자 만든 Dearly 앱을 출시 했습니다!</p>\n<p>요즘 연애 고민, 털어놓기 망설여지는 일이 있으셨다면...<br />\n친구에게 말하기 어려웠던 대화 캡처를 Dearly에 올려보세요<br />\nAI가 대화 맥락을 분석해, 맞춤형 연애 조언 제공해 줍니다</p>\n<p>아차, 개인정보가 걱정되신다구요?<br />\n매일 자정마",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19093",
+      "guid": "https://news.hada.io/topic?id=19093",
+      "pubDate": "2025-02-06T12:00:38+09:00",
+      "author": "toycrane",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.0 이제 누구나 사용 가능",
+      "description": {
+        "$text": "<ul>\n<li>Gemini 2.0 Flash가 더 많은 사람들에게 일반 공개됨</li>\n<li>Google AI Studio와 Vertex AI의 Gemini API를 통해 프로덕션 환경에 적용 가능해짐</li>\n<li>수백만 토큰의 컨텍스트 윈도우를 활용한 대용량 멀티모달 추론이 특징임</li>\n<li>텍스트뿐 아니라 이미지, 음성 등 다양한 형식의 입력을 지원하도록...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19091",
+      "guid": "https://news.hada.io/topic?id=19091",
+      "pubDate": "2025-02-06T11:53:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "FAA 채용 스캔들",
+      "description": {
+        "$text": "<h2>FAA 채용 스캔들의 전말</h2>\n<h3>스캔들을 밝히기 위한 10년간의 투쟁</h3>\n<ul>\n<li>2013년 12월 31일, FAA는 갑작스럽게 항공 교통 관제사 채용 절차를 변경함. 이는 CTI 프로그램을 통해 준비된 학생들에게 큰 충격을 줌.</li>\n<li>Moranda Reilly는 항공 교통 관제사가 되기 위해 모든 것을 걸었으나, 새로운 채...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19090",
+      "guid": "https://news.hada.io/topic?id=19090",
+      "pubDate": "2025-02-06T11:33:34+09:00",
       "author": "neo",
       "category": ""
     }
