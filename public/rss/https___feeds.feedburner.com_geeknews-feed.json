@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-06T16:33:37+09:00",
+  "lastBuildDate": "2025-02-06T23:24:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17485,6 +17485,19 @@
       "guid": "https://news.hada.io/topic?id=19095",
       "pubDate": "2025-02-06T16:33:37+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 기가차드 - 매일매일 매콤한 동기부여",
+      "description": {
+        "$text": "<p>얼마전에 친구한테 기가차드란 밈을 소개받았습니다.</p>\n<p>개인적으로는, 상당히 취향이었고 유쾌했고 요즘같은 세상에서 꼭 필요한 존재라고 생각했습니다.</p>\n<p>한가지 문제는... 저는 공돌이었고, 기가차드는 상당한 필력이 필요한 밈이었다는 사실이었죠.</p>\n<p>요즘 공돌이들은 여자친구도 직접 만들던데 (",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19096",
+      "guid": "https://news.hada.io/topic?id=19096",
+      "pubDate": "2025-02-06T23:24:59+09:00",
+      "author": "kuber",
       "category": ""
     }
   ]
