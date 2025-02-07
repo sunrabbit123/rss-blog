@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-07T10:04:01+09:00",
+  "lastBuildDate": "2025-02-07T11:08:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17615,6 +17615,19 @@
       "guid": "https://news.hada.io/topic?id=19099",
       "pubDate": "2025-02-07T08:33:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 오픈소스 - 맥용 Ollama Client \"LLM Hippo\"",
+      "description": {
+        "$text": "<p>맥용 LLM Hippo는 Ollama가 설치된 컴퓨터에 연결하여 대규모 언어 모델(LLM)과 상호 작용할 수 있는 Mac 클라이언트 앱입니다.</p>\n<p>주요기능</p>\n<ul>\n<li>로컬 LLM 액세스: 로컬 LLM 연결 http://localhost:11434</li>\n<li>원격 LLM 액세스: IP 주소를 통해 올라마 호스트에 연결</li>\n<li>사용자 지정 프롬프트",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19106",
+      "guid": "https://news.hada.io/topic?id=19106",
+      "pubDate": "2025-02-07T11:08:44+09:00",
+      "author": "rtlink",
       "category": ""
     }
   ]
