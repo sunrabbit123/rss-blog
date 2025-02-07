@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-07T06:13:49+09:00",
+  "lastBuildDate": "2025-02-07T10:04:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17523,6 +17523,97 @@
       "link": "https://news.hada.io/topic?id=19097",
       "guid": "https://news.hada.io/topic?id=19097",
       "pubDate": "2025-02-07T06:12:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Snapify - 오픈소스 스크린 녹화 앱 (Loom 대체제)",
+      "description": {
+        "$text": "<ul>\n<li>설치 없이 몇번의 클릭으로 화면을 녹화해서 영상을 제작, 링크로 공유 가능\n<ul>\n<li>수신자는 계정없이도 비디오 메시지 확인 가능</li>\n<li>피드백, 의견 수집, 의사 결정등에 활용</li>\n</ul>\n</li>\n<li>TypeScript 오픈소스로 셀프 호스팅 가능 (호스티드 버전은 월 $8 )</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19105",
+      "guid": "https://news.hada.io/topic?id=19105",
+      "pubDate": "2025-02-07T10:04:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "종이 애플리케이션",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Paper Apps™ 소개</strong></p>\n<ul>\n<li>Paper Apps™는 화면 시간을 대체할 수 있는 재미있고 스마트한 대안임</li>\n<li>DUNGEON, GALAXY, GOLF와 같은 솔로 게임과 TO•DO, NUTRI•TRACK 같은 게임화된 도구를 제공함</li>\n<li>Pencil Dice와 함께 사용하면 더욱 완벽한 경험을 제공함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19104",
+      "guid": "https://news.hada.io/topic?id=19104",
+      "pubDate": "2025-02-07T09:46:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Tabler 1.0.0 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>다크 테마 지원. 모든 컴포넌트에 일관된 스타일과 가독성을 제공하며 라이트/다크 모드 간 매끄러운 전환 보장</li>\n<li>다양한 새로운 페이지 추가로 기능이 풍부한 애플리케이션을 빠르게 구성할 수 있는 기반 마련\n<ul>\n<li>Chat, Cookie Banner, FAQ, Job Listing 등 여러 신규 페이지 추가</li>\n<li>Logs...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19103",
+      "guid": "https://news.hada.io/topic?id=19103",
+      "pubDate": "2025-02-07T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "안드레이 카르파티: ChatGPT와 같은 LLMs 심층 분석 [비디오]",
+      "description": {
+        "$text": "안드레이 카르파티: ChatGPT와 같은 LLMs 심층 분석 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19102",
+      "guid": "https://news.hada.io/topic?id=19102",
+      "pubDate": "2025-02-07T09:43:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.0 전 세계 사용자에게 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>Gemini 2.0의 일반 공개</h3>\n<ul>\n<li>2024년 I/O에서 처음 소개된 Flash 시리즈 모델은 대량의 고빈도 작업에 최적화된 강력한 모델로, 개발자들 사이에서 인기를 끌고 있음</li>\n<li>2.0 Flash는 이제 더 많은 사용자에게 일반적으로 제공되며, 주요 벤치마크에서 성능이 향상되었음</li>\n<li>이미지 생...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19101",
+      "guid": "https://news.hada.io/topic?id=19101",
+      "pubDate": "2025-02-07T09:40:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 달걀 가격 차트",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>달걀 가격 동향</h2>\n<ul>\n<li>2025년 초부터 미국 달걀 가격이 1.28 USD/DOZEN, 즉 22.03% 상승함.</li>\n<li>2025년 1월에 사상 최고가인 7.09 USD/DOZEN을 기록함.</li>\n</ul>\n</li>\n<li>\n<h2>주요 상품 가격 비교</h2>\n<ul>\n<li>소고기: 326.90 USD, 월간 0.32% 상승, 연간 28.73% 상승</li>\n<li>사료용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19100",
+      "guid": "https://news.hada.io/topic?id=19100",
+      "pubDate": "2025-02-07T09:37:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "워너 브라더스 디스커버리의 구작 영화 YouTube 공개 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>새로운 DVD 할인 코너</h3>\n<ul>\n<li>최근 Warner Bros. Discovery가 YouTube에 자사의 오래된 영화를 무료로 공개하고 있음. 이는 영화 제작사로서의 전통적인 역할과는 다소 상반되는 행보임.</li>\n<li>이 영화들은 YouTube Movies 서비스가 아닌, Warner Bros. Discovery의 자체 채널을 통해 공개되고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19099",
+      "guid": "https://news.hada.io/topic?id=19099",
+      "pubDate": "2025-02-07T08:33:32+09:00",
       "author": "neo",
       "category": ""
     }
