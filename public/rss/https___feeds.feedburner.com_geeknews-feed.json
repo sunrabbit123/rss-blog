@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-07T11:08:44+09:00",
+  "lastBuildDate": "2025-02-07T23:06:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17628,6 +17628,19 @@
       "guid": "https://news.hada.io/topic?id=19106",
       "pubDate": "2025-02-07T11:08:44+09:00",
       "author": "rtlink",
+      "category": ""
+    },
+    {
+      "title": "이제 Ubuntu는 그만",
+      "description": {
+        "$text": "<ul>\n<li>Ubuntu를 오랜 기간 동안 합리적인 선택지로 선호해 왔음</li>\n<li>Unity 데스크톱 환경이 사라진 후 기본 GNOME 환경이 되었을 때도 만족스러운 사용 경험을 했음</li>\n<li>에스토니아 ID 카드 소프트웨어도 Ubuntu에서 공식 지원되어 가족용 PC로도 적절했음</li>\n<li>하지만 어느 시점 이후로 사용자 경험이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19107",
+      "guid": "https://news.hada.io/topic?id=19107",
+      "pubDate": "2025-02-07T23:06:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
