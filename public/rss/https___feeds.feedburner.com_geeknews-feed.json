@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-08T10:26:49+09:00",
+  "lastBuildDate": "2025-02-08T17:34:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17796,6 +17796,19 @@
       "link": "https://news.hada.io/topic?id=19113",
       "guid": "https://news.hada.io/topic?id=19113",
       "pubDate": "2025-02-08T09:59:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "영국, Apple에 사용자 암호화 계정 감시 명령",
+      "description": {
+        "$text": "영국, Apple에 사용자 암호화 계정 감시 명령",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19123",
+      "guid": "https://news.hada.io/topic?id=19123",
+      "pubDate": "2025-02-08T17:34:07+09:00",
       "author": "neo",
       "category": ""
     }
