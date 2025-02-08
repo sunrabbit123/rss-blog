@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-08T18:34:04+09:00",
+  "lastBuildDate": "2025-02-08T21:33:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17822,6 +17822,19 @@
       "link": "https://news.hada.io/topic?id=19124",
       "guid": "https://news.hada.io/topic?id=19124",
       "pubDate": "2025-02-08T18:34:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "현대 애플 시스템을 위한 핫라인",
+      "description": {
+        "$text": "<h2>Hotline</h2>\n<h3>Hotline이란?</h3>\n<ul>\n<li>1997년에 Mac OS용으로 출시된 Hotline은 사람들이 Mac에서 직접 온라인 커뮤니티에 참여하거나 호스팅할 수 있게 해주는 세 가지 무료 애플리케이션의 모음이었음</li>\n<li>Hotline 서버에 연결하면 IRC처럼 채팅하고, AIM처럼 개인 메시지를 보내고, 포럼처럼 뉴스 읽...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19125",
+      "guid": "https://news.hada.io/topic?id=19125",
+      "pubDate": "2025-02-08T21:33:28+09:00",
       "author": "neo",
       "category": ""
     }
