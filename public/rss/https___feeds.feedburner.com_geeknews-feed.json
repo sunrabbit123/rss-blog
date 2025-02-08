@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-08T09:47:45+09:00",
+  "lastBuildDate": "2025-02-08T10:26:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17667,6 +17667,136 @@
       "guid": "https://news.hada.io/topic?id=19108",
       "pubDate": "2025-02-08T09:35:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "6502 명령어 세트, 첫 번째 어셈블리 언어로 적합성",
+      "description": {
+        "$text": "<h4>6502는 어셈블리 프로그래밍을 시작하기에 좋은 선택임</h4>\n<ul>\n<li>어셈블리 프로그래밍을 배우는 데 있어 어디서 시작할지 결정하는 것은 어려운 일임. 6502는 하드웨어와 밀접하게 연결되어 있어 CPU 선택이 중요한 첫 단계임.</li>\n<li>6502 어셈블리는 현대에 실용적인 기술은 아니지만, 레트로 프로그래밍에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19122",
+      "guid": "https://news.hada.io/topic?id=19122",
+      "pubDate": "2025-02-08T10:26:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "트랜스포머 기반 스프레드시트 기술",
+      "description": {
+        "$text": "<h4>Transformer - 스프레드시트</h4>\n<ul>\n<li>최근 몇 달 동안 여러 AI 교육자들과 협력하여 AI by Hand 연습 문제를 맞춤화했음.</li>\n<li>이러한 자료들이 전 세계의 많은 교실에서 사용되고 있어 기쁨.</li>\n<li>맞춤화 과정이 수작업으로 이루어지다 보니 가끔 오류가 발생하여 학생들이 이를 발견함. 이는 학생들...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19121",
+      "guid": "https://news.hada.io/topic?id=19121",
+      "pubDate": "2025-02-08T10:23:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: SQLite 디스크 페이지 탐색기",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>SQLite Page Explorer</h2>\n</li>\n<li>\n<p>SQLite Page Explorer는 redbean으로 개발된 작은 GUI 애플리케이션으로, SQLite 데이터베이스를 SQLite가 보는 방식대로 &quot;페이지별로&quot; 탐색할 수 있게 해주는 도구임</p>\n</li>\n<li>\n<h3>왜 필요한가?</h3>\n<ul>\n<li>SQLite 및 대부분의 데이터베이스",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19120",
+      "guid": "https://news.hada.io/topic?id=19120",
+      "pubDate": "2025-02-08T10:20:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "봇임을 공개하도록 요구하는 캘리포니아 법안",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>개요</h2>\n<ul>\n<li>캘리포니아에서 모든 온라인 봇과 AI 기반 계정이 자동화된 특성을 공개하도록 요구하는 법안임.</li>\n<li>생성적 인공지능을 사용하는 계정을 포함하도록 봇의 정의를 확장함.</li>\n<li>사용자와의 온라인 상호작용 중 요청 시 즉시 봇임을 공개하도록 의무화함.</li>\n<li>월간 미국 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19119",
+      "guid": "https://news.hada.io/topic?id=19119",
+      "pubDate": "2025-02-08T10:17:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenWrt 24.10.0 – 첫 번째 안정 버전 출시",
+      "description": {
+        "$text": "<h2>OpenWrt 24.10.0 - 첫 번째 안정 버전 - 2025년 2월 6일</h2>\n<ul>\n<li>OpenWrt 커뮤니티는 OpenWrt 24.10 안정 시리즈의 첫 번째 안정 버전을 발표함</li>\n<li>펌웨어 이미지는 Firmware Selector 또는 다운로드 서버에서 직접 다운로드 가능</li>\n<li>OpenWrt 23.05에서 24.10으로 업그레이드는 sysupgrade 유틸리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19118",
+      "guid": "https://news.hada.io/topic?id=19118",
+      "pubDate": "2025-02-08T10:14:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PDF에서 실행되는 Linux",
+      "description": {
+        "$text": "PDF에서 실행되는 Linux",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19117",
+      "guid": "https://news.hada.io/topic?id=19117",
+      "pubDate": "2025-02-08T10:11:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "데이터.gov 아카이브 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>오늘의 발표</strong></p>\n<ul>\n<li>오늘 Source Cooperative에 data.gov의 아카이브를 공개함.</li>\n<li>2024년과 2025년에 수집된 311,000개 이상의 데이터셋을 포함한 16TB의 컬렉션임.</li>\n<li>data.gov에 새로운 데이터셋이 추가될 때마다 매일 업데이트될 예정임.</li>\n</ul>\n</li>\n<li>\n<p",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19116",
+      "guid": "https://news.hada.io/topic?id=19116",
+      "pubDate": "2025-02-08T10:08:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "도널드 커누스 2024 크리스마스 강연: 강한 및 약한 컴포넌트 [비디오]",
+      "description": {
+        "$text": "도널드 커누스 2024 크리스마스 강연: 강한 및 약한 컴포넌트 [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19115",
+      "guid": "https://news.hada.io/topic?id=19115",
+      "pubDate": "2025-02-08T10:05:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지형 위 물의 시뮬레이션",
+      "description": {
+        "$text": "<h2>물의 문제점</h2>\n<ul>\n<li>대부분의 게임은 지형 수정이 불가능하며, 이는 합리적임. 모든 게임이 이를 필요로 하지는 않음.</li>\n<li>물이 있는 게임에서는 물의 흐름을 어떻게 처리할지 고민해야 함.</li>\n<li>기존의 간단한 모델들은 만족스럽지 않으며, 더 나은 모델을 찾기 위해 연구가 필요함.</li>\n</ul>\n<h...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19114",
+      "guid": "https://news.hada.io/topic?id=19114",
+      "pubDate": "2025-02-08T10:02:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "추론 능력을 이해하는 LLMs 분석",
+      "description": {
+        "$text": "<h4>이해하기: 추론 모델</h4>\n<ul>\n<li>\n<p><strong>추론 모델의 정의</strong>: 추론 모델은 복잡한 문제를 해결하기 위해 중간 단계를 포함한 다단계 생성이 필요한 질문에 답하는 과정임. 예를 들어, &quot;기차가 시속 60마일로 3시간 동안 이동하면 얼마나 멀리 가는가?&quot;와 같은 질문은 단순한 사실 기반 질문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19113",
+      "guid": "https://news.hada.io/topic?id=19113",
+      "pubDate": "2025-02-08T09:59:46+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
