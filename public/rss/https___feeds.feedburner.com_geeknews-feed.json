@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-07T23:06:12+09:00",
+  "lastBuildDate": "2025-02-08T09:47:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17641,6 +17641,32 @@
       "guid": "https://news.hada.io/topic?id=19107",
       "pubDate": "2025-02-07T23:06:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메타, 저작권 데이터 포함된 81.7TB 데이터셋 토렌트 및 시드 배포",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>메타의 불법 토렌팅 의혹</h3>\n<ul>\n<li>최근 공개된 이메일은 메타가 불법적으로 AI 모델을 해적판 책으로 훈련시켰다는 저작권 소송에서 중요한 증거로 제시됨.</li>\n<li>메타는 LibGen이라는 논란의 데이터셋을 토렌팅했다고 인정했으며, 이는 수천만 권의 해적판 책을 포함함.</li>\n<li>메타는 Anna’...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19109",
+      "guid": "https://news.hada.io/topic?id=19109",
+      "pubDate": "2025-02-08T09:47:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHut Copilot - Agent 모드 공개",
+      "description": {
+        "$text": "<ul>\n<li>2021년에 GitHub Copilot을 소개한 목적: &quot;AI가 개발자를 대체하기보다 함께 협업해 코드 품질과 생산성을 높이는 파트너 구현&quot;</li>\n<li>주요 업데이트: 더 강력해진 Agentic AI(Agent 모드), VS Code내 Copilot Edits의 정식 출시, 모델 선택기에 Gemini 2.0 Flash 추가, 새로운 자율 에이전트(Pro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19108",
+      "guid": "https://news.hada.io/topic?id=19108",
+      "pubDate": "2025-02-08T09:35:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
