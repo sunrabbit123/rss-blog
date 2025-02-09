@@ -633,6 +633,15 @@
       "pubDate": "Sat, 01 Feb 2025 13:20:36 +0900",
       "author": "pjt3591oo",
       "category": "블록체인"
+    },
+    {
+      "title": "[react] react19 + next15 + shadcn + tailwind4 최신버전 조합",
+      "description": "안녕하세요 멍개입니다. 이번 시간은 현재(2025-02-09) react의 최신버전들의 조합인 react19 + next15 + shadcn + tailwind4 레포를 소개합니다. https://github.com/shadcn/app-tailwind-v4 · clone · install dependencies 설치 중 다음과 같은 에러가 발생합니다. 에러 내용을 살펴보면 cmdk@1.0.0은 react@^18.0.0 버전에 의존되어 있습니다. 완전한 해결책은 아니지만 --force 또는 --legacy-peer-deps를 이용하여 설치를 합니다. · 실행 http://localhost:3000으로 접속하면 다음과 같이 페이지에 접속할 수 있습니다. · deploy",
+      "link": "https://blog.naver.com/pjt3591oo/223753908176?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223753908176",
+      "pubDate": "Sun, 09 Feb 2025 12:17:32 +0900",
+      "author": "pjt3591oo",
+      "category": "Web"
     }
   ]
 }
