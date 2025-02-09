@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-09T17:33:29+09:00",
+  "lastBuildDate": "2025-02-09T19:53:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17966,6 +17966,19 @@
       "guid": "https://news.hada.io/topic?id=19135",
       "pubDate": "2025-02-09T17:33:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN:  당신의 콘텐츠 집사, newtler(뉴틀러)! 베타 서비스 출시",
+      "description": {
+        "$text": "<p>안녕하세요,<br />\n지난번에 MVP를 출시한다는 소식으로 처음 글을 작성했었는데요,<br />\n이후 1월 6일 MVP를 출시하여 1월 31일에 MVP를 종료했습니다.</p>\n<p>긱뉴스를 통해서 정말 많은 분들이 MVP를 이용해 주셨고,<br />\nMVP를 운영하며 받은 피드백들을 바탕으로 베타서비스를 출시했습니다.</p>\n<p>많은 관심",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19137",
+      "guid": "https://news.hada.io/topic?id=19137",
+      "pubDate": "2025-02-09T19:53:51+09:00",
+      "author": "newtler",
       "category": ""
     }
   ]
