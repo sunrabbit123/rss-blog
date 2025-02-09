@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-09T16:33:15+09:00",
+  "lastBuildDate": "2025-02-09T17:33:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17952,6 +17952,19 @@
       "link": "https://news.hada.io/topic?id=19134",
       "guid": "https://news.hada.io/topic?id=19134",
       "pubDate": "2025-02-09T16:33:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "도시의 비용 효율적 자체 유틸리티 설립 가능성",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>도시가 자체 유틸리티를 시작할 수 있는 이유</h2>\n<ul>\n<li>PG&amp;E의 전기 요금은 실제 전기 생산 및 전송 비용보다 훨씬 높음. 평균적으로 PG&amp;E의 전기 요금은 킬로와트시당 40센트에서 시작하며, 이는 Santa Clara의 Silicon Valley Power가 제공하는 17센트보다 훨씬 높음.</li>\n<li>PG&amp;E의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19135",
+      "guid": "https://news.hada.io/topic?id=19135",
+      "pubDate": "2025-02-09T17:33:29+09:00",
       "author": "neo",
       "category": ""
     }
