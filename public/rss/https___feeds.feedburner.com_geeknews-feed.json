@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-10T10:44:01+09:00",
+  "lastBuildDate": "2025-02-10T11:06:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18187,6 +18187,19 @@
       "guid": "https://news.hada.io/topic?id=19145",
       "pubDate": "2025-02-10T09:58:35+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 창업자의 씁쓸한 교훈 (Bitter Lesson)",
+      "description": {
+        "$text": "<ul>\n<li>AI Safety 스타트업 Andon Labs (YC w24) 창업자 Lukas Petersson 의 4부작 글을 하나로 정리\n<ul>\n<li>역사적으로 AI 분야에서는 일반적인 접근 방식이 항상 승리했음</li>\n<li>현재 AI 애플리케이션 분야의 창업자들은 과거 AI 연구자들이 저지른 실수를 반복하고 있음</li>\n<li>더 나은 AI 모델은 범용 AI 애...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19154",
+      "guid": "https://news.hada.io/topic?id=19154",
+      "pubDate": "2025-02-10T11:06:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
