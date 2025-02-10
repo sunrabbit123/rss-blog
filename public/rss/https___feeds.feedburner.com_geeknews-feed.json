@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-10T16:25:47+09:00",
+  "lastBuildDate": "2025-02-10T22:53:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18265,6 +18265,19 @@
       "guid": "https://news.hada.io/topic?id=19157",
       "pubDate": "2025-02-10T15:44:40+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Apple Wallet에 나만의 카드 추가하기",
+      "description": {
+        "$text": "<p>요즘은 PPT 슬라이드에서도 QR 코드로 스피커의 프로필이나 발표 자료에 쉽게 접근할 수 있습니다. 코로나 이후 QR 사용이 더욱 익숙해지면서, 진입 장벽이 크게 낮아졌죠.</p>\n<p>하지만 오프라인에서 LinkedIn, Instagram 같은 프로필을 공유하려 해도, 상대가 직접 검색하면 쉽게 찾기 어렵고 시간이 걸리곤 합니다",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19160",
+      "guid": "https://news.hada.io/topic?id=19160",
+      "pubDate": "2025-02-10T22:53:31+09:00",
+      "author": "jongwony",
       "category": ""
     }
   ]
