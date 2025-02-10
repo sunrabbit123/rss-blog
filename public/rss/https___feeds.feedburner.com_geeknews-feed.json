@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-09T19:53:51+09:00",
+  "lastBuildDate": "2025-02-10T09:55:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -17979,6 +17979,97 @@
       "guid": "https://news.hada.io/topic?id=19137",
       "pubDate": "2025-02-09T19:53:51+09:00",
       "author": "newtler",
+      "category": ""
+    },
+    {
+      "title": "Rust로 작성하는 간단한 Windows 드라이버 작성법",
+      "description": {
+        "$text": "<h2>Rust로 간단한 드라이버 작성하기</h2>\n<ul>\n<li>Rust 언어 생태계는 매일 성장하고 있으며, 메모리와 동시성 안전성을 컴파일 시점에 제공하는 유일한 주류 언어임. 강력하고 풍부한 빌드 시스템(cargo)과 증가하는 패키지 수(crates)도 장점임.</li>\n<li>Rust는 시스템 프로그래밍 언어로서 C/C++와 같은 영역에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19144",
+      "guid": "https://news.hada.io/topic?id=19144",
+      "pubDate": "2025-02-10T09:55:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수학적 필기 향상을 위한 팁 (2007)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>이제 기술 분야(공학, 과학, 수학) 전공을 시작하면서, 글로 소통하는 시간이 많아짐. 글씨체가 완벽하지 않다면, z와 2z를 혼동하지 않도록 주의해야 함.</p>\n</li>\n<li>\n<p><strong>소문자 로마자</strong></p>\n<ul>\n<li>소문자 l은 필기체로 작성하여 1과 구별해야 함.</li>\n<li>p의 위쪽에 점을 찍어 r",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19143",
+      "guid": "https://news.hada.io/topic?id=19143",
+      "pubDate": "2025-02-10T09:52:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Goose - 오픈소스 AI 코딩 에이전트",
+      "description": {
+        "$text": "<ul>\n<li>로컬에서 실행 가능한 확장형 AI 에이전트로 코딩작업을 자동화하며 복잡한 작업을 처리</li>\n<li>OpenAI, Anthropic, Gemini, Groq, Ollama 등의 모델과 OpenRouter 이용 가능</li>\n<li>다양한 확장을 통해 기능 추가 가능\n<ul>\n<li>Developer (기본 설치 확장) : 파일 편집 및 셸 명령 실행</li>\n<li>Compute...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19142",
+      "guid": "https://news.hada.io/topic?id=19142",
+      "pubDate": "2025-02-10T09:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "셰이더에서 mix()+step()을 사용한 조건부 이동 최적화 금지 방침",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>이 글에서는 GPU에서의 분기와 관련된 잘못된 통념을 바로잡고자 함.</li>\n<li>몇몇 교육 웹사이트에서 잘못된 정보를 퍼뜨리고 있어 이를 수정하고자 함.</li>\n</ul>\n<h2>문제</h2>\n<ul>\n<li>GPU 코드에서 조건부 실행을 구현하는 삼항 연산자를 사용하는 코드 예시를 제시함.</li>\n<li>일부 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19141",
+      "guid": "https://news.hada.io/topic?id=19141",
+      "pubDate": "2025-02-10T09:49:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "현대의 예언자인가 아니면 헛소리 기계인가 - ChatGPT 세상에서 번영하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>우리는 초지능 컴퓨터 시스템이 혁신과 번영의 시대를 가져올 것이라 기대함</li>\n<li>ChatGPT의 등장으로 일부에서는 현대판 예언자라 부르고, 다른 일부는 허튼소리 기계라고 평가함</li>\n<li>기술 전문가와 홍보 관계자들은 LLM이 우리의 <strong>업무, 학습, 놀이, 의사소통, 창작, 연결 방식</strong>을 혁...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19140",
+      "guid": "https://news.hada.io/topic?id=19140",
+      "pubDate": "2025-02-10T09:46:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "머스크의 DOGE 팀에 합류한 10대는 \"The Com\" 출신",
+      "description": {
+        "$text": "<ul>\n<li>19세의 에드워드 코리스틴이 엘론 머스크의 정부 효율성 부서(DOGE)에서 미국 정부의 민감한 시스템에 접근할 수 있었음</li>\n<li>코리스틴은 과거 사이버 범죄 커뮤니티와의 연관성으로 인해 보안 승인을 받지 못했어야 했음</li>\n<li>DOGE 팀은 미국 시민의 개인 및 민감한 데이터에 접근하여 여러 정부 기관...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19139",
+      "guid": "https://news.hada.io/topic?id=19139",
+      "pubDate": "2025-02-10T08:33:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "RxDB - 자체 백엔드와 동기화할 수 있는 Firestore 대안",
+      "description": {
+        "$text": "RxDB - 자체 백엔드와 동기화할 수 있는 Firestore 대안",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19138",
+      "guid": "https://news.hada.io/topic?id=19138",
+      "pubDate": "2025-02-10T07:26:31+09:00",
+      "author": "kokolo",
       "category": ""
     }
   ]
