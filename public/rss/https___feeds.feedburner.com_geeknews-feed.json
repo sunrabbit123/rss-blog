@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-10T22:53:31+09:00",
+  "lastBuildDate": "2025-02-11T03:45:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18278,6 +18278,19 @@
       "guid": "https://news.hada.io/topic?id=19160",
       "pubDate": "2025-02-10T22:53:31+09:00",
       "author": "jongwony",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Show GN: 드 모건의 법칙을 통해 부정 부울 표현식을 변환하는 ESLint 플러그인",
+      "description": {
+        "$text": "<p>ESLint 플러그인 드 모건 출시.</p>\n<p>자바스크립트 코드의 논리 표현식을 더 간단하고 이해하기 쉽게 변환하는 플러그인입니다.</p>\n<p>이것에서:</p>\n<p>!(a &amp;&amp; !b &amp;&amp; c &lt;= d)</p>\n<p>이렇게</p>\n<p>!a || b || c &gt; d</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19161",
+      "guid": "https://news.hada.io/topic?id=19161",
+      "pubDate": "2025-02-11T03:45:56+09:00",
+      "author": "azatio",
       "category": ""
     }
   ]
