@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-10T11:06:01+09:00",
+  "lastBuildDate": "2025-02-10T14:34:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18200,6 +18200,32 @@
       "guid": "https://news.hada.io/topic?id=19154",
       "pubDate": "2025-02-10T11:06:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Meta AI Demos",
+      "description": {
+        "$text": "Meta AI Demos",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19156",
+      "guid": "https://news.hada.io/topic?id=19156",
+      "pubDate": "2025-02-10T14:34:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AWS S3 + CloudFront로 배포 시 정적 파일을 불러오지 못해 흰 화면이 발생하는 문제 해결하기",
+      "description": {
+        "$text": "<p>배포 시 정적 파일을 불러오지 못해 흰 화면이 발생하는 문제를 AWS S3 + CloudFront로 해결한 글입니다. AWS S3 + CloudFront로 안정적인 정적 파일 배포를 고민하는 분들에게 도움이 되었으면 좋겠습니다.</p>\n<p><strong>[문제 발생 배경]</strong></p>\n<ul>\n<li>React + Vite 기반 Frontend 서비스 운영</li>\n<li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19155",
+      "guid": "https://news.hada.io/topic?id=19155",
+      "pubDate": "2025-02-10T13:45:52+09:00",
+      "author": "whatsup",
       "category": ""
     }
   ]
