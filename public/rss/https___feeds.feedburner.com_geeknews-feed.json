@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-11T09:11:47+09:00",
+  "lastBuildDate": "2025-02-11T11:07:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18330,6 +18330,136 @@
       "guid": "https://news.hada.io/topic?id=19162",
       "pubDate": "2025-02-11T07:49:08+09:00",
       "author": "preeded",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Moonlight v1.0.0 - 논문읽기를 위한 AI PDF 리더",
+      "description": {
+        "$text": "<h3>논문읽기를 위한 AI PDF 리더</h3>\n<p><strong>연구자라면 누구나 겪어본 어려움</strong>이 있습니다.</p>\n<ul>\n<li>\n<strong>수식</strong>의 맥락 및 변수 파악에 시간이 걸리고,</li>\n<li>\n<strong>이미지나 테이블</strong>의 의미를 빠르게 파악하기 어려우며,</li>\n<li>\n<strong>하이퍼링크</strong>를 클릭하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19179",
+      "guid": "https://news.hada.io/topic?id=19179",
+      "pubDate": "2025-02-11T11:07:49+09:00",
+      "author": "treblenalto",
+      "category": ""
+    },
+    {
+      "title": "Airbnb가 지도 검색을 개선한 방법",
+      "description": {
+        "$text": "<ul>\n<li>Search는 Airbnb에서 Guest와 Host를 연결하는 핵심 메커니즘</li>\n<li>Airbnb의 검색 결과는 두가지로 제공됨\n<ul>\n<li>목록 형식 (list-results, 숙소 이미지·가격·평점 등이 표시된 카드 형태)</li>\n<li>지도 형식 (map-results, 지도를 기반으로 가격이 표시된 핀 형태)</li>\n</ul>\n</li>\n<li>기존 검색 랭...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19177",
+      "guid": "https://news.hada.io/topic?id=19177",
+      "pubDate": "2025-02-11T10:14:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "은행 CEO의 디뱅킹(Debanking) 기사 철회 요청을 거절함",
+      "description": {
+        "$text": "<ul>\n<li>2024년 12월, 마크 안드레센과 다른 암호화폐 옹호자들이 주장하는 디뱅킹 현상에 대한 언론/옹호 캠페인에 대응하여 &quot;Debanking (and Debunking?)&quot;이라는 기사를 작성함</li>\n<li>이 기사는 문제의 여러 측면을 설명하며, 은행의 제약과 인센티브 구조, AML 규제가 무고한 기업가에게 미치는 영향, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19176",
+      "guid": "https://news.hada.io/topic?id=19176",
+      "pubDate": "2025-02-11T10:12:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사회에 대한 광고의 암적 존재 (2019)",
+      "description": {
+        "$text": "<h3>광고를 암에 비유하는 이유</h3>\n<ul>\n<li>광고는 현대 사회에서 암과 같은 존재로, 효율적인 시장을 위한 필수 요소에서 벗어나 점점 더 조작적이고 부정직하게 변해감.</li>\n<li>광고는 모든 회사의 자원을 소비하고, 모든 커뮤니케이션 매체에 침투하며, 사람과 기관에 대한 신뢰를 파괴함.</li>\n<li>광고의 성장...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19175",
+      "guid": "https://news.hada.io/topic?id=19175",
+      "pubDate": "2025-02-11T10:09:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PDFSyntax - PDF 파일 내부 구조의 HTML 시각화",
+      "description": {
+        "$text": "<ul>\n<li>PDF 파일의 내부 구조를 검사하고 변환하는 Python 라이브러리</li>\n<li>PDF 표준의 7장(&quot;Syntax&quot;)을 중점적으로 구현함</li>\n<li>바이트 수준에서 문서 구조를 관리하여 메타데이터 접근, 회전 등 다양한 변환 작업을 수행할 수 있음</li>\n</ul>\n<h2>주요 특징</h2>\n<ul>\n<li>PDF 읽기/쓰기 작업을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19174",
+      "guid": "https://news.hada.io/topic?id=19174",
+      "pubDate": "2025-02-11T10:06:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Andrej Karpathy의 \"ChatGPT와 같은 LLM 심층 분석\" 영상 요약",
+      "description": {
+        "$text": "<h3>이 심층 분석은 누구를 위한 것인가?</h3>\n<ul>\n<li>\n<strong>LLM의 실제 작동 방식 이해</strong>: 표면적인 이해를 넘어 LLM의 작동 원리를 알고자 하는 사람.</li>\n<li>\n<strong>혼란스러운 미세 조정 용어 이해</strong>: <code>chat_template</code>와 <code>ChatML</code> 같은 용어를 이해하고자 하는 사람....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19173",
+      "guid": "https://news.hada.io/topic?id=19173",
+      "pubDate": "2025-02-11T10:03:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자가면역질환 발견을 위한 오픈 소스 AI 도구 개발",
+      "description": {
+        "$text": "<ul>\n<li>자가 면역 질환을 찾기 위해 오픈 소스 AI 도구를 구축한 방법(10만 달러와 30회 이상의 병원 방문 후) - 이제 누구나 사용할 수 있음</li>\n</ul>\n<h2>오픈 소스 건강 분석 도구 개발 이야기</h2>\n<h3>5년간의 건강 문제와 진단 과정</h3>\n<ul>\n<li>운동 중 쉽게 부상을 입고, 회복이 느리며, 피로감과 관절통을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19172",
+      "guid": "https://news.hada.io/topic?id=19172",
+      "pubDate": "2025-02-11T10:00:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일론 머스크 주도의 그룹, OpenAI 지배권을 위한 974억 달러 입찰",
+      "description": {
+        "$text": "<ul>\n<li>일론 머스크가 이끄는 투자자 컨소시엄이 OpenAI를 관리하는 비영리 단체를 인수하기 위해 974억 달러(약 141조 원)의 제안을 제출함  ￼</li>\n<li>머스크는 OpenAI가 오픈소스와 안전성 중심의 선한 영향력으로 돌아가야 한다고 강조함</li>\n<li>컨소시엄에는 머스크의 AI 스타트업 xAI, Baron Capital Group,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19171",
+      "guid": "https://news.hada.io/topic?id=19171",
+      "pubDate": "2025-02-11T09:57:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Anthropic Economic Index (경제 지수)",
+      "description": {
+        "$text": "<ul>\n<li>Anthropic은 AI 시스템이 노동 시장과 경제에 미치는 영향을 이해하기 위해 'Anthropic Economic Index'를 출시</li>\n<li>이 지수는 Claude.ai에서 수집된 수백만 건의 익명화된 대화를 기반으로 AI가 현대 경제의 실제 작업에 어떻게 통합되고 있는지에 대한 데이터를 제공</li>\n<li>또한, 연구자들이 이 분석...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19170",
+      "guid": "https://news.hada.io/topic?id=19170",
+      "pubDate": "2025-02-11T09:54:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hibiki - 고품질 동시 음성-to-음성 번역 모델",
+      "description": {
+        "$text": "<ul>\n<li>고충실도(High Fidelity) 실시간 스트리밍 음성 번역(Speech-to-Speech Translation) 모델</li>\n<li>일반적인 오프라인 번역과 달리, 사용자가 말하는 동안 &quot;실시간으로 번역된 음성을 생성&quot;함</li>\n<li>텍스트 번역도 함께 제공하며, 원본 음성의 스타일을 유지하는 음성 변환 기능도 포함됨</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19169",
+      "guid": "https://news.hada.io/topic?id=19169",
+      "pubDate": "2025-02-11T09:53:55+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
