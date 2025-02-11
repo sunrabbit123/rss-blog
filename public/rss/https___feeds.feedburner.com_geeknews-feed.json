@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-11T03:45:56+09:00",
+  "lastBuildDate": "2025-02-11T09:11:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18291,6 +18291,45 @@
       "guid": "https://news.hada.io/topic?id=19161",
       "pubDate": "2025-02-11T03:45:56+09:00",
       "author": "azatio",
+      "category": ""
+    },
+    {
+      "title": "GPT Wrapper의 반격: 상업화된 AI 모델 세계에서의 독점성",
+      "description": {
+        "$text": "<p>defensibility: 방어성 (moat와 함께 써서 독점성으로 번역했습니다)<br />\nmoat: 해자</p>\n<p>GPT Wrapper 서비스 예시: Character.ai, Perplexity AI</p>\n<p>ycombinator 댓글: https://news.ycombinator.com/item?id=42971442</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19164",
+      "guid": "https://news.hada.io/topic?id=19164",
+      "pubDate": "2025-02-11T09:11:47+09:00",
+      "author": "felizgeek",
+      "category": ""
+    },
+    {
+      "title": "클락 카운티 2024 선거 결과 조작 분석",
+      "description": {
+        "$text": "클락 카운티 2024 선거 결과 조작 분석",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19163",
+      "guid": "https://news.hada.io/topic?id=19163",
+      "pubDate": "2025-02-11T08:33:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "keymapper, 크로스플랫폼 context-aware 키 리매핑",
+      "description": {
+        "$text": "<ul>\n<li>각 프로그램별 리매핑 가능</li>\n<li>크로스플랫폼(GNU/Linux, Windows, MacOS)</li>\n<li>context-aware(운영체제, 창 제목 및 프로세스 경로 등으로 리매핑 적용 가능)</li>\n<li>주요 리매핑 기능 지원(어플리케이션 실행, 매크로, 별칭, 키 릴리즈시 작동, 타임아웃 그리고 마우스 등)</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19162",
+      "guid": "https://news.hada.io/topic?id=19162",
+      "pubDate": "2025-02-11T07:49:08+09:00",
+      "author": "preeded",
       "category": ""
     }
   ]
