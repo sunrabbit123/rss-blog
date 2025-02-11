@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-11T11:07:59+09:00",
+  "lastBuildDate": "2025-02-11T15:26:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18460,6 +18460,19 @@
       "guid": "https://news.hada.io/topic?id=19169",
       "pubDate": "2025-02-11T09:53:55+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TF 중심 운영: 동아리나 동호회를 어떻게하면 잘 운영할 수 있을까",
+      "description": {
+        "$text": "<p><strong>배경</strong></p>\n<ul>\n<li>대학 동아리는 대학생들이 조직 운영을 처음 경험하는 작은 단위지만, 운영의 어려움과 소모적인 문제를 동반할 수 있음.</li>\n<li>특히, 동아리 활동보다 매력적이거나 우선순위가 높은 일이 많아 회원 참여 저조 문제가 발생.</li>\n<li>이러한 상황에서 소수의 핵심 인원이 동아",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19180",
+      "guid": "https://news.hada.io/topic?id=19180",
+      "pubDate": "2025-02-11T15:26:01+09:00",
+      "author": "belline0124",
       "category": ""
     }
   ]
