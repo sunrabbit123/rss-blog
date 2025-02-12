@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-12T11:24:58+09:00",
+  "lastBuildDate": "2025-02-12T13:34:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18589,6 +18589,19 @@
       "link": "https://news.hada.io/topic?id=19184",
       "guid": "https://news.hada.io/topic?id=19184",
       "pubDate": "2025-02-12T09:40:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepScaleR: 1.5B 모델로 O1-Preview를 능가하는 RL 확장 기술",
+      "description": {
+        "$text": "<p>The content provided is not relevant to the main text and does not contain any substantial information to summarize.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19190",
+      "guid": "https://news.hada.io/topic?id=19190",
+      "pubDate": "2025-02-12T13:34:15+09:00",
       "author": "neo",
       "category": ""
     }
