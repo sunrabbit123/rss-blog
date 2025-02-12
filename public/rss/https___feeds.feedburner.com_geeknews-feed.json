@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-12T13:34:15+09:00",
+  "lastBuildDate": "2025-02-12T16:33:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18602,6 +18602,19 @@
       "link": "https://news.hada.io/topic?id=19190",
       "guid": "https://news.hada.io/topic?id=19190",
       "pubDate": "2025-02-12T13:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "톰슨 로이터스, 미국 최초 주요 AI 저작권 소송 승소",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Thomson Reuters의 AI 저작권 소송 승리</strong></p>\n<ul>\n<li>Thomson Reuters는 미국에서 첫 주요 AI 저작권 소송에서 승리함.</li>\n<li>2020년, Thomson Reuters는 법률 AI 스타트업 Ross Intelligence를 상대로 소송을 제기함. 이 소송에서 Thomson Reuters는 Ross Intelligence가 자사의 법률",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19191",
+      "guid": "https://news.hada.io/topic?id=19191",
+      "pubDate": "2025-02-12T16:33:48+09:00",
       "author": "neo",
       "category": ""
     }
