@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-12T16:33:48+09:00",
+  "lastBuildDate": "2025-02-12T18:01:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18615,6 +18615,19 @@
       "link": "https://news.hada.io/topic?id=19191",
       "guid": "https://news.hada.io/topic?id=19191",
       "pubDate": "2025-02-12T16:33:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FLAC 1.5: 드디어 멀티스레드 인코딩 지원",
+      "description": {
+        "$text": "<ul>\n<li>Free Lossless Audio Codec(FLAC)의 1.5 업데이트에서 드디어 <em>멀티스레드 오디오 인코딩 도입</em>\n<ul>\n<li>기존에는 단일 스레드만 사용 가능했으나, 이제 <em>멀티코어 CPU 활용 가능</em>\n</li>\n<li>\n<code>flac</code> 명령어에서 <code>-j #</code> 또는 <code>--threads=#</code> 옵션으로 <em>스레...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19192",
+      "guid": "https://news.hada.io/topic?id=19192",
+      "pubDate": "2025-02-12T18:01:11+09:00",
       "author": "neo",
       "category": ""
     }
