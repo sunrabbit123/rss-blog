@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-11T15:26:01+09:00",
+  "lastBuildDate": "2025-02-12T09:37:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18473,6 +18473,45 @@
       "guid": "https://news.hada.io/topic?id=19180",
       "pubDate": "2025-02-11T15:26:01+09:00",
       "author": "belline0124",
+      "category": ""
+    },
+    {
+      "title": "혼다의 매운맛 쥐 퇴치 테이프 시식 체험 (2021)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>나는 Honda의 매운 설치류 방지 테이프를 맛보았음</h4>\n<ul>\n<li>\n<p>Liz Cook는 자동차 문제를 겪은 후 Honda의 설치류 방지 테이프의 존재를 알게 되었음. 이 테이프는 설치류가 자동차의 중요한 전선을 갉아먹지 않도록 하기 위해 만들어졌음.</p>\n</li>\n<li>\n<p>테이프는 귀여운 쥐 실루엣이 그려진 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19183",
+      "guid": "https://news.hada.io/topic?id=19183",
+      "pubDate": "2025-02-12T09:37:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI의 미래를 정의하는 인터페이스 디자인 혁신들",
+      "description": {
+        "$text": "<ul>\n<li>인터페이스 디자이너들이 이전에 없던 새로운 사용자 경험을 개척 중임</li>\n<li>모바일 터치 인터페이스 초창기처럼, 지금은 AI와 어떻게 협업할지에 대해 모두가 실험하며 배워가는 시기임</li>\n<li>작은 성공 사례가 등장하면 곧바로 업계 전반이 이를 채택함</li>\n<li>AI 인터페이스를 정의하는 여러 혁신적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19182",
+      "guid": "https://news.hada.io/topic?id=19182",
+      "pubDate": "2025-02-12T09:33:17+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "저렴한 예산으로 개인용 프라이빗 AI 컴퓨터 구축",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>개인 AI 컴퓨터 구축하기</h2>\n</li>\n<li>\n<p>AI 도구 개발에 많은 돈이 투자되고 있으며, 많은 서비스가 손실을 감수하면서 운영되고 있음. 이러한 서비스들은 시장을 장악하기 위해 무료 또는 저렴하게 제공되고 있음.</p>\n</li>\n<li>\n<p>DeepSeek와 같은 회사들은 그들의 모델을 무료로 공개하여 시장을",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19181",
+      "guid": "https://news.hada.io/topic?id=19181",
+      "pubDate": "2025-02-12T08:34:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
