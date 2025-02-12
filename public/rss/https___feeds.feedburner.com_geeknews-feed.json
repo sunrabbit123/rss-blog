@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-12T18:01:11+09:00",
+  "lastBuildDate": "2025-02-12T19:04:00+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18628,6 +18628,32 @@
       "link": "https://news.hada.io/topic?id=19192",
       "guid": "https://news.hada.io/topic?id=19192",
       "pubDate": "2025-02-12T18:01:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 밝은 네이버 사전 (Bright Naver Dictionary)",
+      "description": {
+        "$text": "<p>네이버에서 사전을 가장 많이 사용하는데요, 외우고 싶은 단어를 anki에 복사 붙여넣기 할 때 html이 같이 긁어져서 어두운 테마가 같이 복붙이 되더라구요.</p>\n<p>네이버 사전도 네이버 내에서의 레거시 서비스인지 테마를 설정으로 바꾸는 부분이 없어 무조건적으로 브라우저 테마를 따라가게 돼있는데 그 브라우저",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19195",
+      "guid": "https://news.hada.io/topic?id=19195",
+      "pubDate": "2025-02-12T19:04:00+09:00",
+      "author": "jujumilk3",
+      "category": ""
+    },
+    {
+      "title": "구글 지도, 미국내에서 Gulf of Mexico를 Gulf of America로 명칭 변경",
+      "description": {
+        "$text": "<ul>\n<li>미국의 지리명 정보 시스템(GNIS)이 공식적으로 &quot;Gulf of Mexico&quot;를 &quot;Gulf of America&quot;로 업데이트</li>\n<li>이에 따라 Google 지도는 다음과 같이 명칭을 표시함:\n<ul>\n<li>미국 사용자: 'Gulf of America'</li>\n<li>멕시코 사용자: 'Gulf of Mexico'</li>\n<li>그 외 지역 사용자: 'Gulf ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19193",
+      "guid": "https://news.hada.io/topic?id=19193",
+      "pubDate": "2025-02-12T18:38:06+09:00",
       "author": "neo",
       "category": ""
     }
