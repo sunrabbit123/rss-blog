@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-12T09:37:11+09:00",
+  "lastBuildDate": "2025-02-12T11:24:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18511,6 +18511,84 @@
       "link": "https://news.hada.io/topic?id=19181",
       "guid": "https://news.hada.io/topic?id=19181",
       "pubDate": "2025-02-12T08:34:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, 이제 2개의 계정 간 구입 항목 마이그레이션 가능",
+      "description": {
+        "$text": "<ul>\n<li>보조 Apple 계정에서 구입한 앱, 음악, 기타 콘텐츠를 기본 Apple 계정으로 마이그레이션 가능</li>\n<li>두 계정 모두의 기본 이메일 주소 또는 전화번호와 암호에 접근할 수 있어야 하며, 두 계정 모두 다른 사람과 공유되지 않아야 함</li>\n</ul>\n<h2>구입 항목 마이그레이션 시 발생하는 일</h2>\n<ul>\n<li>보...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19189",
+      "guid": "https://news.hada.io/topic?id=19189",
+      "pubDate": "2025-02-12T10:36:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Meta의 하이퍼스케일 인프라에 대한 개요 및 통찰",
+      "description": {
+        "$text": "<ul>\n<li>Meta의 엔지니어링 문화는 빠른 실행, 기술 개방성, 생산 환경에서의 연구, 그리고 공유 인프라를 강조함</li>\n<li>개발자 생산성을 높이기 위해 지속적 배포를 채택하고, 더 많은 개발자가 전통적인 서비스 코드 대신 서버리스 함수를 작성할 수 있도록 함</li>\n<li>하드웨어 비용 절감을 위해 데이터센터 규모...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19188",
+      "guid": "https://news.hada.io/topic?id=19188",
+      "pubDate": "2025-02-12T10:33:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nvidia RTX 5090 전원 커넥터가 과열로 녹아내리는 증상 보고",
+      "description": {
+        "$text": "<ul>\n<li>Nvidia의 RTX 5090 GPU에서 전원 커넥터가 녹는 문제가 발생\n<ul>\n<li>RTX 4090에서도 유사한 문제가 보고된 바 있으며, Nvidia는 사용자가 12VHPWR 전원 커넥터를 제대로 연결하지 않았다고 주장</li>\n</ul>\n</li>\n<li>Reddit 사용자와 스페인 유튜버 Toro Tocho는 각각 MODDIY와 FSP에서 제공한 케이블을 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19187",
+      "guid": "https://news.hada.io/topic?id=19187",
+      "pubDate": "2025-02-12T09:49:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2024년 Backblaze 드라이브 통계",
+      "description": {
+        "$text": "<ul>\n<li>2024년 12월 31일 기준, Backblaze는 305,180개의 드라이브를 관리 중이며, 이 중 4,060개는 부트 드라이브, 301,120개는 데이터 드라이브임. 이 보고서는 2024년 4분기 연간화 실패율(AFR), 2024년 실패율, 그리고 2024년 말 기준 드라이브 모델의 전체 수명 실패율을 검토함.</li>\n</ul>\n<h2>Q4 2024 하드 드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19186",
+      "guid": "https://news.hada.io/topic?id=19186",
+      "pubDate": "2025-02-12T09:48:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지루한 기술은 오래된 것이 아닌 성숙한 기술",
+      "description": {
+        "$text": "<h2>지루한 기술(Boring tech)의 의미</h2>\n<ul>\n<li>\n<em>NetBSD가 &quot;지루하다&quot;는 것은 최고의 칭찬임</em>\n</li>\n<li>시스템 관리자가 원하는 것은 예측 가능성, 놀람이 아님</li>\n<li>\n<strong>기술이 지루하다는 것은 신뢰성이 높다는 뜻</strong>\n<ul>\n<li>많은 사람이 테스트하고 최적화한 결과</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19185",
+      "guid": "https://news.hada.io/topic?id=19185",
+      "pubDate": "2025-02-12T09:43:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프로그래머를 해고하고 AI로 대체하는 것은 기술업계 최악의 실수임",
+      "description": {
+        "$text": "<h2>AI가 프로그래머를 대체할 수 있을까?</h2>\n<ul>\n<li>과거에는 프로그래머를 존중하던 기술 업계가 이제는 &quot;AI가 모든 문제를 해결할 수 있다고 착각&quot;</li>\n<li>AI가 프로그래밍을 대신할 수 있다고 믿고 &quot;비싼 프로그래머들을 해고하는 움직임&quot;을 보임</li>\n<li>그러나 과거에도 엔지니어를 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19184",
+      "guid": "https://news.hada.io/topic?id=19184",
+      "pubDate": "2025-02-12T09:40:11+09:00",
       "author": "neo",
       "category": ""
     }
