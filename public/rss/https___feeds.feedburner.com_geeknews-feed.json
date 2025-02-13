@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T14:25:58+09:00",
+  "lastBuildDate": "2025-02-13T17:47:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18863,6 +18863,19 @@
       "guid": "https://news.hada.io/topic?id=19210",
       "pubDate": "2025-02-13T14:12:34+09:00",
       "author": "hankor",
+      "category": ""
+    },
+    {
+      "title": "친절한 엔지니어링",
+      "description": {
+        "$text": "<h3>친절함이란?</h3>\n<blockquote>\n<p>Kind is about being invested in other people, figuring out how to help them, meeting them where they are.</p>\n<p>친절함은 다른 사람에 투자하고, 돕는 방법을 찾으며, 원하는 바를 충족시킵니다.</p>\n<p>— Tanya Reilly, Continuous</p>\n</blockquote>\n<p>친절함은 위에 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19212",
+      "guid": "https://news.hada.io/topic?id=19212",
+      "pubDate": "2025-02-13T17:47:16+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
