@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T10:02:02+09:00",
+  "lastBuildDate": "2025-02-13T11:02:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18772,6 +18772,45 @@
       "guid": "https://news.hada.io/topic?id=19196",
       "pubDate": "2025-02-13T09:42:38+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI가 개발자를 대치할 수 있을까?",
+      "description": {
+        "$text": "<ul>\n<li>&quot;AI는 사람 개발자, 나아가 개발 조직, 더 나아가 소프트웨어 개발 전 사이클을 대치할 수 있을까?&quot;</li>\n<li>AI의 발전으로 인해 알고리즘 코딩 능력이 향상되었으나, 대부분의 기업은 최고 수준의 알고리즘 능력을 필요로 하지 않음</li>\n<li>AI는 버그가 포함된 코드로 학습되므로, 생성된 코드에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19207",
+      "guid": "https://news.hada.io/topic?id=19207",
+      "pubDate": "2025-02-13T11:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "github-backup - 깃헙 사용자/조직 전체 백업 도구",
+      "description": {
+        "$text": "<ul>\n<li>전체 Github 조직/리포지토리/사용자계정 을 백업하는 파이썬 패키지\n<ul>\n<li>별표(Starred) 리포지토리, 이슈, 위키를 포함</li>\n<li>가장 적합한 형식(위키의 경우 클론, 이슈의 경우 json 파일)을 사용</li>\n</ul>\n</li>\n<li>\n<code>github-backup USERNAME -o 백업경로 --repositories --issues --wikis...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19206",
+      "guid": "https://news.hada.io/topic?id=19206",
+      "pubDate": "2025-02-13T10:42:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OmniHuman - 사진 한장으로 실사 같은 영상을 생성하는 모델",
+      "description": {
+        "$text": "<ul>\n<li>ByteDance 연구진이 &quot;단일 사진을 사용해 자연스럽게 말하고, 노래하고, 움직이는 사람의 영상을 생성&quot;하는 AI 시스템을 개발</li>\n<li>기존 AI 모델이 얼굴이나 상반신만 애니메이션화할 수 있었던 한계를 뛰어넘어 &quot;전신 움직임을 반영한 영상&quot;을 생성할 수 있음</li>\n<li>&quot;음성, 영...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19205",
+      "guid": "https://news.hada.io/topic?id=19205",
+      "pubDate": "2025-02-13T10:28:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
