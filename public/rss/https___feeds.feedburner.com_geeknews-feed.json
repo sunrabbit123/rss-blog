@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T11:47:11+09:00",
+  "lastBuildDate": "2025-02-13T13:33:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18824,6 +18824,19 @@
       "guid": "https://news.hada.io/topic?id=19208",
       "pubDate": "2025-02-13T11:47:11+09:00",
       "author": "huiya",
+      "category": ""
+    },
+    {
+      "title": "미국과 영국, 정상회의에서 AI Safety(안전) 선언 거부",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>다자주의에 대한 거부</h2>\n<ul>\n<li>미국과 영국은 AI 안전 선언에 서명하지 않음</li>\n<li>미국의 입장은 바이든 행정부에서 &quot;180도 전환&quot;하는 것</li>\n<li>미국 부통령 JD Vance는 유럽이 AI에 대한 &quot;과도하게 신중한&quot; 규제를 채택하지 말 것을 경고함</li>\n<li>AI 기술이 &quot;안...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19209",
+      "guid": "https://news.hada.io/topic?id=19209",
+      "pubDate": "2025-02-13T13:33:47+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
