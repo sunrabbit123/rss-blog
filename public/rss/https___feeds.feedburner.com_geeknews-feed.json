@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T11:02:01+09:00",
+  "lastBuildDate": "2025-02-13T11:47:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18811,6 +18811,19 @@
       "guid": "https://news.hada.io/topic?id=19205",
       "pubDate": "2025-02-13T10:28:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 2025년에 Favicon 자동 생성하기",
+      "description": {
+        "$text": "<h2>Favicon Generator</h2>\n<p><a href=\"https://news.hada.io/topic?id=19204\">2025년에 Favicon을 준비하는 법</a> 를 보고 아티클 내용에 따라 자동으로 Favicon 생성해주는 도구를 만들어보았습니다.</p>\n<p><a href=\"https://dev-huiya.github.io/favicon-generator/\">사용해보기</a></p>\n<h3>사용법</h3>\n<ol>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19208",
+      "guid": "https://news.hada.io/topic?id=19208",
+      "pubDate": "2025-02-13T11:47:11+09:00",
+      "author": "huiya",
       "category": ""
     }
   ]
