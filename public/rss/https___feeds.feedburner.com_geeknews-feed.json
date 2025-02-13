@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T13:33:47+09:00",
+  "lastBuildDate": "2025-02-13T14:25:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18837,6 +18837,32 @@
       "guid": "https://news.hada.io/topic?id=19209",
       "pubDate": "2025-02-13T13:33:47+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리누스 토발즈 \"문제는 당신\"",
+      "description": {
+        "$text": "<ol>\n<li>Direct Memory Access API를 구현한 러스트 코드가 리눅스 커널 리포지토리로 풀 리퀘됨.</li>\n<li>리눅스 커널의 중간 관리자 Christoph Hellwig가 러스트 코드를 리눅스 커널로 들이지 말라면서 거부하고 분쟁이 시작됨.</li>\n<li>분쟁의 크기가 점점 커지면서, Christoph Hellwig가 러스트를 암 세포에 비유...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19211",
+      "guid": "https://news.hada.io/topic?id=19211",
+      "pubDate": "2025-02-13T14:25:58+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 마케팅 팀이 좋아하는 가벼운 Site Explorer 만들었습니다",
+      "description": {
+        "$text": "<p>경쟁사 키워드 분석이 필요하지만, 기존 툴은 비싸고 무겁다는 피드백이 많았습니다.</p>\n<p>그래서 크롤링 없이 제3자 API로 SEO &amp; PPC 키워드를 분석하는 가벼운 Site Explorer를 만들었습니다.</p>\n<pre><code>•\t마케팅 팀원들이 좋아하는 직관적인 UI  \n•\tSEO &amp; PPC 키워드 분석 – 경쟁사가 어떤 키워",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19210",
+      "guid": "https://news.hada.io/topic?id=19210",
+      "pubDate": "2025-02-13T14:12:34+09:00",
+      "author": "hankor",
       "category": ""
     }
   ]
