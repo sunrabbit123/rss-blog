@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T15:36:19+09:00",
+  "lastBuildDate": "2025-02-14T21:34:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19109,6 +19109,19 @@
       "link": "https://news.hada.io/topic?id=19231",
       "guid": "https://news.hada.io/topic?id=19231",
       "pubDate": "2025-02-14T15:36:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 화제: SQL Noir – 범죄 해결로 배우는 SQL",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>GitHub에서 Star하기</strong><br />\nGitHub에서 프로젝트에 별을 주는 것은 프로젝트의 인기를 높이고, 더 많은 사람들이 프로젝트를 발견할 수 있도록 도움을 줌.</p>\n</li>\n<li>\n<p><strong>커피 한 잔 사주기</strong><br />\n개발자에게 커피를 사주는 것은 그들의 노고를 인정하고, 프로젝트의",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19232",
+      "guid": "https://news.hada.io/topic?id=19232",
+      "pubDate": "2025-02-14T21:34:08+09:00",
       "author": "neo",
       "category": ""
     }
