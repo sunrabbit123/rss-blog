@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T14:44:41+09:00",
+  "lastBuildDate": "2025-02-14T15:36:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19097,6 +19097,19 @@
       "guid": "https://news.hada.io/topic?id=19229",
       "pubDate": "2025-02-14T14:02:05+09:00",
       "author": "nemorize",
+      "category": ""
+    },
+    {
+      "title": "Game Bub - 오픈소스 FPGA 레트로 에뮬레이션 휴대기기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Game Bub</strong>은 오픈소스 FPGA 기반의 레트로 에뮬레이션 핸드헬드 기기로, &quot;Game Boy, Game Boy Color, Game Boy Advance&quot; 게임을 지원함</li>\n<li>물리적인 게임 카트리지를 사용할 수 있으며, microSD 카드에 저장된 ROM 파일을 통해 에뮬레이션된 게임도 실행 가능함</li>\n<li>이렇...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19231",
+      "guid": "https://news.hada.io/topic?id=19231",
+      "pubDate": "2025-02-14T15:36:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
