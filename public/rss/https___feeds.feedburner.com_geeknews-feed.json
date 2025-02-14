@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T10:46:02+09:00",
+  "lastBuildDate": "2025-02-14T11:34:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19045,6 +19045,19 @@
       "guid": "https://news.hada.io/topic?id=19224",
       "pubDate": "2025-02-14T10:23:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "비주얼 답변과 다단계 추론을 갖춘 AI 검색, Phind 2 출시",
+      "description": {
+        "$text": "<p>The content provided does not contain any substantial information to summarize. It appears to be a security verification page from Cloudflare.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19227",
+      "guid": "https://news.hada.io/topic?id=19227",
+      "pubDate": "2025-02-14T11:34:29+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
