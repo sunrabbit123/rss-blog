@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T10:04:34+09:00",
+  "lastBuildDate": "2025-02-14T10:46:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19006,6 +19006,45 @@
       "guid": "https://news.hada.io/topic?id=19214",
       "pubDate": "2025-02-14T08:37:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "a0.dev - AI 기반 React Native 앱 생성 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>React Native 앱 개발 시간을 몇 주에서 몇 시간으로 단축하는 AI 기반 플랫폼</li>\n<li>사용자의 프롬프트를 입력하면 맞춤형 React Native 앱을 즉시 생성</li>\n<li>실시간 라이브 프리뷰 지원</li>\n<li>복잡한 설정 없이 빠른 프로토타이핑 가능</li>\n<li>생성된 코드를 직접 복사해 개발 환경에서 활용 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19226",
+      "guid": "https://news.hada.io/topic?id=19226",
+      "pubDate": "2025-02-14T10:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "네이버 서치 어드바이저 IndexNow protocol을 지원",
+      "description": {
+        "$text": "<p>네이버 서치 어드바이저도 2023년 7월부터 IndexNow*를 통해 새로 만들어진 페이지나 업데이트, 삭제가 발생한 페이지를 네이버 검색에 알릴 수 있게 지원합니다. IndexNow를 통해 웹사이트의 변화를 알리면, 검색로봇이 웹사이트를 방문하도록 기다리지 않아도 됩니다. 또한, 갱신된 페이지 정보가 다른 검색사들에게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19225",
+      "guid": "https://news.hada.io/topic?id=19225",
+      "pubDate": "2025-02-14T10:41:35+09:00",
+      "author": "dowha",
+      "category": ""
+    },
+    {
+      "title": "Zonos - 고품질 오픈 가중치 음성 합성 모델",
+      "description": {
+        "$text": "<ul>\n<li>200,000시간 이상의 다국어 음성 데이터로 학습된 Open Weight Text-To-Speech 모델</li>\n<li>상용 TTS 서비스와 &quot;동등하거나 뛰어난 음성 품질&quot; 및 &quot;자연스러운 표현력 제공&quot;</li>\n<li>44kHz 샘플링 속도로 고음질 음성 출력</li>\n<li>음성 클로닝 지원: 단 몇 초의 참조 음성으로 특정 화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19224",
+      "guid": "https://news.hada.io/topic?id=19224",
+      "pubDate": "2025-02-14T10:23:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
