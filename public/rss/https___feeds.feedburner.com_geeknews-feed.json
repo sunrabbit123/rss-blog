@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T13:41:57+09:00",
+  "lastBuildDate": "2025-02-14T14:44:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19071,6 +19071,32 @@
       "guid": "https://news.hada.io/topic?id=19228",
       "pubDate": "2025-02-14T13:41:57+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록",
+      "description": {
+        "$text": "<p>대한민국 국내에 존재하는 지하철역 정보(역명, 지역구, 노선, 위/경도) 목록을 JSON5 포맷으로 정리했습니다.</p>\n<p>모두 직접 수작업으로 수집하고 정리한 데이터입니다..........ㅎㅎ;<br />\n일부 정보가 오기되었거나, 위/경도 좌표가 부정확할 수 있으므로 유의하세요.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19230",
+      "guid": "https://news.hada.io/topic?id=19230",
+      "pubDate": "2025-02-14T14:44:41+09:00",
+      "author": "nemorize",
+      "category": ""
+    },
+    {
+      "title": "Show GN: PHPStan 익스텐션 개발을 위한 IDE 헬퍼",
+      "description": {
+        "$text": "<pre><code>composer require --dev headercat/phpstan-extension-ide-helper  \n</code></pre>\n<p>PHPStan 1.0.0 부터 최신 버전(작성시점 기준 2.1.5)까지 전부 지원합니다.</p>\n<h3>Why?</h3>\n<p>PHPStan은 PHAR 패키지로 배포되어 대부분의 IDE, 자동완성 툴들이 PHPStan 안의 코드를 분석할 수 없는 문제가 있습니다",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19229",
+      "guid": "https://news.hada.io/topic?id=19229",
+      "pubDate": "2025-02-14T14:02:05+09:00",
+      "author": "nemorize",
       "category": ""
     }
   ]
