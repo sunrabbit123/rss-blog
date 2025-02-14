@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-14T11:34:29+09:00",
+  "lastBuildDate": "2025-02-14T13:41:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19058,6 +19058,19 @@
       "guid": "https://news.hada.io/topic?id=19227",
       "pubDate": "2025-02-14T11:34:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bolt + Expo: 코드 작성 없이 앱스토어에 앱 출시까지",
+      "description": {
+        "$text": "<ul>\n<li>Bolt와 Expo가 연동해서 이제 &quot;코딩 없이&quot; 모바일 애플리케이션을 개발 가능</li>\n<li>\n<code>Bolt.new</code>를 사용하면 &quot;말로 설명하는 것만으로&quot; iOS 및 Android 앱을 생성하고 배포할 수 있음\n<ul>\n<li>아이디어 → 앱스토어 출시까지, 코드 한 줄도 필요 없음</li>\n<li>iOS, Android...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19228",
+      "guid": "https://news.hada.io/topic?id=19228",
+      "pubDate": "2025-02-14T13:41:57+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
