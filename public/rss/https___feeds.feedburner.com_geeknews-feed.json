@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-13T17:47:16+09:00",
+  "lastBuildDate": "2025-02-14T10:04:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -18876,6 +18876,136 @@
       "guid": "https://news.hada.io/topic?id=19212",
       "pubDate": "2025-02-13T17:47:16+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "PC 및 노트북의 평균 CPU 성능 첫 하락",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>CPU 벤치마크</strong></p>\n<ul>\n<li>1,000,000개 이상의 CPU 벤치마크 결과를 포함함</li>\n<li>연간 성능 그래프는 PerformanceTest 벤치마크 결과로 구성되며, 2주마다 업데이트됨</li>\n<li>PerformanceTest V8부터 단일 스레드 성능 수집 시작</li>\n<li>다양한 데이터 시리즈를 그래프 아래의 체",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19223",
+      "guid": "https://news.hada.io/topic?id=19223",
+      "pubDate": "2025-02-14T10:04:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Goku - ByteDance의 Flow 기반 비디오 생성 모델",
+      "description": {
+        "$text": "<ul>\n<li>Goku는 &quot;Rectified Flow Transformer&quot;를 기반으로 한 새로운 이미지 및 비디오 생성 모델군으로, 업계 최고 수준의 성능을 목표로 함</li>\n<li>고품질 시각적 생성 기술을 위해 &quot;데이터 선별, 모델 설계, 플로우 공식화&quot; 등 다양한 최적화를 적용</li>\n<li>주요 특징\n<ul>\n<li>고품질 데이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19222",
+      "guid": "https://news.hada.io/topic?id=19222",
+      "pubDate": "2025-02-14T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "국가 사이버 공격으로서의 DOGE",
+      "description": {
+        "$text": "<h3>DOGE의 국가 사이버 공격</h3>\n<ul>\n<li>\n<p>최근 몇 주 동안 미국 정부는 역사상 가장 중대한 보안 침해를 경험했음. 이는 복잡한 사이버 공격이나 외국의 스파이 행위가 아닌, 정부 역할이 명확하지 않은 억만장자의 공식 명령을 통해 발생했음.</p>\n</li>\n<li>\n<p>새로 설립된 정부 효율성 부서(DOGE)와 관련된 사",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19221",
+      "guid": "https://news.hada.io/topic?id=19221",
+      "pubDate": "2025-02-14T10:01:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "전이 전 췌장암 조기 발견 저렴한 혈액 검사",
+      "description": {
+        "$text": "<h2>저렴한 혈액 검사로 췌장암 조기 발견</h2>\n<ul>\n<li>연구자들이 췌장암이 다른 부위로 전이되기 전에 감지할 수 있는 간단한 혈액 검사를 개발함. 이 검사는 질병의 낮은 생존율을 개선하기 위해 정기적인 스크리닝에 사용될 수 있음.</li>\n<li>대부분의 췌장암은 음식 소화에 사용되는 효소를 분비하는 관에서 시작...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19220",
+      "guid": "https://news.hada.io/topic?id=19220",
+      "pubDate": "2025-02-14T09:58:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "영국의 Apple 데이터 백도어 요구, 미국인 위협한다고 의원들 주장",
+      "description": {
+        "$text": "영국의 Apple 데이터 백도어 요구, 미국인 위협한다고 의원들 주장",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19219",
+      "guid": "https://news.hada.io/topic?id=19219",
+      "pubDate": "2025-02-14T09:55:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "40주년 맞은 LibreOffice, 브라우저 기능과 실시간 협업 추가",
+      "description": {
+        "$text": "<h4>애플리케이션</h4>\n<ul>\n<li>\n<p><strong>LibreOffice의 40주년</strong></p>\n<ul>\n<li>LibreOffice는 오픈 소스 오피스 제품군으로, 1985년부터 존재해 왔으며 현재 40주년을 맞이함.</li>\n<li>FOSDEM 2025에서 LibreOffice 25.2 버전의 사전 발표가 있었음.</li>\n<li>나이가 들었지만 여전히 새로운 기능을 배우고",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19218",
+      "guid": "https://news.hada.io/topic?id=19218",
+      "pubDate": "2025-02-14T09:52:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "카기 검색을 위한 Privacy Pass 인증",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Kagi Search의 새로운 프라이버시 기능: Privacy Pass 인증</h2>\n<ul>\n<li>Kagi Search는 새로운 프라이버시 기능인 Privacy Pass 인증을 도입함. 이는 사용자가 검색 서비스를 이용할 때 개인 정보를 보호하는 데 도움을 줌.</li>\n<li>Privacy Pass는 사용자가 서버에 인증할 때, 서버가 사용자의 신원을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19217",
+      "guid": "https://news.hada.io/topic?id=19217",
+      "pubDate": "2025-02-14T09:49:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "젊은 부모가 자녀와의 신뢰 구축에 집중해야 하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>마시멜로 테스트와 양육</h2>\n</li>\n<li>\n<p>1.9세 딸이 씻지 않은 오렌지를 먹으려 할 때, 잠시 기다리면 씻고 껍질을 벗겨주겠다고 하였음. 이는 마시멜로 실험을 떠올리게 했음. 이 실험은 인내가 성공과 연결된다는 메시지를 주었으나, 후속 연구는 이 결론에 몇 가지 결함이 있음을 밝혔음.</p>\n</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19216",
+      "guid": "https://news.hada.io/topic?id=19216",
+      "pubDate": "2025-02-14T09:46:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Asahi Linux 프로젝트 리더 사임",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>2000년대 후반의 Wii 홈브루 씬</h3>\n<ul>\n<li>Wii 홈브루 씬에서 주요 기여자로 활동했음.</li>\n<li>사용자들이 비공식 앱을 실행할 수 있도록 소프트웨어를 개발했음.</li>\n<li>많은 사용자가 불법 복제 게임을 실행하려는 의도로 소프트웨어를 사용하여 실망했음.</li>\n</ul>\n</li>\n<li>\n<h3>Asahi Lin...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19215",
+      "guid": "https://news.hada.io/topic?id=19215",
+      "pubDate": "2025-02-14T09:43:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FFI 속도 향상을 위한 Tiny JITs 기술",
+      "description": {
+        "$text": "<h3>CRuby의 FFI 속도 향상 가능성</h3>\n<ul>\n<li>Ruby에서 네이티브 코드를 호출해야 할 때, 가능한 한 많은 Ruby 코드를 작성하는 것이 좋음. YJIT는 Ruby 코드를 최적화할 수 있지만 C 코드는 최적화할 수 없기 때문임.</li>\n<li>네이티브 라이브러리를 호출할 때는 Ruby에서 대부분의 작업을 수행하고, 네이티브 함수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19214",
+      "guid": "https://news.hada.io/topic?id=19214",
+      "pubDate": "2025-02-14T08:37:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
