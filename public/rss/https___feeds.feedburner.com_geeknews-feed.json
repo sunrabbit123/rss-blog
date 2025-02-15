@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T14:28:41+09:00",
+  "lastBuildDate": "2025-02-15T21:38:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19265,6 +19265,19 @@
       "link": "https://news.hada.io/topic?id=19243",
       "guid": "https://news.hada.io/topic?id=19243",
       "pubDate": "2025-02-15T14:28:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "10년 후, 잃어버린 10년 (2024)",
+      "description": {
+        "$text": "<h2>십 년 후, 잃어버린 십 년</h2>\n<ul>\n<li>\n<p>아침에 알람보다 한 시간 일찍 깨어났음. 하늘은 이미 밝았고, 새들이 울고 있었음. 잠시 후, 비가 지붕을 스쳐 지나갔음. 그냥 누워서 생각하지 않고, 느끼고, 기억했음.</p>\n</li>\n<li>\n<p>거의 16년 전, 둘째 딸이 태어났음. 거의 10년 전, 그녀는 여섯 살이 되었고,",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19244",
+      "guid": "https://news.hada.io/topic?id=19244",
+      "pubDate": "2025-02-15T21:38:22+09:00",
       "author": "neo",
       "category": ""
     }
