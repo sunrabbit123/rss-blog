@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T21:38:22+09:00",
+  "lastBuildDate": "2025-02-15T22:36:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19278,6 +19278,19 @@
       "link": "https://news.hada.io/topic?id=19244",
       "guid": "https://news.hada.io/topic?id=19244",
       "pubDate": "2025-02-15T21:38:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "맨해튼에서 가장 많이 사용되는 폰트",
+      "description": {
+        "$text": "<h2>맨해튼에서 가장 열심히 일하는 폰트</h2>\n<ul>\n<li>2007년 뉴욕을 처음 방문했을 때, DSLR 카메라로 다양한 폰트를 찍었음. American Typewriter, Akzidenz Grotesk, Helvetica, Gotham 등을 보았지만, Gorton이라는 폰트는 알아채지 못했음.</li>\n<li>Gorton은 2017년 타이핑 역사에 관한 책을 준비하면서 처음 알...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19245",
+      "guid": "https://news.hada.io/topic?id=19245",
+      "pubDate": "2025-02-15T22:36:52+09:00",
       "author": "neo",
       "category": ""
     }
