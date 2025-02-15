@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T11:33:08+09:00",
+  "lastBuildDate": "2025-02-15T12:26:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19240,6 +19240,19 @@
       "guid": "https://news.hada.io/topic?id=19241",
       "pubDate": "2025-02-15T11:33:08+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "`create-react-app` 지원 종료",
+      "description": {
+        "$text": "<p>지난 몇 년 간, <code>create-react-app</code>은 기초 React 어플리케이션을 구성하기 좋은 도구였습니다. 하지만 시간이 흐르면서 여러 한계가 나와 이제는 지원을 중단합니다.</p>\n<p>제한 사항은 다음과 같습니다:</p>\n<ol>\n<li>라우팅(Routing): 어떠한 프레임워크 없이 <code>useState</code>로 처리했지만, 이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19242",
+      "guid": "https://news.hada.io/topic?id=19242",
+      "pubDate": "2025-02-15T12:26:21+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
