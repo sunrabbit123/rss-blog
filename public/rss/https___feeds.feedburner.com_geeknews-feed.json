@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T02:26:30+09:00",
+  "lastBuildDate": "2025-02-15T09:53:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19136,6 +19136,84 @@
       "guid": "https://news.hada.io/topic?id=19233",
       "pubDate": "2025-02-15T02:26:30+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "OBS 프로젝트, Fedora Linux에 법적 조치 위협",
+      "description": {
+        "$text": "<h2>문제 제기</h2>\n<ul>\n<li>Fedora Flatpaks에서 제공하는 비공식 OBS Studio Flatpak 패키지가 제대로 작동하지 않음.</li>\n<li>사용자들이 공식 패키지로 오해하고 불만을 제기하고 있으며, 이는 OBS Studio뿐만 아니라 다른 패키지에서도 발생하고 있음.</li>\n<li>Fedora Flatpaks가 명확한 선택 옵션 없이 배포되고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19239",
+      "guid": "https://news.hada.io/topic?id=19239",
+      "pubDate": "2025-02-15T09:53:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아이...라면?",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>디지털 생물의 눈 진화</strong></p>\n<ul>\n<li>디지털 생물들이 수백만 년의 진화를 통해 눈을 발전시키는 가상 페트리 접시를 만듦</li>\n<li>단일 광 감지 세포에서 시작하여, 실제 눈을 형성한 도전 과제를 마주함</li>\n<li>생존 필요에 따라 다양한 눈을 진화시킴: 복합 눈은 탐색을 위해, 카메",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19238",
+      "guid": "https://news.hada.io/topic?id=19238",
+      "pubDate": "2025-02-15T09:50:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OCR4all 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>완전 무료 및 오픈 소스</h3>\n<ul>\n<li>OCR4all은 완전히 무료이며 오픈 소스로 유지됨</li>\n<li>구독, 유료 기능 또는 비공개 코드가 없음</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19237",
+      "guid": "https://news.hada.io/topic?id=19237",
+      "pubDate": "2025-02-15T09:47:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI가 새로운 기술 채택을 저해하는가?",
+      "description": {
+        "$text": "<h3>AI가 기술 채택을 저해하는 이유</h3>\n<ul>\n<li>AI 모델의 도입과 통합이 개발자들의 새로운 기술 채택을 저해하고 있음</li>\n<li>AI 도구의 지원 여부에 따라 기술 선택이 이루어지는 경향이 있음</li>\n<li>AI의 영향력이 문서화 및 지원 가용성을 크게 증폭시킴</li>\n</ul>\n<h3>지식 격차</h3>\n<ul>\n<li>대규모 언...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19236",
+      "guid": "https://news.hada.io/topic?id=19236",
+      "pubDate": "2025-02-15T09:44:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Zed, 새로운 오픈 모델 Zeta로 다음 편집 예측 기능 제공",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Zed의 속도와 예측 편집 기능</strong></p>\n<ul>\n<li>Zed는 빠른 편집 경험을 제공하기 위해 설계되었으며, 이제 Zeta라는 오픈 소스 모델을 통해 예측 편집 기능을 도입함.</li>\n<li>사용자가 작업할 때 Zed는 다음 편집을 예측하여 <code>tab</code> 키를 눌러 적용할 수 있으며, 연속적인 편집도",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19235",
+      "guid": "https://news.hada.io/topic?id=19235",
+      "pubDate": "2025-02-15T09:41:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "누구나 업데이트할 수 있는 doge.gov 웹사이트",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Doge.gov 웹사이트의 보안 문제</strong></p>\n<ul>\n<li>Doge.gov는 엘론 머스크가 연방 정부의 감축을 추적하기 위해 만든 웹사이트로, 보안이 취약하며 누구나 데이터베이스를 수정할 수 있는 것으로 드러남.</li>\n<li>두 명의 개발자가 데이터베이스에 &quot;이것은 농담 같은 .gov 사이트&quot;",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19234",
+      "guid": "https://news.hada.io/topic?id=19234",
+      "pubDate": "2025-02-15T09:38:10+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
