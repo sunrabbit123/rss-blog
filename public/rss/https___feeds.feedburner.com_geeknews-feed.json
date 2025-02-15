@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T22:36:52+09:00",
+  "lastBuildDate": "2025-02-16T00:40:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19292,6 +19292,19 @@
       "guid": "https://news.hada.io/topic?id=19245",
       "pubDate": "2025-02-15T22:36:52+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Digital Doubles - AI 도플갱어가 만연한 사회는 어떤 모습일까?",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>&quot;Agentic AI에 사용자 데이터까지 합쳐진 나의 Digital Double이 나를 대신해서 온라인에서 행동하게 된다면 어떻게 될까?&quot;라는 질문에 대한 미래 시나리오 리서치</p>\n</li>\n<li>\n<p>OpenAI, Google, Teenage Engineering, Snap 등과 협업한 스튜디오 MODEM과 왕립예술학교(RCA)와 임페리얼 칼리",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19246",
+      "guid": "https://news.hada.io/topic?id=19246",
+      "pubDate": "2025-02-16T00:40:46+09:00",
+      "author": "chanulee",
       "category": ""
     }
   ]
