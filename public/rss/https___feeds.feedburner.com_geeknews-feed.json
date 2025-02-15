@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-15T09:53:11+09:00",
+  "lastBuildDate": "2025-02-15T10:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19214,6 +19214,19 @@
       "guid": "https://news.hada.io/topic?id=19234",
       "pubDate": "2025-02-15T09:38:10+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Java 21의 Virtual Threads 소개 [48p 슬라이드]",
+      "description": {
+        "$text": "<ul>\n<li>Virtual Threads 개요\n<ul>\n<li>Virtual Threads (Loom project) 란</li>\n<li>Platform Threads vs Virtual Threads - Blocking ?</li>\n<li>Platform Threads 작동 방식</li>\n<li>Virtual Threads 작동 방식</li>\n</ul>\n</li>\n<li>Rules &amp; Best practices\n<ul>\n<li>Rule 1 - Create Threads</li>\n<li>Rule ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19240",
+      "guid": "https://news.hada.io/topic?id=19240",
+      "pubDate": "2025-02-15T10:34:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
