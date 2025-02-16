@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-16T10:03:26+09:00",
+  "lastBuildDate": "2025-02-16T13:34:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19409,6 +19409,19 @@
       "guid": "https://news.hada.io/topic?id=19247",
       "pubDate": "2025-02-16T08:08:19+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "무료 소프트웨어 미디어 시스템 Jellyfin",
+      "description": {
+        "$text": "<h2>Jellyfin이란?</h2>\n<ul>\n<li>\n<strong>Jellyfin</strong>은 사용자가 자신의 미디어를 수집, 관리, 스트리밍할 수 있게 해주는 무료 소프트웨어 미디어 시스템임.</li>\n<li>사용자가 자신의 서버에서 Jellyfin 서버를 실행하여 다양한 기기에서 미디어를 스트리밍할 수 있음.</li>\n</ul>\n<h2>주요 기능</h2>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19258",
+      "guid": "https://news.hada.io/topic?id=19258",
+      "pubDate": "2025-02-16T13:34:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
