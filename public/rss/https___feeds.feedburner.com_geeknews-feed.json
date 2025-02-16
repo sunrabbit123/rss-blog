@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-16T13:34:15+09:00",
+  "lastBuildDate": "2025-02-16T17:29:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19422,6 +19422,19 @@
       "guid": "https://news.hada.io/topic?id=19258",
       "pubDate": "2025-02-16T13:34:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Perplexity Advanced MCP - AI 코드 에이전트에게 최적화된 검색 MCP",
+      "description": {
+        "$text": "<p>기존의 perplexity mcp 들은 perplexity 공식 api 만 지원하는것이 아쉬워서 개발했어요.</p>\n<h4>주요 특징</h4>\n<ul>\n<li>🤖 <strong>멀티 벤더 지원</strong>: OpenRouter와 Perplexity API를 모두 지원</li>\n<li>💡 <strong>자동 query 모델 설정</strong>: MCP 인터페이스로 query type 을 노출하여 단순 검색은",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19259",
+      "guid": "https://news.hada.io/topic?id=19259",
+      "pubDate": "2025-02-16T17:29:14+09:00",
+      "author": "yeongyu",
       "category": ""
     }
   ]
