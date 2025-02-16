@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-16T00:40:46+09:00",
+  "lastBuildDate": "2025-02-16T10:01:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19305,6 +19305,110 @@
       "guid": "https://news.hada.io/topic?id=19246",
       "pubDate": "2025-02-16T00:40:46+09:00",
       "author": "chanulee",
+      "category": ""
+    },
+    {
+      "title": "체육 수업에서 컵 쌓기를 했다면, 내 아빠를 탓하세요",
+      "description": {
+        "$text": "<h2>체육 수업에서 컵 쌓기를 했던 이유</h2>\n<ul>\n<li>1998년, 덴버 남부의 중산층 지역에서 Mr. Fox와 그의 아내는 일본에서 온 120,000개의 플라스틱 컵을 받음. 이 컵들은 Hasbro의 실패한 사업 결정의 결과로, Mr. Fox는 이 컵들을 판매해야 했음.</li>\n<li>Mr. Fox는 원래 광대였으며, 그의 아내 Jill은 기자였음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19255",
+      "guid": "https://news.hada.io/topic?id=19255",
+      "pubDate": "2025-02-16T09:56:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "주간 단위로 본 나의 삶",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>개요</strong></p>\n<ul>\n<li>Gina의 삶을 주별로 정리한 지도임.</li>\n<li>각 주마다 어떤 일을 했는지 작은 박스로 표시됨.</li>\n<li>&quot;Life in Weeks&quot;라는 개념을 Wait But Why에서 더 읽을 수 있음.</li>\n<li>Buster Benson의 코드를 수정하여 이 페이지를 생성함.</li>\n<li>이 지도는",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19254",
+      "guid": "https://news.hada.io/topic?id=19254",
+      "pubDate": "2025-02-16T09:53:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자동차 브레이크 먼지, 배기 가스보다 더 유해하다",
+      "description": {
+        "$text": "<ul>\n<li>자동차 오염물질은 배기가스뿐만 아니라 <strong>도로, 타이어, 브레이크 마모</strong>에서도 발생</li>\n<li>새로운 연구에 따르면 <strong>브레이크 패드에서 발생하는 미세먼지가 배기가스보다 폐에 더 큰 손상</strong>을 줄 수 있음</li>\n<li>연구팀은 <strong>자동차 브레이크 먼지와 디젤 배기가스</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19253",
+      "guid": "https://news.hada.io/topic?id=19253",
+      "pubDate": "2025-02-16T09:50:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제인 스트리트의 Figgie 카드 게임",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>게임 방법</h2>\n<ul>\n<li>Jane Street의 빠른 진행의 Figgie 게임은 시장과 거래의 흥미로운 요소를 시뮬레이션함</li>\n<li>Jane Street에서 Figgie는 가르치고 즐기는 게임임</li>\n</ul>\n</li>\n<li>\n<h2>자주 묻는 질문</h2>\n<ul>\n<li>규칙을 확인하고 학습 모드에서 연습할 수 있음</li>\n<li>자주 묻는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19252",
+      "guid": "https://news.hada.io/topic?id=19252",
+      "pubDate": "2025-02-16T09:47:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "탄소 포집보다 재생 가능 에너지 전환이 더 경제적이라는 연구 결과 발표",
+      "description": {
+        "$text": "<ul>\n<li>2050년까지 전 세계 대부분의 국가가 풍력, 태양광, 지열, 수력 발전만을 사용하면 에너지 비용 절감, 대기 질 개선, 기후 변화 완화 효과를 얻을 수 있음</li>\n<li>탄소 포집 기술보다 이러한 재생 가능 에너지 전환이 훨씬 저렴하고 효과적임</li>\n<li>탄소 포집 기술에 1달러를 투자하는 것보다 재생 가능 에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19251",
+      "guid": "https://news.hada.io/topic?id=19251",
+      "pubDate": "2025-02-16T09:44:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Delphi 출시 30주년 (1995~2025)",
+      "description": {
+        "$text": "<ul>\n<li>Delphi가 1995년 2월 14일 출시된 지 30년이 됨</li>\n<li>1995년 <strong>소프트웨어 개발 컨퍼런스(SDC) West</strong> 에서 공개되었으며, <strong>Turbo Pascal</strong>의 발전을 바탕으로 탄생</li>\n<li>오늘날까지 많은 개발자들에게 사랑받고 있음</li>\n<li>현재 Delphi 12 Athens 까지 출시되어 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19250",
+      "guid": "https://news.hada.io/topic?id=19250",
+      "pubDate": "2025-02-16T09:29:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "20년 된 PSP, 이제 WPA2 WiFi 네트워크 연결 가능",
+      "description": {
+        "$text": "<ul>\n<li>Acid_Snake와 ARK 개발팀이 소니 PSP를 위한 ARK 커스텀 펌웨어의 중요한 업데이트를 발표</li>\n<li>이 업데이트는 PSP가 <strong>WPA2 암호화된 와이파이</strong> 네트워크에 연결할 수 있도록 함</li>\n<li>이는 개발자 Moment가 만든 <strong>wpa2psp</strong> 플러그인 덕분에 가능해짐</li>\n</ul>\n<h2>PSP...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19248",
+      "guid": "https://news.hada.io/topic?id=19248",
+      "pubDate": "2025-02-16T08:23:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go로 확장가능한 WASM 어플리케이션 작성 가능",
+      "description": {
+        "$text": "<ul>\n<li>Go 1.24에서 WebAssembly(Wasm) 관련 기능이 확장됨</li>\n<li>\n<code>go:wasmexport</code> 디렉티브가 추가되어 Wasm 모듈 외부에서 Go 함수를 호출할 수 있게 됨</li>\n<li>WASI를 위한 “reactor” 빌드 모드도 지원되어, 장기간 활성 상태로 코드를 실행할 수 있게 됨</li>\n<li>이를 통해 Wasm 환경에서 Go ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19247",
+      "guid": "https://news.hada.io/topic?id=19247",
+      "pubDate": "2025-02-16T08:08:19+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
