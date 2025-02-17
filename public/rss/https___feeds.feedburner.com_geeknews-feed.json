@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T22:09:46+09:00",
+  "lastBuildDate": "2025-02-17T23:49:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19643,6 +19643,32 @@
       "guid": "https://news.hada.io/topic?id=19276",
       "pubDate": "2025-02-17T18:35:45+09:00",
       "author": "kentakang",
+      "category": ""
+    },
+    {
+      "title": "TigerBeetle: 회계에 특화된 OLTP 데이터베이스",
+      "description": {
+        "$text": "<ul>\n<li>회계에서 쓰이는 '대/차(Debit/Credit) 개념'을 구현함</li>\n<li>안정성/정확성을 확보하기 위해 <a href=\"https://news.hada.io/topic?id=19260\">NASA의 소프트웨어 제작 10가지 규칙</a> 준수</li>\n<li>\n<a href=\"https://www.usenix.org/conference/fast18/presentation/alagappan\">2018년의 프로토콜 감지 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19279",
+      "guid": "https://news.hada.io/topic?id=19279",
+      "pubDate": "2025-02-17T23:49:44+09:00",
+      "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Open-Interface: LLM으로 컴퓨터를 제어하기",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI API 키를 이용해 컴퓨터를 제어할 수 있음.\n<ul>\n<li>원한다면 다른 LLM 사용 가능. <a href=\"https://github.com/BerriAI/litellm\">LiteLLM</a>의 도움을 받을 수도 있음.</li>\n</ul>\n</li>\n<li>LLM과 통신하고 그 지시 내용(마우스/키보드 입력)을 흉내 낼 수 있음.</li>\n<li>예시:\n<ul>\n<li>&quot;오...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19278",
+      "guid": "https://news.hada.io/topic?id=19278",
+      "pubDate": "2025-02-17T23:28:56+09:00",
+      "author": "carnoxen",
       "category": ""
     }
   ]
