@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T11:33:06+09:00",
+  "lastBuildDate": "2025-02-17T13:34:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19604,6 +19604,19 @@
       "guid": "https://news.hada.io/topic?id=19271",
       "pubDate": "2025-02-17T11:11:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "인터넷 애호가를 위한 Uchū 색상 테마",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>uchū 색상 팔레트</strong></p>\n<ul>\n<li>인터넷 애호가를 위한 색상 팔레트로, 다양한 색상 변형을 제공함.</li>\n<li>색상은 <code>oklch</code> 색상 모델을 사용하여 정의되며, 이는 색상, 채도, 명도를 기반으로 함.</li>\n<li>각 색상은 다양한 명도와 채도로 제공되어 다양한 디자인 요구에 맞",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19273",
+      "guid": "https://news.hada.io/topic?id=19273",
+      "pubDate": "2025-02-17T13:34:07+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
