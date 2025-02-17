@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-16T17:29:14+09:00",
+  "lastBuildDate": "2025-02-17T09:58:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19435,6 +19435,97 @@
       "guid": "https://news.hada.io/topic?id=19259",
       "pubDate": "2025-02-16T17:29:14+09:00",
       "author": "yeongyu",
+      "category": ""
+    },
+    {
+      "title": "퍼플렉시티 심층 연구",
+      "description": {
+        "$text": "<p>죄송하지만 요약할 수 있는 내용이 없습니다. 제공된 링크는 웹사이트 보안 확인 페이지로 연결됩니다. 다른 기사를 제공해 주시면 요약해 드리겠습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19266",
+      "guid": "https://news.hada.io/topic?id=19266",
+      "pubDate": "2025-02-17T09:58:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "'Half-Life 2'와 'Dishonored' 아트 리드 Viktor Antonov 별세",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Half-Life 2와 Dishonored의 아트 리드 Viktor Antonov, 52세로 별세</h2>\n</li>\n<li>\n<p>Half-Life 2의 아트 디렉터이자 Dishonored의 디자이너인 Viktor Antonov가 52세의 나이로 별세함. 전 Valve 작가 Marc Laidlaw가 소셜 미디어를 통해 이 소식을 전하며, Antonov의 사망에 대한 자세한 정보는 없지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19265",
+      "guid": "https://news.hada.io/topic?id=19265",
+      "pubDate": "2025-02-17T09:55:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "심즈 게임 디자인 문서 (1997)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>디자인 문서 목록</strong>\n<ul>\n<li>\n<code>3DPeopleQuestion.pdf</code>: 3D 캐릭터와 관련된 질문을 다루는 문서</li>\n<li>\n<code>AnimationClassBreakdown.pdf</code>: 애니메이션 클래스의 세부 사항을 설명하는 문서</li>\n<li>\n<code>AnimationDocumentation.pdf</code>: 애니메이션 문서화에 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19264",
+      "guid": "https://news.hada.io/topic?id=19264",
+      "pubDate": "2025-02-17T09:52:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 정부, 최근 해고한 Nuclear Safety 직원 재고용에 어려움 직면",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>미국 정부, 해고된 핵 안전 직원 재고용 시도</h2>\n</li>\n<li>\n<p>미국 정부는 목요일에 해고된 핵 안전 직원들을 재고용하려 하고 있음. 이들의 해고가 국가 안보를 위협할 수 있다는 우려가 제기되었음.</p>\n</li>\n<li>\n<p>해고된 직원들은 에너지부 소속으로, 미국의 핵무기 비축을 설계, 건설 및 감독",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19263",
+      "guid": "https://news.hada.io/topic?id=19263",
+      "pubDate": "2025-02-17T09:49:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자동 HTTPS 기능을 갖춘 궁극의 서버, Caddy",
+      "description": {
+        "$text": "<h2>Caddy의 주요 기능</h2>\n<ul>\n<li>\n<strong>보안 및 확장성</strong>: Caddy는 모든 사이트에 대해 기본적으로 TLS 인증서를 자동으로 획득하고 갱신함. 이는 사이트를 더 안전하고 신뢰할 수 있게 만듦.</li>\n<li>\n<strong>온디맨드 TLS</strong>: 고객 소유의 도메인에 대해 TLS 인증서를 동적으로 관리하여 SaaS ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19262",
+      "guid": "https://news.hada.io/topic?id=19262",
+      "pubDate": "2025-02-17T09:46:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "계산기 앱? 누구나 만들 수 있는 거자나요?",
+      "description": {
+        "$text": "<blockquote>\n<p><strong>&quot;계산기 앱? 누구나 만들 수 있는거자나&quot; → 사실이 아님</strong></p>\n</blockquote>\n<ul>\n<li>계산기는 수학적 표현의 결과를 정확히 보여줘야 하고, 생각보다 훨씬 어려운 일임</li>\n<li>iOS의 계산기에서 <code>(10^100) + 1 − (10^100)</code> 은 <code>0</code> 으로 잘 못 계",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19261",
+      "guid": "https://news.hada.io/topic?id=19261",
+      "pubDate": "2025-02-17T09:43:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NASA의 소프트웨어 개발 10가지 규칙",
+      "description": {
+        "$text": "<ul>\n<li>NASA의 10가지 소프트웨어 개발 규칙에 대한 비판적 분석\n<ul>\n<li>이 규칙들은 극도로 중요한 임베디드 시스템(예: 우주선 소프트웨어)을 위한 것</li>\n<li>하지만 이러한 규칙이 다른 개발 환경에서도 적절한지, 또는 다른 언어(C가 아닌 언어)에서도 적용 가능한지에 대해 논의가 필요함</li>\n</ul>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19260",
+      "guid": "https://news.hada.io/topic?id=19260",
+      "pubDate": "2025-02-17T08:34:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
