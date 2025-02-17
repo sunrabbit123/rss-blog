@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T13:34:07+09:00",
+  "lastBuildDate": "2025-02-17T14:52:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19617,6 +19617,19 @@
       "guid": "https://news.hada.io/topic?id=19273",
       "pubDate": "2025-02-17T13:34:07+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "@imhonglu/json-schema: 타입 문제로 삽질한 이야기",
+      "description": {
+        "$text": "<p>지난달에 보여드렸던 프로젝트를 사용해보면서 예상치 못한 타입 문제가 발생했습니다.</p>\n<p>처음엔 간단한 문제라고 생각했지만, 해결 과정이 쉽지만은 않았습니다.</p>\n<p>이 과정에서</p>\n<ul>\n<li>어떤 실수로 타입 오류가 발생했는지</li>\n<li>문제를 해결하기 위해 어떤 접근 방식을 시도했는지</li>\n<li>최종",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19274",
+      "guid": "https://news.hada.io/topic?id=19274",
+      "pubDate": "2025-02-17T14:52:37+09:00",
+      "author": "honglu",
       "category": ""
     }
   ]
