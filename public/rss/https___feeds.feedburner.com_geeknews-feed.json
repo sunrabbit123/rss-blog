@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T09:58:50+09:00",
+  "lastBuildDate": "2025-02-17T10:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19525,6 +19525,58 @@
       "link": "https://news.hada.io/topic?id=19260",
       "guid": "https://news.hada.io/topic?id=19260",
       "pubDate": "2025-02-17T08:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI 홈페이지 개편 - \"What can I help with?\"",
+      "description": {
+        "$text": "<ul>\n<li>첫 화면에 <strong>&quot;What can I help with?&quot;</strong> 창을 만들고 구글처럼 간단한 질문을 할 수 있는 폼을 추가</li>\n<li>다양한 언어로 질문해도 바로 답을 얻을수 있음 (자신들의 제품으로 바로 연결)</li>\n<li>그 아래에 &quot;Search with ChatGPT&quot;, &quot;Talk with ChatGPT&quot;, &quo...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19270",
+      "guid": "https://news.hada.io/topic?id=19270",
+      "pubDate": "2025-02-17T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2024년 가장 조회수 높은 소프트웨어 엔지니어링 발표들",
+      "description": {
+        "$text": "<ul>\n<li>각 컨퍼런스의 발표 영상중 조회수가 많은 수대로 100개를 정리 (제목만 한글로 번역)</li>\n<li>\n<a href=\"https://www.youtube.com/watch?v=VpPPHDxR9aM\"><strong>소프트웨어 엔지니어링 산업의 2024년 변화, 원인, 그리고 다음 단계</strong></a> - Gergely Orosz (Craft Conference) ⸱ 44m 51s</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19269",
+      "guid": "https://news.hada.io/topic?id=19269",
+      "pubDate": "2025-02-17T10:16:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Raspberry Pi 5 네 대에서 Deepseek R1 Distill 8B Q40 실행",
+      "description": {
+        "$text": "<h2>[v0.12.2] Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5 8GB</h2>\n<ul>\n<li>\n<p><strong>프로젝트 소개</strong></p>\n<ul>\n<li>이 프로젝트는 Deepseek R1 Distill 8B Q40 모델을 Raspberry Pi 5 8GB 장치에서 실행하는 방법에 대한 결과를 공유함.</li>\n<li>여러 대의 Raspberry Pi를 사용하여 모델의 성능을",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19268",
+      "guid": "https://news.hada.io/topic?id=19268",
+      "pubDate": "2025-02-17T10:04:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왓 더 폭스? 논란",
+      "description": {
+        "$text": "<h2>웹사이트가 CPU와 배터리를 낭비하는 방법</h2>\n<ul>\n<li>\n<p><strong>문제 발견</strong>: 새 노트북에서 스피커에서 간헐적으로 화이트 노이즈가 발생하는 문제를 발견함. 조용한 방에서만 들을 수 있었음.</p>\n</li>\n<li>\n<p><strong>원인 분석</strong>: PulseAudio의 오디오 싱크 상태를 확인한 결과, SUSPENDE",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19267",
+      "guid": "https://news.hada.io/topic?id=19267",
+      "pubDate": "2025-02-17T10:01:51+09:00",
       "author": "neo",
       "category": ""
     }
