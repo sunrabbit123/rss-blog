@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T14:52:37+09:00",
+  "lastBuildDate": "2025-02-17T18:35:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19630,6 +19630,19 @@
       "guid": "https://news.hada.io/topic?id=19274",
       "pubDate": "2025-02-17T14:52:37+09:00",
       "author": "honglu",
+      "category": ""
+    },
+    {
+      "title": "종단간 암호화가 대체 뭔데?",
+      "description": {
+        "$text": "<p>종단간 암호화라는 기술에 대한 기본적인 개념과, 해당 기술의 장단점 및 실제 사용례에 대해서 글로 정리해보았습니다.</p>\n<p>종단간 암호화의 기본 개념부터 기술적인 관점에서 종단간 암호화에 대한 설명, 종단간 암호화 내 키 교환 방식의 구현 방식 등을 설명하고 있습니다.</p>\n<p>암호학 관련 전공자나 현업자",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19276",
+      "guid": "https://news.hada.io/topic?id=19276",
+      "pubDate": "2025-02-17T18:35:45+09:00",
+      "author": "kentakang",
       "category": ""
     }
   ]
