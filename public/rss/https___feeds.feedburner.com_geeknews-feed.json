@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T10:31:01+09:00",
+  "lastBuildDate": "2025-02-17T11:33:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19578,6 +19578,32 @@
       "guid": "https://news.hada.io/topic?id=19267",
       "pubDate": "2025-02-17T10:01:51+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "킨들, 2월 26일부터 다운로드 및 전송 옵션 제거",
+      "description": {
+        "$text": "킨들, 2월 26일부터 다운로드 및 전송 옵션 제거",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19272",
+      "guid": "https://news.hada.io/topic?id=19272",
+      "pubDate": "2025-02-17T11:33:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CEO를 뽑는 방법 - 비노드 코슬라",
+      "description": {
+        "$text": "<ul>\n<li>스타트업의 이사회는 CEO를 채용할 때 종종 완벽하지 않은 접근 방식을 취하는 경우가 많음\n<ul>\n<li>개인이 스타트업을 이끌 자격이 있는지에 관계없이 스타트업의 '해당 분야에서의 경험'에 초점을 맞추는 경우가 많음</li>\n<li>주로 스타트업의 분야에서의 경험에 초점을 맞추지만, 이러한 접근은 반드시 적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19271",
+      "guid": "https://news.hada.io/topic?id=19271",
+      "pubDate": "2025-02-17T11:11:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
