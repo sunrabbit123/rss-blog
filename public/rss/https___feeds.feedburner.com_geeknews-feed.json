@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-17T23:49:44+09:00",
+  "lastBuildDate": "2025-02-18T09:40:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19669,6 +19669,97 @@
       "guid": "https://news.hada.io/topic?id=19278",
       "pubDate": "2025-02-17T23:28:56+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "모든 Kindle 기기 탈옥 가능성",
+      "description": {
+        "$text": "<h2>Kindle 해킹</h2>\n<h3>WinterBreak</h3>\n<ul>\n<li>WinterBreak은 2025년 새해 첫날 HackerDude에 의해 출시된 Kindle 해킹 방법임.</li>\n<li>Mesquito를 기반으로 하며, 개발 과정에서 Marek, NiLuJe, Katadelos 및 베타 테스터들에게 감사의 인사를 전함.</li>\n<li>베타 테스트 중 벽돌이 된 Kindle과 원래의 마감일...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19286",
+      "guid": "https://news.hada.io/topic?id=19286",
+      "pubDate": "2025-02-18T09:40:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "wger - 셀프 호스트 가능한 피트니스/워크아웃 트래커",
+      "description": {
+        "$text": "<ul>\n<li>무료 &amp; 오픈소스 개인 운동, 체중, 식단 계획 관리 도구</li>\n<li>웹 기반으로 작동하며, 간단한 헬스장 관리 용도로도 사용할 수 있음\n<ul>\n<li>Flutter로 작성된 모바일 앱도 오픈소스로 제공</li>\n</ul>\n</li>\n<li>REST API 제공 → 다른 프로젝트, 툴, 플러터로 된 공식 앱 또는 자신의 앱과 손쉬운 연...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19285",
+      "guid": "https://news.hada.io/topic?id=19285",
+      "pubDate": "2025-02-18T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "BigQuery, 이제 SQL 파이프 구문 사용 가능",
+      "description": {
+        "$text": "<h2>Pipe Query Syntax란?</h2>\n<ul>\n<li>GoogleSQL의 확장 문법으로, 읽기 쉽고 유지보수가 간편한 선형 구조의 쿼리 작성 가능</li>\n<li>기존 GoogleSQL(Standard SQL)과 동일한 연산 지원(선택, 그룹화, 조인, 필터링 등)</li>\n<li>연산 순서를 자유롭게 지정 가능하며, 중첩 서브쿼리 없이도 복잡한 쿼리 작성 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19284",
+      "guid": "https://news.hada.io/topic?id=19284",
+      "pubDate": "2025-02-18T08:56:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "YouTube의 새로운 빨간색: 브랜드 색상 재구성",
+      "description": {
+        "$text": "<ul>\n<li>2005년 비디오 데이팅 사이트 아이디어로 출발한 YouTube가 지금은 전 세계 수십억 명이 매일 방문하여 다양한 콘텐츠를 시청하는 미디어 플랫폼으로 성장하였음</li>\n<li>YouTube의 상징적인 빨간색 로고는 오랜 기간 브랜드 아이덴티티를 대표해 왔으나, 최근 좀 더 부드러운 빨간색과 의외의 마젠타 그라데이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19283",
+      "guid": "https://news.hada.io/topic?id=19283",
+      "pubDate": "2025-02-18T08:53:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LinkedIn 은 최악의 소셜 미디어임",
+      "description": {
+        "$text": "<ul>\n<li>LinkedIn은 <strong>AI 생성 콘텐츠</strong>로 가득 차 있으며, <strong>다크 패턴</strong>이 만연한 플랫폼임</li>\n<li>한 사용자가 처음 링크드인을 사용한 3개월 동안 겪은 <strong>반복적인 계정 제한 및 검색 노출 문제</strong>를 공유</li>\n</ul>\n<h2>사용자의 문제 경험</h2>\n<ul>\n<li>\n<strong>계정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19282",
+      "guid": "https://news.hada.io/topic?id=19282",
+      "pubDate": "2025-02-18T08:41:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AMD GPU에서 발생하는 Linux의 sleep-awake 문제를 해결한 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>문제 발생</strong>: Windows와 Linux를 듀얼 부팅하는 데스크탑에서, Linux에서 고용량 RAM 사용 시 절전 모드로 전환하면 시스템이 충돌하는 문제가 발생함. 시스템을 깨우면 검은 화면이 나타나거나 응답이 없는 상태가 됨. 이 문제는 amdgpu 드라이버의 전원/메모리 관리 버그로 인한 것임....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19281",
+      "guid": "https://news.hada.io/topic?id=19281",
+      "pubDate": "2025-02-18T08:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 아직도 비싸게 이메일 발송하시나요? 오픈소스 이메일 발송기와 비전공자도 가능한 A-Z 사용법",
+      "description": {
+        "$text": "<p>아직도 비싸게 이메일 발송하시나요? 오픈소스 이메일 발송 서버와 비전공자도 가능한 A-Z 사용법 🤩</p>\n<p>Github : https://github.com/lee-lou2/rust-aws-ses-sender<br />\nSetup Guide : https://lee-lou2.notion.site/AWS-19d4d6ae33b58092a019ee88de9ca8a0</p>\n<p>👉 이 오픈소스를 사용하면 좋은 사람들은?...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19280",
+      "guid": "https://news.hada.io/topic?id=19280",
+      "pubDate": "2025-02-18T08:29:46+09:00",
+      "author": "leelou2",
       "category": ""
     }
   ]
