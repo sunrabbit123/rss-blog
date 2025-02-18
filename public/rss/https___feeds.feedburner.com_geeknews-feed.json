@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-18T09:40:01+09:00",
+  "lastBuildDate": "2025-02-18T10:47:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19760,6 +19760,123 @@
       "guid": "https://news.hada.io/topic?id=19280",
       "pubDate": "2025-02-18T08:29:46+09:00",
       "author": "leelou2",
+      "category": ""
+    },
+    {
+      "title": "Y콤 S12 커뮤니티 포폴사 출신이 알려주는 창발적 커뮤니티 빌딩 프레임워크",
+      "description": {
+        "$text": "<p>Y콤비네이터 S12 배치 출신으로 글로벌과 국내 커뮤니티를 운영하며,<br />\n커뮤니티가 단순한 규칙만으로도 자발적으로 성장할 수 있는가를 실험했다.</p>\n<p>그 결과, <strong>5가지 핵심 기둥</strong>만 제대로 설정하면 커뮤니티는 자연스럽게 확장될 수 있다는 가설을 정리할 수 있었다.</p>\n<h3>자연에서도 반",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19295",
+      "guid": "https://news.hada.io/topic?id=19295",
+      "pubDate": "2025-02-18T10:47:11+09:00",
+      "author": "lowkeypioneer",
+      "category": ""
+    },
+    {
+      "title": "기업들이 Delaware를 떠나 Nevada & Texas로 이전하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>델라웨어는 인구가 100만 명도 안 되지만, 180만 개 이상의 법인과 60% 이상의 포춘 500대 기업 본사가 등록되어 있음</li>\n<li>전통적으로 친기업적 법체계와 비즈니스 전문 법원(Chancery Court)으로 인해 회사 설립지로 선호되어 왔음</li>\n<li>기업들은 분쟁 발생 시 명확하고 안정적인 법적 환경과 낮은 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19294",
+      "guid": "https://news.hada.io/topic?id=19294",
+      "pubDate": "2025-02-18T10:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Flash Learn - 에이전트 LLM을 모든 파이프라인에 연동하기",
+      "description": {
+        "$text": "<ul>\n<li>&quot;에이전트LLM(Agent LLM)&quot; 을 자신의 워크플로우 및 ETL 파이프라인에서 쉽게 활용할 수 있도록 하는 라이브러리</li>\n<li>데이터 변환, 분류, 요약, 재작성 등의 작업을 간단하게 실행할 수 있으며, JSON 기반의 정의로 이해하기 쉽고 유지보수가 용이</li>\n<li>LiteLLM, Ollama, OpenAI, DeepSeek*...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19293",
+      "guid": "https://news.hada.io/topic?id=19293",
+      "pubDate": "2025-02-18T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미국 정전 현황 지도",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>PowerOutage.us 소개</strong></p>\n<ul>\n<li>PowerOutage.us는 미국 전역의 정전 상황을 추적, 기록, 집계하기 위해 만들어진 프로젝트임</li>\n<li>약 10분마다 사이트 전체의 데이터가 업데이트됨</li>\n</ul>\n</li>\n<li>\n<p><strong>주요 기능</strong></p>\n<ul>\n<li>각 주를 클릭하여 더 자세한 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19292",
+      "guid": "https://news.hada.io/topic?id=19292",
+      "pubDate": "2025-02-18T09:58:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Flea-Scope: $18 소스 공개 USB 오실로스코프, 로직 분석기 및 기타 기능 [pdf]",
+      "description": {
+        "$text": "Flea-Scope: $18 소스 공개 USB 오실로스코프, 로직 분석기 및 기타 기능 [pdf]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19291",
+      "guid": "https://news.hada.io/topic?id=19291",
+      "pubDate": "2025-02-18T09:55:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "샌프란시스코 노숙 문제: 공원 관리원의 1인 지원 노력",
+      "description": {
+        "$text": "<h2>문화</h2>\n<h3>그녀의 임무는 SF의 공원에서 노숙자를 제거하는 것임. 그녀의 방법은 특별함</h3>\n<ul>\n<li>공원 관리원 아만다 배로우즈는 골든 게이트 파크에서 노숙자들을 돕기 위해 순찰을 돌고 있음.</li>\n<li>케빈 호튼(별명 카인)은 1990년대 후반부터 골든 게이트 파크에 거주해 왔으며, 공원의 숨겨진 길과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19290",
+      "guid": "https://news.hada.io/topic?id=19290",
+      "pubDate": "2025-02-18T09:52:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "YouTube, 채널 소유자에게 전화 인증 요청, 개인 정보 영구 덮어쓰기",
+      "description": {
+        "$text": "YouTube, 채널 소유자에게 전화 인증 요청, 개인 정보 영구 덮어쓰기",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19289",
+      "guid": "https://news.hada.io/topic?id=19289",
+      "pubDate": "2025-02-18T09:49:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자체 제작한 Polarimetric Synthetic Aperture Radar 드론",
+      "description": {
+        "$text": "<h2>자작 편광 합성 개구 레이더 드론</h2>\n<h3>소개</h3>\n<ul>\n<li>저자는 여러 자작 레이더를 만들고 지상에서 합성 개구 이미징 테스트를 수행해 왔음.</li>\n<li>드론에 레이더를 장착하여 공중에서 합성 개구 이미지를 캡처하고자 했음.</li>\n<li>과거에는 중형 드론의 가격이 높았으나, 최근에는 중국산 FPV 드론 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19288",
+      "guid": "https://news.hada.io/topic?id=19288",
+      "pubDate": "2025-02-18T09:46:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "X 사용자, \"Signal.me\" 링크 게시 불가",
+      "description": {
+        "$text": "<ul>\n<li>Elon Musk의 소셜 미디어 플랫폼 X는 암호화 메시징 서비스 Signal의 &quot;Signal.me&quot; 링크를 차단 중임. 이 링크는 사용자가 메시징 앱을 통해 직접 연락할 수 있도록 하는 URL임.</li>\n<li>X는 DM, 공개 게시물, 프로필 페이지에서 &quot;Signal.me&quot; 링크 게시를 차단하고 있으며, 사용자는 다양한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19287",
+      "guid": "https://news.hada.io/topic?id=19287",
+      "pubDate": "2025-02-18T09:43:02+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
