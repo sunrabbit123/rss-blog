@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-19T17:33:49+09:00",
+  "lastBuildDate": "2025-02-19T19:38:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20084,6 +20084,19 @@
       "link": "https://news.hada.io/topic?id=19314",
       "guid": "https://news.hada.io/topic?id=19314",
       "pubDate": "2025-02-19T17:33:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Svelte 5는 Javascript가 아님",
+      "description": {
+        "$text": "<ul>\n<li>최근 Svelte 5 버전으로 웹 애플리케이션을 업그레이드한 후 겪은 이슈들 정리\n<ul>\n<li>딥 리액티비티 기능과 변경된 라이프사이클로 인한 예기치 못한 동작이 발생함</li>\n</ul>\n</li>\n<li>Svelte 3/4를 오래 즐겼지만, 앞으로 <strong>새로운 프로젝트에 Svelte를 선택하지는 않을 것 같음</strong>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19315",
+      "guid": "https://news.hada.io/topic?id=19315",
+      "pubDate": "2025-02-19T19:38:41+09:00",
       "author": "neo",
       "category": ""
     }
