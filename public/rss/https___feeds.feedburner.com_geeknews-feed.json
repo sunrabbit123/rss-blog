@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-19T22:34:37+09:00",
+  "lastBuildDate": "2025-02-20T01:51:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20124,6 +20124,19 @@
       "guid": "https://news.hada.io/topic?id=19317",
       "pubDate": "2025-02-19T22:34:37+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, iPhone 16e 공개",
+      "description": {
+        "$text": "<ul>\n<li>A18칩과 애플이 만든 셀룰러 모뎀 C1 을 탑재\n<ul>\n<li>모든 세대 iPhone SE 대비 최대 12시간 긴 사용시간</li>\n<li>6코어 CPU + 4코어 GPU + 16코어 뉴럴엔진</li>\n</ul>\n</li>\n<li>15.4cm Super Retina XDR 디스플레이. 167g</li>\n<li>투인원 카메라 : 48MP 퓨전 + 12MP 2배 망원 기능 통합</li>\n<li>동작 버...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19318",
+      "guid": "https://news.hada.io/topic?id=19318",
+      "pubDate": "2025-02-20T01:51:36+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
