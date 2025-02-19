@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-19T10:31:19+09:00",
+  "lastBuildDate": "2025-02-19T11:25:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20020,6 +20020,32 @@
       "guid": "https://news.hada.io/topic?id=19299",
       "pubDate": "2025-02-19T09:51:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "뉴욕 타임즈, 내부 AI 도구 `Echo`에 올인",
+      "description": {
+        "$text": "<ul>\n<li>NYT는 제품 및 편집 스태프들을 위해 AI 사용을 승인하고, AI 교육을 제공할 것이라고 사내에 발표</li>\n<li>내부 AI도구인 <strong>Echo</strong>를 통해 소셜 카피 작성, SEO 헤드라인 생성, 일부 코딩 작업 등을 수행할 수 있을 것으로 예상</li>\n<li>AI를 사용하며 편집상 해야 할 일과 하지 말아야 할 일을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19311",
+      "guid": "https://news.hada.io/topic?id=19311",
+      "pubDate": "2025-02-19T11:25:09+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Perplexity, 공산당 검열 제거한 deepseek R1 AI 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>R1 1776은 중국 공산당 검열을 제거하기 위해 Perplexity AI가 DeepSeek-R1 추론 모델을 파인튜닝한 오픈소스 모델임.</p>\n</li>\n<li>\n<p>편향 없는 정확한 정보 제공을 목표로 하면서도 수학/추론 능력을 유지하는 것이 특징.</p>\n</li>\n<li>\n<p>현재 모델은 huggingface 에서 다운로드 가능.</p>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19310",
+      "guid": "https://news.hada.io/topic?id=19310",
+      "pubDate": "2025-02-19T11:08:53+09:00",
+      "author": "yeorinhieut",
       "category": ""
     }
   ]
