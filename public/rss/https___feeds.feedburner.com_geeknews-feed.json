@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-19T19:53:24+09:00",
+  "lastBuildDate": "2025-02-19T22:34:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20110,6 +20110,19 @@
       "link": "https://news.hada.io/topic?id=19316",
       "guid": "https://news.hada.io/topic?id=19316",
       "pubDate": "2025-02-19T19:53:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "핵융합: WEST, 플라즈마 지속 시간 세계 기록 경신",
+      "description": {
+        "$text": "<h4>핵융합: WEST, 플라즈마 지속 시간 세계 기록 경신</h4>\n<ul>\n<li>\n<p><strong>WEST의 성과</strong></p>\n<ul>\n<li>2025년 2월 12일, CEA의 WEST 기계가 22분 이상 플라즈마를 유지하며 기존 기록을 경신함.</li>\n<li>이는 중국의 EAST가 세운 기록을 25% 개선한 것임.</li>\n<li>플라즈마 온도는 5천만 도에 도달함.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19317",
+      "guid": "https://news.hada.io/topic?id=19317",
+      "pubDate": "2025-02-19T22:34:37+09:00",
       "author": "neo",
       "category": ""
     }
