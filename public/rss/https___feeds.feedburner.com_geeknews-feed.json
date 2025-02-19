@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-19T19:38:41+09:00",
+  "lastBuildDate": "2025-02-19T19:53:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20097,6 +20097,19 @@
       "link": "https://news.hada.io/topic?id=19315",
       "guid": "https://news.hada.io/topic?id=19315",
       "pubDate": "2025-02-19T19:38:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gixy - Nginx 보안 설정 분석 도구",
+      "description": {
+        "$text": "<ul>\n<li>NGINX 설정을 분석하여 보안 취약점을 찾아내는 도구</li>\n<li>보안 설정 오류를 방지하고 취약점 자동 탐지를 목표로 함</li>\n<li>Yandex가 만들었던 오리지널 Gixy(2년간 커밋없음)의 활성화된 포크임</li>\n</ul>\n<h2>Gixy가 탐지할 수 있는 문제</h2>\n<ul>\n<li>\n<strong>SSRF(Server Side Request Forgery)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19316",
+      "guid": "https://news.hada.io/topic?id=19316",
+      "pubDate": "2025-02-19T19:53:24+09:00",
       "author": "neo",
       "category": ""
     }
