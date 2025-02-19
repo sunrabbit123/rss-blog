@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-18T13:34:28+09:00",
+  "lastBuildDate": "2025-02-19T10:31:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -19889,6 +19889,136 @@
       "link": "https://news.hada.io/topic?id=19296",
       "guid": "https://news.hada.io/topic?id=19296",
       "pubDate": "2025-02-18T13:34:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Audiblez v4 - 전자책을 오디오북으로 변환하는 도구",
+      "description": {
+        "$text": "<h2>Audiblez란?</h2>\n<ul>\n<li>\n<code>.epub</code> 전자책을 <code>.m4b</code> 오디오북으로 변환하는 도구</li>\n<li>Kokoro-82M 기반의 고품질 음성 합성 사용</li>\n<li>Apache 라이선스로 제공되며, 100시간 이하의 오디오 데이터로 훈련됨</li>\n<li>Google Colab의 T4 GPU에서 &quot;초당 600자 변환 속도&quot;로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19309",
+      "guid": "https://news.hada.io/topic?id=19309",
+      "pubDate": "2025-02-19T10:31:19+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Scripton - 실시간 시각화 기능이 내장된 Python IDE,",
+      "description": {
+        "$text": "<h2>새로운 종류의 Python IDE</h2>\n<ul>\n<li>\n<strong>동적 시각화</strong>: Scripton은 Python 스크립트에서 직접 실시간 시각화를 지원함. 노트북, 서버, 브라우저가 필요하지 않음. 시각화는 IDE 내 전용 탭에 표시됨.</li>\n<li>\n<strong>통합 플로팅 툴킷</strong>: Plotly와 Observable Plot의 기능을 Python에 직...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19308",
+      "guid": "https://news.hada.io/topic?id=19308",
+      "pubDate": "2025-02-19T10:15:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Andrej Karpathy의 Grok 3 얼리 억세스 리뷰",
+      "description": {
+        "$text": "<h2>Thinking</h2>\n<ul>\n<li>✅ <strong>최신 사고 모델을 갖추고 있음</strong>\n<ul>\n<li>&quot;Think&quot; 버튼을 사용하면 매우 뛰어난 사고력을 보여줌</li>\n<li>예: <em>Settlers of Catan</em> 스타일의 웹 보드 게임을 생성하라는 요청을 정확하게 수행</li>\n<li>이를 안정적으로 수행하는 모델은 거의 없음</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19307",
+      "guid": "https://news.hada.io/topic?id=19307",
+      "pubDate": "2025-02-19T10:14:21+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "18F 퇴출 이후",
+      "description": {
+        "$text": "<h2>18F에서의 이직</h2>\n<ul>\n<li>\n<p><strong>18F에서의 경험</strong></p>\n<ul>\n<li>18F에서의 근무는 매우 긍정적이었음. 모든 동료들이 친절하고 열정적이며, 디지털 서비스를 개선하기 위해 노력하는 모습이 인상적이었음.</li>\n<li>새로운 아이디어를 시도할 수 있는 안전한 환경이었으며, 팀의 지원을 받으며 다",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19306",
+      "guid": "https://news.hada.io/topic?id=19306",
+      "pubDate": "2025-02-19T10:12:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "생성형 AI 사기(Con)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ChatGPT와 대규모 언어 모델의 발전</h2>\n<ul>\n<li>ChatGPT가 출시된 지 2년이 넘었으며, 대규모 언어 모델(LLM)은 혁신적인 개념에서 21세기의 가장 큰 사기 중 하나로 발전했음.</li>\n<li>OpenAI의 CEO인 Sam Altman은 노동을 착취하거나 대체하려는 경제에 LLM을 판매하기 위해 이 거품을 부풀렸음.</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19305",
+      "guid": "https://news.hada.io/topic?id=19305",
+      "pubDate": "2025-02-19T10:09:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Pi-hole v6 출시 소식",
+      "description": {
+        "$text": "<h2>Pi-hole v6 소개</h2>\n<ul>\n<li>\n<p><strong>새로운 기능 요약</strong></p>\n<ul>\n<li>\n<strong>내장 웹 서버 및 REST API</strong>: pihole-FTL 바이너리에 새로운 REST API와 내장 웹 서버를 통합하여 lighttpd와 PHP가 필요하지 않게 되었음. 설치 공간을 줄이고 성능을 향상시킴. 서버 측 페이지네이션을 통해 쿼",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19304",
+      "guid": "https://news.hada.io/topic?id=19304",
+      "pubDate": "2025-02-19T10:06:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "디버깅이 불가능한 앱 디버깅",
+      "description": {
+        "$text": "<h2>디버깅이 불가능한 앱 디버깅하기</h2>\n<ul>\n<li>최근에 디버깅이 불가능한 앱을 만났음. 이 앱은 디버거 연결을 차단하고, 코드 주입 시 조기에 종료되며, 탈옥된 기기에서 실행하면 전체 폰을 크래시시킴.</li>\n<li>iOS 앱은 종종 탈옥 감지나 코드 난독화 같은 추가 보호 기능을 포함함. 이 앱은 특히 많은 보호 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19303",
+      "guid": "https://news.hada.io/topic?id=19303",
+      "pubDate": "2025-02-19T10:03:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 추정에 대한 사고를 새롭게 한 나의 세탁기 경험",
+      "description": {
+        "$text": "<h2>소프트웨어 노력 추정에 대한 새로운 통찰</h2>\n<ul>\n<li>\n<p><strong>세탁기 설치 경험</strong></p>\n<ul>\n<li>새 집으로 이사하면서 세탁기를 설치하는 과정에서 예상보다 시간이 많이 걸림.</li>\n<li>보통 10분이면 끝나는 작업이었지만, 이번에는 4시간이 소요됨.</li>\n<li>이 경험이 소프트웨어 개발에서의 노력",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19302",
+      "guid": "https://news.hada.io/topic?id=19302",
+      "pubDate": "2025-02-19T10:00:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "토론토 공항 착륙 중 전복된 항공기 추락 사고",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>토론토 피어슨 공항에서 비행기 추락 사고 발생</h2>\n<ul>\n<li>월요일 오후, 델타 항공의 비행기가 토론토 피어슨 국제공항에서 추락하여 뒤집히는 사고가 발생함. 이 사고로 18명이 부상을 입었음.</li>\n<li>델타 항공의 미니애폴리스에서 출발한 비행기에는 76명의 승객과 4명의 승무원이 탑승하고 있었...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19301",
+      "guid": "https://news.hada.io/topic?id=19301",
+      "pubDate": "2025-02-19T09:57:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 실시간 업데이트되는  'What a week, huh?' 밈 버전",
+      "description": {
+        "$text": "HN 공개: 실시간 업데이트되는  'What a week, huh?' 밈 버전",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19299",
+      "guid": "https://news.hada.io/topic?id=19299",
+      "pubDate": "2025-02-19T09:51:04+09:00",
       "author": "neo",
       "category": ""
     }
