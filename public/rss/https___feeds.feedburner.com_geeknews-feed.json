@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-20T09:46:41+09:00",
+  "lastBuildDate": "2025-02-20T11:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20215,6 +20215,45 @@
       "guid": "https://news.hada.io/topic?id=19320",
       "pubDate": "2025-02-20T09:37:40+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, iPhone 16e 공개",
+      "description": {
+        "$text": "<h2>iPhone 16e 소개</h2>\n<ul>\n<li>Apple은 iPhone 16e를 발표하며 iPhone 16 라인업에 새로운 멤버를 추가함</li>\n<li>iPhone 16e는 A18 칩과 Apple C1 모뎀으로 빠르고 부드러운 성능과 뛰어난 배터리 수명을 제공함</li>\n<li>Apple Intelligence를 탑재하여 개인 정보 보호를 강화한 인공지능 기능을 제공함</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19327",
+      "guid": "https://news.hada.io/topic?id=19327",
+      "pubDate": "2025-02-20T11:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Space Zero - 무한으로 3D 아이템을 생성할 수 있는 AI 기반 브라우저 게임",
+      "description": {
+        "$text": "<p>안녕하세요! AI 기반으로 3D 아이템을 무한히 창작할 수 있는 브라우저 게임인 Space Zero의 데모 버전을 만들어봤습니다 ㅎㅎ</p>\n<p>대부분의 게임에는 정해진 기능만 있고, 커스터마이징과 모드 추가를 하려면 코딩을 요구하며, 어떤 게임은 비싼 부품이나 기기를 구매해야 하는데요. 그래서 이런 장벽을 없애기 위",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19326",
+      "guid": "https://news.hada.io/topic?id=19326",
+      "pubDate": "2025-02-20T10:36:39+09:00",
+      "author": "kwonhl0211",
+      "category": ""
+    },
+    {
+      "title": "블로그가 없어서 실패한 스타트업은 없다",
+      "description": {
+        "$text": "<ul>\n<li>많은 창업자들이 다음과 같이 믿고 있음:\n<ul>\n<li>“오디언스를 구축하면 판매가 쉬워진다.”</li>\n<li>“가치 있는 콘텐츠를 게시하면 고객이 찾아온다.”</li>\n<li>“콘텐츠는 신뢰를 쌓는 방법이다.”</li>\n</ul>\n</li>\n<li>하지만 <strong>이 모든 것이 잘못된 생각</strong>임 : <strong>“블로그가 없어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19325",
+      "guid": "https://news.hada.io/topic?id=19325",
+      "pubDate": "2025-02-20T10:16:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
