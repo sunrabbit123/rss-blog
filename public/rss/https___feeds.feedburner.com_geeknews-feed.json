@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-20T11:33:23+09:00",
+  "lastBuildDate": "2025-02-20T12:30:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20254,6 +20254,32 @@
       "guid": "https://news.hada.io/topic?id=19325",
       "pubDate": "2025-02-20T10:16:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HP, Humane의 AI 소프트웨어 인수",
+      "description": {
+        "$text": "<ul>\n<li>HP Inc.는 Humane으로부터 AI 플랫폼 Cosmos, 기술 인재, 300개 이상의 특허 및 특허 출원권을 포함한 핵심 AI 역량을 인수하기로 합의</li>\n<li>이 인수는 HP가 경험 중심의 회사로 변모하는 데 기여하며, AI 요청을 로컬 및 클라우드에서 원활하게 조율할 수 있는 차세대 장치를 개발하는 데 도움을 줄 것</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19329",
+      "guid": "https://news.hada.io/topic?id=19329",
+      "pubDate": "2025-02-20T12:30:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, 퀀텀 프로세서 'Majorana 1' 공개",
+      "description": {
+        "$text": "<ul>\n<li>위상 큐비트(topological qubits)로 구동되는 세계 최초의 양자 프로세서인 Majorana 1을 공개</li>\n<li>Microsoft는 <strong>topoconductor</strong>라는 혁신적 물질을 이용해 <strong>Majorana 1</strong>을 개발함\n<ul>\n<li>이는 실용적 양자 컴퓨팅으로 도약하는 데 중요한 전환점임</li>\n<li>양자 컴퓨터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19328",
+      "guid": "https://news.hada.io/topic?id=19328",
+      "pubDate": "2025-02-20T12:11:17+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
