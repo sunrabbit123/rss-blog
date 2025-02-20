@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-20T19:11:44+09:00",
+  "lastBuildDate": "2025-02-20T23:42:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20306,6 +20306,19 @@
       "guid": "https://news.hada.io/topic?id=19331",
       "pubDate": "2025-02-20T14:32:54+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글 리서치, Gemini 2.0 기반 Co-scientist 발표",
+      "description": {
+        "$text": "<p>코사이언티스트(co-scientist)는 Gemini 2.0으로 구성된 멀티 에이전트 AI 시스템으로, 과학자들이 새로운 가설을 수립하도록 돕고 연구 속도를 높이는 것을 도와줌.</p>\n<ul>\n<li>기존 과학적 방법에서 영감을 얻어 각각 생성(Generation), 반영(Reflection), 순위 결정(Ranking), 진화(Evolution), 근접성(Proximit",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19333",
+      "guid": "https://news.hada.io/topic?id=19333",
+      "pubDate": "2025-02-20T23:42:20+09:00",
+      "author": "dohyun682",
       "category": ""
     }
   ]
