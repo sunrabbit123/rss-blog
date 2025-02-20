@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-20T07:18:56+09:00",
+  "lastBuildDate": "2025-02-20T09:46:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20150,6 +20150,71 @@
       "guid": "https://news.hada.io/topic?id=19319",
       "pubDate": "2025-02-20T07:18:56+09:00",
       "author": "pronist",
+      "category": ""
+    },
+    {
+      "title": "앨리스 해밀턴의 단독 캠페인: 모든 제품에서 납 제거 추진",
+      "description": {
+        "$text": "<p>The provided content does not contain any article or relevant information to summarize. It appears to be a security verification message from a website.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19324",
+      "guid": "https://news.hada.io/topic?id=19324",
+      "pubDate": "2025-02-20T09:46:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI Deep Research의 문제점",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;OpenAI의 딥 리서치는 나를 위해 만들어졌지만 나는 사용 할 수 없음.  멋진 데모처럼 보이지만, 결국에는 어김없이 문제가 생김. 그리고 그 문제가 나타나는 방식이 꽤 흥미로움.&quot; - 베네딕트 에반스</p>\n</blockquote>\n<ul>\n<li>내가 주로 하는 일은 리서치와 분석임\n<ul>\n<li>원하는 데이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19323",
+      "guid": "https://news.hada.io/topic?id=19323",
+      "pubDate": "2025-02-20T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "불완전한 시스템의 장점: Bluesky의 손실 타임라인",
+      "description": {
+        "$text": "<h3>불완전한 시스템이 좋은 이유: Bluesky의 손실 타임라인</h3>\n<ul>\n<li>시스템 설계 시 데이터 일관성, 가용성, 지연 시간 등을 완벽하게 만들려고 노력하지만, 모든 요소를 동시에 완벽하게 구현하는 것은 어렵거나 불가능함. 따라서 각 요소를 균형 있게 조정하여 애플리케이션에 적합한 설계를 찾는 것이 중요함....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19322",
+      "guid": "https://news.hada.io/topic?id=19322",
+      "pubDate": "2025-02-20T09:43:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 기관의 책임성을 보장하는 행정명령",
+      "description": {
+        "$text": "<h2>정책과 목적</h2>\n<ul>\n<li>헌법은 대통령에게 모든 행정 권한을 부여하고 법을 성실히 집행할 책임을 부여함.</li>\n<li>대통령은 연방 정부의 행정 업무를 수행하기 위해 보조 관료들을 두고 있음.</li>\n<li>독립 규제 기관들이 대통령의 감독 없이 상당한 행정 권한을 행사하고 있어 문제로 지적됨.</li>\n<li>이러...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19321",
+      "guid": "https://news.hada.io/topic?id=19321",
+      "pubDate": "2025-02-20T09:40:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "러시아 연계 위협 행위자들, Signal Messenger 적극 타겟팅",
+      "description": {
+        "$text": "<h3>러시아 연계 위협 행위자들이 Signal 메신저를 표적으로 삼는 활동</h3>\n<ul>\n<li>\n<p>**Google 위협 인텔리전스 그룹(GTIG)**은 러시아 국가 연계 위협 행위자들이 Signal 메신저 계정을 타겟으로 하는 활동을 관찰함. 이는 러시아의 우크라이나 재침공과 관련된 민감한 정부 및 군사 통신에 접근하려는 전시 요구에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19320",
+      "guid": "https://news.hada.io/topic?id=19320",
+      "pubDate": "2025-02-20T09:37:40+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
