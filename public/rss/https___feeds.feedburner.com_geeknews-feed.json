@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-20T14:15:05+09:00",
+  "lastBuildDate": "2025-02-20T14:32:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20293,6 +20293,19 @@
       "guid": "https://news.hada.io/topic?id=19330",
       "pubDate": "2025-02-20T14:15:05+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "부러진 다리와 발목, 몇 주 내로 걷기 시작하면 더 잘 치유되는 연구 결과",
+      "description": {
+        "$text": "<h2>부러진 다리와 발목, 몇 주 내로 걷는 것이 더 나은 치유를 돕음</h2>\n<ul>\n<li>20년 전, 저자의 남편은 왼쪽 발목을 부러뜨리고 두 달 동안 깁스와 목발을 사용했음. 작년에는 다른 발목을 부러뜨렸지만, 이번에는 수술 후 2주 만에 걷기 시작하라는 의사의 지시를 받았음.</li>\n<li>부러진 다리뼈를 최소 6주 동안...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19331",
+      "guid": "https://news.hada.io/topic?id=19331",
+      "pubDate": "2025-02-20T14:32:54+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
