@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-21T14:33:54+09:00",
+  "lastBuildDate": "2025-02-21T18:59:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20540,6 +20540,45 @@
       "guid": "https://news.hada.io/topic?id=19350",
       "pubDate": "2025-02-21T14:18:48+09:00",
       "author": "b8739",
+      "category": ""
+    },
+    {
+      "title": "Grok 3: The Bitter Lesson의 또 다른 승리",
+      "description": {
+        "$text": "<h2>I. AI 발전을 지배하는 스케일링 법칙</h2>\n<ul>\n<li>Elon Musk가 Grok 3을 &quot;지구상에서 가장 똑똑한 AI&quot;라고 부른 것이 과장이 아닐 가능성이 높음</li>\n<li>Grok 2에 비해 <strong>비약적인 발전</strong>을 이루었으며, OpenAI, Google DeepMind, Anthropic과 같은 성숙한 연구소들의 모델과 동등하거나...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19354",
+      "guid": "https://news.hada.io/topic?id=19354",
+      "pubDate": "2025-02-21T18:59:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Android 기기용 Amazon Appstore, 2025년 8월 20일에 서비스 종료",
+      "description": {
+        "$text": "<ul>\n<li>2025년 8월 20일부터 Android 기기에서 더 이상 Amazon 앱스토어에 액세스할 수 없음</li>\n<li>또한 Amazon Coins(앱을 구입하는데 사용하던 가상화폐) 프로그램도 같이 종료되며, 2/20 부터 Coin는 구매 불가\n<ul>\n<li>가지고 있는 코인은 8/20 전에 모두 사용해야 하며, 그 이후엔 환불 예정</li>\n</ul>\n</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19353",
+      "guid": "https://news.hada.io/topic?id=19353",
+      "pubDate": "2025-02-21T18:58:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Magma - 멀티모달 AI 에이전트를 위한 기초 모델",
+      "description": {
+        "$text": "<ul>\n<li>Magma는 다중모달 입력을 해석하고 이를 환경 내에서 연결할 수 있는 최초의 기초 모델로, 가상 및 현실 세계에서의 복잡한 상호작용을 처리할 수 있음</li>\n<li>단순한 이미지·영상 이해뿐만 아니라, <strong>목표 중심의 시각적 계획 및 실행을 생성</strong>하여 다양한 AI 에이전트 작업을 수행</li>\n<li>U...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19352",
+      "guid": "https://news.hada.io/topic?id=19352",
+      "pubDate": "2025-02-21T18:56:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
