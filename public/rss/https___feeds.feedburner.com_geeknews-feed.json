@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-21T11:55:25+09:00",
+  "lastBuildDate": "2025-02-21T12:34:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20501,6 +20501,19 @@
       "guid": "https://news.hada.io/topic?id=19348",
       "pubDate": "2025-02-21T11:55:25+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 샌프란시스코 수트로 타워의 몰입형 Gaussian Splat 체험",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>소개</h2>\n<ul>\n<li>San Francisco의 Sutro Tower 3D 모델에 대한 설명임.</li>\n<li>모바일 기기에서는 AR 모드를 통해 장면을 탐색할 수 있음.</li>\n<li>Sutro Tower는 훌륭한 건축물이며, 더 많은 정보를 원하면 공식 디지털 투어를 참조할 수 있음.</li>\n</ul>\n</li>\n<li>\n<h2>기술적 배경</h2>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19349",
+      "guid": "https://news.hada.io/topic?id=19349",
+      "pubDate": "2025-02-21T12:34:41+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
