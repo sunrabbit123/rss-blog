@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-21T18:59:22+09:00",
+  "lastBuildDate": "2025-02-21T19:33:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20578,6 +20578,19 @@
       "link": "https://news.hada.io/topic?id=19352",
       "guid": "https://news.hada.io/topic?id=19352",
       "pubDate": "2025-02-21T18:56:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DOGE, 정부 직원 신용카드에 $1 지출 한도 설정",
+      "description": {
+        "$text": "<h4>DOGE, 정부 직원 신용카드에 $1 사용 한도 설정</h4>\n<ul>\n<li>엘론 머스크의 정부 효율성 부서는 미국 정부의 IT 및 사무실 관리를 담당하는 중요한 기관인 General Services Administration(GSA)와 최소 세 개의 다른 연방 기관의 직원 및 계약자 신용카드에 $1 사용 한도를 설정함.</li>\n<li>GSA는 250개 이상의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19355",
+      "guid": "https://news.hada.io/topic?id=19355",
+      "pubDate": "2025-02-21T19:33:36+09:00",
       "author": "neo",
       "category": ""
     }
