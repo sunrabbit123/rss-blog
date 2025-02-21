@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-21T09:48:16+09:00",
+  "lastBuildDate": "2025-02-21T10:16:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20370,6 +20370,123 @@
       "link": "https://news.hada.io/topic?id=19335",
       "guid": "https://news.hada.io/topic?id=19335",
       "pubDate": "2025-02-21T08:28:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "글로벌 엔지니어링 팀을 운영하는데 숨겨진 비용과 이를 완화하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>글로벌 기술팀을 관리 하기전에 알았더라면 좋았을 것\n<blockquote>\n<p><strong>타임존을 넘어 24/7로 개발하겠다는 약속은 실행 속도 저하라는 큰 대가를 치르게 됨</strong></p>\n</blockquote>\n</li>\n<li>이론적으로는 전 세계 인재를 활용하고, 광범위한 커버리지를 확보하며, 글로벌 인력을 운영하는 것이 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19347",
+      "guid": "https://news.hada.io/topic?id=19347",
+      "pubDate": "2025-02-21T10:16:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Greg K-H: \"Rust로 새로운 코드 작성은 모두에게 이익\"",
+      "description": {
+        "$text": "<h2>Rust를 리눅스 커널에 도입해야 하는 이유</h2>\n<ul>\n<li>지난 15년 동안 거의 모든 리눅스 커널 버그 수정과 보안 문제를 살펴본 경험을 바탕으로, Rust 도입의 필요성을 이야기하고자 함</li>\n<li>모든 버그 수정이 안정 버전 트리에 반영되는 것은 아니지만, 대체로 중요한 것들은 반영되며, 나는 모든 커널 CVE를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19346",
+      "guid": "https://news.hada.io/topic?id=19346",
+      "pubDate": "2025-02-21T10:09:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft의 위상 큐비트(Topological Qubit) 관련 FAQ",
+      "description": {
+        "$text": "<ul>\n<li>글 작성자 Scott Aaronson : 계산 복잡도 이론 및 양자 컴퓨팅 분야에서 저명한 컴퓨터 과학자로 저서 &quot;스콧 애론슨의 양자 컴퓨팅 강의&quot;가 있음</li>\n</ul>\n<h2>Q1. Microsoft의 발표를 봤나요?</h2>\n<p>A. 네, 봤음. 너무 많이 물어보지 않아도 됨! Microsoft의 Chetan Nayak이 몇 주 전 개인 브리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19345",
+      "guid": "https://news.hada.io/topic?id=19345",
+      "pubDate": "2025-02-21T10:06:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파워스탯, 센서, dmidecode로 헤츠너 문제점 발견",
+      "description": {
+        "$text": "<h4>Hetzner 디버깅: powerstat, sensors, dmidecode로 문제 해결</h4>\n<ul>\n<li>\n<p><strong>배경</strong></p>\n<ul>\n<li>Ubicloud는 Hetzner의 AX162 서버를 도입했으나, 심각한 신뢰성 문제를 겪음.</li>\n<li>AX162 서버는 이전 모델보다 성능이 뛰어나고 가격이 저렴했으나, 16배 더 자주 충돌함.</li>\n<li>여러 하드",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19344",
+      "guid": "https://news.hada.io/topic?id=19344",
+      "pubDate": "2025-02-21T10:03:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mastra - TypeScript AI 에이전트 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>타입스크립트 기반으로 AI 애플리케이션과 기능을 빠르게 구축하기 위한 opinionated 프레임워크</li>\n<li>워크플로, 에이전트, RAG, 통합(integration), 평가(evals) 등 AI 개발에 필요한 주요 기능을 제공</li>\n<li>로컬 환경이나 서버리스 클라우드에서 실행 가능</li>\n</ul>\n<h2>주요 특징</h2>\n<ul>\n<li>L...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19343",
+      "guid": "https://news.hada.io/topic?id=19343",
+      "pubDate": "2025-02-21T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "향이 나는 제품은 자동차 배기가스와 동등한 수준의 실내 공기 오염을 유발",
+      "description": {
+        "$text": "<ul>\n<li>새로운 연구에 따르면, 실내에서 향 제품(향이 있는 양초등)을 사용하는 것이 자동차 배기 가스만큼의 공기 오염을 유발함.</li>\n<li>연구자들은 이러한 나노 크기의 입자를 흡입하는 것이 건강에 심각한 영향을 미칠 수 있다고 경고함.</li>\n</ul>\n<h2>퍼듀 대학교의 연구</h2>\n<ul>\n<li>퍼듀 대학교의 연구는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19342",
+      "guid": "https://news.hada.io/topic?id=19342",
+      "pubDate": "2025-02-21T10:00:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 공동 과학자와 함께하는 과학적 돌파구 가속화",
+      "description": {
+        "$text": "<h2>AI 공동 과학자와 함께하는 과학적 돌파구 가속화</h2>\n<ul>\n<li>\n<p><strong>AI 공동 과학자 소개</strong></p>\n<ul>\n<li>Google의 연구원 Juraj Gottweis와 Vivek Natarajan은 Gemini 2.0을 기반으로 한 다중 에이전트 AI 시스템인 AI 공동 과학자를 소개함.</li>\n<li>이 시스템은 과학자들이 새로운 가설과 연구 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19341",
+      "guid": "https://news.hada.io/topic?id=19341",
+      "pubDate": "2025-02-21T09:57:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "20년 만에 수학 커플이 주요 군론문제 해결",
+      "description": {
+        "$text": "<ul>\n<li>2003년, 독일의 대학원생 Britta Späth는 군론(Group Theory) 분야에서의 주요 미해결 문제인 McKay 추측을 접하게 됨.</li>\n<li>Späth는 이 문제에 매료되어 경력을 걸고 연구를 지속함.</li>\n<li>그녀는 Marc Cabanes와 함께 연구하며 사랑에 빠지고 가정을 이루게 됨.</li>\n</ul>\n<h4>McKay 추측</h4>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19340",
+      "guid": "https://news.hada.io/topic?id=19340",
+      "pubDate": "2025-02-21T09:54:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1972년 Unix V2 \"Beta\" 부활",
+      "description": {
+        "$text": "<h2>1972 UNIX V2 &quot;Beta&quot; 부활</h2>\n<ul>\n<li>\n<p><strong>소개</strong></p>\n<ul>\n<li>Yufeng Gao가 DMR 테이프를 분석하여 UNIX V2 &quot;Beta&quot; 시스템을 복원함.</li>\n<li>s1 테이프는 커널을 포함한 UNIX INIT DECtape이며, s2는 대부분의 배포 파일을 포함함.</li>\n</ul>\n</li>\n<li>\n<p><strong>커널",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19339",
+      "guid": "https://news.hada.io/topic?id=19339",
+      "pubDate": "2025-02-21T09:51:16+09:00",
       "author": "neo",
       "category": ""
     }
