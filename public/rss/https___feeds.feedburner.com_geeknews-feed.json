@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-21T10:16:02+09:00",
+  "lastBuildDate": "2025-02-21T11:55:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20488,6 +20488,19 @@
       "guid": "https://news.hada.io/topic?id=19339",
       "pubDate": "2025-02-21T09:51:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Obsidian, 이제 업무용으로 무료 이용 가능",
+      "description": {
+        "$text": "<ul>\n<li>이제 Obsidian을 업무에서도 무료로 사용할 수 있음</li>\n<li>기존의 <strong>Obsidian 상업용(Commercial) 라이선스는 선택 사항</strong>으로 변경</li>\n<li>변하는 것은 없음 : 기능 제한 없음, 계정 생성 불필요, 광고 없음, 추적 없음, 데이터는 로컬에 마크다운으로 저장</li>\n<li>변경 이유 : 단순함을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19348",
+      "guid": "https://news.hada.io/topic?id=19348",
+      "pubDate": "2025-02-21T11:55:25+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
