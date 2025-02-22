@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-22T17:33:28+09:00",
+  "lastBuildDate": "2025-02-22T20:33:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20760,6 +20760,19 @@
       "link": "https://news.hada.io/topic?id=19369",
       "guid": "https://news.hada.io/topic?id=19369",
       "pubDate": "2025-02-22T17:33:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리처드 파인만 사망 당시 블랙보드 (1988)",
+      "description": {
+        "$text": "<ul>\n<li>이 디지털화된 컬렉션은 교육 및 연구 목적으로 접근 가능함</li>\n<li>아카이브 컬렉션의 특성상, Caltech Archives and Special Collections의 아카이브 관리자는 저작권 및 프라이버시, 퍼블리시티, 상표권을 항상 식별할 수 없음</li>\n<li>권리 보유자에게서 정보를 얻고자 하며, 정확한 정보를 얻기 위해 노...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19370",
+      "guid": "https://news.hada.io/topic?id=19370",
+      "pubDate": "2025-02-22T20:33:11+09:00",
       "author": "neo",
       "category": ""
     }
