@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-22T21:35:19+09:00",
+  "lastBuildDate": "2025-02-23T00:54:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20787,6 +20787,19 @@
       "guid": "https://news.hada.io/topic?id=19371",
       "pubDate": "2025-02-22T21:35:19+09:00",
       "author": "kodingwarrior",
+      "category": ""
+    },
+    {
+      "title": "윈도우에 숨은 VMS 기술유전자 (한국어)",
+      "description": {
+        "$text": "<ul>\n<li>윈도 NT는 DEC에서 VMS를 만들었던 데이비드 커틀러의 팀이 1988년 MS로 이적하여 개발</li>\n<li>NT는 VMS와 기술적으로 매우 유사했고 VMS의 재구현이라는 의혹이 있었지만 DEC는 제소하지 않음</li>\n<li>이후 몇년간 NT와 VMS는 서로 영향을 주고받으며 발전</li>\n<li>DEC는 '98년 컴팩에, 컴팩은 다시 HP에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19372",
+      "guid": "https://news.hada.io/topic?id=19372",
+      "pubDate": "2025-02-23T00:54:35+09:00",
+      "author": "regentag",
       "category": ""
     }
   ]
