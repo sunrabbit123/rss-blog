@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-23T22:34:13+09:00",
+  "lastBuildDate": "2025-02-23T23:34:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20903,6 +20903,19 @@
       "link": "https://news.hada.io/topic?id=19382",
       "guid": "https://news.hada.io/topic?id=19382",
       "pubDate": "2025-02-23T22:34:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenBSD 혁신",
+      "description": {
+        "$text": "<h2>OpenBSD 혁신</h2>\n<p>OpenBSD 프로젝트는 다양한 소프트웨어와 아이디어를 개발 및 유지 관리하고 있으며, 이는 대략적인 도입 순서에 따라 정리되어 있음.</p>\n<h3>개념</h3>\n<ul>\n<li>\n<strong>ipsec(4)</strong>: OpenBSD는 최초로 IPSec 스택을 제공한 무료 운영 체제임.</li>\n<li>\n<strong>inet6(4)</strong>:",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19383",
+      "guid": "https://news.hada.io/topic?id=19383",
+      "pubDate": "2025-02-23T23:34:17+09:00",
       "author": "neo",
       "category": ""
     }
