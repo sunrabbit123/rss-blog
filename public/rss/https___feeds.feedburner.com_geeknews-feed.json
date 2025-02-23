@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-23T10:46:01+09:00",
+  "lastBuildDate": "2025-02-23T22:34:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20891,6 +20891,19 @@
       "guid": "https://news.hada.io/topic?id=19381",
       "pubDate": "2025-02-23T10:46:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "\"Ask for No, Don't Ask for Yes (2022)\" 영화",
+      "description": {
+        "$text": "&quot;Ask for No, Don't Ask for Yes (2022)&quot; 영화",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19382",
+      "guid": "https://news.hada.io/topic?id=19382",
+      "pubDate": "2025-02-23T22:34:13+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
