@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-23T10:10:05+09:00",
+  "lastBuildDate": "2025-02-23T10:46:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20878,6 +20878,19 @@
       "guid": "https://news.hada.io/topic?id=19373",
       "pubDate": "2025-02-23T07:38:45+09:00",
       "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "Deno 2.2 출시 - OpenTelemetry, Lint 플러그인, node:sqlite",
+      "description": {
+        "$text": "<ul>\n<li>내장 OpenTelemetry 지원 : Deno가 <code>console.log</code>, <code>Deno.serve</code>, <code>fetch</code> 등의 API를 자동으로 계측</li>\n<li>\n<code>deno lint</code> 대폭 업그레이드 : JSX 및 React 관련 15개 새로운 규칙 추가 및 플러그인 시스템 도입(ESLint와 유사)</li>\n<li>SQLite를 쉽게 사용할 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19381",
+      "guid": "https://news.hada.io/topic?id=19381",
+      "pubDate": "2025-02-23T10:46:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
