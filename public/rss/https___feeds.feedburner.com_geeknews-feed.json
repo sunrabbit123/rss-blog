@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-23T00:54:35+09:00",
+  "lastBuildDate": "2025-02-23T10:10:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20799,6 +20799,84 @@
       "link": "https://news.hada.io/topic?id=19372",
       "guid": "https://news.hada.io/topic?id=19372",
       "pubDate": "2025-02-23T00:54:35+09:00",
+      "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "Bybit, 해킹으로 $1.5B(2.1조원) 피해. CEO \"손실 보전 가능\"",
+      "description": {
+        "$text": "<ul>\n<li>암호화폐 거래소 Bybit이 약 14억 6천만 달러 규모의 &quot;의심스러운 출금&quot;을 겪었음</li>\n<li>문제의 지갑은 401,346 ETH(약 11억 달러) 및 stETH(staked ETH) 등을 새 지갑으로 전송함</li>\n<li>새로운 지갑은 현재 <strong>mETH 및 stETH를 탈중앙화 거래소에서 청산</strong> 중이며, 현재까지 약 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19380",
+      "guid": "https://news.hada.io/topic?id=19380",
+      "pubDate": "2025-02-23T10:10:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DOGE의 유일한 퍼블릭 원장은 오류로 가득 차 있음",
+      "description": {
+        "$text": "<h2>DOGE의 유일한 공개 원장은 오류로 가득 차 있음</h2>\n<ul>\n<li>엘론 머스크의 외부 팀이 제시한 수치는 정부 예산 삭감에서 수십억 달러를 나타내며, 회계 오류, 오래된 데이터 및 기타 계산 실수로 가득 차 있음.</li>\n<li>머스크와 그의 정부 효율성 부서는 직원 감축, 임대 취소 및 계약 종료를 통해 연방 정부에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19378",
+      "guid": "https://news.hada.io/topic?id=19378",
+      "pubDate": "2025-02-23T09:41:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FFmpeg 어셈블리 언어 학교",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>FFmpeg의 어셈블리 언어 수업에 오신 것을 환영함. 이 수업은 어셈블리 언어가 FFmpeg에서 어떻게 작성되는지에 대한 기초를 제공함.</li>\n</ul>\n<h2>필요한 지식</h2>\n<ul>\n<li>C 언어, 특히 포인터에 대한 지식이 필요함.</li>\n<li>고등학교 수준의 수학 지식(스칼라와 벡터, 덧셈, 곱셈 등)이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19377",
+      "guid": "https://news.hada.io/topic?id=19377",
+      "pubDate": "2025-02-23T09:38:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "‘앱의 폭정’: 스마트폰이 없는 사람들은 부당한 불이익을 받고 있음",
+      "description": {
+        "$text": "<ul>\n<li>영국은 수백만 명이 <strong>스마트폰이 없거나 앱을 사용하지 않으며</strong>, 일부 사람들은 보안 문제로 인해 <strong>앱을 다운로드하지 않기를 선택</strong>함</li>\n<li>그러나 많은 기업이 앱 사용을 강제하며, 이를 통해 <strong>더 나은 할인, 금융 혜택 및 필수 서비스에 접근</strong>할 수 있음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19376",
+      "guid": "https://news.hada.io/topic?id=19376",
+      "pubDate": "2025-02-23T09:35:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2조원 규모 Bybit 해킹: 운영 보안 실패의 시대가 도래하다",
+      "description": {
+        "$text": "<ul>\n<li>2025년 2월 21일, Bybit 거래소에서 <strong>멀티시그 콜드월렛이 해킹되어 약 15억 달러 상당의 암호화폐가 유출</strong>\n</li>\n<li>\n<strong>해커들은 다중 서명자의 기기를 해킹</strong>하여, <strong>지갑 인터페이스에서 서명자들이 보게 되는 내용을 조작</strong>\n</li>\n<li>서명자들은 일반적인 거래...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19375",
+      "guid": "https://news.hada.io/topic?id=19375",
+      "pubDate": "2025-02-23T09:09:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "컴퓨터 통신의 역사",
+      "description": {
+        "$text": "<p>이 웹사이트는 기업가, 엔지니어, 경영진, 정부 규제 당국자 등 80여 명의 인터뷰를 바탕으로 데이터 통신, 지역 네트워킹, 인터넷 네트워킹 분야의 초기 스타트업들의 이야기를 정리한 것입니다.</p>\n<h3>목차</h3>\n<ol>\n<li>Introduction</li>\n<li>Background</li>\n<li>Data Communications: Emergence 1956-1968...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19373",
+      "guid": "https://news.hada.io/topic?id=19373",
+      "pubDate": "2025-02-23T07:38:45+09:00",
       "author": "regentag",
       "category": ""
     }
