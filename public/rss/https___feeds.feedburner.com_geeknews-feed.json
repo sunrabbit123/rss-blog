@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T13:02:26+09:00",
+  "lastBuildDate": "2025-02-24T15:14:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21111,6 +21111,19 @@
       "link": "https://news.hada.io/topic?id=19400",
       "guid": "https://news.hada.io/topic?id=19400",
       "pubDate": "2025-02-24T13:02:26+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, FlashMLA 오픈소스 공개 (1 of 5)",
+      "description": {
+        "$text": "<ul>\n<li>Hopper GPU를 위한 효율적인 MLA 디코딩 커널</li>\n<li>가변 길이 시퀀스 서빙을 위해 최적화 됨</li>\n<li>현재 릴리즈 된 것\n<ul>\n<li>BF16</li>\n<li>64 블록사이즈 Paged kvcache</li>\n</ul>\n</li>\n<li>벤치마크: CUDA 12.6을 사용하여 H800 SXM5에서 메모리 바운드 구성에서 최대 3000GB/s, 연산 바운드 구성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19401",
+      "guid": "https://news.hada.io/topic?id=19401",
+      "pubDate": "2025-02-24T15:14:21+09:00",
       "author": "xguru",
       "category": ""
     }
