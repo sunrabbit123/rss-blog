@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T16:37:01+09:00",
+  "lastBuildDate": "2025-02-24T19:33:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21150,6 +21150,19 @@
       "link": "https://news.hada.io/topic?id=19402",
       "guid": "https://news.hada.io/topic?id=19402",
       "pubDate": "2025-02-24T16:34:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4개의 숫자 2로 모든 정수 만들기",
+      "description": {
+        "$text": "<h2>네 개의 2로 모든 정수 만들기</h2>\n<ul>\n<li>\n<p><strong>수학 퍼즐 소개</strong></p>\n<ul>\n<li>네 개의 숫자 2와 목표 자연수를 주고, 다른 숫자를 사용하지 않고 다양한 수학적 연산을 통해 목표 숫자를 만드는 퍼즐임.</li>\n<li>초등학생도 풀 수 있는 예시:\n<ul>\n<li>1 = (2+2) / (2+2)</li>\n<li>2 = (2/2) + ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19404",
+      "guid": "https://news.hada.io/topic?id=19404",
+      "pubDate": "2025-02-24T19:33:34+09:00",
       "author": "neo",
       "category": ""
     }
