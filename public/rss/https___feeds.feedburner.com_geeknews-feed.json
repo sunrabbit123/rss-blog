@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T11:12:01+09:00",
+  "lastBuildDate": "2025-02-24T11:34:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21085,6 +21085,19 @@
       "link": "https://news.hada.io/topic?id=19396",
       "guid": "https://news.hada.io/topic?id=19396",
       "pubDate": "2025-02-24T10:22:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "베트남 그래픽 디자인",
+      "description": {
+        "$text": "<h2>VIET GD 소개</h2>\n<ul>\n<li>\n<strong>VIET GD</strong>는 베트남 그래픽 디자인을 기념하고 아카이브하는 캐주얼한 인덱스임.</li>\n<li>현재 컬렉션에는 274개의 객체가 포함되어 있음.</li>\n</ul>\n<h2>필터 및 카테고리</h2>\n<ul>\n<li>\n<strong>매체</strong>: 광고, 책, 잡화, 성냥갑, 음악, 포스터, 간판, 우표,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19399",
+      "guid": "https://news.hada.io/topic?id=19399",
+      "pubDate": "2025-02-24T11:34:33+09:00",
       "author": "neo",
       "category": ""
     }
