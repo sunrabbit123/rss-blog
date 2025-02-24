@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T10:08:49+09:00",
+  "lastBuildDate": "2025-02-24T11:12:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21046,6 +21046,45 @@
       "link": "https://news.hada.io/topic?id=19386",
       "guid": "https://news.hada.io/topic?id=19386",
       "pubDate": "2025-02-24T09:47:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "20년간 같은 소프트웨어 제품을 개발하며",
+      "description": {
+        "$text": "<ul>\n<li>PerfectTablePlan은 2005년 2월에 첫 버전이 출시된 <strong>테이블 좌석 배치</strong> 소프트웨어\n<ul>\n<li>20년전은 Windows, 셰어웨어, 그리고 CD의 세상이었음. 많은 것이 변했지만, 현재 버전 7까지 출시했고 지속적으로 성장중</li>\n</ul>\n</li>\n<li>본인 결혼식 좌석 배치를 직접 계획하면서 기존 소프...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19398",
+      "guid": "https://news.hada.io/topic?id=19398",
+      "pubDate": "2025-02-24T11:12:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "얀 르쿤이 LLM에 대해 옳았다고 생각합니다(우연일 수도 있지만)",
+      "description": {
+        "$text": "<ul>\n<li>최근 몇 년간 <strong>AGI(Artificial General Intelligence, 범용 인공지능)</strong> 에 대한 논의가 급증함</li>\n<li>AGI의 정확한 정의는 불분명하고 논란이 많으며, <strong>AGI 타임라인</strong>을 설정하는 것이 일반적인 토론 방식이 됨\n<ul>\n<li>&quot;장기 타임라인&quot;: AGI가 10~20년 후 도래할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19397",
+      "guid": "https://news.hada.io/topic?id=19397",
+      "pubDate": "2025-02-24T10:28:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ruby on Rails가 여전히 중요한 이유 - Next.js 세상에서 오래된 도구가 살아남는 법",
+      "description": {
+        "$text": "<ul>\n<li>최근 필자는 할아버지의 오래된 바이닐 레코드를 발견하였고, 이전 시대의 이 매체가 여전히 문제없이 재생되는 것을 보고 놀라웠음\n<ul>\n<li>바이닐은 음악 배포에 큰 변화를 가져왔으며, 인쇄와 공유를 가능하게 하여 현재까지도 표준으로 남아있음</li>\n<li>오디오 공유 방법은 진화했지만, 초기 방식은 여전...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19396",
+      "guid": "https://news.hada.io/topic?id=19396",
+      "pubDate": "2025-02-24T10:22:38+09:00",
       "author": "neo",
       "category": ""
     }
