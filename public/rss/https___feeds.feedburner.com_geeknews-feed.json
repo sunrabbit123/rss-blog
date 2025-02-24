@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-23T23:34:17+09:00",
+  "lastBuildDate": "2025-02-24T10:08:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -20916,6 +20916,136 @@
       "link": "https://news.hada.io/topic?id=19383",
       "guid": "https://news.hada.io/topic?id=19383",
       "pubDate": "2025-02-23T23:34:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1787년 9월 17일: \"유지할 수 있다면 공화국\"",
+      "description": {
+        "$text": "<h2>1787년 9월 17일: 공화국, 유지할 수 있다면</h2>\n<ul>\n<li>\n<p><strong>벤자민 프랭클린의 연설</strong>: 프랭클린은 헌법에 대해 완벽하지 않다고 생각하지만, 일반 정부가 필요하다고 믿음. 그는 다른 회의를 여는 것이 더 나은 결과를 가져오지 않을 것이라고 주장하며, 모든 대표들이 자신의 판단을 의심하고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19395",
+      "guid": "https://news.hada.io/topic?id=19395",
+      "pubDate": "2025-02-24T10:08:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 시대에 AI 월세 0원으로 살게 해준 6가지 전략",
+      "description": {
+        "$text": "<h2>들어가며</h2>\n<ul>\n<li>쏟아지는 AI 도구들 때문에 디지털 월세가 많이 든다는 지인이 늘었음</li>\n<li>나는 소프트웨어 구독료를 별로 안 낸다(월 53,700원, AI는 0원)고 하면, AI 강의도 한다는 사람이 어떻게 그게 가능하냐고 놀람</li>\n<li>실제로 어떻게 가능했는지 돌이켜보니 일부러 아끼려던 건 아니었고, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19394",
+      "guid": "https://news.hada.io/topic?id=19394",
+      "pubDate": "2025-02-24T10:06:39+09:00",
+      "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "텍스트 레이블 옹호",
+      "description": {
+        "$text": "<h2>텍스트 레이블의 중요성</h2>\n<ul>\n<li>\n<strong>아이콘만으로는 충분하지 않음</strong>\n<ul>\n<li>인터페이스에 아이콘이 많아질수록, 사용자는 아이콘을 이해하는 데 더 많은 뇌의 에너지를 사용하게 됨. 이는 도구를 사용하는 속도를 느리게 함.</li>\n<li>대부분의 아이콘은 의미를 명확히 전달하지 못하며, 텍스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19393",
+      "guid": "https://news.hada.io/topic?id=19393",
+      "pubDate": "2025-02-24T10:05:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4개의 2로 모든 정수 만들기 기술",
+      "description": {
+        "$text": "<h4>네 개의 2로 모든 정수 만들기</h4>\n<ul>\n<li>\n<p><strong>수학 퍼즐 소개</strong></p>\n<ul>\n<li>네 개의 숫자 2와 목표 자연수를 주어졌을 때, 다른 숫자를 사용하지 않고 다양한 수학적 연산을 통해 목표 숫자를 만드는 퍼즐임.</li>\n<li>초등학생도 풀 수 있는 간단한 예시:\n<ul>\n<li>1 = (2+2)/(2+2)</li>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19392",
+      "guid": "https://news.hada.io/topic?id=19392",
+      "pubDate": "2025-02-24T10:02:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "전 Next.js 의 미래가 마음에 들어요 : 정말 멋있어지고 있어요",
+      "description": {
+        "$text": "<ul>\n<li>Next.js의 미래 방향이 흥미로움</li>\n<li>Server Actions에 대한 이슈가 있었지만 React 19의 <code>useOptimistic</code>, <code>useFormStatus</code>로 개선 가능성이 보임\n<ul>\n<li>Remix의 <code>useFetcher</code> 방식도 좋은 DX를 제공함</li>\n</ul>\n</li>\n<li>Next.js의 PPR(Partial Pre-rendering)과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19391",
+      "guid": "https://news.hada.io/topic?id=19391",
+      "pubDate": "2025-02-24T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "하지만 선생님, 전기가 뭔가요?",
+      "description": {
+        "$text": "<h2>전기의 본질: 전자는 왜 움직이는가?</h2>\n<h3>원자의 구조</h3>\n<ul>\n<li>원자는 <strong>양성자(+)와 중성자로 이루어진 핵</strong>과 그 주변을 둘러싼 **전자(-)**로 구성됨.</li>\n<li>과거 닐스 보어(1918)의 원자 모델에서는 전자가 원형 궤도를 돈다고 가정했지만, 현대 물리학에서는 전자가 특정 궤도를 도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19390",
+      "guid": "https://news.hada.io/topic?id=19390",
+      "pubDate": "2025-02-24T09:59:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블로그 포스트로 알아보는 IndieWeb",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>IndieWeb 탐험하기</h2>\n<ul>\n<li>이 웹사이트는 IndieWeb을 탐험할 수 있는 기회를 제공함</li>\n<li>버튼을 클릭하면 개인 블로그의 무작위 게시물로 이동함</li>\n</ul>\n</li>\n<li>\n<h2>면책 조항</h2>\n<ul>\n<li>링크된 콘텐츠는 자동으로 수집되며, 사이트 운영자는 링크된 사이트에 대한 지지나 동의를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19389",
+      "guid": "https://news.hada.io/topic?id=19389",
+      "pubDate": "2025-02-24T09:56:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "펜실베이니아대, 연구 예산 삭감으로 대학원 입학 축소 및 합격 취소",
+      "description": {
+        "$text": "<h4>펜실베이니아 대학교, 대학원 입학 축소 및 합격 취소</h4>\n<ul>\n<li>펜실베이니아 대학교(이하 펜)는 연방 연구 자금 삭감에 대응하여 예술과학대학의 대학원 입학을 대폭 축소할 것을 각 학과에 지시함.</li>\n<li>이 결정은 이미 학생들을 선발한 후에 내려졌으며, 교수진은 투명성 부족에 불만을 표명함.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19388",
+      "guid": "https://news.hada.io/topic?id=19388",
+      "pubDate": "2025-02-24T09:53:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Half-Life : 하프라이프",
+      "description": {
+        "$text": "<h2># Half-Life의 탄생과 FPS 장르의 변화</h2>\n<h3>1998년, FPS 장르의 정체</h3>\n<ul>\n<li>1998년 FPS(1인칭 슈팅 게임) 장르는 기술적으로 빠르게 발전했지만, 게임 디자인 측면에서는 정체 상태였음.</li>\n<li>DOOM(1993) 이후 Quake(1996), Quake II(1997), 그리고 Unreal(1998)과 같은 게임들이 그래픽적으로 진보...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19387",
+      "guid": "https://news.hada.io/topic?id=19387",
+      "pubDate": "2025-02-24T09:50:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존, 킨들에서 전자책 구매 시 라이선스 구매임을 공개적으로 명시",
+      "description": {
+        "$text": "<ul>\n<li>아마존은 최근 킨들 전자책 구매 시 &quot;콘텐츠에 대한 라이선스를 구매하는 것&quot;이라는 문구를 웹사이트에 추가함.</li>\n<li>미국에서는 구매 버튼 아래에 이 문구가 명시되어 있으며, 킨들 전자책 리더기와 앱에서도 동일하게 표시</li>\n<li>캘리포니아에서 디지털 미디어 구매 시 라이선스 구매임을 &...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19386",
+      "guid": "https://news.hada.io/topic?id=19386",
+      "pubDate": "2025-02-24T09:47:41+09:00",
       "author": "neo",
       "category": ""
     }
