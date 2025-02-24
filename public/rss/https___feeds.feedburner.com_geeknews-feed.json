@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T15:14:21+09:00",
+  "lastBuildDate": "2025-02-24T16:37:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21125,6 +21125,32 @@
       "guid": "https://news.hada.io/topic?id=19401",
       "pubDate": "2025-02-24T15:14:21+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "태국, 미얀마 사기 허브에 전력 차단 계획",
+      "description": {
+        "$text": "<h2>태국, 미얀마 사기 허브에 전력 차단 계획</h2>\n<ul>\n<li>태국은 수요일 오전 9시에 미얀마의 다섯 지역에 전기, 석유 공급, 인터넷 서비스를 차단할 계획임. 이는 중국 운영으로 의심되는 콜센터 사기에 대한 보안 우려 때문임.</li>\n<li>이 지역들은 태국, 중국 및 기타 국가의 피해자를 대상으로 하는 사기 운영과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19403",
+      "guid": "https://news.hada.io/topic?id=19403",
+      "pubDate": "2025-02-24T16:37:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WhiteSur: GTK 데스크톱을 위한 macOS 스타일 테마",
+      "description": {
+        "$text": "<h2>WhiteSur GTK 테마 <strong>리눅스 GTK 데스크탑을 위한 macOS 스타일 테마</strong></h2>\n<h3>기부</h3>\n<ul>\n<li>프로젝트가 마음에 들면 커피 한 잔을 사주시면 감사하겠음.</li>\n</ul>\n<h3>설치는 간단함!</h3>\n<h4>&quot;소스에서 설치&quot;에 필요한 의존성</h4>\n<ul>\n<li>\n<code>sassc</code>, <code>libgli...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19402",
+      "guid": "https://news.hada.io/topic?id=19402",
+      "pubDate": "2025-02-24T16:34:01+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
