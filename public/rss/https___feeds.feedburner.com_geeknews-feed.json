@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T11:34:33+09:00",
+  "lastBuildDate": "2025-02-24T13:02:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21099,6 +21099,19 @@
       "guid": "https://news.hada.io/topic?id=19399",
       "pubDate": "2025-02-24T11:34:33+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "BYD, 첫 번째 고체 전지 생산 완료",
+      "description": {
+        "$text": "<h2>BYD의 고체 전지 생산</h2>\n<ul>\n<li>\n<p><strong>BYD의 고체 전지 개발</strong><br />\n중국의 자동차 및 배터리 제조업체인 BYD가 이미 첫 번째 고체 전지를 작년에 생산했음. 이는 익명의 정보원이 아닌 회사의 최고기술책임자(CTO)에 의해 확인되었음. 그러나 BYD는 가까운 미래에 대량 생산을 기대하지 않음....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19400",
+      "guid": "https://news.hada.io/topic?id=19400",
+      "pubDate": "2025-02-24T13:02:26+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
