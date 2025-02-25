@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T17:54:13+09:00",
+  "lastBuildDate": "2025-02-25T18:34:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21411,6 +21411,19 @@
       "guid": "https://news.hada.io/topic?id=19428",
       "pubDate": "2025-02-25T17:54:13+09:00",
       "author": "keepworking",
+      "category": ""
+    },
+    {
+      "title": "기차역에 가까울수록 맛없는 케밥 - \"연구\"",
+      "description": {
+        "$text": "<h4>소개</h4>\n<ul>\n<li>프랑스의 한 서브레딧에서 &quot;기차역에 가까울수록 케밥이 맛이 없다&quot;는 가설을 접하게 됨.</li>\n<li>이 가설에 대한 논란이 있었고, 이를 검증하기 위해 비공식적인 &quot;연구&quot;를 수행하게 됨.</li>\n</ul>\n<h4>방법</h4>\n<ul>\n<li>연구 지역으로 파리를 선택함. 이는 프랑스 서브...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19429",
+      "guid": "https://news.hada.io/topic?id=19429",
+      "pubDate": "2025-02-25T18:34:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
