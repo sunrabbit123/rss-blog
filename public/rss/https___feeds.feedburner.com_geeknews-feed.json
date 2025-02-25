@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-24T21:33:41+09:00",
+  "lastBuildDate": "2025-02-25T10:37:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21176,6 +21176,136 @@
       "link": "https://news.hada.io/topic?id=19405",
       "guid": "https://news.hada.io/topic?id=19405",
       "pubDate": "2025-02-24T21:33:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "네트워크를 통해 시리얼 포트(COM)에 연결하기",
+      "description": {
+        "$text": "<h2>문제</h2>\n<ul>\n<li>우리 주변에는 시리얼 포트(흔히 COM 포트라 불리우는)를 통해 연결하는 많은 장치들이 있음. GPS 모듈, IRDA 등등</li>\n<li>우리가 원하는것은 실제 장치는 하나의 컴퓨터에 연결하고, 네트워크를 통해 원격 기기에서 애플리케이션을 실행하는 것</li>\n<li>애플리케이션은 시리얼 포트에서만 데...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19420",
+      "guid": "https://news.hada.io/topic?id=19420",
+      "pubDate": "2025-02-25T10:37:53+09:00",
+      "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "확률 미적분학 입문",
+      "description": {
+        "$text": "<h2>확률 미적분 소개</h2>\n<h4>0. 소개</h4>\n<ul>\n<li>이 문서는 확률 미적분에 대한 간단한 소개임. 확률 이론의 복잡한 형식보다는 물리적 직관과 브라운 운동의 유도에 중점을 둠.</li>\n<li>확률 공간, 측도 이론, 필터링 등의 기술적 형식은 피하고 잘 정의된 사례만 고려함.</li>\n<li>확률 미적분이 물리적 세계에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19419",
+      "guid": "https://news.hada.io/topic?id=19419",
+      "pubDate": "2025-02-25T10:33:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Suckless.org - 덜 짜증나는 소프트웨어들",
+      "description": {
+        "$text": "<h2>철학(Philosophy)</h2>\n<ul>\n<li>우리는 <strong>dwm, dmenu, st</strong> 등 고품질 소프트웨어를 개발하는 커뮤니티로, <strong>단순성, 명확성, 절제(Simplicity, Clarity, Frugality)</strong> 를 핵심 가치로 하고 있음</li>\n<li>IT 산업 전반에서 <strong>불필요하게 복잡하고, 오류가 많으며, 느린 소프트웨어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19418",
+      "guid": "https://news.hada.io/topic?id=19418",
+      "pubDate": "2025-02-25T10:33:41+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "FullSoak - no-Build 타입스크립트 풀스택 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Full-Stack Oak = FullSoak : 핵심은 Koa에서 영감을 받은 Oak http 서버</li>\n<li>빌드 과정없이 직접 서빙(minification/mangling 은 지원)</li>\n<li>JSX 와 HTM(Hyperscript Tagged Markup, JSX 보다 더 향상된 기능을 내장) 지원\n<ul>\n<li>두가지 모두 별도 빌드 과정없으며, JSX 변환은 파일 단위로 자동 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19417",
+      "guid": "https://news.hada.io/topic?id=19417",
+      "pubDate": "2025-02-25T09:59:30+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "공개 학습의 이점",
+      "description": {
+        "$text": "<h2>공개적으로 배우는 것의 이점</h2>\n<ul>\n<li>최근 건강 문제로 인해 블로그를 더 자주 작성하게 되었음. 과거의 글을 읽어보니, 가장 좋은 글들은 내가 무언가를 배우고 그것을 요약하여 튜토리얼 형태로 작성한 글들임을 깨달았음.</li>\n<li>이러한 글들은 두 가지 목적을 가짐.\n<ul>\n<li>첫째, 나 자신에게는 지식...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19416",
+      "guid": "https://news.hada.io/topic?id=19416",
+      "pubDate": "2025-02-25T09:59:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트 AI 데이터 센터 임대 취소",
+      "description": {
+        "$text": "<ul>\n<li>Microsoft가 미국 내 대규모 데이터센터 임대를 취소하고 있음</li>\n<li>분석가 TD Cowen의 보고서에 따르면, 이는 장기적으로 AI 컴퓨팅 인프라의 과잉 구축을 우려한 조치일 가능성 있음</li>\n<li>\n<strong>수백 메가와트(MW) 규모의 임대 계약 취소</strong> 및 기존에 정식 임대로 이어지는 <strong>Statem...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19415",
+      "guid": "https://news.hada.io/topic?id=19415",
+      "pubDate": "2025-02-25T09:56:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Right to Repair 법안, 이제 미국 50개 주 전체에 도입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>위스콘신 주 법안 도입</strong>: 위스콘신 주에서 법안이 도입되면서, 모든 미국 주에 Right to Repair(수리할 권리) 법안이 도입됨</li>\n<li>지난 11년 동안 우리는 소유한 모든 것을 수리할 권리를 위해 싸워왔으며, 이 운동은 전국적으로 확산됨. 올해만 해도 24개 주에서 법안이 활발히 진행 중임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19414",
+      "guid": "https://news.hada.io/topic?id=19414",
+      "pubDate": "2025-02-25T09:53:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, 미국 내 20,000개 일자리 창출 및 AI 서버 생산 계획 발표",
+      "description": {
+        "$text": "<ul>\n<li>Apple은 향후 4년 동안 미국 내에 5,000억 달러를 투자할 계획임</li>\n<li>이 투자에는 휴스턴의 새로운 서버 제조 시설, 미시간의 공급업체 아카데미, 기존 공급업체와의 추가 협력이 포함됨</li>\n<li>이는 Apple의 미국 내 최대 투자 약속으로, 이전 4,300억 달러 투자 계획에서 390억 달러 증가 및 연간 1,0...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19412",
+      "guid": "https://news.hada.io/topic?id=19412",
+      "pubDate": "2025-02-25T09:47:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "커리어 고민 상담을 하면서 많이 받은 고민 모음과 제 생각들",
+      "description": {
+        "$text": "<p>여러 경로로 질문을 종종 받고 있는데, 반복되는 질문들에 대해 글로 정리했어요. 같은 주제에 대해 여러 의견이 나올 수 있을 것 같은데, 여러분들의 의견이 궁금하네요. 자주 나오는 고민에 나오는 주제에 대해 어떻게 생각하시나요?</p>\n<p>목차</p>\n<ul>\n<li>고민은 왜 생기는걸까?\n<ul>\n<li>환경 관점</li>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19411",
+      "guid": "https://news.hada.io/topic?id=19411",
+      "pubDate": "2025-02-25T09:46:51+09:00",
+      "author": "zzsza",
+      "category": ""
+    },
+    {
+      "title": "Show HN: 'Doomscrolling' 방지를 위한 'Touching Grass' 앱 개발",
+      "description": {
+        "$text": "Show HN: 'Doomscrolling' 방지를 위한 'Touching Grass' 앱 개발",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19410",
+      "guid": "https://news.hada.io/topic?id=19410",
+      "pubDate": "2025-02-25T09:44:06+09:00",
       "author": "neo",
       "category": ""
     }
