@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T13:10:52+09:00",
+  "lastBuildDate": "2025-02-25T14:27:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21333,6 +21333,58 @@
       "guid": "https://news.hada.io/topic?id=19422",
       "pubDate": "2025-02-25T13:10:52+09:00",
       "author": "nemorize",
+      "category": ""
+    },
+    {
+      "title": "한/글 문서 파일 형식: HWP 포맷 구조 살펴보기",
+      "description": {
+        "$text": "<h2>서론</h2>\n<ul>\n<li>현대 사회에서 인공지능 기술은 다양한 분야에서 혁신을 이끌고 있으며, 데이터의 중요성은 증가하고 있음</li>\n<li>HWP 포맷은 AI 학습에 유리한 요소들을 가지고 있음\n<ul>\n<li>단순한 텍스트 외에도 이미지, 표, 차트 등의 다양한 요소로 구성되어 풍부한 정보를 제공</li>\n<li>제목, 단락, 표...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19426",
+      "guid": "https://news.hada.io/topic?id=19426",
+      "pubDate": "2025-02-25T14:27:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Laravel 12 출시",
+      "description": {
+        "$text": "<ul>\n<li>Laravel 12가 출시되어 React, Vue, Livewire를 위한 새로운 스타터 키트를 도입하고 최신 업스트림 종속성을 업데이트</li>\n<li>주로 유지보수에 중점을 두고 있으며, 업스트림 종속성을 업데이트하고 주요 변경 사항이나 새로운 기능은 최소화</li>\n<li>대부분의 애플리케이션은 코드 변경 없이 업그레이드 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19425",
+      "guid": "https://news.hada.io/topic?id=19425",
+      "pubDate": "2025-02-25T14:24:14+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "영국은 전 세계의 안전을 약화시키고 있다",
+      "description": {
+        "$text": "<ul>\n<li>이번 주, 영국은 전 세계를 위험에 빠뜨렸음</li>\n<li>2016년 ’조사 권한법(Investigatory Powers Act)’이 통과되어 영국의 전자 감시 권한이 크게 확대됨</li>\n<li>최근, 영국은 Apple에 iCloud에 대한 암호화 백도어를 삽입하도록 명령했으며, 공개적으로 이를 밝히지 못하도록 했음</li>\n<li>Apple은 정부...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19424",
+      "guid": "https://news.hada.io/topic?id=19424",
+      "pubDate": "2025-02-25T14:12:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "휴대폰으로 5분 만에 수십 개의 아파트 건물에 침입하기",
+      "description": {
+        "$text": "<ul>\n<li>몇 달 전, 필자는 SeaBus를 타러 가던 중 흥미로운 출입 통제 패널이 있는 아파트 건물을 지나쳤음.</li>\n<li>&quot;MESH by Viscount&quot;라는 브랜드 이름을 기록하고 휴대폰으로 정보를 찾아보기 시작</li>\n</ul>\n<h2>Part 0: 탐색</h2>\n<ul>\n<li>시스템 이름을 구글링하여 원격으로 시스템을 프로그래밍하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19423",
+      "guid": "https://news.hada.io/topic?id=19423",
+      "pubDate": "2025-02-25T13:34:23+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
