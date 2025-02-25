@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T10:37:53+09:00",
+  "lastBuildDate": "2025-02-25T12:08:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21307,6 +21307,19 @@
       "guid": "https://news.hada.io/topic?id=19410",
       "pubDate": "2025-02-25T09:44:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, DeepEP 오픈소스 공개 (2 of 5)",
+      "description": {
+        "$text": "<ul>\n<li>Mixture-of-Experts(MoE) 및 Expert Parallelism(EP)을 위한 <strong>고성능 통신 라이브러리</strong>\n</li>\n<li>GPU 기반 <strong>All-to-All 커널</strong>을 제공하여 MoE 디스패치 및 결합 연산을 고속으로 처리</li>\n<li>\n<strong>FP8</strong>과 같은 저정밀 연산 지원</li>\n<li>\n<strong>DeepSeek-V3...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19421",
+      "guid": "https://news.hada.io/topic?id=19421",
+      "pubDate": "2025-02-25T12:08:51+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
