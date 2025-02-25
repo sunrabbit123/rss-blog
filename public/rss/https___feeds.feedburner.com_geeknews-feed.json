@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T14:39:30+09:00",
+  "lastBuildDate": "2025-02-25T17:54:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21398,6 +21398,19 @@
       "guid": "https://news.hada.io/topic?id=19427",
       "pubDate": "2025-02-25T14:39:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 개인용 SaaS 에 적합한 결제 모듈은 어떤게 좋을까요?",
+      "description": {
+        "$text": "<p>Nice 라던가 토스페이먼츠등이 국내용으로는 눈에 많이 띄는데 해외 고객 상대로도 사용하기 쉬울지 잘 모르겠습니다.<br />\n관련해서 조사를 하고는 있는데 경험 있는 분들께 의견을 묻고 싶어서 글을 올립니다.</p>\n<p>혹시 개인이 Saas를 만들면서 결제 모듈 연동한 경험과 어떤 제품을 사용했는지 소개해주신다면",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19428",
+      "guid": "https://news.hada.io/topic?id=19428",
+      "pubDate": "2025-02-25T17:54:13+09:00",
+      "author": "keepworking",
       "category": ""
     }
   ]
