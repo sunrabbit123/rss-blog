@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T12:08:51+09:00",
+  "lastBuildDate": "2025-02-25T13:10:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21320,6 +21320,19 @@
       "guid": "https://news.hada.io/topic?id=19421",
       "pubDate": "2025-02-25T12:08:51+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "react-native-boost - RN의 속도를 높여주는 바벨 플러그인",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>RN의 <code>&lt;Text /&gt;</code>, <code>&lt;View /&gt;</code> 컴포넌트는 각자 <code>&lt;TextNativeComponent /&gt;</code>와 <code>&lt;ViewNativeComponent /&gt;</code>를 감싸는 JS단 래퍼임.</p>\n</li>\n<li>\n<p>이는 텍스트 안의 뷰, 터치 가능한 텍스트 등의 엣지 케이스를 처리하기 위한 용도임",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19422",
+      "guid": "https://news.hada.io/topic?id=19422",
+      "pubDate": "2025-02-25T13:10:52+09:00",
+      "author": "nemorize",
       "category": ""
     }
   ]
