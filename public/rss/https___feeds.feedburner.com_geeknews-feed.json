@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-26T10:03:01+09:00",
+  "lastBuildDate": "2025-02-26T11:12:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21554,6 +21554,45 @@
       "guid": "https://news.hada.io/topic?id=19430",
       "pubDate": "2025-02-26T08:06:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 기반 앱 안전성 평가",
+      "description": {
+        "$text": "<h2>LLM 기반 앱의 안전한 답변 평가하기</h2>\n<ul>\n<li>\n<p><strong>앱 품질 평가</strong>: LLM 기반 앱을 개발할 때, 응답의 품질과 안전성을 평가하는 것이 중요함. 품질 평가는 응답이 명확하고 사용자 요구에 부합하며 사실적으로 정확한지를 확인하는 것임.</p>\n</li>\n<li>\n<p><strong>앱 안전성 평가</strong>: ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19443",
+      "guid": "https://news.hada.io/topic?id=19443",
+      "pubDate": "2025-02-26T11:12:43+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 체계적인 폴더 관리를 위한 도구",
+      "description": {
+        "$text": "<p>파일이름 규칙을 체계적으로 관리하고 싶어서 시작한 프로젝트입니다.<br />\n아직 초기이고, 실제 사용자의 의견이 많이 필요한 상태입니다.</p>\n<p>아래는 블로그의 소개글을 요약한 내용입니다.</p>\n<h3>1. 사용자를 위한 파일 관리 기술이 정체되어 있음</h3>\n<ul>\n<li>파일 개념은 1940년대 천공카드에서 시작되었",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19442",
+      "guid": "https://news.hada.io/topic?id=19442",
+      "pubDate": "2025-02-26T11:02:56+09:00",
+      "author": "filekiwi",
+      "category": ""
+    },
+    {
+      "title": "Git 코어 개발자는 Git을 어떻게 설정하고 사용할까?",
+      "description": {
+        "$text": "<ul>\n<li>&quot;Pro Git&quot; 저자인 Scott Chacon이 글로벌로 활성화한 몇 가지 Git 설정과 그 이유를 설명</li>\n<li>설정 중 다수는 실제로 Git 코어 코드베이스를 작업하는 개발자들로부터 배운 것임</li>\n<li>아래는 Git을 더 좋게 만드는 <code>~/.gitconfig</code> 설정\n<pre><code class=\"language-ini\">[column...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19441",
+      "guid": "https://news.hada.io/topic?id=19441",
+      "pubDate": "2025-02-26T10:46:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
