@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-26T11:35:40+09:00",
+  "lastBuildDate": "2025-02-26T12:34:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21618,6 +21618,19 @@
       "link": "https://news.hada.io/topic?id=19444",
       "guid": "https://news.hada.io/topic?id=19444",
       "pubDate": "2025-02-26T11:21:31+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 이제 DeepResearch를 다른 유료 플랜 사용자에게도 확장",
+      "description": {
+        "$text": "<ul>\n<li>$200 짜리 Pro 사용자만 가능하던 것을 Plus/Team/교육용/기업용 유료 버전 사용자에게도 열어주는 중</li>\n<li>매 월 10번의 딥 리서치 사용 가능(Pro 사용자는 120 번)</li>\n<li>초기 발표 버전에서 더 향상된 부분\n<ul>\n<li>결과물에 인용이 포함된 이미지 첨부</li>\n<li>업로드된 파일의 이해 및 참조 능력...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19446",
+      "guid": "https://news.hada.io/topic?id=19446",
+      "pubDate": "2025-02-26T12:34:02+09:00",
       "author": "xguru",
       "category": ""
     }
