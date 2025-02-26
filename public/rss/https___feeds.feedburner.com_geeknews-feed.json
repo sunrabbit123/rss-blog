@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-26T13:57:18+09:00",
+  "lastBuildDate": "2025-02-26T15:33:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21657,6 +21657,19 @@
       "link": "https://news.hada.io/topic?id=19447",
       "guid": "https://news.hada.io/topic?id=19447",
       "pubDate": "2025-02-26T13:13:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Framework의 첫 데스크톱은 이상하고 독특한 미니 ITX 게이밍 PC",
+      "description": {
+        "$text": "<ul>\n<li>Framework는 <strong>모듈형 노트북</strong>을 개발해온 회사로, 사용자가 직접 수리하고 업그레이드할 수 있는 제품을 제공해 왔음</li>\n<li>이번에는 첫 데스크톱 PC인 <strong>Framework Desktop</strong>을 발표함</li>\n<li>그러나 일반적인 데스크톱 PC와 달리 <strong>제한적인 업그레이드 가능성</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19449",
+      "guid": "https://news.hada.io/topic?id=19449",
+      "pubDate": "2025-02-26T15:33:21+09:00",
       "author": "neo",
       "category": ""
     }
