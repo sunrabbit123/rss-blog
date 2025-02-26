@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-25T18:34:11+09:00",
+  "lastBuildDate": "2025-02-26T10:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21423,6 +21423,136 @@
       "link": "https://news.hada.io/topic?id=19429",
       "guid": "https://news.hada.io/topic?id=19429",
       "pubDate": "2025-02-25T18:34:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI와 함께 전자기기 제품 사업을 시작하기",
+      "description": {
+        "$text": "<ul>\n<li>30대 백수가 <strong>AI를 활용</strong>하여 중국에서 제작한 <strong>제모기</strong>를 소싱해서 판매하는 사업을 시작한 경험을 공유</li>\n<li>해외에서 남성용 제모기 시장이 성장 중이라는 영상을 보고, 국내 시장을 조사</li>\n<li>국내에는 남성 전용 제모기 개념이 부족하다는 것을 발견하고, <strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19440",
+      "guid": "https://news.hada.io/topic?id=19440",
+      "pubDate": "2025-02-26T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "백도어 법안 통과 시 스웨덴 떠나는 Signal 계획",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Signal의 CEO: 스웨덴을 떠날 것임</h2>\n<ul>\n<li>스웨덴 정부는 Signal과 Whatsapp 같은 앱이 메시지를 저장하도록 강제하는 법안을 추진 중임. Signal의 CEO Meredith Whittaker는 이 법안이 현실화되면 스웨덴을 떠날 것이라고 SVT 뉴스에 밝힘.</li>\n<li>Whittaker에 따르면, 이 법안은 Signal에 소위...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19439",
+      "guid": "https://news.hada.io/topic?id=19439",
+      "pubDate": "2025-02-26T09:56:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, MoE 훈련 및 추론을 위한 오픈 소스 DeepEP 라이브러리 공개",
+      "description": {
+        "$text": "<h2>DeepEP</h2>\n<p>DeepEP는 Mixture-of-Experts (MoE)와 expert parallelism (EP)을 위한 통신 라이브러리임. 고속의 저지연 all-to-all GPU 커널을 제공하며, MoE dispatch와 combine으로 알려져 있음. 또한 FP8을 포함한 저정밀도 연산을 지원함. DeepSeek-V3 논문에서 제안된 그룹 제한 게이팅 알고리듬에 맞춰, 비...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19438",
+      "guid": "https://news.hada.io/topic?id=19438",
+      "pubDate": "2025-02-26T09:53:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hyperspace - 디스크 공간 절약 앱",
+      "description": {
+        "$text": "<h4>파일 시스템에 대한 관심</h4>\n<ul>\n<li>필자는 1984년 Macintosh에서 파일 시스템에 대한 관심을 시작했음.</li>\n<li>Apple이 Be Inc.를 인수할 가능성이 있었을 때 Be File System에 큰 기대를 가졌으나, 결국 NeXT를 인수하여 Mac OS X를 개발했음.</li>\n<li>2017년 WWDC에서 Apple은 macOS용 Apple File System ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19436",
+      "guid": "https://news.hada.io/topic?id=19436",
+      "pubDate": "2025-02-26T09:47:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQL 인젝션 법정 방문기",
+      "description": {
+        "$text": "<h2>요약</h2>\n<ul>\n<li>일리노이주의 정보공개법(FOIA)에 따르면, 공공기관이 보유한 대부분의 정보는 공개 대상이지만, 시카고시는 데이터베이스 스키마(schema)가 보안 위험을 초래할 수 있다는 이유로 FOIA 요청을 거부함. 이에 데이터 저널리스트 맷 채프먼이 소송을 제기했고, 전문가 증언을 통해 스키마가 보안 위...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19435",
+      "guid": "https://news.hada.io/topic?id=19435",
+      "pubDate": "2025-02-26T09:44:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DigiCert: Bugzilla 논의를 억제하기 위한 법적 조치 위협",
+      "description": {
+        "$text": "<h2>DigiCert의 법적 조치 위협</h2>\n<ul>\n<li>\n<p><strong>배경</strong>: DigiCert는 Bugzilla에서의 논의에 대해 법적 조치를 통해 억제하려는 시도를 하고 있음. Sectigo의 최고 준법 책임자가 Bugzilla에 게시한 내용에 대해 DigiCert의 변호사로부터 경고를 받았음.</p>\n</li>\n<li>\n<p><strong>DigiCert의 입장</s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19434",
+      "guid": "https://news.hada.io/topic?id=19434",
+      "pubDate": "2025-02-26T09:41:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kaneo - 오픈소스 프로젝트 관리 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>간편성과 효율성에 중점을 둔 프로젝트 관리 플랫폼</li>\n<li>직관적인 칸반 보드 인터페이스로 시각적인 태스크 관리</li>\n<li>실시간 업데이트/댓글 달기 지원하는 협업 기능</li>\n<li>인터랙티브 타임라인 보기로 프로젝트 진척상황 트래킹</li>\n<li>자동화 지원으로 반복 작업 및 생산성 개선</li>\n<li>Doc...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19433",
+      "guid": "https://news.hada.io/topic?id=19433",
+      "pubDate": "2025-02-26T09:32:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI로 Figma 워크플로우 자동화하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>문제점</strong> : 다양한 팀 구성원들이 Figma 파일에 남긴 수많은 댓글을 일일이 확인하고 분류하여 유용한 인사이트로 요약하는 데 많은 시간이 소요됨</li>\n<li>\n<strong>해결책</strong> : AI를 활용하여 Figma 댓글을 자동으로 분류하고, Google Docs에 구조화된 요약본을 생성하는 자동화 시스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19432",
+      "guid": "https://news.hada.io/topic?id=19432",
+      "pubDate": "2025-02-26T09:21:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "클린 코드 vs. 소프트웨어 설계 철학",
+      "description": {
+        "$text": "<ul>\n<li>Robert “Uncle Bob” Martin과 John Ousterhout이 2024년 9월부터 2025년 2월까지 진행한 소프트웨어 설계 관련 대화임</li>\n<li>두 사람 모두 소프트웨어 디자인에 대한 저서를 집필했음</li>\n<li>세 가지 주요 주제(메서드 길이, 주석, Test-Driven Development)에서 서로 견해 차이를 보였음</li>\n<li>대화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19431",
+      "guid": "https://news.hada.io/topic?id=19431",
+      "pubDate": "2025-02-26T08:33:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Dagger가 React 프론트엔드를 Go + WebAssembly로 전환한 이유",
+      "description": {
+        "$text": "<ul>\n<li>Dagger Cloud v3를 출시하면서 새로운 UI는 WebAssembly(WASM)와 Go로 작성</li>\n<li>Go는 일반적으로 웹 UI 개발에 사용되지 않지만, &quot;코드베이스 통합 및 성능 최적화&quot;를 위해 이 방식을 선택</li>\n<li>이 글에서는 &quot;선택의 배경, 구현 과정에서의 도전 과제 및 최종 결과&quot;를 공유</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19430",
+      "guid": "https://news.hada.io/topic?id=19430",
+      "pubDate": "2025-02-26T08:06:32+09:00",
       "author": "neo",
       "category": ""
     }
