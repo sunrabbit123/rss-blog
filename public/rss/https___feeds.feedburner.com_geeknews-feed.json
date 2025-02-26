@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-26T11:12:43+09:00",
+  "lastBuildDate": "2025-02-26T11:35:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21592,6 +21592,32 @@
       "link": "https://news.hada.io/topic?id=19441",
       "guid": "https://news.hada.io/topic?id=19441",
       "pubDate": "2025-02-26T10:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Gemini Code Assist로 코딩 지원 받기 - 이제 무료로 사용 가능",
+      "description": {
+        "$text": "<ul>\n<li>이제 전 세계 개발자들이 <strong>무료로 AI 코딩 보조 도구를 이용 가능</strong>\n</li>\n<li>Google의 DORA 연구 결과, 75% 이상의 개발자가 AI를 일상적으로 활용중\n<ul>\n<li>Google 내 신규 코드의 25% 이상이 AI로 생성 → 이후 엔지니어가 검토 후 반영</li>\n</ul>\n</li>\n<li>기존 AI 코딩 도구는 주로 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19445",
+      "guid": "https://news.hada.io/topic?id=19445",
+      "pubDate": "2025-02-26T11:35:40+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, DeepGEMM 오픈소스 공개 (3 of 5)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>FP8 행렬 곱셈(GEMM)</strong> 을 효율적으로 수행하는 라이브러리로, DeepSeek-V3에서 제안된 <strong>미세 조정 스케일링(fine-grained scaling)</strong> 방식을 지원함</li>\n<li>일반 GEMM과 <strong>Mix-of-Experts(MoE) 그룹화 GEMM</strong>을 모두 지원</li>\n<li>CUDA 기반으로 구현되었으며,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19444",
+      "guid": "https://news.hada.io/topic?id=19444",
+      "pubDate": "2025-02-26T11:21:31+09:00",
       "author": "xguru",
       "category": ""
     }
