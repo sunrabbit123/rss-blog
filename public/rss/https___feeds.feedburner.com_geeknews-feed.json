@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T13:05:36+09:00",
+  "lastBuildDate": "2025-02-27T14:21:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21840,6 +21840,45 @@
       "guid": "https://news.hada.io/topic?id=19464",
       "pubDate": "2025-02-27T13:05:36+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까?",
+      "description": {
+        "$text": "<ul>\n<li>네트워크 인프라는 스위치, 브리지, 라우터, 로드 밸런서, 방화벽 등으로 구성됨</li>\n<li>운영체제는 패킷을 분류하고, 큐에 배치하며, 방화벽 규칙을 적용하는 등 네트워크 통신을 제어함</li>\n<li>그렇다면 <strong>존재하지 않는</strong> 전송 계층 프로토콜을 사용하면 어떻게 될까?</li>\n<li>OS가 허용할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19467",
+      "guid": "https://news.hada.io/topic?id=19467",
+      "pubDate": "2025-02-27T14:21:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, 최적화된 병렬 처리 전략 오픈소스 3가지 공개 (4 of 5)",
+      "description": {
+        "$text": "<ul>\n<li>DeepSeek V3/R1에서 사용했던 전략 및 코드들\n<ul>\n<li>DualPipe : 계산-통신 오버랩을 위한 양방향 파이프라인 병렬화 알고리듬</li>\n<li>EPLB: Expert-Parallel 로드밸런서</li>\n<li>Profile-Data: DeepSeek 인프라의 데이터 프로파일링으로 계산-통신 오버랩을 분석</li>\n</ul>\n</li>\n</ul>\n<h2><a href=\"ht...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19466",
+      "guid": "https://news.hada.io/topic?id=19466",
+      "pubDate": "2025-02-27T14:12:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "유안타증권 AI Agent 프로젝트: 실전 LLM 서비스 개발(고생)기",
+      "description": {
+        "$text": "<p>1.서두: 2025년 AI 업계의 화두는 ‘Agent’이며, 기존 RAG 중심 챗봇 접근 방식에서 벗어나 보다 고도화된 시스템이 필요함을 강조.</p>\n<p>2.프로젝트 소개 (유안타 AI 챗봇 서비스): 금융 보안 요건 등 높은 진입 장벽을 극복하고 AI 기반 투자 분석 기능을 포함한 챗봇을 개발, 혁신 금융 서비스로 선정됨.</p>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19465",
+      "guid": "https://news.hada.io/topic?id=19465",
+      "pubDate": "2025-02-27T13:40:13+09:00",
+      "author": "jinhoy",
       "category": ""
     }
   ]
