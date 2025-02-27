@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T10:01:32+09:00",
+  "lastBuildDate": "2025-02-27T10:46:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21801,6 +21801,32 @@
       "guid": "https://news.hada.io/topic?id=19452",
       "pubDate": "2025-02-27T09:35:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "EdgeDB가 Gel로 리브랜딩 - Postgres가 미래입니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>EdgeDB</strong>가 <strong>Gel</strong>이라는 새로운 이름으로 리브랜딩됨</li>\n<li>PostgreSQL이 최근 <strong>데이터베이스 시장</strong>을 점점 잠식하고 있음\n<ul>\n<li>PostgreSQL은 오픈소스로 유지·개발되는 메인스트림 DB 중 거의 유일한 사례임</li>\n<li>연구 프로젝트에서 출발했으며, MI...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19463",
+      "guid": "https://news.hada.io/topic?id=19463",
+      "pubDate": "2025-02-27T10:46:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Awesome DeepSeek Integrations - DeepSeek을 연동한 서비스 리스트",
+      "description": {
+        "$text": "<ul>\n<li>빠르게 늘어나는 DeepSeek 연동 서비스들을 정리. 현재 17개 카테고리 총 102개</li>\n<li>\n<strong>Applications (총 40개)</strong>\n<ul>\n<li>\n<strong>DeepChat</strong>: 강력한 LLM 기반 데스크톱 AI 어시스턴트</li>\n<li>\n<strong>ChatGPT-Next-Web</strong>: GPT-3, GPT-4 및 Gemini Pro 지원하는 웹 UI...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19462",
+      "guid": "https://news.hada.io/topic?id=19462",
+      "pubDate": "2025-02-27T10:37:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
