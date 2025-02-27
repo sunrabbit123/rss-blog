@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T14:21:21+09:00",
+  "lastBuildDate": "2025-02-27T15:14:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21879,6 +21879,19 @@
       "guid": "https://news.hada.io/topic?id=19465",
       "pubDate": "2025-02-27T13:40:13+09:00",
       "author": "jinhoy",
+      "category": ""
+    },
+    {
+      "title": "카카오의 언어모델, Kanana 테크니컬 리포트 공개",
+      "description": {
+        "$text": "<ul>\n<li>카카오는 서비스 적용에 최적화된 AI 모델을 목표로, 높은 성능과 비용 효율성을 동시에 고려한 ‘카나나 모델 패밀리(Kanana Model Family)’를 개발하고 있음</li>\n<li>초거대 언어모델 ‘Kanana Flag’의 학습을 완료하고, 이를 포함한 Kanana Essence, Kanana Nano 등의 언어모델 라인업을 완성</li>\n<li>A...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19468",
+      "guid": "https://news.hada.io/topic?id=19468",
+      "pubDate": "2025-02-27T15:14:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
