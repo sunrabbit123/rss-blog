@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T10:46:34+09:00",
+  "lastBuildDate": "2025-02-27T13:05:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21826,6 +21826,19 @@
       "link": "https://news.hada.io/topic?id=19462",
       "guid": "https://news.hada.io/topic?id=19462",
       "pubDate": "2025-02-27T10:37:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Warp 터미널, Windows용 공개",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 작성된 빠른 터미널 Warp가 Windows용도 공개</li>\n<li>IDE 같은 블록/라인단위 편집</li>\n<li>400+개 넘는 CLI 도구에 대한 자동완성 및 추천 기능을 내장</li>\n<li>PowerShell, Git Bash, WSL 간에 자유롭게 이동</li>\n<li>DirectX를 이용한 빠른 렌더링</li>\n<li>폰트, 컬러, 키바인딩 모두 커스터마...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19464",
+      "guid": "https://news.hada.io/topic?id=19464",
+      "pubDate": "2025-02-27T13:05:36+09:00",
       "author": "xguru",
       "category": ""
     }
