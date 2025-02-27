@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-26T15:33:21+09:00",
+  "lastBuildDate": "2025-02-27T10:01:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21670,6 +21670,136 @@
       "link": "https://news.hada.io/topic?id=19449",
       "guid": "https://news.hada.io/topic?id=19449",
       "pubDate": "2025-02-26T15:33:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 시대에도 블로깅은 여전히 가치가 있습니다",
+      "description": {
+        "$text": "<ul>\n<li>사람들이 모두 ChatGPT, Claude, DeepSeek를 사용하고, AI가 답변을 떠먹여 준다면 블로깅의 의미가 무엇일까? AI 외에 누가 당신이 쓴 글을 읽을까?\n<blockquote>\n<p><strong>&quot;블로깅은 그저 읽히는 것이 아니라 배우고 생각하는 것이며, 둘 다 할 수 있다는 것을 오래도록 증명하는 것&quot;</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19461",
+      "guid": "https://news.hada.io/topic?id=19461",
+      "pubDate": "2025-02-27T10:01:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FFT의 반격: Self-Attention에 대한 효율적인 대안",
+      "description": {
+        "$text": "<ul>\n<li>기존 <strong>Self-Attention</strong> 메커니즘은 <strong>O(n²)</strong> 의 복잡도를 가지며, 긴 시퀀스에 대한 확장성이 제한적임</li>\n<li>본 논문에서는 <strong>Fast Fourier Transform(FFT)</strong> 을 활용한 <strong>FFTNet</strong>을 제안함</li>\n<li>FFTNet은 <strong>O(n log n)</strong> 의 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19460",
+      "guid": "https://news.hada.io/topic?id=19460",
+      "pubDate": "2025-02-27T09:58:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepGEMM: 세밀한 스케일링을 통한 깨끗하고 효율적인 FP8 GEMM 커널",
+      "description": {
+        "$text": "<h2>DeepGEMM</h2>\n<p>DeepGEMM은 FP8 일반 행렬 곱셈(GEMM)을 위한 라이브러리로, DeepSeek-V3에서 제안된 세밀한 스케일링을 지원함. 이 라이브러리는 일반 및 Mix-of-Experts(MoE) 그룹화된 GEMM을 지원하며, CUDA로 작성되어 설치 시 컴파일이 필요하지 않음. NVIDIA Hopper 텐서 코어를 지원하며, FP8 텐서 코어 누...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19459",
+      "guid": "https://news.hada.io/topic?id=19459",
+      "pubDate": "2025-02-27T09:55:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "'Hey 넘버 17'",
+      "description": {
+        "$text": "<ul>\n<li>YC의 지원을 받은 &quot;AI 성능 모니터링 시스템&quot;은 공장에서 기계 비전을 통해 노동자의 손 움직임과 생산량을 추적하여 효율성을 그래프로 보여주는 시스템을 제안함.\n<ul>\n<li>Optifye.ai의 창립자 Vivaan Baid와 Kushal Mohta는 제품의 사용 예시를 보여주는 영상을 공개함.</li>\n<li>영상에서는 공장...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19458",
+      "guid": "https://news.hada.io/topic?id=19458",
+      "pubDate": "2025-02-27T09:52:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NSF의 Platforms for Wireless Experimentation 감독자 전원 사임",
+      "description": {
+        "$text": "<ul>\n<li>미국 국립과학재단(NSF)에서 <strong>Platforms for Wireless Experimentation (PAWR)</strong> 프로젝트를 관리하던 모든 담당자가 떠남</li>\n<li>PAWR 프로그램은 <strong>무선 네트워크 테스트베드 환경</strong>을 제공하여 모바일 및 셀룰러 네트워크 발전을 지원하는 역할을 수행함</li>\n<li>테스트베드는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19457",
+      "guid": "https://news.hada.io/topic?id=19457",
+      "pubDate": "2025-02-27T09:49:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft Copilot, 무료 무제한 Voice 및 Think Deeper 기능 출시",
+      "description": {
+        "$text": "<ul>\n<li>모든 Copilot 사용자에게 <strong>Voice 및 Think Deeper 기능을 무료로 무제한 제공</strong>\n</li>\n<li>\n<strong>Voice 기능</strong>을 활용하면 Copilot과 음성으로 대화할 수 있으며,<br />\n<strong>Think Deeper</strong>는 <strong>OpenAI의 o1 모델</strong>을 기반으로 복잡한 질문이나 작업을 수행...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19456",
+      "guid": "https://news.hada.io/topic?id=19456",
+      "pubDate": "2025-02-27T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Material Theme, VS Code 마켓플레이스에서 제거",
+      "description": {
+        "$text": "Material Theme, VS Code 마켓플레이스에서 제거",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19455",
+      "guid": "https://news.hada.io/topic?id=19455",
+      "pubDate": "2025-02-27T09:45:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ChatGPT가 제 생명을 구했습니다(아니, 진짜로 응급실에서 이 글을 쓰고 있어요)",
+      "description": {
+        "$text": "<blockquote>\n<p>ChatGPT가 날 오늘 ER로 보냈음: 그게 내 생명을 구했을지도 모름</p>\n</blockquote>\n<ul>\n<li>최근 몇 주 동안 몸 상태가 이상하다고 느꼈음. 주치의 검사 후 식단 조언을 해줬지만, 주말 사이 증상이 악화됨</li>\n<li>새벽 3시에 ChatGPT에 증상을 설명하며 식단 개선 방법을 논의</li>\n<li>일요일 아",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19454",
+      "guid": "https://news.hada.io/topic?id=19454",
+      "pubDate": "2025-02-27T09:44:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TypeScript 타입으로 실행되는 DOOM [비디오]",
+      "description": {
+        "$text": "TypeScript 타입으로 실행되는 DOOM [비디오]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19453",
+      "guid": "https://news.hada.io/topic?id=19453",
+      "pubDate": "2025-02-27T09:42:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존, 차세대 Alexa+ 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Alexa+</strong> 는 Generative AI로 강화된 차세대 음성 비서</li>\n<li>더욱 자연스러운 대화가 가능하며, 스마트하고 개인화된 기능을 통해 다양한 작업을 처리함</li>\n<li>오락, 학습, 일정 관리, 복잡한 주제 요약 등 다양한 영역에서 유용하며, 집안 관리, 음악, 온라인 쇼핑부터 예약, 보안 관리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19452",
+      "guid": "https://news.hada.io/topic?id=19452",
+      "pubDate": "2025-02-27T09:35:02+09:00",
       "author": "neo",
       "category": ""
     }
