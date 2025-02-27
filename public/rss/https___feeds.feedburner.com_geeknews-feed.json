@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T15:14:12+09:00",
+  "lastBuildDate": "2025-02-27T17:45:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21892,6 +21892,19 @@
       "guid": "https://news.hada.io/topic?id=19468",
       "pubDate": "2025-02-27T15:14:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TypeScript 타입 시스템만으로 DOOM 실행하기",
+      "description": {
+        "$text": "<ul>\n<li>순수 TypeScript 타입 시스템만으로 DOOM을 실행하는 데 성공\n<ul>\n<li>총 3조 5천억 줄, 177TB의 코드</li>\n<li>첫 프레임 생성에 12일 소요</li>\n</ul>\n</li>\n<li>이를 위해 순수 TypeScript 타입 시스템으로 WASM 가상 머신을 구현\n<ul>\n<li>따라서 DOOM뿐만 아니라 다른 프로그램도 실행 가능</li>\n<li>Git...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19469",
+      "guid": "https://news.hada.io/topic?id=19469",
+      "pubDate": "2025-02-27T17:45:09+09:00",
+      "author": "qyurila",
       "category": ""
     }
   ]
