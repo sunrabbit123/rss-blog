@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-28T11:46:02+09:00",
+  "lastBuildDate": "2025-02-28T14:07:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22139,6 +22139,19 @@
       "guid": "https://news.hada.io/topic?id=19481",
       "pubDate": "2025-02-28T10:05:53+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, 3FS 파일시스템 과 Smallpond 데이터 처리 프레임워크 오픈소스 공개 (5 of 5)",
+      "description": {
+        "$text": "<ul>\n<li>Fire-Flyer File System(3FS)는 AI 학습 및 추론 워크로드를 처리하기 위해 설계된 고성능 분산 파일 시스템</li>\n<li>최신 SSD 및 RDMA 네트워크를 활용하여 공유 스토리지 계층을 제공하고, 분산 애플리케이션 개발을 단순화함</li>\n</ul>\n<h2>주요 특징 및 장점</h2>\n<ul>\n<li>성능 및 사용성\n<ul>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19489",
+      "guid": "https://news.hada.io/topic?id=19489",
+      "pubDate": "2025-02-28T14:07:30+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
