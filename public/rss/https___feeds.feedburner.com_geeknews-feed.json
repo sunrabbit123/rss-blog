@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T02:20:37+09:00",
+  "lastBuildDate": "2025-03-01T07:21:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22230,6 +22230,32 @@
       "guid": "https://news.hada.io/topic?id=19496",
       "pubDate": "2025-03-01T02:20:37+09:00",
       "author": "yeorinhieut",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, 5월 5일에 Skype 영구 종료",
+      "description": {
+        "$text": "<ul>\n<li>Microsoft는 2025년 5월 5일을 기점으로 Skype 서비스를 완전히 종료할 것이라고 발표</li>\n<li>Skype 사용자는 기존 계정으로 Teams에 로그인할 수 있으며, 채팅 및 연락처가 그대로 유지됨</li>\n<li>Teams로의 이전은 즉시 가능하며, 점진적으로 더 많은 사용자에게 지원될 예정</li>\n<li>이전을 원하지 않는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19498",
+      "guid": "https://news.hada.io/topic?id=19498",
+      "pubDate": "2025-03-01T07:21:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, 14년간 방치한 Skype 서비스 종료",
+      "description": {
+        "$text": "<ul>\n<li>Microsoft는 2025년 5월 5일부로 Skype 서비스를 종료한다고 발표</li>\n<li>사용자들은 Microsoft Teams로 전환하여 기존의 채팅과 연락처를 계속 사용할 수 있음</li>\n<li>Skype는 2003년에 시작한 인기 있는 VoIP 메시징 플랫폼\n<ul>\n<li>2011년, Microsoft는 Skype를 85억 달러(9.2조원)에 인수</li>\n<li>이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19497",
+      "guid": "https://news.hada.io/topic?id=19497",
+      "pubDate": "2025-03-01T06:52:33+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
