@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-28T17:30:59+09:00",
+  "lastBuildDate": "2025-02-28T18:05:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22204,6 +22204,19 @@
       "guid": "https://news.hada.io/topic?id=19494",
       "pubDate": "2025-02-28T17:30:59+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 탑재한 요약 전문 녹음기 플라우드 노트핀 출시",
+      "description": {
+        "$text": "<p>플라우드 노트핀은 AI 기반의 웨어러블 음성 녹음기로 녹음을 자동으로 텍스트화하고 요약할 수 있음. 다국적 언어 지원 등 다양한 기능을 제공하여 회의, 강의, 인터뷰 등 다양한 상황에서 사용 가능. 전작 플라우드 노트와 함께 전년 판매액 1000억을 달성하였음. 이번 달에 한국에서 출시함.</p>\n<ol>\n<li>적재적소",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19495",
+      "guid": "https://news.hada.io/topic?id=19495",
+      "pubDate": "2025-02-28T18:05:11+09:00",
+      "author": "kimjio1202",
       "category": ""
     }
   ]
