@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-28T18:05:11+09:00",
+  "lastBuildDate": "2025-03-01T02:20:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22217,6 +22217,19 @@
       "guid": "https://news.hada.io/topic?id=19495",
       "pubDate": "2025-02-28T18:05:11+09:00",
       "author": "kimjio1202",
+      "category": ""
+    },
+    {
+      "title": "Airdrop의 오픈소스 대안\"이였던\" Snapdrop의 몰락",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>Snapdrop은 본래 로컬 네트워크 내에서, 기기끼리 내부망에서 파일을 전송하기 위한 프로젝트였음.</p>\n</li>\n<li>\n<p>Airdrop과 비슷한 기능을 가지고 있었음.</p>\n</li>\n<li>\n<p>2025년 2월 10일, Snapdrop의 소유권이 Limewire에게 이전됨.</p>\n</li>\n<li>\n<p>로컬 네트워크 내 공유 기능은 사라졌으며,",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19496",
+      "guid": "https://news.hada.io/topic?id=19496",
+      "pubDate": "2025-03-01T02:20:37+09:00",
+      "author": "yeorinhieut",
       "category": ""
     }
   ]
