@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-27T22:34:30+09:00",
+  "lastBuildDate": "2025-02-28T10:02:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -21918,6 +21918,123 @@
       "guid": "https://news.hada.io/topic?id=19470",
       "pubDate": "2025-02-27T22:34:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "솔리테어 게임",
+      "description": {
+        "$text": "<h2>솔리테어</h2>\n<ul>\n<li>\n<p><strong>영감의 원천</strong>: Balatro 게임의 영감 중 하나로 솔리테어(클론다이크)를 언급하며, 이 게임이 Balatro에 미친 영향을 설명함. 솔리테어는 혼자서 즐기는 카드 게임으로, Balatro도 기술적으로 솔리테어 게임에 속할 수 있음.</p>\n</li>\n<li>\n<p><strong>게임의 문화적 위",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19480",
+      "guid": "https://news.hada.io/topic?id=19480",
+      "pubDate": "2025-02-28T10:02:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Andrej Karpathy의 GPT-4.5 리뷰",
+      "description": {
+        "$text": "<ul>\n<li>오늘 OpenAI에서 <strong>GPT-4.5</strong>가 출시됨</li>\n<li>GPT-4 출시 이후 <strong>약 2년 동안 기다려온 이유</strong>는, 이번 릴리스가 단순히 더 큰 모델을 훈련할 때 얻을 수 있는 개선 효과를 <strong>정량적으로 측정할 기회</strong>를 제공하기 때문\n<ul>\n<li>각 버전의 &quot;0.5&quot;는 대략 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19479",
+      "guid": "https://news.hada.io/topic?id=19479",
+      "pubDate": "2025-02-28T10:00:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "제프 베이조스의 워싱턴 포스트 오피니언 통제 강화",
+      "description": {
+        "$text": "<h4>제프 베조스의 워싱턴포스트 의견 페이지 영향력 증가</h4>\n<ul>\n<li>제프 베조스는 워싱턴포스트의 의견 페이지에서 개인의 자유와 자유 시장을 방어하는 데 중점을 두겠다고 발표함. 반대 의견은 다른 곳에서 다루도록 함.</li>\n<li>데이비드 시플리 의견 편집자가 사임하며, 새로운 방향을 이끌 새로운 의견 편집...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19478",
+      "guid": "https://news.hada.io/topic?id=19478",
+      "pubDate": "2025-02-28T09:59:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 로그라이트/뱀파이어 서바이버 변형이 있는 Breakout 게임",
+      "description": {
+        "$text": "HN 공개: 로그라이트/뱀파이어 서바이버 변형이 있는 Breakout 게임",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19477",
+      "guid": "https://news.hada.io/topic?id=19477",
+      "pubDate": "2025-02-28T09:56:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "iMac G4(K) + M4 Mac Mini",
+      "description": {
+        "$text": "<ul>\n<li>1년 전, M1 iMac을 업무용으로 사용해 보았지만 21인치 화면이 책상에 너무 많은 공간을 차지했음</li>\n<li>Sean의 Action Retro 비디오에서 iMac G4에 M4 Mac Mini를 넣는 것을 보고 시도해 보기로 했음.</li>\n</ul>\n<h2>Juicy Crumb DockLite G4 시도하기</h2>\n<ul>\n<li>Juicy Crumb DockLite G4는 iMac G4의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19476",
+      "guid": "https://news.hada.io/topic?id=19476",
+      "pubDate": "2025-02-28T09:53:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "EA, Command and Conquer: Red Alert 오픈 소스화 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Command &amp; Conquer Red Alert</h2>\n<ul>\n<li>이 저장소는 Command &amp; Conquer Red Alert의 소스 코드를 포함하고 있으며, 게임의 Steam Workshop 지원을 제공함.</li>\n</ul>\n</li>\n<li>\n<h3>Dependencies</h3>\n<ul>\n<li>소스 코드와 도구를 성공적으로 재구축하려면 다음 라이브러리에 대한 대체품...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19474",
+      "guid": "https://news.hada.io/topic?id=19474",
+      "pubDate": "2025-02-28T09:47:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "부팅 가능한 컨테이너 만들기 모범사례",
+      "description": {
+        "$text": "<ul>\n<li>Red Hat Enterprise Linux(RHEL)의 <strong>이미지 모드</strong>는 부팅 가능한 컨테이너로 RHEL을 구축, 배포 및 관리하는 과정을 단순화함</li>\n<li>개발, 운영 및 솔루션 제공자는 동일한 컨테이너 네이티브 도구와 기술을 사용하여 애플리케이션과 기본 운영 체제를 관리할 수 있음</li>\n</ul>\n<h2>부팅 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19473",
+      "guid": "https://news.hada.io/topic?id=19473",
+      "pubDate": "2025-02-28T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Page Assist - 로컬 AI 모델로 웹브라우징 도와주기",
+      "description": {
+        "$text": "<ul>\n<li>로컬 AI 모델을 위한 사이드바와 웹 UI를 제공하는 오픈소스 브라우저 확장</li>\n<li>모든 웹 페이지에서 모델과 상호 작용 가능해짐(웹 페이지에 대해 질문 가능 )</li>\n<li>크로미움 기반 브라우저(크롬, Brave, Edge) 및 Firefox 지원</li>\n<li>사이드 바 : 모든 웹페이지에서 브라우저에 열리고 모델과 인터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19472",
+      "guid": "https://news.hada.io/topic?id=19472",
+      "pubDate": "2025-02-28T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, GPT-4.5 공개",
+      "description": {
+        "$text": "<ul>\n<li>GPT-4.5는 OpenAI의 최신 모델로, 사전 훈련(pre-training)과 후속 훈련(post-training)에서 확장성을 개선한 버전임</li>\n<li>비지도 학습(unsupervised learning)의 규모를 확장하여 패턴 인식과 창의적 통찰력 강화</li>\n<li>보다 자연스러운 대화가 가능하며, 사용자 의도를 더 잘 이해하고 감성 지능(EQ)이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19471",
+      "guid": "https://news.hada.io/topic?id=19471",
+      "pubDate": "2025-02-28T09:19:15+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
