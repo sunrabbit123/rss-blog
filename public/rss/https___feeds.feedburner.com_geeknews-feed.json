@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-28T10:02:52+09:00",
+  "lastBuildDate": "2025-02-28T11:46:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22035,6 +22035,110 @@
       "guid": "https://news.hada.io/topic?id=19471",
       "pubDate": "2025-02-28T09:19:15+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스택오버플로우의 다음 단계 - Q&A는 그냥 시작이었어요",
+      "description": {
+        "$text": "<ul>\n<li>Stack Overflow는 16년 이상 기술 전문가들이 배우고, 기술을 공유하며, 경력을 발전시키는 중심 허브 역할을 해왔음</li>\n<li>그러나 기술 환경이 변화하면서 기존의 Q&amp;A 모델만으로는 사용자들의 다양한 요구를 충족하기 어려워졌음</li>\n<li>이에 따라, 기존의 Q&amp;A를 유지하면서도 새로운 기능과 콘...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19488",
+      "guid": "https://news.hada.io/topic?id=19488",
+      "pubDate": "2025-02-28T11:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "DeepSearcher - 로컬 오픈소스 Deep Research",
+      "description": {
+        "$text": "<ul>\n<li>오픈소스 모델과 도구(Milvus, LangChain 등)를 활용해 <strong>Deep Research</strong> 형태의 리서치 에이전트를 구현</li>\n<li>웹·문서 검색을 통해 <strong>주제나 질문에 대해 자동으로 심층 리서치</strong>를 수행하고, 중간 단계마다 <strong>행동(검색, 정리 등)을 선택</strong>하는 에이전트 구조를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19487",
+      "guid": "https://news.hada.io/topic?id=19487",
+      "pubDate": "2025-02-28T11:03:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Elixir에 Python 내장하기, 문제없어요",
+      "description": {
+        "$text": "<ul>\n<li>최근 몇 년간, Elixir는 <strong>Nx (Numerical Elixir)</strong> 프로젝트를 통해 머신 러닝과 데이터 분야에서 역량 확장 중임</li>\n<li>Nx, Explorer, Axon, Bumblebee, Scholar 등의 프로젝트가 등장하여 Python과 R 생태계에서 배운 교훈을 기반으로 발전 중</li>\n<li>초기에는 Python 라이브러리에 직접 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19486",
+      "guid": "https://news.hada.io/topic?id=19486",
+      "pubDate": "2025-02-28T10:21:38+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Vision Language Model로 OCR 대체하기",
+      "description": {
+        "$text": "<ul>\n<li>이 쿡북은 다양한 사례 연구와 실습을 통해 비디오 및 이미지 처리 알고리듬을 탐구하는 오픈 소스 프로젝트임</li>\n<li>비디오 추론, 이미지 카탈로그, 패션 이미지 하이브리드 검색 등 다양한 응용 분야를 다루고 있음</li>\n<li>다른 프로젝트와 비교하여 다양한 실제 사례를 통해 알고리듬을 학습할 수 있는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19485",
+      "guid": "https://news.hada.io/topic?id=19485",
+      "pubDate": "2025-02-28T10:17:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제프 베조스의 Washington Post 오피니언 섹션 개편으로 인한 편집장 사임",
+      "description": {
+        "$text": "<ul>\n<li>2025년 2월 26일, 워싱턴 포스트의 소유주인 제프 베조스는 신문의 오피니언(의견) 섹션을 ‘개인 자유’와 ‘자유 시장’을 지지하는 방향으로 개편한다고 발표</li>\n<li>이러한 변화로 인해 2022년에 블룸버그 의견 섹션에서 영입된 편집자 데이비드 시플리가 사임 결정</li>\n<li>베조스는 직원들에게 보낸 메...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19484",
+      "guid": "https://news.hada.io/topic?id=19484",
+      "pubDate": "2025-02-28T10:14:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Fish 4.0.0 릴리스",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rust로의 포팅</strong>: fish의 핵심 코드가 C++에서 Rust로 포팅됨. 이는 종속성과 빌드 방식에 큰 변화를 가져오지만 사용자에게 직접적인 영향은 없음.</li>\n<li>\n<strong>비호환 변경 사항</strong>:\n<ul>\n<li>\n<code>bind</code> 명령어의 새로운 키 표기법 도입.</li>\n<li>\n<code>ctrl-c</code...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19483",
+      "guid": "https://news.hada.io/topic?id=19483",
+      "pubDate": "2025-02-28T10:11:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스타트업 데모가 바이럴된 후 Y Combinator 게시물 삭제됨",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Y Combinator, Optifye.ai 데모 영상 삭제</h2>\n<ul>\n<li>Optifye.ai는 Y Combinator의 현재 코호트에 속한 스타트업으로, AI 기반 보안 카메라를 통해 공장 작업자의 실시간 근무 상태를 모니터링하는 소프트웨어를 개발 중임.</li>\n<li>Optifye의 데모 영상이 소셜 미디어에서 논란을 일으켜 Y Combinat...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19482",
+      "guid": "https://news.hada.io/topic?id=19482",
+      "pubDate": "2025-02-28T10:08:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "nRootTag - 루트 권한 없이 블루투스 장치를 애플 에어태그로 전환하기",
+      "description": {
+        "$text": "<ul>\n<li>nRootTag는 원격 공격자가 사용자의 블루투스 기기를 애플 에어태그처럼 변환하여 위치를 추적할 수 있도록 하는 새로운 공격 기법</li>\n<li>루트 권한 없이도 실행 가능하며, 데스크톱, 스마트폰, 스마트워치 등 다양한 기기를 대상으로 할 수 있음</li>\n<li>전 세계적으로 15억 대 이상의 아이폰이 공격자의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19481",
+      "guid": "https://news.hada.io/topic?id=19481",
+      "pubDate": "2025-02-28T10:05:53+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
