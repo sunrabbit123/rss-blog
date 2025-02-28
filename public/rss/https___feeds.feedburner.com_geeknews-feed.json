@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-02-28T14:07:30+09:00",
+  "lastBuildDate": "2025-02-28T15:19:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22152,6 +22152,32 @@
       "guid": "https://news.hada.io/topic?id=19489",
       "pubDate": "2025-02-28T14:07:30+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 군단은 다음에 어디를 공격할까? AI 비디오, 소셜 미디어, 그리고 헐리우드",
+      "description": {
+        "$text": "<ul>\n<li>AI 기술이 다양한 산업을 뒤흔들고 있으며, 특히 수천 개의 AI 스타트업이 등장하여 기존 기업들과 경쟁하고 있음</li>\n<li>AI는 단순한 자동화 도구가 아니라, 노동을 대체하고 보완하는 범용 컴퓨팅 기술로 작용하며, 산업 전반에 걸쳐 혁신을 주도하고 있음</li>\n<li>기존 기업(Incumbent)들은 기존 시장을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19491",
+      "guid": "https://news.hada.io/topic?id=19491",
+      "pubDate": "2025-02-28T15:19:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "IBM의 HashiCorp 인수 완료",
+      "description": {
+        "$text": "<ul>\n<li>IBM이 HashiCorp를 인수하여 하이브리드 클라우드 애플리케이션과 생성 AI를 지원하는 인프라를 자동화하고 보안을 강화</li>\n<li>IBM과 HashiCorp의 기술이 결합되어 혁신 가속화, 보안 강화, 클라우드 활용 가치 증대에 기여</li>\n<li>약 75%의 기업이 하이브리드 클라우드를 사용 중이며, 이는 대규모 인프라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19490",
+      "guid": "https://news.hada.io/topic?id=19490",
+      "pubDate": "2025-02-28T14:34:39+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
