@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T10:33:38+09:00",
+  "lastBuildDate": "2025-03-01T12:03:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22385,6 +22385,45 @@
       "link": "https://news.hada.io/topic?id=19509",
       "guid": "https://news.hada.io/topic?id=19509",
       "pubDate": "2025-03-01T10:33:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: [유튜브 강의 정리] 안드레 카파시 - Deep Dive into LLMs like ChatGPT",
+      "description": {
+        "$text": "<p>강의를 직접 볼 시간이 없는 분들이나 핵심 내용을 빠르게 파악하고 싶은 분들을 위해 내용을 정리했습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19512",
+      "guid": "https://news.hada.io/topic?id=19512",
+      "pubDate": "2025-03-01T12:03:19+09:00",
+      "author": "bbyond",
+      "category": ""
+    },
+    {
+      "title": "Meta Aria Gen 2 안경 공개 - 기계 지각, 컨텍스트 AI, 로봇 공학 연구를 위한 차세대 안경",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Aria Gen 2 안경</strong>은 <strong>인간의 관점에서 세상을 이해</strong>하려는 AI 시스템 연구에 중요한 도구로 활용될 수 있음</li>\n<li>\n<strong>최첨단 센서 모듈</strong> : RGB 카메라, 6DOF SLAM 카메라, 시선 추적 카메라, 공간 마이크, IMU, 기압계, 자력계, GNSS 등의 개선\n<ul>\n<li>코받...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19511",
+      "guid": "https://news.hada.io/topic?id=19511",
+      "pubDate": "2025-03-01T11:50:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수백만 명과 수백 개의 인기 앱에서 코드 실행 권한을 획득하는 방법",
+      "description": {
+        "$text": "<blockquote>\n<p><strong>&quot;물론 Firebase가 (부분적으로) 원인이었어요&quot;</strong></p>\n</blockquote>\n<ul>\n<li>AI 편집기 Cursor의 설치 파일 다운로드 과정에서 Lulu 방화벽을 통해 TodeskTop으로 연결을 시도한다는 사실을 확인함\n<ul>\n<li>ToDesktop은 Electron 앱 패키징, SDK, 업데이트 등을 제공하는 서",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19510",
+      "guid": "https://news.hada.io/topic?id=19510",
+      "pubDate": "2025-03-01T11:32:54+09:00",
       "author": "neo",
       "category": ""
     }
