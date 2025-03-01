@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T10:16:28+09:00",
+  "lastBuildDate": "2025-03-01T10:33:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22372,6 +22372,19 @@
       "link": "https://news.hada.io/topic?id=19499",
       "guid": "https://news.hada.io/topic?id=19499",
       "pubDate": "2025-03-01T08:18:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "3,200% CPU 사용률",
+      "description": {
+        "$text": "<ul>\n<li>과거에 내 시스템의 CPU 사용률이 3,200%에 달해 32코어가 모두 가득 찼음</li>\n<li>Java 17 런타임을 사용하고 있었고, 스레드 덤프에서 CPU 시간을 확인하여 CPU 시간으로 정렬하니 유사한 스레드들이 다수 발견</li>\n<li>문제의 코드 분석\n<ul>\n<li>스택 트레이스를 통해 <code>BusinessLogic</code> 클래스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19509",
+      "guid": "https://news.hada.io/topic?id=19509",
+      "pubDate": "2025-03-01T10:33:38+09:00",
       "author": "neo",
       "category": ""
     }
