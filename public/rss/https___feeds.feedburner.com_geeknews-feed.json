@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T07:21:49+09:00",
+  "lastBuildDate": "2025-03-01T10:16:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22255,6 +22255,123 @@
       "link": "https://news.hada.io/topic?id=19497",
       "guid": "https://news.hada.io/topic?id=19497",
       "pubDate": "2025-03-01T06:52:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek의 Fire-Flyer File System",
+      "description": {
+        "$text": "<h2>Fire-Flyer 파일 시스템</h2>\n<p>Fire-Flyer 파일 시스템(3FS)은 AI 학습 및 추론 작업의 문제를 해결하기 위해 설계된 고성능 분산 파일 시스템임. 최신 SSD와 RDMA 네트워크를 활용하여 분산 애플리케이션 개발을 단순화하는 공유 스토리지 계층을 제공함.</p>\n<h3>성능 및 사용성</h3>\n<ul>\n<li>\n<strong>분리된 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19508",
+      "guid": "https://news.hada.io/topic?id=19508",
+      "pubDate": "2025-03-01T10:00:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "폭력이 인간 유전자에 미치는 세대 간 변화, 연구진 발견",
+      "description": {
+        "$text": "<h2>폭력이 인간 유전자에 미치는 영향</h2>\n<ul>\n<li>1982년 시리아 정부가 하마를 포위하여 수만 명의 시민을 학살한 사건이 있었음. 이 사건은 시리아 가족의 유전자에 깊은 영향을 미쳤음.</li>\n<li>하마 포위 당시 임신 중이었던 여성들의 손주들은 폭력을 직접 경험하지 않았음에도 불구하고 유전자에 그 흔적이 남...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19507",
+      "guid": "https://news.hada.io/topic?id=19507",
+      "pubDate": "2025-03-01T09:57:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "macOS 팁과 트릭 (2022)",
+      "description": {
+        "$text": "<h2>macOS 팁 &amp; 트릭</h2>\n<h3>일반적인 네이티브 UI 관례</h3>\n<ul>\n<li>현재 앱의 메뉴 항목을 검색하려면 ⇧⌘/를 누름.</li>\n<li>⌃F2를 눌러 애플리케이션의 메뉴 바로 키보드 포커스를 이동함.</li>\n<li>Option 키를 누른 상태에서 개요 보기를 확장하면 모든 하위 항목을 재귀적으로 확장함.</li>\n<li>모달 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19506",
+      "guid": "https://news.hada.io/topic?id=19506",
+      "pubDate": "2025-03-01T09:54:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, Edge에서 uBlock Origin 및 기타 확장 프로그램 비활성화 시작",
+      "description": {
+        "$text": "<ul>\n<li>Google Chrome 및 Microsoft Edge에서 <strong>uBlock Origin</strong> 확장 프로그램을 사용하는 경우, 대안을 찾는 것이 필요함</li>\n<li>Google이 <strong>Manifest V2</strong> 기반 확장 프로그램을 단계적으로 제거하면서 <strong>uBlock Origin</strong>을 포함한 여러 확장 프로그램을 비활성화하기 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19505",
+      "guid": "https://news.hada.io/topic?id=19505",
+      "pubDate": "2025-03-01T09:51:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"Firefox를 통해 정보를 업로드하거나 입력하면 당사에 라이선스를 부여하는 것입니다.\"",
+      "description": {
+        "$text": "<blockquote>\n<h2>You Give Mozilla Certain Rights and Permissions</h2>\n<p>You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the Firefox Privacy Notice. It also includes a nonexclusive, royalty-free, worldwide license for the purpose of d...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19504",
+      "guid": "https://news.hada.io/topic?id=19504",
+      "pubDate": "2025-03-01T09:48:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "젤렌스키, 격앙된 회담 후 백악관 떠남",
+      "description": {
+        "$text": "<h4>누가 젤렌스키에게 '왜 정장을 입지 않느냐'고 물었는가?</h4>\n<ul>\n<li>젤렌스키 대통령은 오벌 오피스에서의 격렬한 논쟁 직전에 보수 성향의 기자로부터 전투복 착용에 대한 질문을 받음.</li>\n<li>기자는 &quot;왜 정장을 입지 않느냐? 정장이 있느냐? 많은 미국인들이 당신이 직무의 품위를 존중하지 않는다고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19502",
+      "guid": "https://news.hada.io/topic?id=19502",
+      "pubDate": "2025-03-01T09:42:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Yaak - Git 친화적인 데스크탑 API 클라이언트 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>REST, GraphQL, Server Sent Events (SSE), WebSocket, gRPC API와 상호작용할 수 있는 데스크톱 API 클라이언트</li>\n<li>Tauri + Rust + ReactJS 오픈소스</li>\n<li>Postman, Insomnia, OpenAPI, Swagger, Curl에서 <strong>데이터 가져오기</strong> 지원</li>\n<li>\n<strong>다양한 Request 전송 가능</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19501",
+      "guid": "https://news.hada.io/topic?id=19501",
+      "pubDate": "2025-03-01T09:32:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Github 스캠 조사: 데이터를 훔치는 수천 개의",
+      "description": {
+        "$text": "<ul>\n<li>GitHub에 &quot;mods&quot;나 &quot;cracks&quot; 형태로 위장된 수많은 리포지토리가 존재하며, 사용자가 다운로드하면 컴퓨터 내 민감 정보를 탈취하는 사기(Scam)임</li>\n<li>Roblox, Fortnite, FL Studio, Adobe Photoshop 등 인기 프로그램과 게임 이름을 이용해 &quot;무료 다운로드&quot;나 &quot;크랙 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19500",
+      "guid": "https://news.hada.io/topic?id=19500",
+      "pubDate": "2025-03-01T08:36:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Firefox 이용 약관 및 개인정보 보호 공지 업데이트",
+      "description": {
+        "$text": "<ul>\n<li>Mozilla는 처음으로 Firefox에 대한 <strong>이용 약관</strong>을 도입하고, 기존 <strong>개인정보 보호 공지</strong>를 업데이트함</li>\n<li>기존에는 오픈 소스 라이선스와 공개적인 약속을 기반으로 운영해 왔으나, 기술 환경이 변화하면서 보다 명확한 법적 문서를 제공할 필요성이 생김</li>\n<li>Mozil...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19499",
+      "guid": "https://news.hada.io/topic?id=19499",
+      "pubDate": "2025-03-01T08:18:32+09:00",
       "author": "neo",
       "category": ""
     }
