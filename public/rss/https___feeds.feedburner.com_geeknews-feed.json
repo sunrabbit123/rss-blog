@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T18:33:09+09:00",
+  "lastBuildDate": "2025-03-01T19:58:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22438,6 +22438,19 @@
       "guid": "https://news.hada.io/topic?id=19513",
       "pubDate": "2025-03-01T18:33:09+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "국산 CMS Rhymix의 저작권자 표기 변경",
+      "description": {
+        "$text": "<p>Rhymix가 공개된지 꽤 오랜 기간이 지났지만, 많은 분들이 인지하지 못하고 계실 여러가지 소식을 정리해 보았습니다.</p>\n<ul>\n<li>\n<p>Rhymix는 네이버에서 개발유지보수하던 XpressEngine의 포크 버전임.<br />\n현재 그 사업을 인수한 XEHub는 XE1의 유지보수를 사실상 포기하고, Laravel 기반의 XE3에 집중하고 있",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19514",
+      "guid": "https://news.hada.io/topic?id=19514",
+      "pubDate": "2025-03-01T19:58:12+09:00",
+      "author": "nemorize",
       "category": ""
     }
   ]
