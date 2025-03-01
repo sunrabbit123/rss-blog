@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T12:03:19+09:00",
+  "lastBuildDate": "2025-03-01T18:33:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22424,6 +22424,19 @@
       "link": "https://news.hada.io/topic?id=19510",
       "guid": "https://news.hada.io/topic?id=19510",
       "pubDate": "2025-03-01T11:32:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트 Azure 사용을 피해야 하는 400가지 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>일일 Azure 소식</strong>: 최근 #Microsoft Cloud for Sustainability Technical Summit이 있었음. 그러나 실제로는 지속 가능성에 약간의 포커스를 둔 #Copilot 서밋처럼 느껴졌음. (이 스크린샷은 처음 세 세션에서만 가져온 것임)</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19513",
+      "guid": "https://news.hada.io/topic?id=19513",
+      "pubDate": "2025-03-01T18:33:09+09:00",
       "author": "neo",
       "category": ""
     }
