@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-01T22:33:48+09:00",
+  "lastBuildDate": "2025-03-02T09:39:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22463,6 +22463,71 @@
       "link": "https://news.hada.io/topic?id=19515",
       "guid": "https://news.hada.io/topic?id=19515",
       "pubDate": "2025-03-01T22:33:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "글쓰기로 기본 사고 방식에서 벗어나기",
+      "description": {
+        "$text": "<ul>\n<li>우리의 뇌는 평균적인 범주에 머무르는 경향이 있고, 과거 기억을 효율적으로 보관하지 못함</li>\n<li>현재 순간에는 자극적인 생각의 파편들에 휩쓸리기 쉬우며, 혼란을 정리하지 못하고 방황하기 쉬움</li>\n<li>글쓰기는 이러한 무질서한 사고에 구조를 제공하는 도구로, 효과적인 사고를 가능하게 함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19520",
+      "guid": "https://news.hada.io/topic?id=19520",
+      "pubDate": "2025-03-02T09:39:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 국민에게 보내는 서신",
+      "description": {
+        "$text": "<h2>18F: 우리는 미국 국민을 위해 헌신하며, 아직 끝나지 않았음</h2>\n<h3>미국 국민에게 보내는 편지</h3>\n<ul>\n<li>11년 넘게 18F는 정부 기술을 개선하기 위해 노력해 온 비당파적 공무원 조직이었음</li>\n<li>수백 개의 프로젝트를 통해 정부 기술의 효율성과 효과를 높이고, 미국 납세자의 비용 절감을 도모해 왔음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19519",
+      "guid": "https://news.hada.io/topic?id=19519",
+      "pubDate": "2025-03-02T09:36:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek, V3/R1의 추론 시스템 구성 및 운영 비용/수익 공개",
+      "description": {
+        "$text": "<ul>\n<li>오픈소스 공개 위크 마지막에 시스템 전체 개요와 <strong>운영비용</strong>까지 <strong>원모어띵</strong>으로 깜짝 공개</li>\n</ul>\n<h2>DeepSeek-V3/R1 추론 시스템 오버뷰</h2>\n<h3>시스템 설계 원칙</h3>\n<ul>\n<li>DeepSeek-V3/R1 추론 시스템의 최적화 목표는 <strong>더 높은 처리량과 낮은 지연 시간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19518",
+      "guid": "https://news.hada.io/topic?id=19518",
+      "pubDate": "2025-03-02T09:04:37+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google 세르게이 브린, 엔지니어들에게 \"AI 개발 위해 주 60시간 근무해야\"한다고 주장",
+      "description": {
+        "$text": "<ul>\n<li>구글 공동 창업자 세르게이 브린은 엔지니어들에게 &quot;경쟁이 가속화되고 있으며, 인공지능(AI)의 궁극적인 목표인 AGI를 향한 최종 경주가 진행 중&quot;이라고 강조함</li>\n<li>\n<strong>Gemini</strong> 팀에 보낸 메모에서 &quot;우리는 이 경쟁에서 승리할 모든 요소를 가지고 있지만, 노력을 더욱 가속...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19517",
+      "guid": "https://news.hada.io/topic?id=19517",
+      "pubDate": "2025-03-02T08:58:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "상속이 노동만큼 중요해지고 있음",
+      "description": {
+        "$text": "<ul>\n<li>최근 몇십 년간, 재능과 노력으로 부를 쌓는 것이 가능했으나, 이제는 상속 재산의 중요성이 커지고 있음</li>\n<li>선진국에서 올해 예상되는 상속 재산 규모는 약 6조 달러로, GDP의 10%에 해당하며, 20세기 중반 5%였던 것에 비해 두 배 증가함</li>\n<li>프랑스에서는 1960년대 이후 상속 재산 비율이 두 배 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19516",
+      "guid": "https://news.hada.io/topic?id=19516",
+      "pubDate": "2025-03-02T08:33:35+09:00",
       "author": "neo",
       "category": ""
     }
