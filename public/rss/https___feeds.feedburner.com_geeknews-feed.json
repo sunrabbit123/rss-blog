@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-03T15:33:44+09:00",
+  "lastBuildDate": "2025-03-03T17:34:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22736,6 +22736,19 @@
       "link": "https://news.hada.io/topic?id=19541",
       "guid": "https://news.hada.io/topic?id=19541",
       "pubDate": "2025-03-03T15:33:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "솔라펑크 운동",
+      "description": {
+        "$text": "<h2>배경</h2>\n<ul>\n<li>Solarpunk은 지속 가능한 미래를 자연과 공동체와 연결하여 실현하려는 문학 및 예술 운동임.</li>\n<li>&quot;Solar&quot;는 태양 에너지를, &quot;punk&quot;는 DIY와 반문화적, 탈자본주의적 측면을 나타냄.</li>\n<li>사이버펑크와 대비되며, 지속 가능성과 환경에 대한 인간의 영향을 강조함....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19542",
+      "guid": "https://news.hada.io/topic?id=19542",
+      "pubDate": "2025-03-03T17:34:43+09:00",
       "author": "neo",
       "category": ""
     }
