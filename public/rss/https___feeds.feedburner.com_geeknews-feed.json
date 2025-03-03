@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-03T11:43:03+09:00",
+  "lastBuildDate": "2025-03-03T15:33:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22723,6 +22723,19 @@
       "link": "https://news.hada.io/topic?id=19539",
       "guid": "https://news.hada.io/topic?id=19539",
       "pubDate": "2025-03-03T11:00:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파이어플라이 ‘블루 고스트’ 달 착륙 성공",
+      "description": {
+        "$text": "<h3>우리가 다루는 내용</h3>\n<ul>\n<li>텍사스에 본사를 둔 회사 Firefly가 제작한 로봇 달 착륙선이 성공적으로 달에 착륙함. 착륙 시간은 중앙 표준시 기준 오전 2시 34분(동부 표준시 기준 오전 3시 34분)임</li>\n<li>Blue Ghost라는 이름의 착륙선은 1월에 SpaceX 로켓을 통해 궤도로 발사되었으며, 지구 궤도에서 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19541",
+      "guid": "https://news.hada.io/topic?id=19541",
+      "pubDate": "2025-03-03T15:33:44+09:00",
       "author": "neo",
       "category": ""
     }
