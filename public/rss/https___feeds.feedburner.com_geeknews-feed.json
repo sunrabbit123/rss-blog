@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-03T17:34:43+09:00",
+  "lastBuildDate": "2025-03-04T02:18:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22750,6 +22750,19 @@
       "guid": "https://news.hada.io/topic?id=19542",
       "pubDate": "2025-03-03T17:34:43+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI 창업자가 일상과 업무에서 AI를 활용하는 법",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI를 공동창업한 Andrej Karpathy의 일반인을 위한 AI 강의 중 2/28에 올라온 <a href=\"https://www.youtube.com/watch?v=EWvNQjAaOHw\">How I use LLMs</a> 를 캡처와 함께 요약</li>\n<li>다양한 시각화 자료와 카파시의 실사용 예제들에 큰 가치가 있기 때문에 글 요약만으로는 영상의 맛이 살아나지 않아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19543",
+      "guid": "https://news.hada.io/topic?id=19543",
+      "pubDate": "2025-03-04T02:18:53+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
