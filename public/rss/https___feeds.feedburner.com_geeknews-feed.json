@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-03T10:52:01+09:00",
+  "lastBuildDate": "2025-03-03T11:43:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22697,6 +22697,32 @@
       "link": "https://news.hada.io/topic?id=19529",
       "guid": "https://news.hada.io/topic?id=19529",
       "pubDate": "2025-03-03T10:01:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Repomix - 자신의 코드베이스를 AI친화적인 형식으로 변환하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>코드베이스를 AI 모델이 쉽게 이해할 수 있도록 최적화된 형식으로 변환하여 <strong>LLM과의 통합</strong>을 쉽게 만들어 줌\n<ul>\n<li>ChatGPT, Claude, DeepSeek, Perplexity, Gemini, Llama, Grok 등과 사용 가능</li>\n</ul>\n</li>\n<li>각 파일과 전체 코드베이스의 토큰 수 계산 기능 제공(LLM 컨텍스트 제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19540",
+      "guid": "https://news.hada.io/topic?id=19540",
+      "pubDate": "2025-03-03T11:43:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "바이럴되는 AI 제품 뒤에 숨겨진 패턴들",
+      "description": {
+        "$text": "<ul>\n<li>AI 제품들은 역사상 가장 빠른 성장 속도를 보이며, 일부는 출시 몇 달 만에 연 매출 1억 달러를 돌파함</li>\n<li>단순한 AI 성능이 아니라, <strong>사용자 친화적인 UX</strong>가 AI 제품의 성공을 결정하는 핵심 요소로 작용</li>\n<li>Bolt, Cursor, Replit, PhotoRoom 등은 직관적이고 원활한 UX를 통해 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19539",
+      "guid": "https://news.hada.io/topic?id=19539",
+      "pubDate": "2025-03-03T11:00:57+09:00",
       "author": "neo",
       "category": ""
     }
