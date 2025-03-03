@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-03T00:18:31+09:00",
+  "lastBuildDate": "2025-03-03T10:52:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22568,6 +22568,136 @@
       "guid": "https://news.hada.io/topic?id=19523",
       "pubDate": "2025-03-03T00:18:31+09:00",
       "author": "laeyoung",
+      "category": ""
+    },
+    {
+      "title": "React 기술 스택 2025",
+      "description": {
+        "$text": "<ul>\n<li>2025년을 위한 <strong>Full-Stack React Tech Stack</strong>\n<ul>\n<li>SaaS 제품 또는 최소 기능 제품(MVP)을 개발하는 데 유용한 기술들을 소개</li>\n</ul>\n</li>\n<li>\n<strong>Next.js</strong>: 리액트 기반의 프레임워크로, 라우팅, 캐싱 등 다양한 기능을 기본 제공하며, 서버 컴포넌트 및 서버 함수와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19538",
+      "guid": "https://news.hada.io/topic?id=19538",
+      "pubDate": "2025-03-03T10:52:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "주택 이론으로 보는 세상 (2021)",
+      "description": {
+        "$text": "<h2>서구 사회의 주택 부족이 초래하는 문제들</h2>\n<p>서구 사회에서 주택 부족은 단순히 집값을 높이는 문제를 넘어, 불평등, 저성장, 건강 문제, 출산율 저하, 비만, 기후 변화 등 다양한 사회적 문제를 악화시키는 요인으로 작용하고 있음.</p>\n<hr />\n<h2>주택 비용 상승의 명확한 영향</h2>\n<ul>\n<li>주택은 사람들",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19537",
+      "guid": "https://news.hada.io/topic?id=19537",
+      "pubDate": "2025-03-03T10:22:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPT-4.5: \"프론티어 모델이 아니다\"?",
+      "description": {
+        "$text": "<ul>\n<li>GPT-4.5의 공개와 함께 OpenAI는 모델의 <strong>시스템 카드</strong>를 먼저 공개함</li>\n<li>초기 시스템 카드에는 <strong>&quot;GPT-4.5 is not a frontier model&quot;</strong>(GPT-4.5는 최첨단 모델이 아님)라는 문구가 포함됨\n<ul>\n<li>이후 공식 블로그 게시물과 업데이트된 시스템 카드에서는 이 문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19536",
+      "guid": "https://news.hada.io/topic?id=19536",
+      "pubDate": "2025-03-03T10:22:05+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 베를린 스왑페스트 – 전자기기 벼룩시장",
+      "description": {
+        "$text": "<h2>행사 개요</h2>\n<ul>\n<li>\n<strong>BERLIN SWAPFEST</strong>는 2025년 4월 19일 c-base에서 열리는 행사임.</li>\n<li>이 행사는 분기별로 열리며, 전자 제품, 컴퓨터 장비, 도구 등을 사고팔고 교환할 수 있는 자리임.</li>\n<li>c-base라는 베를린의 오래된 해커 스페이스와 협력하여 개최됨.</li>\n</ul>\n<h2>행사 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19535",
+      "guid": "https://news.hada.io/topic?id=19535",
+      "pubDate": "2025-03-03T10:19:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "약속을 어긴 Mozilla, Firefox 팬들로부터 데이터 판매 비판받아",
+      "description": {
+        "$text": "<h2>Mozilla의 새로운 이용 약관과 프라이버시 정책</h2>\n<ul>\n<li>Mozilla는 최근 Firefox 사용자에게 새로운 이용 약관을 준수할 것을 요청하고, 프라이버시 공지 및 FAQ를 업데이트함.</li>\n<li>초기 문서에서는 사용자 데이터에 대한 소유권을 주장하는 것처럼 보였으나, Mozilla는 이러한 조항을 제거하고 이는 단순...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19534",
+      "guid": "https://news.hada.io/topic?id=19534",
+      "pubDate": "2025-03-03T10:16:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Firefox Sync 서버 셀프 호스팅",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>자체 호스팅 Firefox Sync 서버 설정</strong></p>\n<ul>\n<li>Firefox에서 LibreWolf로 전환한 후, 자체 호스팅 Firefox Sync 서버에 관심을 가지게 됨.</li>\n<li>처음에는 Mozilla의 Sync Server 저장소를 찾았으나, 유지보수가 중단된 상태였음.</li>\n<li>Rust 기반의 <code>syncstorage-rs</code",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19533",
+      "guid": "https://news.hada.io/topic?id=19533",
+      "pubDate": "2025-03-03T10:13:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마크 큐반, 전 18F 직원들에 자금 지원 제안",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>정부 기술 부서 자금 지원 제안</h2>\n<ul>\n<li>억만장자 투자자 마크 큐반이 정부 기술 부서의 해고된 연방 근로자들을 지원하기 위해 소셜 네트워크 Bluesky에서 메시지를 전파함.</li>\n<li>큐반은 해고된 엔지니어와 디자이너들에게 컨설팅 회사를 시작할 것을 권장하며, 자신이 투자하거나 도움을 줄 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19532",
+      "guid": "https://news.hada.io/topic?id=19532",
+      "pubDate": "2025-03-03T10:10:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대화형 음성의 불쾌한 골짜기 넘어서기",
+      "description": {
+        "$text": "<ul>\n<li>인간의 음성은 톤, 피치, 리듬, 감정 등 다양한 변화를 통해 깊은 의미를 전달하는 가장 친밀한 매체임</li>\n<li>현재의 <strong>디지털 음성 비서</strong>는 이러한 감정적 요소가 부족하여 사용자와의 효과적인 협업에 한계가 있음</li>\n<li>\n<strong>감정이 결여된 음성</strong>은 초기에는 신기할 수 있지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19531",
+      "guid": "https://news.hada.io/topic?id=19531",
+      "pubDate": "2025-03-03T10:07:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DOGE 직원, 공개 GitHub에 DOGE 작업 게시 의혹",
+      "description": {
+        "$text": "DOGE 직원, 공개 GitHub에 DOGE 작업 게시 의혹",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19530",
+      "guid": "https://news.hada.io/topic?id=19530",
+      "pubDate": "2025-03-03T10:04:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GLP-1: 경제를 뒤흔드는 게임체인저?  (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>&quot;100조 달러 경제 지각변동: 비만치료제가 몰고 올 변화&quot;</strong>\n</li>\n<li>실리콘밸리가 AI에 집착하는 동안, 비만치료제는 인터넷 이후 가장 큰 경제 파괴자로 부상함. 이를 이해해야 직업, 투자, 미래가 달라짐</li>\n</ul>\n<h2>개인의 작은 변화, 거대한 경제적 여파</h2>\n<ul>\n<li>20...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19529",
+      "guid": "https://news.hada.io/topic?id=19529",
+      "pubDate": "2025-03-03T10:01:22+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
