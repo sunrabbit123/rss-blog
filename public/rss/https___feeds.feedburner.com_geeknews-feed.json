@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-04T10:37:02+09:00",
+  "lastBuildDate": "2025-03-04T11:34:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22945,6 +22945,19 @@
       "guid": "https://news.hada.io/topic?id=19549",
       "pubDate": "2025-03-04T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "수리 가능한 플랫팩 토스터",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>수리 가능한 플랫팩 토스터 프로젝트는 사용자가 직접 조립하고 수리할 수 있는 토스터를 설계하는 것임.</li>\n<li>이 프로젝트의 목적은 DIY 조립 및 수리가 가능한 소비자 제품의 가능성을 보여주는 것임.</li>\n<li>토스터는 상자에 평평하게 포장되어 모든 부품이 포함되며, 사용자가 처음부터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19559",
+      "guid": "https://news.hada.io/topic?id=19559",
+      "pubDate": "2025-03-04T11:34:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
