@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-04T11:34:28+09:00",
+  "lastBuildDate": "2025-03-04T19:05:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22958,6 +22958,19 @@
       "guid": "https://news.hada.io/topic?id=19559",
       "pubDate": "2025-03-04T11:34:28+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: LLM-free 웹 크롤링 : web-content-extractor",
+      "description": {
+        "$text": "<p>최근 AI의 발전으로 데이터 수집의 중요도가 늘었는데요, 그런 만큼 자동화된 웹 크롤링의 수요도 덩달아 증가하는 추세입니다.</p>\n<p>그러나 HTML에서 중요한 본문을 획득하는 것은 생각보다 어려운 일입니다. LLM을 사용하면 낫겠으나, 시간과 비용 모두 부담이 됩니다.</p>\n<p>web-content-extractor는 이 문제를",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19560",
+      "guid": "https://news.hada.io/topic?id=19560",
+      "pubDate": "2025-03-04T19:05:15+09:00",
+      "author": "sunrabbit",
       "category": ""
     }
   ]
