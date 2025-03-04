@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-04T08:39:39+09:00",
+  "lastBuildDate": "2025-03-04T10:37:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22815,6 +22815,136 @@
       "guid": "https://news.hada.io/topic?id=19544",
       "pubDate": "2025-03-04T08:33:43+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "50년간의 여행에서 얻은 팁들",
+      "description": {
+        "$text": "<ul>\n<li>Wired 창립 편집장 <strong>케빈 켈리(KK)</strong> 는 50년 넘게 다양한 방식으로 여행을 해옴\n<ul>\n<li>혼자부터 40명 투어 그룹 인솔, 배낭여행부터 전용 제트기, 자전거로 미국횡단, 전세계 국가의 절반 가량을 방문</li>\n<li>직접 여행 계획을 짜거나 가이드를 고용해보면서, 여행은 목적지보다 <strong>‘...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19558",
+      "guid": "https://news.hada.io/topic?id=19558",
+      "pubDate": "2025-03-04T10:37:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플 소프트웨어 품질 위기",
+      "description": {
+        "$text": "<h3>애플의 소프트웨어 품질 문제: 프리미엄 하드웨어와 부실한 소프트웨어의 만남</h3>\n<ul>\n<li>\n<strong>업데이트: 2025년 3월 4일</strong><br />\n이 글은 Hacker News와 Reddit에서 많은 관심을 받았으며, 애플 생태계 내에서 소프트웨어 품질 문제가 널리 퍼져 있음을 보여줌.<br />\n필자는 강의 시작 시 새로운 노...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19557",
+      "guid": "https://news.hada.io/topic?id=19557",
+      "pubDate": "2025-03-04T10:33:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년을 위한 필수 React 라이브러리들",
+      "description": {
+        "$text": "<ul>\n<li>리액트는 오랜 기간 사용되면서 <strong>방대한 라이브러리 생태계</strong>가 형성됨</li>\n<li>다른 언어/프레임워크에서 온 개발자들은 <strong>리액트 애플리케이션을 구축하는 데 필요한 라이브러리 선택에 어려움</strong>을 겪을 수 있음</li>\n<li>\n<strong>리액트의 핵심</strong>은 <strong>컴포넌트 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19556",
+      "guid": "https://news.hada.io/topic?id=19556",
+      "pubDate": "2025-03-04T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MIT 6.S184: 플로우 매칭 및 디퓨전 모델 입문",
+      "description": {
+        "$text": "<h2>흐름 매칭 및 확산 모델 소개</h2>\n<ul>\n<li>MIT의 컴퓨터 과학 수업 6.S184는 확률 미분 방정식을 활용한 생성 AI에 대한 강의임.</li>\n<li>확산 및 흐름 기반 모델은 이미지, 비디오, 음악 등 다양한 데이터 모달리티에서 생성 AI의 최첨단 기술로 자리잡고 있음.</li>\n<li>이 강의는 이러한 모델의 수학적 기초를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19555",
+      "guid": "https://news.hada.io/topic?id=19555",
+      "pubDate": "2025-03-04T09:53:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 상위 10%가 전체 주식의 87%를 소유하고 있음",
+      "description": {
+        "$text": "<ul>\n<li>상위 10%가 이 나라(미국)의 주식의 87%를 소유하고 있음. 또한, 개인 사업체의 84%, 부동산의 44%, 전체 부의 3분의 2를 소유하고 있음.</li>\n<li>1989년 이후 이 수치들은 증가했으며, 총 부(60.8%에서 67.3%), 주식(81.7%에서 87.2%), 개인 사업체(78.4%에서 84.4%), 부동산(38.2%에서 43.9%) 모두 증가함....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19554",
+      "guid": "https://news.hada.io/topic?id=19554",
+      "pubDate": "2025-03-04T09:50:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "게임 \"스피드러너\"는 취약점 연구자임, 아직 자각하지 못했을 뿐",
+      "description": {
+        "$text": "<ul>\n<li>수천 명의 비디오 게임 애호가들이 자신도 모르게 사이버 보안 산업에서 경험을 쌓고 있음</li>\n<li>그들은 게임의 세부 사항을 분석하는 취미를 가지고 있으며, 이는 취약점 연구자가 되는 것과 유사함.</li>\n</ul>\n<h2><strong>스피드런</strong>이란? :</h2>\n<ul>\n<li>비디오 게임이 출시되자마자 사람들은 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19553",
+      "guid": "https://news.hada.io/topic?id=19553",
+      "pubDate": "2025-03-04T09:47:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gitingest - Git 리포지토리를 AI 친화적인 텍스트로 변환하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>Git 리포지토리를 LLM(대형 언어 모델)과 통합할 수 있도록 변환</li>\n<li>GitHub URL을 간단히 변경하여 요약본(digest) 생성 가능\n<ul>\n<li>예: <code>https://github.com/user/repo</code> → <code>https://gitingest.com/user/repo</code>\n</li>\n</ul>\n</li>\n<li>브라우저 확장 지원 : 크롬 / Firefox</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19552",
+      "guid": "https://news.hada.io/topic?id=19552",
+      "pubDate": "2025-03-04T09:45:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스크롤 시 페이지를 따라 내려가는 Scroll Bar Buddy 개발",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Scroll Buddy 소개</strong></p>\n<ul>\n<li>스크롤 바를 재미있게 바꾸기 위해 애니메이션 스틱 피규어를 추가한 프로젝트임</li>\n<li>스크롤할 때 페이지 옆에서 위아래로 움직이는 스틱 피규어를 볼 수 있음</li>\n<li>향후 스케이트보더, 암벽 등반가, 다람쥐 등 다양한 버전을 계획 중임</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19551",
+      "guid": "https://news.hada.io/topic?id=19551",
+      "pubDate": "2025-03-04T09:44:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Blender로 제작한 영화 Flow, 오스카상 수상",
+      "description": {
+        "$text": "<ul>\n<li>독립 애니메이션 영화 <strong>'Flow'</strong> 가 <strong>아카데미 최우수 장편 애니메이션상</strong>을 수상하며 라트비아와 감독 Gints Zilbalodis에게 첫 오스카 트로피를 안김</li>\n<li>영화는 홍수로 집을 잃은 동물들이 함께 보트를 타고 여정을 떠나는 이야기로, <strong>대사가 없는 독특한 연출</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19550",
+      "guid": "https://news.hada.io/topic?id=19550",
+      "pubDate": "2025-03-04T09:41:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Superglue – 코드를 자동 생성하는 오픈소스 API 커넥터",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>자동으로 API 연결 코드를 생성</strong>하는 오픈소스 프록시 서버이자 데이터 커넥터</li>\n<li>복잡한 API와 시스템 간에 프록시 역할을 하면서 API 응답을 원하는 형식으로 자동 변환하고, 데이터 구조를 검증하며, 예상치 못한 오류를 자동으로 수정하는 <strong>셀프 힐링</strong> 기능을 제공...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19549",
+      "guid": "https://news.hada.io/topic?id=19549",
+      "pubDate": "2025-03-04T09:31:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
