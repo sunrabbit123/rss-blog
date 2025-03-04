@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-04T02:18:53+09:00",
+  "lastBuildDate": "2025-03-04T08:39:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22763,6 +22763,58 @@
       "guid": "https://news.hada.io/topic?id=19543",
       "pubDate": "2025-03-04T02:18:53+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "코드에서 발생하는 환각은 LLM 오류 중 가장 덜 위험한 형태임",
+      "description": {
+        "$text": "<ul>\n<li>많은 개발자들이 LLM을 코드 작성에 사용하려다 <strong>환각(Hallucination)을 경험하고 신뢰를 잃음</strong>\n<ul>\n<li>LLM이 존재하지 않는 메서드나 라이브러리를 창작하는 것은 흔한 일</li>\n<li>하지만 코드에서의 환각은 <strong>가장 덜 위험한 유형의 환각</strong>임</li>\n</ul>\n</li>\n<li>가장 위험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19547",
+      "guid": "https://news.hada.io/topic?id=19547",
+      "pubDate": "2025-03-04T08:39:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Postgres를 Graph DB로 사용하기: PgRouting을 Ab(using) - 활용 혹은 남용?",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>pgRouting</strong>은 Postgres의 확장으로, 지리정보 시스템(GIS)에서 두 지점 간의 최단 경로를 찾는 데 주로 사용됨</li>\n<li>그러나 pgRouting은 지리공간 데이터 외에도 다양한 그래프 구조의 데이터를 처리하는 데 활용될 수 있음</li>\n<li>\n<strong>Apache AGE</strong>나 <strong>Neo4j</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19546",
+      "guid": "https://news.hada.io/topic?id=19546",
+      "pubDate": "2025-03-04T08:38:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "펜티엄에는 3을 곱하는 복잡한 회로가 포함되어 있음",
+      "description": {
+        "$text": "<ul>\n<li>1993년 Intel은 고성능 Pentium 프로세서를 출시했음\n<ul>\n<li>Pentium의 회로를 분석하던 중, 3으로 곱하는 복잡한 회로를 발견</li>\n<li>이 회로는 Pentium의 부동소수점 곱셈기 회로의 일부로, 64비트 숫자를 8진수 기반으로 곱셈함</li>\n</ul>\n</li>\n<li>\n<strong>8진수 기반 곱셈의 필요성</strong>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19545",
+      "guid": "https://news.hada.io/topic?id=19545",
+      "pubDate": "2025-03-04T08:36:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CSRF 보호와 CORS를 둘다 사용하는 이유는 무엇인가요?",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cross-Site Request</strong>를 고민하다 보니 CSRF 보호와 CORS가 둘 다 필요하다는 것이 처음에는 이해되지 않았음. 하지만 이를 설명하려면 많은 단어가 필요함</li>\n</ul>\n<h2>CSRF와 CORS</h2>\n<ul>\n<li>\n<strong>CSRF (Cross-Site Request Forgery)</strong>\n<ul>\n<li>과거에는 흔했지만, 현재는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19544",
+      "guid": "https://news.hada.io/topic?id=19544",
+      "pubDate": "2025-03-04T08:33:43+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
