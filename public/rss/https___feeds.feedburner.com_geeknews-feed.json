@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-04T23:30:51+09:00",
+  "lastBuildDate": "2025-03-05T10:27:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -22984,6 +22984,136 @@
       "guid": "https://news.hada.io/topic?id=19561",
       "pubDate": "2025-03-04T23:30:51+09:00",
       "author": "samchon",
+      "category": ""
+    },
+    {
+      "title": "4개의 클래식 Command & Conquer 타이틀이 이제 오픈 소스로 제공됩니다.",
+      "description": {
+        "$text": "<p>요약<br />\nEA는 자사의 네 가지 고전 Command &amp; Conquer 타이틀의 소스 코드를 공개해 GPL 라이센스 하에 무료로 제공하게 되었습니다.<br />\n공개된 타이틀에는 Command &amp; Conquer와 Red Alert의 원본 소스 코드, SAGE 엔진을 사용하는 Command &amp; Conquer: Renegade와 Command &amp; Conquer: Generals...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19576",
+      "guid": "https://news.hada.io/topic?id=19576",
+      "pubDate": "2025-03-05T10:27:04+09:00",
+      "author": "wedding",
+      "category": ""
+    },
+    {
+      "title": "초기 스타트업에서 엔지니어로 일한다는 것은",
+      "description": {
+        "$text": "<p>스타트업 열풍이 한 차례 지나간 2025년이지만 여전히 (초기) 스타트업의 엔지니어들이 회사에서 무슨 역할을 맡아야 하는지는 잘 정리되어 있지 않습니다. 실리콘밸리에서도 비슷한 질문이 엔지니어들 사이를 맴돌고 있는데요.</p>\n<p>미국의 투자사 basecase capital에서 실제 사례를 들어 스타트업의 엔지니어 역할",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19575",
+      "guid": "https://news.hada.io/topic?id=19575",
+      "pubDate": "2025-03-05T10:08:10+09:00",
+      "author": "nephtyws",
+      "category": ""
+    },
+    {
+      "title": "인스타그램 SEO는 무엇이고 어떻게 하는가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Instagram SEO</strong>는 Instagram 프로필과 콘텐츠를 최적화하여 <strong>더 많은 사람들이 발견할 수 있도록 하는 과정</strong>임</li>\n<li>이를 통해 사용자의 피드, 탐색(Explore), 릴스(Reels), Instagram 검색 결과 등에서 <strong>유료 광고 없이 노출도를 높일 수 있음</strong>\n</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19574",
+      "guid": "https://news.hada.io/topic?id=19574",
+      "pubDate": "2025-03-05T10:02:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TCP/IP 스택 코딩, 1: 이더넷 및 ARP (2016)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>TCP/IP 스택 구현</strong></p>\n<ul>\n<li>TCP/IP 스택을 직접 구현하는 것은 복잡한 작업처럼 보일 수 있음.</li>\n<li>TCP의 핵심 사양은 TCP 헤더 파싱, 상태 기계, 혼잡 제어 및 재전송 시간 초과 계산으로 구성됨.</li>\n<li>이 블로그 시리즈에서는 Linux에서 최소한의 사용자 공간 TCP/IP 스택",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19573",
+      "guid": "https://news.hada.io/topic?id=19573",
+      "pubDate": "2025-03-05T09:55:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "청년기와 그 상실의 영향",
+      "description": {
+        "$text": "<h2>젊음</h2>\n<h4>그리고 그것이 사라졌을 때 일어나는 일</h4>\n<ul>\n<li>\n<p><strong>그는 20대 초반에 자신의 책상 위에 타임라인을 걸어두었음</strong>. 18세부터 30세까지의 기간을 다루며, 자신이 존경하는 작가들이 첫 소설을 출판한 나이를 표시했음. 매년 생일마다 자신의 얼굴을 한 칸씩 앞으로 옮겼고, 결국...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19572",
+      "guid": "https://news.hada.io/topic?id=19572",
+      "pubDate": "2025-03-05T09:52:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "fastDOOM의 속도가 빠른 이유",
+      "description": {
+        "$text": "<h2>왜 FastDOOM이 빠른가</h2>\n<ul>\n<li>2024년 겨울, IBM PS/1 486-DX2 66Mhz 컴퓨터를 복원하며 FastDOOM을 테스트하게 되었음. 원래 DOOM은 21.5 fps였으나 FastDOOM은 30 fps로 30% 더 빠르게 실행되었음.</li>\n</ul>\n<h2>역사적 배경</h2>\n<ul>\n<li>DOOM은 NeXT Workstation에서 개발되었으며, DOS I/O는 id Softw...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19571",
+      "guid": "https://news.hada.io/topic?id=19571",
+      "pubDate": "2025-03-05T09:49:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "공중 보건 데이터 소실, RestoredCDC.org 복원 추진",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>RestoredCDC.org 소개</strong></p>\n<ul>\n<li>RestoredCDC.org은 독립적인 프로젝트로, CDC(질병통제예방센터)와 관련이 없으며, CDC.gov에서 무료로 제공되는 정보를 아카이브 형태로 제공함.</li>\n<li>2025년 1월 6일 이후의 최근 발병 정보는 포함되지 않으며, 비디오도 복원되지 않음.</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19570",
+      "guid": "https://news.hada.io/topic?id=19570",
+      "pubDate": "2025-03-05T09:46:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "`Reusable.email` - 재사용 가능한 임시 이메일 계정",
+      "description": {
+        "$text": "<ul>\n<li>스팸용 또는 다양한 용도로 사용 가능한 무료 임시 이메일 계정</li>\n<li>2개의 인박스 모드 제공\n<ul>\n<li>Unecrypted: 사용자 이름만 있으면 누구나 접근가능 <code>REUSABLE.EMAIL/any-name</code>\n</li>\n<li>Encrypted: 프라이빗 키가 있어야 접근 가능. 생성 및 복호화는 브라우저내에서 됨</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19569",
+      "guid": "https://news.hada.io/topic?id=19569",
+      "pubDate": "2025-03-05T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미국의 우크라이나에 대한 모든 군사 지원 중단",
+      "description": {
+        "$text": "<ul>\n<li>미국이 우크라이나에 대한 모든 군사 지원을 일시 중단하기로 결정함</li>\n<li>이는 도널드 트럼프 미국 대통령과 볼로디미르 젤렌스키 우크라이나 대통령 간의 백악관 회담이 공개적인 설전으로 끝난 후 이루어진 조치임</li>\n<li>트럼프 대통령은 우크라이나 지도자들이 평화 협상에 성실히 임하고 있다는 것...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19568",
+      "guid": "https://news.hada.io/topic?id=19568",
+      "pubDate": "2025-03-05T09:43:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bayleaf – 저소음 무선 스플릿 키보드 처음부터 직접 만들기",
+      "description": {
+        "$text": "<ul>\n<li>전자공학, PCB 제작, 제조 설계 및 기타 하드웨어기술을 전부 배워서 <strong>무선, 스플릿, 울트라 로우 프로파일 키보드</strong>를 제작 함</li>\n<li>빌드 과정부터 최종 결과물까지를 상세히 설명</li>\n</ul>\n<h2>BAYLEAF 무선 키보드</h2>\n<ul>\n<li>\n<strong>타입</strong>: 무선 및 분리형(Split)</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19567",
+      "guid": "https://news.hada.io/topic?id=19567",
+      "pubDate": "2025-03-05T09:40:30+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
