@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-05T19:16:42+09:00",
+  "lastBuildDate": "2025-03-05T21:33:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23153,6 +23153,19 @@
       "guid": "https://news.hada.io/topic?id=19579",
       "pubDate": "2025-03-05T19:16:42+09:00",
       "author": "kan02134",
+      "category": ""
+    },
+    {
+      "title": "사전 훈련 없이 ARC-AGI",
+      "description": {
+        "$text": "<h2>ARC-AGI란 무엇인가?</h2>\n<ul>\n<li>ARC-AGI는 2019년에 도입된 인공지능 벤치마크로, 최소한의 예시로부터 추상적인 규칙을 추론하고 일반화하는 시스템의 능력을 테스트하기 위해 설계됨.</li>\n<li>데이터셋은 IQ 테스트와 유사한 퍼즐로 구성되며, 각 퍼즐은 기본 규칙을 보여주는 여러 예제 이미지와 그 규칙을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19580",
+      "guid": "https://news.hada.io/topic?id=19580",
+      "pubDate": "2025-03-05T21:33:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
