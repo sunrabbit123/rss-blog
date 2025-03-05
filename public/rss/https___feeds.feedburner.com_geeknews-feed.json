@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-05T10:27:04+09:00",
+  "lastBuildDate": "2025-03-05T14:03:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23114,6 +23114,19 @@
       "guid": "https://news.hada.io/topic?id=19567",
       "pubDate": "2025-03-05T09:40:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, M3칩 탑재 iPad Air 및 신규 Magic Keyboard 공개",
+      "description": {
+        "$text": "<ul>\n<li>M3 (8코어 CPU, 9코어 GPU) 칩을 탑재한 11 / 13 두가지 사이즈 모델</li>\n<li>M1 대비 최대 60% 빠른 16코어 Neural Engine으로 AI 성능 향상</li>\n<li>Apple Pencil Pro 및 Apple Pencil(USB-C)과 호환</li>\n<li>블루, 퍼플, 스타라이트, 스페이스 그레이</li>\n</ul>\n<h2>새로운 Magic Keyboard</h2>\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19577",
+      "guid": "https://news.hada.io/topic?id=19577",
+      "pubDate": "2025-03-05T14:03:21+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
