@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-05T14:03:21+09:00",
+  "lastBuildDate": "2025-03-05T15:33:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23127,6 +23127,19 @@
       "guid": "https://news.hada.io/topic?id=19577",
       "pubDate": "2025-03-05T14:03:21+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2백만 명 이상의 아기 생명을 구한 헌혈자 제임스 해리슨 별세",
+      "description": {
+        "$text": "<h4>부고</h4>\n<ul>\n<li>호주의 가장 많은 혈액 및 혈장 기부자였던 제임스 해리슨이 88세의 나이로 별세함. &quot;황금 팔을 가진 남자&quot;로 알려진 해리슨은 50년 이상 동안 240만 명의 아기들의 생명을 구한 것으로 평가받음.</li>\n</ul>\n<h4>호주의 '황금 팔을 가진 남자'가 240만 명의 아기를 구한 후 은퇴</h4>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19578",
+      "guid": "https://news.hada.io/topic?id=19578",
+      "pubDate": "2025-03-05T15:33:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
