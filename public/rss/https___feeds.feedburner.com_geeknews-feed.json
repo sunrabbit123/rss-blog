@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-06T09:52:40+09:00",
+  "lastBuildDate": "2025-03-06T10:07:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23295,6 +23295,71 @@
       "link": "https://news.hada.io/topic?id=19582",
       "guid": "https://news.hada.io/topic?id=19582",
       "pubDate": "2025-03-06T09:25:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, 영국 정부의 '백도어' 명령에 반발하며 소송 제기",
+      "description": {
+        "$text": "<ul>\n<li>애플이 영국 정부가 iCloud 데이터 암호화를 해제하도록 강제하는 명령에 반발하며 영국 조사권한재판소(IPT)에 법적 소송을 제기함</li>\n<li>이는 IPT에 접수된 최초의 사례로, 해당 기관은 공공 기관이나 영국 정보기관의 불법적인 행동에 대한 법적 불만을 심사하는 독립적인 사법 기관임</li>\n</ul>\n<h2>영...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19596",
+      "guid": "https://news.hada.io/topic?id=19596",
+      "pubDate": "2025-03-06T10:07:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 개발 과정 8부 - 학습 가능한 Self-Attention 기술",
+      "description": {
+        "$text": "<h2>블로그 소개</h2>\n<ul>\n<li>Sebastian Raschka의 책 &quot;Build a Large Language Model (from Scratch)&quot;를 기반으로 한 블로그 시리즈의 여덟 번째 글임.</li>\n<li>이번 글에서는 &quot;trainable self-attention&quot;을 구현하는 방법을 다루고 있음.</li>\n</ul>\n<h2>GPT-유형 디코더 전용 트랜스포머 기반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19595",
+      "guid": "https://news.hada.io/topic?id=19595",
+      "pubDate": "2025-03-06T10:04:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Tailscale은 꽤 유용합니다",
+      "description": {
+        "$text": "<ul>\n<li>Tailscale을 최근에 사용하기 시작했음. Raspberry Pi에서 간단한 서버를 운영하면서 Tailscale의 필요성을 느꼈음. 집에서는 로컬 IP로 쉽게 접속할 수 있지만, 외부에서는 불가능했음. 과거에는 DDNS를 사용했지만, CGNAT 때문에 더 이상 불가능해졌음. 포트 포워딩도 불가능해졌음.</li>\n<li>Tailscale은 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19594",
+      "guid": "https://news.hada.io/topic?id=19594",
+      "pubDate": "2025-03-06T10:01:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국의 좌절(demoralization), 이제 시작일 뿐",
+      "description": {
+        "$text": "<ul>\n<li>미국과 중국의 <strong>주요 무역 파트너 관계</strong>는 지난 20년간 크게 변화해 왔음\n<ul>\n<li>\n<strong>2000년</strong>: 대부분의 국가가 미국을 주요 무역 파트너로 삼고 있었음</li>\n<li>\n<strong>2020년</strong>: 중국이 전 세계적으로 주요 무역 파트너로 부상하며, 많은 국가가 미국에서 중국으로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19593",
+      "guid": "https://news.hada.io/topic?id=19593",
+      "pubDate": "2025-03-06T09:58:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리처드 서튼과 앤드류 바르토, 2024 튜링상 수상",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology</h2>\n</li>\n<li>\n<h3>Andrew Barto and Richard Sutton Recognized as Pioneers of Reinforcement Learning</h3>\n<ul>\n<li>ACM은 2024년 ACM A.M. Turing Award 수상자로 Andrew G. Barto와 Richard ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19592",
+      "guid": "https://news.hada.io/topic?id=19592",
+      "pubDate": "2025-03-06T09:55:40+09:00",
       "author": "neo",
       "category": ""
     }
