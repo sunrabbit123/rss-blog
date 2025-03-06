@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-05T21:33:59+09:00",
+  "lastBuildDate": "2025-03-06T09:52:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23165,6 +23165,136 @@
       "link": "https://news.hada.io/topic?id=19580",
       "guid": "https://news.hada.io/topic?id=19580",
       "pubDate": "2025-03-05T21:33:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "맥북 에어 M4 출시",
+      "description": {
+        "$text": "<h3>디자인</h3>\n<ul>\n<li>\n<p><strong>휴대성을 고려한 설계</strong><br />\nMacBook Air는 놀랍도록 가볍고 두께가 반 인치도 되지 않아 이동 중에도 쉽게 휴대할 수 있음. M4 칩이 장착된 MacBook Air는 50% 이상 재활용 소재로 만들어졌으며, 내구성이 뛰어난 재활용 알루미늄 외장을 가짐.</p>\n</li>\n<li>\n<p><stro",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19591",
+      "guid": "https://news.hada.io/topic?id=19591",
+      "pubDate": "2025-03-06T09:52:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mox – 현대적이고 안전한 올인원 이메일 서버",
+      "description": {
+        "$text": "<h2>Mox - 현대적이고 안전한 올인원 이메일 서버</h2>\n<ul>\n<li>\n<p><strong>완전한 이메일 솔루션</strong></p>\n<ul>\n<li>Mox는 이메일 송수신을 위한 완전한 솔루션을 제공함.</li>\n<li>IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE, DNSSEC 등을 지원하며, 명성 기반 및 콘텐츠 기반의 스팸 필터링, 국제화(IDNA),",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19590",
+      "guid": "https://news.hada.io/topic?id=19590",
+      "pubDate": "2025-03-06T09:49:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "세계 최초 인간 뇌 세포 기반 \"생물학적 컴퓨터\" 상용화",
+      "description": {
+        "$text": "<p>Cortical Labs의 CL1, 생물학적 AI 시대 개막</p>\n<ul>\n<li>호주 Cortical Labs가 인간 뇌 세포와 실리콘 하드웨어를 결합한 세계 최초 **&quot;생물학적 컴퓨터(CL1)&quot;**를 공식 출시.</li>\n<li>기존 AI보다 더 역동적, 지속 가능하며 에너지 효율적인 컴퓨팅 기술로 평가됨.</li>\n<li>2025년 하반기부터 본격적",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19589",
+      "guid": "https://news.hada.io/topic?id=19589",
+      "pubDate": "2025-03-06T09:47:40+09:00",
+      "author": "parkindani",
+      "category": ""
+    },
+    {
+      "title": "서드파티 프린터 잉크 카트리지 잠금 혐의 받은 Brother",
+      "description": {
+        "$text": "<h2>주변기기</h2>\n<ul>\n<li>Brother가 강제 펌웨어 업데이트를 통해 서드파티 프린터 잉크 카트리지를 잠그고, 구형 펌웨어 버전을 지원 포털에서 제거했다는 비난을 받고 있음.</li>\n<li>유명한 수리 유튜버 Louis Rossmann은 Brother의 이러한 변화에 실망감을 표명했으며, Brother가 &quot;소비자에게 반하는 프린터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19588",
+      "guid": "https://news.hada.io/topic?id=19588",
+      "pubDate": "2025-03-06T09:46:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SmartestKid - 윈도우 데스크탑용 AI 어시스턴트 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>약 1000줄의 파이썬 코드로 구축된 Windows 데스크톱 AI 어시스턴트\n<ul>\n<li>OpenAI API 키 필요</li>\n</ul>\n</li>\n<li>Windows의 COM Automation을 사용하여 Microsoft Office(Word, Excel), 이미지 및 파일 시스템과 연동</li>\n<li>채팅 인터페이스. 음성/텍스트 입력간 전환</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19587",
+      "guid": "https://news.hada.io/topic?id=19587",
+      "pubDate": "2025-03-06T09:45:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플 M3 울트라 출시",
+      "description": {
+        "$text": "<h2>M3 Ultra 공개</h2>\n<ul>\n<li>Apple은 M3 Ultra를 발표하며, 이는 M1 Ultra 대비 최대 2.6배의 성능을 제공하고 Thunderbolt 5 연결 및 개인용 컴퓨터에서 가장 많은 통합 메모리를 지원함.</li>\n<li>M3 Ultra는 32코어 CPU, 80코어 GPU, 두 배의 Neural Engine 코어, Thunderbolt 5, 그리고 개인용 컴퓨터에서 가장...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19586",
+      "guid": "https://news.hada.io/topic?id=19586",
+      "pubDate": "2025-03-06T09:43:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"벤처 캐피탈 3.0\"이 AI 시대의 창업자에게 미치는 영향",
+      "description": {
+        "$text": "<ul>\n<li>벤처 캐피털(VC) 산업이 변화하고 있고, 창업자들이 이러한 변화를 이해하는 것은 중요함</li>\n<li>VC의 변화와 그로 인한 창업자들에게 미치는 영향에 대한 7가지 주요 사항들을 정리</li>\n</ul>\n<h2>1. 아이디어를 위한 자금 조달이 그 어느 때보다 쉬워짐</h2>\n<ul>\n<li>현재 창업자들은 매우 유리한 시대에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19585",
+      "guid": "https://news.hada.io/topic?id=19585",
+      "pubDate": "2025-03-06T09:37:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, M4 Max 및 M3 Ultra 칩 탑재한 Mac Studio 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>M4 Max</strong> : 14/16 코어 CPU, 32/40 코어 GPU, 16코어 뉴럴 엔진, 36/48/64/128GB 메모리, 512GB 및 1/2/4/8TB SSD, 3,290,000원부터\n<ul>\n<li>최대 5대 디스플레이 : 60HZ 6K 4대 + 144HZ 4K 1대, 60HZ 6K 2대 + 60HZ 8K / 240HZ 4K 1대</li>\n</ul>\n</li>\n<li>\n<strong>M3 Ultra</strong> : 28...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19584",
+      "guid": "https://news.hada.io/topic?id=19584",
+      "pubDate": "2025-03-06T09:30:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI가 기술 면접을 죽였다. 이제 어떻게 할까?",
+      "description": {
+        "$text": "<ul>\n<li>채용 프로세스는 누구가 싫어함. 채용 관리자도, 담당자도, 지원자도 마찬가지</li>\n<li>기술 면접은 그중에서도 악명 높은 단계인데, 면접자 대부분이 싫어함</li>\n<li>실제 업무는 <strong>간단한 API 연결 위주</strong>인데, 면접에서는 <strong>복잡한 이론과 알고리듬</strong> 등을 묻는 상황을 종종 볼...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19583",
+      "guid": "https://news.hada.io/topic?id=19583",
+      "pubDate": "2025-03-06T09:26:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Agents.json - LLM을 위한 OpenAI 스펙",
+      "description": {
+        "$text": "<ul>\n<li>OpenAPI 표준을 기반으로 LLM과 API 간의 명확한 계약을 정의하는 오픈 스펙\n<ul>\n<li>API 호출을 목적 기반의 도구로 구성하여 LLM이 쉽게 사용할 수 있도록 함</li>\n</ul>\n</li>\n<li>기존 OpenAPI 문서만으로는 LLM이 적절한 API를 선택하고 호출하는 데 어려움이 있었음\n<ul>\n<li>agents.json은 API 호출 과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19582",
+      "guid": "https://news.hada.io/topic?id=19582",
+      "pubDate": "2025-03-06T09:25:16+09:00",
       "author": "neo",
       "category": ""
     }
