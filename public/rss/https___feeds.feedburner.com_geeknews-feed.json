@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-06T16:33:22+09:00",
+  "lastBuildDate": "2025-03-06T19:33:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23399,6 +23399,19 @@
       "link": "https://news.hada.io/topic?id=19599",
       "guid": "https://news.hada.io/topic?id=19599",
       "pubDate": "2025-03-06T16:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "QwQ-32B: 강화 학습의 힘을 수용하는 기술",
+      "description": {
+        "$text": "<h3>QwQ-32B 모델 소개</h3>\n<ul>\n<li>QwQ-32B는 320억 개의 파라미터를 가진 모델로, DeepSeek-R1과 유사한 성능을 보임.</li>\n<li>이 모델은 대규모 언어 모델의 지능을 강화하기 위해 강화 학습(RL)을 활용함.</li>\n<li>Hugging Face와 ModelScope에서 Apache 2.0 라이선스로 공개되어 있으며, Qwen Chat을 통해 접근...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19600",
+      "guid": "https://news.hada.io/topic?id=19600",
+      "pubDate": "2025-03-06T19:33:07+09:00",
       "author": "neo",
       "category": ""
     }
