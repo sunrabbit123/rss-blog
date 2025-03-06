@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-06T13:58:47+09:00",
+  "lastBuildDate": "2025-03-06T16:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23387,6 +23387,19 @@
       "guid": "https://news.hada.io/topic?id=19598",
       "pubDate": "2025-03-06T13:58:47+09:00",
       "author": "sunrabbit",
+      "category": ""
+    },
+    {
+      "title": "애플, 새로운 Mac Studio 공개",
+      "description": {
+        "$text": "<h2>Apple, 새로운 Mac Studio 발표</h2>\n<ul>\n<li>\n<p><strong>Mac Studio 소개</strong></p>\n<ul>\n<li>Apple은 M4 Max와 새로운 M3 Ultra 칩을 탑재한 가장 강력한 Mac Studio를 발표함</li>\n<li>Thunderbolt 5, 최대 512GB의 통합 메모리, 최대 16TB SSD를 갖춘 컴팩트한 디자인으로 탁월한 성능 제공</li>\n<li>AI 및",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19599",
+      "guid": "https://news.hada.io/topic?id=19599",
+      "pubDate": "2025-03-06T16:33:22+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
