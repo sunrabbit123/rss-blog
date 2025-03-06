@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-06T19:33:07+09:00",
+  "lastBuildDate": "2025-03-06T23:11:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23412,6 +23412,45 @@
       "link": "https://news.hada.io/topic?id=19600",
       "guid": "https://news.hada.io/topic?id=19600",
       "pubDate": "2025-03-06T19:33:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딥 리서치, 딥 리서치, 딥 리서치의 차이점",
+      "description": {
+        "$text": "<ul>\n<li>최근 AI랩들은 ‘<strong>딥 리서치(Deep Research)</strong>’라는 용어를 사용하여 다양한 기능을 발표하고 있음</li>\n<li>\n<strong>Google</strong>은 2024년 12월 Gemini 1.5 Deep Research를, <strong>OpenAI</strong>는 2025년 2월 Deep Research를, <strong>Perplexity</strong>는 그 직후 자체 Deep Re...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19603",
+      "guid": "https://news.hada.io/topic?id=19603",
+      "pubDate": "2025-03-06T23:11:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "소비자 심리가 AI 제품 설계에 미치는 영향",
+      "description": {
+        "$text": "<ul>\n<li>AI 제품의 인터페이스가 너무 복잡하여 일반 사용자가 사용하기 어려움\n<ul>\n<li>\n<strong>사용자 친화적</strong>이고 <strong>직관적인 인터페이스</strong> 필요성이 증가</li>\n</ul>\n</li>\n<li>사용자 심리 ( 이케아 효과, 선택의 역설, 밴드왜건 효과, 소소유 효과, 문전 걸치기) 를 AI에 적용해보기</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19602",
+      "guid": "https://news.hada.io/topic?id=19602",
+      "pubDate": "2025-03-06T23:00:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Parquet와 Polars로 텍스트 임베딩을 효율적으로 사용하는 방법",
+      "description": {
+        "$text": "<h2>텍스트 임베딩을 휴대 가능하게 사용하는 최고의 방법은 Parquet와 Polars</h2>\n<ul>\n<li>텍스트 임베딩은 대형 언어 모델에서 생성된 벡터로, 단어, 문장, 문서를 수치적으로 표현하는 방식임</li>\n<li>2025년 2월 기준, 총 32,254개의 &quot;매직: 더 개더링&quot; 카드 임베딩을 생성함</li>\n<li>이를 통해 카드의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19601",
+      "guid": "https://news.hada.io/topic?id=19601",
+      "pubDate": "2025-03-06T22:53:20+09:00",
       "author": "neo",
       "category": ""
     }
