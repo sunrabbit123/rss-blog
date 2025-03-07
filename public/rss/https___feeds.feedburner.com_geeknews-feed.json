@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-07T21:08:12+09:00",
+  "lastBuildDate": "2025-03-07T22:11:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23660,6 +23660,19 @@
       "guid": "https://news.hada.io/topic?id=19619",
       "pubDate": "2025-03-07T21:08:12+09:00",
       "author": "jujumilk3",
+      "category": ""
+    },
+    {
+      "title": "로컬 우선(Local-First) 소프트웨어가 미래인 이유와 그 한계점",
+      "description": {
+        "$text": "<p>로컬 우선(Local-First) 소프트웨어는 사용자 데이터를 클라우드 서버가 아닌 사용자의 기기에 직접 저장하여 데이터 보안, 속도 향상 및 오프라인 사용성을 보장하는 소프트웨어 개발 방식입니다. 그러나 이러한 방식은 여러 기기 간 데이터 동기화 및 충돌 관리에서 기술적 어려움을 동반합니다. 이 글에서는 로컬 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19620",
+      "guid": "https://news.hada.io/topic?id=19620",
+      "pubDate": "2025-03-07T22:11:44+09:00",
+      "author": "kokolo",
       "category": ""
     }
   ]
