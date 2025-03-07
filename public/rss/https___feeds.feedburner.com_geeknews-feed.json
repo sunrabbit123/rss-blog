@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-07T16:33:22+09:00",
+  "lastBuildDate": "2025-03-07T18:33:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23634,6 +23634,19 @@
       "guid": "https://news.hada.io/topic?id=19617",
       "pubDate": "2025-03-07T14:14:49+09:00",
       "author": "iolothebard",
+      "category": ""
+    },
+    {
+      "title": "간결한(Succinct) 데이터 구조",
+      "description": {
+        "$text": "<ul>\n<li>성능 최적화를 위해 논문을 읽던 중 <strong>Succinct Data Structures(간결한 데이터 구조)</strong> 개념을 처음 접하게 됨</li>\n<li>관련 논문을 찾다가 저명한 연구자인 <strong>Gonzalo Navarro</strong> 교수와 직접 연락을 주고받음</li>\n<li>기존의 배열, 해시맵, 트리 등과 달리 왜 이러한 데이터 구조...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19618",
+      "guid": "https://news.hada.io/topic?id=19618",
+      "pubDate": "2025-03-07T18:33:35+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
