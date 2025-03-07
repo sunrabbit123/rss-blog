@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-07T18:33:35+09:00",
+  "lastBuildDate": "2025-03-07T21:08:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23647,6 +23647,19 @@
       "guid": "https://news.hada.io/topic?id=19618",
       "pubDate": "2025-03-07T18:33:35+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: ezmcp - fastapi스타일로 간단하게 만드는 sse mcp 서버",
+      "description": {
+        "$text": "<p>MCP 서버에 대해서 이리저리 알아보고 테스트해보고 구현해보는 와중에 stdio모드와 sse모드에서 진짜 잠재력은 sse에 있다고 생각해서 최대한 간단하게 sse에만 특화된 형태로 구현해보았습니다.</p>\n<p>데코레이터를 통한 tools등록 기능과 순차적인 middleware 등록 기능, docs기능 등 여러 개를 fastapi에서 차용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19619",
+      "guid": "https://news.hada.io/topic?id=19619",
+      "pubDate": "2025-03-07T21:08:12+09:00",
+      "author": "jujumilk3",
       "category": ""
     }
   ]
