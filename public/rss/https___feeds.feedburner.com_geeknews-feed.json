@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-07T11:58:32+09:00",
+  "lastBuildDate": "2025-03-07T14:14:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23621,6 +23621,19 @@
       "guid": "https://news.hada.io/topic?id=19612",
       "pubDate": "2025-03-07T11:13:25+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "M3 ultra 512G는 3090보다 조금 딸리는 정도",
+      "description": {
+        "$text": "<p>M3 ultra 512G는 약간 열화된 3090정도인데,<br />\n메모리 대역을 고려해서<br />\nM4 ultra는 가격만 10k 언저리에 나오면 쓸만할지도…</p>\n<p>(DeepL 번역)</p>\n<p>M3 울트라는 512GB로 약간 약화된 3090입니다.</p>\n<p>결론적으로, 3090의 경우 최대 구성에서 114.688TFLOPS FP16 대 142.32TFLOPS FP16, 메모리 대",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19617",
+      "guid": "https://news.hada.io/topic?id=19617",
+      "pubDate": "2025-03-07T14:14:49+09:00",
+      "author": "iolothebard",
       "category": ""
     }
   ]
