@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-08T10:38:46+09:00",
+  "lastBuildDate": "2025-03-08T12:33:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23789,6 +23789,19 @@
       "link": "https://news.hada.io/topic?id=19629",
       "guid": "https://news.hada.io/topic?id=19629",
       "pubDate": "2025-03-08T10:38:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "크롬 135버전부터 버튼에 command 및 commandfor 도입",
+      "description": {
+        "$text": "<ul>\n<li>버튼은 동적 웹 애플리케이션을 만드는 데 필수임. 메뉴를 열고, 작업을 전환하고, 폼을 제출하는데 사용</li>\n<li>Chrome 135에서는 새로운 <code>command</code> 및 <code>commandfor</code> 속성으로 이전의 <code>popovertargetaction</code> 및 <code>popovertarget</code> 속성을 개선하고 대체함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19630",
+      "guid": "https://news.hada.io/topic?id=19630",
+      "pubDate": "2025-03-08T12:33:16+09:00",
       "author": "neo",
       "category": ""
     }
