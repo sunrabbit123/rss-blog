@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-08T12:33:16+09:00",
+  "lastBuildDate": "2025-03-08T15:03:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23803,6 +23803,19 @@
       "guid": "https://news.hada.io/topic?id=19630",
       "pubDate": "2025-03-08T12:33:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Manus - 사고와 행동을 연결하는 범용 AI 에이전트",
+      "description": {
+        "$text": "<ul>\n<li>문제를 분석하고 작업을 수행해서 결과를 만들어내는 <strong>자동화된 에이전트</strong>\n</li>\n<li>작동 예제\n<ul>\n<li>\n<strong>이력서 스크리닝</strong> : zip으로 압축된 이력서 묶음을 업로드하면 압축풀고 각 이력서에서 중요한 내용을 캡쳐하여 분석. 평가기준과 함께 상위 후보자를 추천. 엑셀로 결과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19632",
+      "guid": "https://news.hada.io/topic?id=19632",
+      "pubDate": "2025-03-08T15:03:36+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
