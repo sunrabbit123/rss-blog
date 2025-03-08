@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-08T09:59:34+09:00",
+  "lastBuildDate": "2025-03-08T10:38:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23777,6 +23777,19 @@
       "guid": "https://news.hada.io/topic?id=19621",
       "pubDate": "2025-03-08T09:32:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Anthropic, 기업 가치 90조원으로 평가 받으며 5조원 신규 투자 유치",
+      "description": {
+        "$text": "<ul>\n<li>Anthropic이 기업 가치 <strong>$61.5B(90조원)</strong> 로 평가됨. 기존 약 $16B 에서 급상승</li>\n<li>VC Lightspeed의 주도로 <strong>$3.5B(5조원)</strong> 의 자금 유입되고, 설립 이후 현재까지 총 <strong>$14.5B(21조원)</strong> 의 자금 조달\n<ul>\n<li>주요 투자자: <strong>Amazon, Google, Sales...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19629",
+      "guid": "https://news.hada.io/topic?id=19629",
+      "pubDate": "2025-03-08T10:38:46+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
