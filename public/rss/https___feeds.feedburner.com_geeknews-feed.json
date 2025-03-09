@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-09T10:34:14+09:00",
+  "lastBuildDate": "2025-03-09T11:33:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23958,6 +23958,19 @@
       "link": "https://news.hada.io/topic?id=19635",
       "guid": "https://news.hada.io/topic?id=19635",
       "pubDate": "2025-03-09T09:40:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kagi, Orion 웹 브라우저의 리눅스 출시 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Kagi의 Orion 웹 브라우저가 Linux로 출시됨</strong></p>\n<ul>\n<li>Kagi는 유료, 개인 검색 엔진을 운영하는 회사로, WebKit 기반의 Orion 웹 브라우저를 Linux로 출시할 것이라고 발표함</li>\n<li>현재 Orion은 macOS와 iOS에서만 사용 가능하며, Apple의 Safari보다 우수하고 Google Chrome, Mo",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19644",
+      "guid": "https://news.hada.io/topic?id=19644",
+      "pubDate": "2025-03-09T11:33:12+09:00",
       "author": "neo",
       "category": ""
     }
