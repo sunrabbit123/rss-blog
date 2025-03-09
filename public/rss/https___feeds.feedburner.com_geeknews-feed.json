@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-09T17:33:32+09:00",
+  "lastBuildDate": "2025-03-09T17:47:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23998,6 +23998,19 @@
       "guid": "https://news.hada.io/topic?id=19646",
       "pubDate": "2025-03-09T17:33:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 지피티 내가한 질문목록 한눈에 보는 크롬 확장 프로그램",
+      "description": {
+        "$text": "<p>ChatGpt 탭에서 질문이 길어지면 어떤 질문을 했는지 기억하는 데 어려움을 겪는 분들이 있나요?<br />\n저의 경우, 질문을 한 눈에 보기 위해 따로 메모를 한 다음 답변을 복사해야 하는데 귀찮아서 크롬 확장 프로그램을 만들었습니다.<br />\n프로토타입 수준이긴한데, 써보시고 평가주시면 감사하겠습니다~!</p>\n<o",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19647",
+      "guid": "https://news.hada.io/topic?id=19647",
+      "pubDate": "2025-03-09T17:47:45+09:00",
+      "author": "dbsrbals26",
       "category": ""
     }
   ]
