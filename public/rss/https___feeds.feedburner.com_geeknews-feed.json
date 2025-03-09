@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-09T17:47:45+09:00",
+  "lastBuildDate": "2025-03-09T23:04:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24011,6 +24011,19 @@
       "guid": "https://news.hada.io/topic?id=19647",
       "pubDate": "2025-03-09T17:47:45+09:00",
       "author": "dbsrbals26",
+      "category": ""
+    },
+    {
+      "title": "Show GN: until – 노션처럼 쉽고 강력한 블로그 플랫폼",
+      "description": {
+        "$text": "<p>[서비스 소개]</p>\n<p>until은 누구나 노션처럼 쉽게 블로그를 만들고 운영할 수 있는 서비스입니다.<br />\n개발자뿐만 아니라 비개발자도 쉽고 빠르게 글을 작성하고 공유할 수 있도록 설계되었습니다.</p>\n<p>처음에는 노션 데이터베이스를 연동한 기술 블로그를 오픈소스로 공개했는데, 예상보다 많은 관심을 받았",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19648",
+      "guid": "https://news.hada.io/topic?id=19648",
+      "pubDate": "2025-03-09T23:04:52+09:00",
+      "author": "mini4614",
       "category": ""
     }
   ]
