@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-09T15:27:21+09:00",
+  "lastBuildDate": "2025-03-09T17:33:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -23985,6 +23985,19 @@
       "guid": "https://news.hada.io/topic?id=19645",
       "pubDate": "2025-03-09T15:27:21+09:00",
       "author": "tetro",
+      "category": ""
+    },
+    {
+      "title": "미 법무부, Google의 Chrome 매각 여전히 원해",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>DOJ, Google에 Chrome 매각 요구</h2>\n<ul>\n<li>미국 법무부는 Google이 Chrome 브라우저를 매각할 것을 요구하는 최종 제안서를 제출함.</li>\n<li>Google은 검색 엔진의 우선 배치를 위해 파트너에게 지불하는 것을 중단해야 하며, Chrome을 매각해야 함.</li>\n<li>Google은 경쟁사와의 새로운 협력이나 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19646",
+      "guid": "https://news.hada.io/topic?id=19646",
+      "pubDate": "2025-03-09T17:33:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
