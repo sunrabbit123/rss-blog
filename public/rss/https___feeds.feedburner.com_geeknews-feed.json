@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-09T23:04:52+09:00",
+  "lastBuildDate": "2025-03-10T09:07:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24024,6 +24024,19 @@
       "guid": "https://news.hada.io/topic?id=19648",
       "pubDate": "2025-03-09T23:04:52+09:00",
       "author": "mini4614",
+      "category": ""
+    },
+    {
+      "title": "전문가 머릿속에서는 대체 무슨 일이 벌어지고 있을까",
+      "description": {
+        "$text": "<h2>개요</h2>\n<ul>\n<li>미국의 심리학자 <a href=\"https://en.wikipedia.org/wiki/Gary_A._Klein\">개리 클라인</a>은 소방관, 응급실 간호사, 비행기 조종사 등 급박한 현장에서 전문성을 발휘해야 하는 사람들을 수십년간 연구한 '전문성 전문가'임</li>\n<li>클라인은 전문가들에 대한 심층 인터뷰와 관찰을 통해, 문제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19649",
+      "guid": "https://news.hada.io/topic?id=19649",
+      "pubDate": "2025-03-10T09:07:52+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
