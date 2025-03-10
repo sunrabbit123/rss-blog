@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T09:07:52+09:00",
+  "lastBuildDate": "2025-03-10T11:02:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24037,6 +24037,136 @@
       "guid": "https://news.hada.io/topic?id=19649",
       "pubDate": "2025-03-10T09:07:52+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "향후 10년은 AI 에이전트 이코노미의 시대가 될 것",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트의 시대가 도래하고 있음. 곧 AI Agent가 수행하지 못하는 작업은 거의 없을 것으로 예상</li>\n<li>AI Agent를 만들고 운영하는 프레임워크가 빠르게 발전 중이며, 구축 비용과 난이도가 점점 낮아지는 추세</li>\n<li>이제부터는 다양한 산업에서 AI Agent를 활용해 작업을 의뢰하고, 거래하고, 협력...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19662",
+      "guid": "https://news.hada.io/topic?id=19662",
+      "pubDate": "2025-03-10T11:02:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Smart-turn - 오픈소스 오디오 턴 감지 모델",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>턴 감지</strong>는 음성 AI 스택에서 가장 중요한 기능 중 하나로, 사람이 말할 때 음성 에이전트가 <strong>응답해야 할 타이밍을 결정</strong>하는 기술</li>\n<li>대부분의 음성 에이전트는 VAD(Voice Activity Detection) 기반으로 오디오를 음성 및 비음성 세그먼트로 구분하여 <strong>음향적,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19661",
+      "guid": "https://news.hada.io/topic?id=19661",
+      "pubDate": "2025-03-10T11:01:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CTO를 뽑는 방법 - 코슬라벤처스",
+      "description": {
+        "$text": "<ul>\n<li>기술 스타트업의 CTO는 <strong>회사의 성패를 좌우</strong>함\n<ul>\n<li>실현 가능성과 야망을 바탕의 제품의 <strong>기술적 비전</strong>을 설정</li>\n<li>시드 단계에서는 <strong>제품의 첫 번째 버전</strong>을 만들고 제품-시장 적합성(<strong>PMF</strong>) 달성할 때까지 반복</li>\n<li>성장 단계에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19660",
+      "guid": "https://news.hada.io/topic?id=19660",
+      "pubDate": "2025-03-10T10:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트 시장 지도",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트 스타트업 170여 개를 26개의 카테고리로 분류한 시장 지도\n<ul>\n<li>또한 AI 에이전트 기술 발전 현황과 한계점 및 향후 전망을 분석</li>\n</ul>\n</li>\n</ul>\n<h2>개요 및 시장 현황</h2>\n<ul>\n<li>AI 에이전트(자율적이고 의사결정 범위가 넓은 시스템)는 개념을 넘어 실제로 기업 환경에 빠르게 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19659",
+      "guid": "https://news.hada.io/topic?id=19659",
+      "pubDate": "2025-03-10T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Leaflet - 문서 작성 및 공유를 위한 웹앱",
+      "description": {
+        "$text": "<ul>\n<li>빠르고 가벼우면서도 리치 블록과 멀티 페이지를 지원하는 문서 작성 웹앱</li>\n<li>\n<strong>Notion과 Google Docs 사이의 균형</strong>을 찾는 것을 목표로 개발</li>\n<li>계정 없이도 즉시 문서 생성 &amp; 작성 가능</li>\n<li>간편한 공유 가능하며 읽기 및 편집 링크 제공</li>\n<li>이메일 로그인으로 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19658",
+      "guid": "https://news.hada.io/topic?id=19658",
+      "pubDate": "2025-03-10T10:17:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Apple의 '더 개인화된 Siri' 출시 내년으로 연기",
+      "description": {
+        "$text": "<ul>\n<li>애플 대변인 Jacqueline Roy의 공식 성명:\n<ul>\n<li>Siri는 사용자들이 필요한 정보를 빠르게 찾고 작업을 수행하도록 돕고 있음</li>\n<li>지난 6개월 동안 Siri에 대화형 기능을 추가하고, '타이핑으로 Siri' 및 제품 지식 기능을 도입했으며 ChatGPT와의 통합을 구현함</li>\n<li>더 개인화된 Siri를 통해 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19657",
+      "guid": "https://news.hada.io/topic?id=19657",
+      "pubDate": "2025-03-10T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "디스크월드 규칙",
+      "description": {
+        "$text": "<h2>Discworld 규칙</h2>\n<ul>\n<li>\n<strong>LOTR와 기술자들</strong>: '반지의 제왕'은 훌륭한 이야기지만, 기술자들에게는 잘못된 사회와 기술의 비유로 여겨짐. 이 이야기는 선택받은 자들이 암흑 군주와 싸우며 몰락하는 세계를 다루고 있음.</li>\n<li>\n<strong>Discworld의 우월성</strong>: Terry Pratchett의 'D...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19656",
+      "guid": "https://news.hada.io/topic?id=19656",
+      "pubDate": "2025-03-10T10:00:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Presenterm - 터미널에서 Markdown 슬라이드쇼 하기",
+      "description": {
+        "$text": "<ul>\n<li>터미널에서 마크다운 형식으로 프레젠테이션을 만들고 실행할 수 있는 도구</li>\n<li>이미지와 애니메이션 GIF 지원, 고도로 커스터마이징 가능한 테마, 코드 하이라이팅, PDF 형식으로 프레젠테이션 내보내기 등 다양한 기능을 제공</li>\n<li>단일 마크다운 파일로 프레젠테이션 구성 가능</li>\n<li>\n<code>ki...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19655",
+      "guid": "https://news.hada.io/topic?id=19655",
+      "pubDate": "2025-03-10T09:57:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Mr. Worldwide로부터 매일 지혜를 얻는 앱 개발",
+      "description": {
+        "$text": "<ul>\n<li>&quot;성공은 최고의 복수임&quot;이라는 Mr. Worldwide의 지혜.</li>\n<li>6월 29일 19:30까지의 카운트다운.</li>\n<li>Pitbull의 음악을 배경으로 즐길 수 있는 옵션 제공.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19654",
+      "guid": "https://news.hada.io/topic?id=19654",
+      "pubDate": "2025-03-10T09:54:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왜 해고는 효과가 없는가",
+      "description": {
+        "$text": "<ul>\n<li>2001년 9/11 테러 이후 미국 항공업계에서 약 81,000개의 일자리가 사라짐</li>\n<li>아메리칸항공, US 에어웨이즈, 유나이티드항공 등 주요 항공사가 직원의 15~23%를 감축</li>\n<li>사우스웨스트항공은 유일하게 <strong>해고를 하지 않음</strong>\n<ul>\n<li>신규 항공기 구매 연기 및 본사 리모델링 취소 등으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19653",
+      "guid": "https://news.hada.io/topic?id=19653",
+      "pubDate": "2025-03-10T09:51:30+09:00",
+      "author": "neo",
       "category": ""
     }
   ]

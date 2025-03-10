@@ -660,6 +660,15 @@
       "pubDate": "Sat, 22 Feb 2025 11:03:53 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] 인공지능이 만든 웹으로 서비스를 오픈할 수 있을까?",
+      "description": "안녕하세요 멍개입니다. 지난시간에 가장 대중적인 LLM 서비스 5개를 다뤄보았습니다. 이번 시간엔 웹 개발에 최적화 된 2가지 서비스를 소개하려고 합니다. https://bolt.new/ https://lovable.dev/ 앞의 서비스는 자체적인 호스팅이 가능하며 supabase 연동 및 깃허브 레포지토리 생성까지 가능합니다. 위 서비스를 통해 2개의 서비스를 만들어 보겠습니다. 펀딩 사이트 채팅 어플리케이션 ● bolt bolt는 프로젝트 종류를 고를 수 있습니다. · 펀딩 사이트 제작 답변이 완성되면 다음과 같이 preview를 볼 수 있습니다. 우측 상단에 Deploy 버튼을 누르면 다음과 같이 호스팅이 완료되며 접속 가능한 URL 주소를 줍니다. https://elegant-kitt.......",
+      "link": "https://blog.naver.com/pjt3591oo/223790470478?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223790470478",
+      "pubDate": "Mon, 10 Mar 2025 10:29:32 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
