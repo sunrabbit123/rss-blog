@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T20:33:00+09:00",
+  "lastBuildDate": "2025-03-10T23:08:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24271,6 +24271,19 @@
       "guid": "https://news.hada.io/topic?id=19670",
       "pubDate": "2025-03-10T20:33:00+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Glue: 묵묵히 조직이 굴러가게 만드는 사람들",
+      "description": {
+        "$text": "<p><a href=\"https://product.kyobobook.co.kr/detail/S000202010365\">&lt;개발자를 넘어 기술 리더로 가는 길&gt;</a>(원제: The Staff Engineer's Path)의 저자 타냐 라일리(Tanya Reilly)가 쓴 <a href=\"https://www.noidea.dog/glue\">Being Glue</a>라는 글을 소개하고, 내 생각을 덧붙임</p>\n<ul>\n<li>Glue Work에 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19671",
+      "guid": "https://news.hada.io/topic?id=19671",
+      "pubDate": "2025-03-10T23:08:24+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
