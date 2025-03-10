@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T13:20:04+09:00",
+  "lastBuildDate": "2025-03-10T13:44:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24206,6 +24206,19 @@
       "guid": "https://news.hada.io/topic?id=19663",
       "pubDate": "2025-03-10T11:35:03+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Luft's Road to Elasticity - Part 1: From Shared Nothing to Shared Storage",
+      "description": {
+        "$text": "<blockquote>\n<p>자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, Shared Nothing 아키텍처에서 Shared Storage 아키텍처로 전환한 경험을 공유합니다.</p>\n</blockquote>\n<ul>\n<li>이전에는 각 노드가 독립적인 스토리지를 사용하여 데이터를 처리했으나, 대용량 데이터 처리 시 탄력성이 부족하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19666",
+      "guid": "https://news.hada.io/topic?id=19666",
+      "pubDate": "2025-03-10T13:44:36+09:00",
+      "author": "kimmachinegun",
       "category": ""
     }
   ]
