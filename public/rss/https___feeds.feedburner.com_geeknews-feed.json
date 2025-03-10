@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T11:02:52+09:00",
+  "lastBuildDate": "2025-03-10T13:20:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24166,6 +24166,45 @@
       "link": "https://news.hada.io/topic?id=19653",
       "guid": "https://news.hada.io/topic?id=19653",
       "pubDate": "2025-03-10T09:51:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Redis가 필요하지 않을 수도 있음",
+      "description": {
+        "$text": "<h2>Redis를 꼭 필요로 하지 않을 수도 있음</h2>\n<ul>\n<li>\n<p><strong>Redis의 인기</strong><br />\nRedis는 기술 스택에서 꼭 필요한 기술로 여겨짐. 그러나 최근 라이선스 변경으로 인해 이러한 인식이 변할 가능성도 있음. Redis 자체의 기술적 결함은 없지만, 모든 경우에 필요한 것은 아님.</p>\n</li>\n<li>\n<p><s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19665",
+      "guid": "https://news.hada.io/topic?id=19665",
+      "pubDate": "2025-03-10T13:20:04+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "하스켈과 OCaml의 모나드 접근 방식 비교",
+      "description": {
+        "$text": "<h3>Haskell의 모나드: 우아한 추상화</h3>\n<ul>\n<li>모나드는 단순히 <code>Promise</code>와 유사한 개념이 아닌 강력한 추상화 도구</li>\n<li>\n<code>Monad</code> 타입클래스를 통해 다양한 컨텍스트(<code>Maybe</code>, <code>[]</code>, <code>IO</code>, <code>State</code>)에서 코드 재사용</li>\n<li>제네릭 함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19664",
+      "guid": "https://news.hada.io/topic?id=19664",
+      "pubDate": "2025-03-10T13:13:33+09:00",
+      "author": "hongminhee",
+      "category": ""
+    },
+    {
+      "title": "Claude Code 사용 후기 - 스티브 예이그",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;Cursor, Windsurf, Augment, Copilot 등 기존 도구들이 구식처럼 느껴질 정도로 <strong>성능이 강력</strong>함&quot;</p>\n</blockquote>\n<ul>\n<li>\n<p><strong>버그 수정 능력</strong></p>\n<ul>\n<li>Claude Code는 레거시 코드의 버그를 빠르고 효과적으로 수정함</li>\n<li>놀라울 정도로 복잡",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19663",
+      "guid": "https://news.hada.io/topic?id=19663",
+      "pubDate": "2025-03-10T11:35:03+09:00",
       "author": "neo",
       "category": ""
     }
