@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T17:34:19+09:00",
+  "lastBuildDate": "2025-03-10T19:33:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24244,6 +24244,19 @@
       "link": "https://news.hada.io/topic?id=19668",
       "guid": "https://news.hada.io/topic?id=19668",
       "pubDate": "2025-03-10T17:34:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플 엑슬레이브스",
+      "description": {
+        "$text": "<h2>모놀리식 운영체제 커널의 문제점</h2>\n<ul>\n<li>현대 운영체제는 주로 두 가지 보호 도메인으로 나뉨: 비특권 도메인(사용자 모드)과 특권 도메인(커널 모드).</li>\n<li>대부분의 소프트웨어는 사용자 모드에서 실행되며, 강력한 작업을 수행하기 위해 커널 모드로 전환해야 함.</li>\n<li>모놀리식 커널 디자인은 커...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19669",
+      "guid": "https://news.hada.io/topic?id=19669",
+      "pubDate": "2025-03-10T19:33:43+09:00",
       "author": "neo",
       "category": ""
     }
