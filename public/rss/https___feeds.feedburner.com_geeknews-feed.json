@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-11T13:06:25+09:00",
+  "lastBuildDate": "2025-03-11T13:46:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24453,6 +24453,19 @@
       "guid": "https://news.hada.io/topic?id=19687",
       "pubDate": "2025-03-11T13:06:25+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Lynx - 웹 기술 기반 네이티브 앱 개발 도구",
+      "description": {
+        "$text": "<ul>\n<li>틱톡(ByteDance)이 만든 더 빠르고 부드러운 <strong>React Native 대체제</strong>\n</li>\n<li>Lynx는 <strong>웹 기술</strong>을 사용해 <strong>네이티브 UI</strong>를 생성할 수 있도록 돕는 기술 패밀리\n<ul>\n<li>하나의 코드베이스에서 모바일과 웹등 다양한 플랫폼에 대응 가능</li>\n</ul>\n</li>\n<li>T...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19688",
+      "guid": "https://news.hada.io/topic?id=19688",
+      "pubDate": "2025-03-11T13:46:49+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
