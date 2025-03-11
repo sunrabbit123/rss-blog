@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-11T10:20:21+09:00",
+  "lastBuildDate": "2025-03-11T11:01:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24413,6 +24413,32 @@
       "link": "https://news.hada.io/topic?id=19675",
       "guid": "https://news.hada.io/topic?id=19675",
       "pubDate": "2025-03-11T09:42:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아인슈타인 AI 모델 - AI가 과학적 혁신을 이끌 수 있을까?",
+      "description": {
+        "$text": "<ul>\n<li>HuggingFace의 공동창업자 Thomas Wolf는 AI가 과학에서의 급격한 발전, 즉 &quot;<strong>압축된 21세기</strong>&quot;를 가져오지 않을 것이라고 주장</li>\n<li>&quot;압축된 21세기&quot;는 Dario Amodei의 <a href=\"https://darioamodei.com/machines-of-loving-grace\">&quot;<strong>Machine of Loving G...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19686",
+      "guid": "https://news.hada.io/topic?id=19686",
+      "pubDate": "2025-03-11T11:01:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Youtube가 TV(TVHTML5) 클라이언트를 사용하는 모든 동영상에 DRM 추가중",
+      "description": {
+        "$text": "<ul>\n<li>YouTube가 일부 계정에 대해 TVHTML5 클라이언트에서만 DRM 형식의 비디오를 제공하는 실험을 진행 중</li>\n<li>이 문제는 yt-dlp뿐만 아니라 여러 공식 YouTube TV 클라이언트(PS3, 웹 브라우저, Apple TV)에서도 동일하게 발생</li>\n<li>\n<strong>문제 재현 방법</strong>\n<ul>\n<li>\n<code>yt-dlp</code> 명령...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19685",
+      "guid": "https://news.hada.io/topic?id=19685",
+      "pubDate": "2025-03-11T10:34:23+09:00",
       "author": "neo",
       "category": ""
     }
