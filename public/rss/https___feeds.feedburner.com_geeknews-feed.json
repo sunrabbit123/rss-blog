@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-10T23:08:24+09:00",
+  "lastBuildDate": "2025-03-11T10:20:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24284,6 +24284,136 @@
       "guid": "https://news.hada.io/topic?id=19671",
       "pubDate": "2025-03-10T23:08:24+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "우리는 전기차를 잘못 충전하고 있습니다",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;복잡하고 비용이 많이 드는 충전 인프라가 전기차(EV) 도입을 제한하고 있음&quot;</p>\n</blockquote>\n<ul>\n<li>전기차로의 전환을 가속화하기 위해 가장 중요한 것은 강력한 공공 EV 충전 인프라를 구축하는 것이지만, 공공 전기차 충전소는 <strong>건설 비용</strong>이 매우 높음\n<ul>\n<li>소",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19684",
+      "guid": "https://news.hada.io/topic?id=19684",
+      "pubDate": "2025-03-11T10:20:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Strobelight - 오픈소스 기반의 프로파일링 서비스",
+      "description": {
+        "$text": "<ul>\n<li>Strobelight은 Meta의 프로파일링 오케스트레이터로, 여러 오픈 소스 기술을 결합해 엔지니어들이 성능과 리소스 활용을 개선하도록 지원함\n<ul>\n<li>도입 후 약 <strong>15,000대의 서버</strong>에 해당하는 연간 용량 절감 효과 달성</li>\n</ul>\n</li>\n</ul>\n<h2>Strobelight의 동작 방식</h2>\n<ul>\n<li>Str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19683",
+      "guid": "https://news.hada.io/topic?id=19683",
+      "pubDate": "2025-03-11T10:11:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "음악 레이블의 Internet Archive 소송, 후회할 것이라는 음향 역사학자 주장",
+      "description": {
+        "$text": "<ul>\n<li>음악 레이블이 Internet Archive(IA)의 Great 78 Project를 상대로 한 소송에 약 500개의 추가 음원 기록을 포함하도록 수정 고소장을 제출함</li>\n<li>Great 78 Project는 1898년부터 1950년대까지 제작된 78 RPM 음반의 300만 개 녹음을 디지털화하는 프로젝트임</li>\n<li>추가 음원이 소송에 포함되면 전체 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19682",
+      "guid": "https://news.hada.io/topic?id=19682",
+      "pubDate": "2025-03-11T09:57:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SARS-CoV-2 우려 변이주를 강력하게 중화하는 이중특이 항체",
+      "description": {
+        "$text": "SARS-CoV-2 우려 변이주를 강력하게 중화하는 이중특이 항체",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19681",
+      "guid": "https://news.hada.io/topic?id=19681",
+      "pubDate": "2025-03-11T09:54:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "캐논 EF 및 RF 렌즈 – 모든 오토포커스 모터",
+      "description": {
+        "$text": "<h2>캐논 렌즈 기술</h2>\n<h3>자동 초점 시스템</h3>\n<ul>\n<li>자동 초점 렌즈의 도입은 사진 촬영에 많은 변화를 가져왔음. 빠르게 움직이는 물체를 더 정확하고 신뢰성 있게 촬영할 수 있게 되었음.</li>\n<li>1981년 첫 자동 초점 렌즈 출시 이후, 캐논은 다양한 접근 방식을 통해 렌즈 기술을 지속적으로 발전시켜 왔...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19680",
+      "guid": "https://news.hada.io/topic?id=19680",
+      "pubDate": "2025-03-11T09:51:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Python 3.14 tail-call(꼬리 호출) 인터프리터의 성능",
+      "description": {
+        "$text": "<ul>\n<li>CPython 프로젝트는 최근 바이트코드 인터프리터의 새로운 구현 전략을 도입. 초기 결과는 다양한 플랫폼에서 평균 10-15%의 성능 향상을 보여줬음</li>\n<li>그러나 이 성능 향상은 주로 LLVM 19의 회귀 문제를 우회한 결과였음. 더 나은 기준(예: GCC, clang-18, 특정 튜닝 플래그가 있는 LLVM 19)과 비교했을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19679",
+      "guid": "https://news.hada.io/topic?id=19679",
+      "pubDate": "2025-03-11T09:48:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "조용한 스타트업 킬러",
+      "description": {
+        "$text": "<ul>\n<li>&quot;대부분의 이사회 멤버는 <strong>부족한 점을 보완하지 못함</strong>&quot; , &quot;<strong>좋은 이사회(Board) 멤버</strong>가 되는 것은 <strong>매우 어려움</strong>&quot;</li>\n<li>스스로를 솔직하게 바라보면, 이사회 역할 수행이 쉽지 않다는 사실을 깨닫게 됨</li>\n<li>대부분의 사람은 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19678",
+      "guid": "https://news.hada.io/topic?id=19678",
+      "pubDate": "2025-03-11T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "유럽 탐방: 유럽 제품 및 서비스 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>유럽 제품 및 서비스 발견</strong></p>\n<ul>\n<li>유럽 전역의 추천과 통찰을 제공하는 커뮤니티 기반 디렉토리임</li>\n<li>카테고리: 자동차 및 운송, 도서, 미디어, 엔터테인먼트 및 게임, 의류 및 패션, 전자제품 및 가젯, 식음료, 건강 및 미용, 가정 및 생활, 아동 및 가족, 기타, 사무용품 및",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19677",
+      "guid": "https://news.hada.io/topic?id=19677",
+      "pubDate": "2025-03-11T09:45:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "좋은 엔지니어 되기",
+      "description": {
+        "$text": "<ul>\n<li>많은 소프트웨어 엔지니어들이 <strong>소프트웨어에 대한 열정</strong> 없이 일함\n<ul>\n<li>단순히 좋은 급여를 받기 위해 일하지만, 열정이 없으면 결국 <strong>성과가 저하</strong>됨</li>\n<li>오래된 기술과 잘못된 신념에 머물러 배우지 않으면 성장하지 못함</li>\n</ul>\n</li>\n<li>\n<strong>좋은 엔지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19676",
+      "guid": "https://news.hada.io/topic?id=19676",
+      "pubDate": "2025-03-11T09:44:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "uBlock Origin, Chrome 스토어에서 더 이상 이용 불가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>uBlock Origin</strong>은 CPU와 메모리 효율성을 주요 특징으로 하는 광범위한 콘텐츠 차단기임.\n<ul>\n<li>&quot;ublock.org&quot; 사이트와는 전혀 관련이 없음.</li>\n</ul>\n</li>\n<li>광고 차단기가 아닌 다양한 콘텐츠 차단기로, 기본적으로 여러 필터 목록이 로드되고 적용됨</li>\n</ul>\n<h2>기본...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19675",
+      "guid": "https://news.hada.io/topic?id=19675",
+      "pubDate": "2025-03-11T09:42:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
