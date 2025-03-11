@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-11T11:01:09+09:00",
+  "lastBuildDate": "2025-03-11T13:06:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24439,6 +24439,19 @@
       "link": "https://news.hada.io/topic?id=19685",
       "guid": "https://news.hada.io/topic?id=19685",
       "pubDate": "2025-03-11T10:34:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유럽, \"DARE\"로 슈퍼컴퓨팅을 위해 다시 한번 RISC-V에 베팅",
+      "description": {
+        "$text": "<ul>\n<li>유럽의 기술 기업 38곳이 참여한 <strong>Digital Autonomy with RISC-V in Europe(DARE)</strong> 프로젝트가 출범\n<ul>\n<li>목표: 유럽의 <strong>슈퍼컴퓨터</strong> 및 고성능 머신에 사용할 <strong>프로세서 유닛 개발</strong>\n</li>\n</ul>\n</li>\n<li>유럽은 이미 수년간 RISC-V 기반 슈퍼컴퓨팅에 관심...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19687",
+      "guid": "https://news.hada.io/topic?id=19687",
+      "pubDate": "2025-03-11T13:06:25+09:00",
       "author": "neo",
       "category": ""
     }
