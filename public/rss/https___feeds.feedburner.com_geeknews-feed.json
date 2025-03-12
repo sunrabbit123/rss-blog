@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T21:12:37+09:00",
+  "lastBuildDate": "2025-03-12T23:33:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24739,6 +24739,19 @@
       "guid": "https://news.hada.io/topic?id=19711",
       "pubDate": "2025-03-12T21:12:37+09:00",
       "author": "windbug99",
+      "category": ""
+    },
+    {
+      "title": "스타트업 CTO 핸드북",
+      "description": {
+        "$text": "<h2>스타트업 CTO 핸드북</h2>\n<h3>고성능 엔지니어링 팀을 위한 필수 기술 및 모범 사례</h3>\n<h4>소개</h4>\n<ul>\n<li>\n<strong>항상 배우기</strong>: 저자는 어릴 때부터 컴퓨터와 소프트웨어 프로그래밍에 대한 열정을 가지고 있었으며, 이를 통해 지속적인 학습의 중요성을 깨달았음. 기술 리더로서 성공하기 위해서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19712",
+      "guid": "https://news.hada.io/topic?id=19712",
+      "pubDate": "2025-03-12T23:33:31+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
