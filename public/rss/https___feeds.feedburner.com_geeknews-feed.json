@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T18:33:26+09:00",
+  "lastBuildDate": "2025-03-12T20:34:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24712,6 +24712,19 @@
       "link": "https://news.hada.io/topic?id=19709",
       "guid": "https://news.hada.io/topic?id=19709",
       "pubDate": "2025-03-12T18:33:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "에이전트 구축을 위한 새로운 도구",
+      "description": {
+        "$text": "에이전트 구축을 위한 새로운 도구",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19710",
+      "guid": "https://news.hada.io/topic?id=19710",
+      "pubDate": "2025-03-12T20:34:13+09:00",
       "author": "neo",
       "category": ""
     }
