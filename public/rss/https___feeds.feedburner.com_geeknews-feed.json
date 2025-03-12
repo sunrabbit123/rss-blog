@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T20:34:13+09:00",
+  "lastBuildDate": "2025-03-12T21:12:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24726,6 +24726,19 @@
       "guid": "https://news.hada.io/topic?id=19710",
       "pubDate": "2025-03-12T20:34:13+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 스마트한 북마크 관리 서비스",
+      "description": {
+        "$text": "<p>[서비스 소개]</p>\n<ul>\n<li>Pouder는 누적되는 사용자의 북마크를 효과적으로 관리하고 공유하는 서비스 입니다.</li>\n<li>북마크를 쉽게 관리하고 재사용할 수 있는 방향으로 제작 되었습니다.</li>\n<li>개인적으로 리서치하면서 북마크를 많이 하는 편인데 관리가 어려워 제작하게 되었습니다.</li>\n</ul>\n<p>[기존",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19711",
+      "guid": "https://news.hada.io/topic?id=19711",
+      "pubDate": "2025-03-12T21:12:37+09:00",
+      "author": "windbug99",
       "category": ""
     }
   ]
