@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T13:33:44+09:00",
+  "lastBuildDate": "2025-03-12T18:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24700,6 +24700,19 @@
       "guid": "https://news.hada.io/topic?id=19708",
       "pubDate": "2025-03-12T13:33:44+09:00",
       "author": "seongminp",
+      "category": ""
+    },
+    {
+      "title": "코드 가독성을 떨어뜨리는 시각적 복잡성 패턴 (2023)",
+      "description": {
+        "$text": "<h3>코드 읽기 어려운 이유: 복잡성의 시각적 패턴</h3>\n<ul>\n<li>최근 코드베이스를 검토하면서 코드의 품질에도 불구하고 정신적으로 피로해지는 경험을 함. 이는 코드의 복잡성보다는 가독성과 관련이 있었음.</li>\n<li>코드의 가독성을 높이기 위한 시각적 패턴을 조사하여 8가지 패턴을 도출함.</li>\n</ul>\n<h3>코드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19709",
+      "guid": "https://news.hada.io/topic?id=19709",
+      "pubDate": "2025-03-12T18:33:26+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
