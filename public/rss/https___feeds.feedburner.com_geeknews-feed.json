@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T10:54:32+09:00",
+  "lastBuildDate": "2025-03-12T12:01:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24661,6 +24661,32 @@
       "guid": "https://news.hada.io/topic?id=19696",
       "pubDate": "2025-03-12T09:44:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Local Deep Research - 로컬에서 나만의 연구 조수 운영하기",
+      "description": {
+        "$text": "<ul>\n<li>강력한 AI 기반 연구 도구, 여러 LLM과 웹 검색을 사용해 깊이 있는 반복 분석을 수행\n<ul>\n<li>ArXiv, Wikipedia, Google, PubMed, DuckDuckGo, SerpAPI, 로컬 RAG, The Guardian 등의 검색 기능을 통합</li>\n</ul>\n</li>\n<li>로컬에서 실행해 개인정보 보호를 강화하거나 클라우드 기반 LLM을 설정해 성능을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19707",
+      "guid": "https://news.hada.io/topic?id=19707",
+      "pubDate": "2025-03-12T12:01:46+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HP 프린터 펌웨어 업데이트 오류로 작동 불능, HP 카트리지도 사용 불가 문제 발생",
+      "description": {
+        "$text": "<ul>\n<li>HP는 펌웨어 업데이트로 인해 기존에 구매한 프린터가 고장 나는 문제로 악명이 높음</li>\n<li>HP가 최근 펌웨어 업데이트를 통해 일부 프린터가 HP 정품 토너를 인식하지 못하는 문제가 발생함</li>\n<li>문제의 펌웨어 버전은 <strong>20250209</strong>로, 3월 4일에 <strong>LaserJet MFP M232-M237</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19706",
+      "guid": "https://news.hada.io/topic?id=19706",
+      "pubDate": "2025-03-12T11:54:22+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
