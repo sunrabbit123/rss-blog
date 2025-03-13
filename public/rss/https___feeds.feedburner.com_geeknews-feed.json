@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T15:19:11+09:00",
+  "lastBuildDate": "2025-03-13T16:34:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24947,6 +24947,19 @@
       "guid": "https://news.hada.io/topic?id=19725",
       "pubDate": "2025-03-13T14:43:31+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "모질라에 전하는 메시지: 구글과 결별할 시점",
+      "description": {
+        "$text": "<h2>Mozilla: Google와의 결별을 고려할 시점</h2>\n<ul>\n<li>\n<p><strong>개방적이고 글로벌한 인터넷</strong>: 인터넷은 아이디어를 공유하고 협력하며 혁신할 수 있는 놀라운 자원임. 이는 더 나은 미래를 위한 집단적 희망을 담고 있으며, 학습과 이해, 그리고 우리가 직면한 문제에 대한 해결책을 촉진함.</p>\n</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19728",
+      "guid": "https://news.hada.io/topic?id=19728",
+      "pubDate": "2025-03-13T16:34:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
