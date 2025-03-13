@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T17:59:37+09:00",
+  "lastBuildDate": "2025-03-13T20:30:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24973,6 +24973,19 @@
       "guid": "https://news.hada.io/topic?id=19729",
       "pubDate": "2025-03-13T17:59:37+09:00",
       "author": "carnoxen",
+      "category": ""
+    },
+    {
+      "title": "Kubernetes 와 데이터베이스",
+      "description": {
+        "$text": "<p>일반적으로 Kubernetes 에서 DB 를 운영하는것을 별로 추천하지 않는데 구체적으로 어떤 이슈가 존재할까 의식의 흐름대로 떠드는 글 입니다.</p>\n<p>DB on K8s: 장점</p>\n<ul>\n<li>kubectl을 통한 단일 조작 체계</li>\n<li>일관된 보안 체계 (방화벽, 접근 제어)</li>\n<li>모니터링 통합</li>\n<li>자동화된 관리</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19730",
+      "guid": "https://news.hada.io/topic?id=19730",
+      "pubDate": "2025-03-13T18:46:42+09:00",
+      "author": "kuber",
       "category": ""
     }
   ]
