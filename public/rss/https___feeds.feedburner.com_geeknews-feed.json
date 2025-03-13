@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T11:35:25+09:00",
+  "lastBuildDate": "2025-03-13T15:19:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24907,6 +24907,45 @@
       "link": "https://news.hada.io/topic?id=19723",
       "guid": "https://news.hada.io/topic?id=19723",
       "pubDate": "2025-03-13T11:11:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI Code Execution에서 C 와 JavaScript를 실행하게 만들기",
+      "description": {
+        "$text": "<ul>\n<li>우연히 <strong>OpenAI Code Execution</strong>의 동작 방법을 알게 되었음</li>\n<li>찾아낸 방법과 프롬프트 인젝션 전략, 정확히 어떻게 동작하는지, C + Javascript를 실행할 수 있게 만든 리버스 엔지니어링 방법을 설명</li>\n</ul>\n<h2>발견 과정</h2>\n<ul>\n<li>포트 할당 코드를 디버그하려고 ChatGPT에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19727",
+      "guid": "https://news.hada.io/topic?id=19727",
+      "pubDate": "2025-03-13T15:19:11+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "LLVM Fortran 컴파일러 Flang 첫번째 공식 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>LLVM은 2020년 LLVM 11에서부터 Fortran 컴파일러 Flang을 포함해 옴</li>\n<li>초기 실행 파일 이름은 <code>flang</code>이 아닌 <code>flang-new</code>였음</li>\n<li>LLVM 20에서 <code>flang-new</code>를 <code>flang</code>으로 변경하면서 Flang의 성숙함을 인정</li>\n<li>Flang은 수년간의 개발 끝에 공...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19726",
+      "guid": "https://news.hada.io/topic?id=19726",
+      "pubDate": "2025-03-13T15:04:24+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "매일 Cursor를 사용중 - 내가 문제를 피하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>AI 코딩 도구에 대한 <strong>과장된 주장</strong>이 존재함\n<ul>\n<li>SaaS를 3일 만에 만들 수 있다는 주장 vs. 완전히 쓸모없다는 주장 → 둘 다 과장되었을 가능성 높음</li>\n</ul>\n</li>\n<li>\n<strong>Cursor는 코딩 방식을 완전히 바꿨지만, 여전히 문제점이 있음</strong>\n</li>\n<li>AI 코딩 도구에 대한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19725",
+      "guid": "https://news.hada.io/topic?id=19725",
+      "pubDate": "2025-03-13T14:43:31+09:00",
       "author": "xguru",
       "category": ""
     }
