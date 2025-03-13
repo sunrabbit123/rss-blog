@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-12T23:33:31+09:00",
+  "lastBuildDate": "2025-03-13T09:44:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24752,6 +24752,71 @@
       "guid": "https://news.hada.io/topic?id=19712",
       "pubDate": "2025-03-12T23:33:31+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NSA 대규모 감시 폭로한 AT&T 내부고발자 마크 클라인 사망",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>EFF의 슬픔</strong></p>\n<ul>\n<li>EFF는 Mark Klein의 사망 소식에 깊은 슬픔을 느끼고 있음</li>\n<li>Mark는 수백만 미국인의 권리를 침해한 대규모 감시 프로그램을 폭로하기 위해 민사 책임과 형사 기소의 위험을 감수한 진정한 영웅이었음</li>\n</ul>\n</li>\n<li>\n<p><strong>Mark Klein의 배경",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19717",
+      "guid": "https://news.hada.io/topic?id=19717",
+      "pubDate": "2025-03-13T09:44:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제미니 로보틱스",
+      "description": {
+        "$text": "<h3>Gemini Robotics 소개</h3>\n<ul>\n<li>Google DeepMind는 Gemini 2.0 기반의 모델을 로봇 공학에 도입하여 복잡한 문제를 해결하는 데 진전을 이루었음.</li>\n<li>Gemini Robotics는 시각-언어-행동(VLA) 모델로, 로봇을 직접 제어하기 위한 물리적 행동을 출력으로 추가하여 개발되었음.</li>\n<li>Gemini Robotics-E...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19716",
+      "guid": "https://news.hada.io/topic?id=19716",
+      "pubDate": "2025-03-13T09:41:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DuckDB 로컬 UI",
+      "description": {
+        "$text": "<h2>DuckDB UI 소개</h2>\n<ul>\n<li>DuckDB 팀과 MotherDuck이 DuckDB의 로컬 UI 출시를 발표함. 이 UI는 ui 확장의 일부로 제공됨.</li>\n<li>DuckDB는 현대 데이터베이스 기술을 쉽게 활용할 수 있도록 설계된 프로젝트임. 다양한 언어와 플랫폼에서 사용 가능함.</li>\n<li>기존의 CLI는 SQL 쿼리를 실행하는 데 유용하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19715",
+      "guid": "https://news.hada.io/topic?id=19715",
+      "pubDate": "2025-03-13T09:38:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GoatDB - Deno, React를 위한 경량 NoDB",
+      "description": {
+        "$text": "<ul>\n<li>경량 배포 환경을 위한 <strong>실시간 버전 관리 데이터베이스</strong>\n</li>\n<li>프로토타이핑, 셀프 호스팅, 싱글 테넌트(Single-Tenant) 앱 및 백엔드 및 DB가 없는 <strong>초경량 멀티 테넌트(Multi-Tenant) 환경</strong>에 최적화됨</li>\n<li>\n<strong>별도 인프라 불필요</strong> → 전체 DB를 클라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19714",
+      "guid": "https://news.hada.io/topic?id=19714",
+      "pubDate": "2025-03-13T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Krep - grep 보다 5배 빠른 문자열 검색 도구",
+      "description": {
+        "$text": "<ul>\n<li>성능이 중요한 애플리케이션을 위해 <strong>C로 작성</strong>된 초고속 문자열 검색 도구</li>\n<li>패턴 특성과 하드웨어에 따라 최적의 알고리듬을 동적으로 선택</li>\n<li>SSE4.2/AVX2 같은 하드웨어를 활용하여 최대 처리량을 제공</li>\n<li>대용량 지원을 위해 파일을 <strong>청크</strong>로 나눠 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19713",
+      "guid": "https://news.hada.io/topic?id=19713",
+      "pubDate": "2025-03-13T09:22:24+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
