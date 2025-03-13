@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T23:41:39+09:00",
+  "lastBuildDate": "2025-03-13T23:55:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25024,6 +25024,19 @@
       "link": "https://news.hada.io/topic?id=19732",
       "guid": "https://news.hada.io/topic?id=19732",
       "pubDate": "2025-03-13T23:24:28+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "로컬 LLM을 활용한 이미지의 alt-text 생성하기 비교",
+      "description": {
+        "$text": "<ul>\n<li>블로그에 저장된 10,000장의 사진 중 약 9,000장에 <code>alt-text</code>가 없는 상태였음</li>\n<li>이를 위해 12개의 LLM(대형 언어 모델)을 테스트했으며, 이 중 10개는 로컬에서 실행, 2개는 클라우드 기반 모델(GPT-4, Claude 3.5 Sonnet)</li>\n<li>\n<code>alt-text</code> 작성은 시각장애인을 위한 접근...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19735",
+      "guid": "https://news.hada.io/topic?id=19735",
+      "pubDate": "2025-03-13T23:55:49+09:00",
       "author": "xguru",
       "category": ""
     }
