@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T09:44:43+09:00",
+  "lastBuildDate": "2025-03-13T10:06:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24817,6 +24817,71 @@
       "guid": "https://news.hada.io/topic?id=19713",
       "pubDate": "2025-03-13T09:22:24+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "아마존의 75만대 로봇은 무슨 일을 할까?",
+      "description": {
+        "$text": "<ul>\n<li>최근 오픈한 차세대 센터에 <strong>8가지 최신 로봇 시스템</strong>이 도입\n<ul>\n<li>Sequoia(재고 관리), Hercules(물품 이동), Titan(큰 물체 이동), Sparrow(주문 처리용 로봇 팔), Packaging Automation(자동 포장), Robin(배송 준비용 로봇팔), Cardinal(패키지 분리용 로봇 팔), Proteus(완전 자율 이동...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19722",
+      "guid": "https://news.hada.io/topic?id=19722",
+      "pubDate": "2025-03-13T10:06:44+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Powerwall 없이 99.7%를 위한 Plug-in 홈 배터리 개발",
+      "description": {
+        "$text": "<h2>전력 중단 안녕, 에너지 독립 환영</h2>\n<h3>Pila는 가장 간단하고 스마트한 가정용 백업 배터리</h3>\n<ul>\n<li>Pila는 자동으로 백업 전력을 제공하며, 스마트하고 조용하며 안전함</li>\n<li>소유자나 임차인 모두에게 적합하며, 재배선이 필요 없음</li>\n<li>스마트 소프트웨어가 연중 가정의 에너지를 최적화하고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19721",
+      "guid": "https://news.hada.io/topic?id=19721",
+      "pubDate": "2025-03-13T09:56:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미래는 Niri",
+      "description": {
+        "$text": "<ul>\n<li>필자는 35%의 삶을 타일링 윈도우 매니저와 함께 해왔음. Sway와 i3를 사용해왔으며, 최근 Sway의 버그로 인해 Niri로 전환하게 되었음.</li>\n<li>Wayland를 일찍부터 사용해왔으며, Sway의 클릭 앤 드래그 문제로 인해 Niri로 전환하게 되었음.</li>\n<li>\n<strong>Niri 소개</strong>\n<ul>\n<li>Niri는 스크롤 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19720",
+      "guid": "https://news.hada.io/topic?id=19720",
+      "pubDate": "2025-03-13T09:53:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FilePizza - 브라우저에서의 P2P 파일 전송",
+      "description": {
+        "$text": "<ul>\n<li>WebRTC를 사용하여 다른 웹 기반 파일 공유 서비스에서 요구하는 <strong>초기 업로드 단계를 제거</strong>\n</li>\n<li>데이터가 중간 서버에 저장되지 않기 때문에 전송이 빠르고, 개인적이며, 안전함</li>\n<li>FilePizza의 호스팅 인스턴스는 file.pizza에서 사용 가능</li>\n</ul>\n<h2>FilePizza v2의 새로운...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19719",
+      "guid": "https://news.hada.io/topic?id=19719",
+      "pubDate": "2025-03-13T09:50:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google DeepMind의 Gemma 3 기술 보고서 [pdf]",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gemma 3</strong>는 Google DeepMind의 새로운 경량 오픈 모델 패밀리로, 파라미터 규모가 <strong>1B에서 27B</strong>까지 다양함</li>\n<li>주요 개선 사항:\n<ul>\n<li>\n<strong>멀티모달 기능</strong> 추가 → 시각적 이해 능력 포함</li>\n<li>\n<strong>긴 문맥 처리</strong> → 최대 <strong>128...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19718",
+      "guid": "https://news.hada.io/topic?id=19718",
+      "pubDate": "2025-03-13T09:47:43+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
