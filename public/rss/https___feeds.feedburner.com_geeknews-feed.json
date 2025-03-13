@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T10:06:44+09:00",
+  "lastBuildDate": "2025-03-13T11:35:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -24882,6 +24882,32 @@
       "guid": "https://news.hada.io/topic?id=19718",
       "pubDate": "2025-03-13T09:47:43+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "중국의 '여섯 마리 작은 용'",
+      "description": {
+        "$text": "<ul>\n<li>Alibaba와 Tencent를 넘어, 중국에서 새로운 기술 강자들이 등장함</li>\n<li>\n<strong>DeepSeek</strong>– LLM 개발</li>\n<li>\n<strong>Game Science</strong>– 'Black Myth: Wukong' 개발사</li>\n<li>\n<strong>Unitree</strong>– 소비자용 로봇</li>\n<li>\n<strong>DeepRobotics</strong>– AI 통합 로봇</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19724",
+      "guid": "https://news.hada.io/topic?id=19724",
+      "pubDate": "2025-03-13T11:35:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "최첨단 웹 스크래핑 기술들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>비디오 스크래핑:</strong> 화면 캡처 비디오를 Google Gemini 모델에 입력해 구조화된 데이터로 변환</li>\n<li>\n<strong>이미지 모델 사용:</strong> Gemini, GPT-4o, Claude 3.7등을 사용해 이미지 및 구조화되지 않은 PDF에서 데이터 추출</li>\n<li>\n<strong>Playwright 등 최신 라이브러리 활용:...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19723",
+      "guid": "https://news.hada.io/topic?id=19723",
+      "pubDate": "2025-03-13T11:11:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
