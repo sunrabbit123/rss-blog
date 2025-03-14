@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-14T11:31:01+09:00",
+  "lastBuildDate": "2025-03-14T13:56:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25220,6 +25220,45 @@
       "guid": "https://news.hada.io/topic?id=19742",
       "pubDate": "2025-03-14T09:49:59+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 초등학교 1학년을 위한 받아쓰기 어플",
+      "description": {
+        "$text": "<p>얼마 전 딸이 초등학교에 들어갔는데, 맞춤법이 자주 틀려서 교정해주기 위한 어플을 만들어봤습니다.</p>\n<p>선생님이 불러주고 받아적는 받아쓰기 어플.<br />\n틀린 점에 대해 피드백 받을 수 있는 어플.<br />\n이런 어플이 있으면 맞춤법 공부할 때 도움이 되지 않을까?</p>\n<p>온 가족이 함께 만들었습니다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19752",
+      "guid": "https://news.hada.io/topic?id=19752",
+      "pubDate": "2025-03-14T13:56:29+09:00",
+      "author": "benjamin",
+      "category": ""
+    },
+    {
+      "title": "로그아리즘의 잃어버린 예술",
+      "description": {
+        "$text": "<h2>서문. 내가 여기서 하려는 것</h2>\n<ul>\n<li>이 온라인 책은 로그의 유용성, 역사, 그리고 보편성을 탐구하는 중임.</li>\n<li>로그가 무엇인지, 그리고 평면 및 구면 삼각법에서의 주요 역사적 응용을 설명함.</li>\n</ul>\n<h2>Part I. 블라크의 책</h2>\n<h3>1장. 로그? 알고리듬 같은 것인가?</h3>\n<ul>\n<li>로그와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19751",
+      "guid": "https://news.hada.io/topic?id=19751",
+      "pubDate": "2025-03-14T13:34:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bolt x Figma : 디자인에서 앱까지 한번에 자동 생성",
+      "description": {
+        "$text": "<ul>\n<li>Figma Frame URL 앞에 <code>bolt.new/</code>만 붙이면 바로 임포트되어 즉시 앱으로 생성\n<ul>\n<li>피그마 디자인을 픽셀-퍼펙트 풀스택 앱으로 바로 변환</li>\n</ul>\n</li>\n<li>Bolt가 Figma-To-Code 도구인 @AnimaApp 과 연동하여 가능해짐</li>\n<li>월 3개의 변환 까지 무료이고 그 이후엔 토큰 사용(크기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19750",
+      "guid": "https://news.hada.io/topic?id=19750",
+      "pubDate": "2025-03-14T13:18:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
