@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-14T13:56:29+09:00",
+  "lastBuildDate": "2025-03-14T16:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25259,6 +25259,19 @@
       "guid": "https://news.hada.io/topic?id=19750",
       "pubDate": "2025-03-14T13:18:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: YouTube 질문하기 - 크롬 익스텐션",
+      "description": {
+        "$text": "<p>데스크톱에서 유튜브 볼 때 ChatGPT로 요약해 주는 크롬 익스텐션이 유용해서 자주 사용했는데요.</p>\n<p>보다 효과적으로 유튜브의 정보를 얻기 위해서 만들어봤습니다.</p>\n<p>주요한 점:</p>\n<ul>\n<li>매번 요약하는 대신, 처음부터 질문하여 더 빠르고 명확한 답 얻기</li>\n<li>유튜브 사용성을 해치지 않는 UI 디",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19753",
+      "guid": "https://news.hada.io/topic?id=19753",
+      "pubDate": "2025-03-14T16:33:24+09:00",
+      "author": "muik13",
       "category": ""
     }
   ]
