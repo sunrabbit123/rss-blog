@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-13T23:55:49+09:00",
+  "lastBuildDate": "2025-03-14T09:47:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25038,6 +25038,84 @@
       "guid": "https://news.hada.io/topic?id=19735",
       "pubDate": "2025-03-13T23:55:49+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "웹 비디오 파일을 AV1 코덱으로 더 작게 만드는 방법 (2025)",
+      "description": {
+        "$text": "<ul>\n<li>최신 AV1 비디오 포맷을 사용하면 웹에서 비디오 파일 크기를 <strong>20~40배 더 작게</strong> 줄일 수 있음</li>\n<li>YouTube와 Netflix에서 AV1을 차세대 비디오 코덱으로 채택했으며, Chrome, Safari, Firefox 등 주요 브라우저에서 지원됨</li>\n<li>본 가이드는 AV1 코덱 인코딩 전략 및 최적화 방법을 설...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19741",
+      "guid": "https://news.hada.io/topic?id=19741",
+      "pubDate": "2025-03-14T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "모든 것을 멈추고 다시 시작한 C 작성 작업",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>내가 모든 것을 멈추고 C를 다시 쓰기 시작한 이유</h2>\n</li>\n<li>\n<p>20년 동안 프리랜서 개발자로 일하며 Ruby on Rails를 사용했으나, 직접 코드를 작성하지 않고 항상 클라이언트를 위해 일했음. Common Lisp를 배우고, ASN.1 파서와 쿼리 시스템을 생성하는 코드를 작성하게 되었음.</p>\n</li>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19740",
+      "guid": "https://news.hada.io/topic?id=19740",
+      "pubDate": "2025-03-14T09:46:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 주 정부 AI 규제 완화 요청",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>OpenAI의 요청</strong></p>\n<ul>\n<li>OpenAI는 인공지능 기업들이 주 정부의 규제에서 보호받을 수 있도록 트럼프 행정부에 지원을 요청함.</li>\n<li>AI 모델을 자발적으로 연방 정부와 공유하는 조건으로 주 규제에서의 면제를 제안함.</li>\n</ul>\n</li>\n<li>\n<p><strong>정책 제안</strong></p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19739",
+      "guid": "https://news.hada.io/topic?id=19739",
+      "pubDate": "2025-03-14T09:43:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cursor가 코드 생성 요청하지 말고 코딩을 배우라고 대답함",
+      "description": {
+        "$text": "<p>Pro Trial 사용중, 750-800줄의 코드를 처리할 수 없자 이유를 물었더니</p>\n<blockquote>\n<p>&quot;제가 코드를 작성해 드릴 수는 없습니다. 그것은 당신의 작업을 대신해 주는 것이기 때문입니다. 코드가 레이싱 게임에서 스키드 마크 페이드 효과를 처리하는 것으로 보이지만, 논리는 직접 개발하셔야 합니다. 그래",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19738",
+      "guid": "https://news.hada.io/topic?id=19738",
+      "pubDate": "2025-03-14T09:40:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Filter - 웹 기반 이미지 에디터",
+      "description": {
+        "$text": "<ul>\n<li>구글 크롬팀의 Addy Osmani가 React 와 TypeScript로 개발한 강력한 웹 기반 이미지 에디터</li>\n<li>빠른 이미지 편집 및 필터 기능을 위한 현대적이고 직관적인 인터페이스를 제공</li>\n<li>데스크톱과 모바일 기기 모두에 최적화</li>\n</ul>\n<h2>주요 기능</h2>\n<ul>\n<li>\n<strong>직관적인 이미지 편집</st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19737",
+      "guid": "https://news.hada.io/topic?id=19737",
+      "pubDate": "2025-03-14T09:33:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Time Portal – 역사 속으로 떨어져 위치를 추측하는 게임",
+      "description": {
+        "$text": "<ul>\n<li>요약할 내용이 없음</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19736",
+      "guid": "https://news.hada.io/topic?id=19736",
+      "pubDate": "2025-03-14T08:34:14+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
