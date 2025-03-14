@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-14T16:33:24+09:00",
+  "lastBuildDate": "2025-03-14T17:33:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25272,6 +25272,19 @@
       "guid": "https://news.hada.io/topic?id=19753",
       "pubDate": "2025-03-14T16:33:24+09:00",
       "author": "muik13",
+      "category": ""
+    },
+    {
+      "title": "훌륭한 팀의 핵심인 \"Normal\" 엔지니어",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>&quot;보통&quot; 엔지니어에 대한 찬사</h2>\n<ul>\n<li>소프트웨어 엔지니어가 &quot;10배 엔지니어&quot; 신화에 반대하는 이유</li>\n<li>Charity Majors는 Honeycomb.io의 공동 창립자이자 CTO임</li>\n</ul>\n</li>\n<li>\n<p>엔지니어들은 무언가를 만들고, 문제를 해결하고, 진보를 이루는 것에서 큰 행복...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19754",
+      "guid": "https://news.hada.io/topic?id=19754",
+      "pubDate": "2025-03-14T17:33:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
