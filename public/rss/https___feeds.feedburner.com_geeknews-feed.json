@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-14T17:33:06+09:00",
+  "lastBuildDate": "2025-03-15T10:30:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25285,6 +25285,136 @@
       "guid": "https://news.hada.io/topic?id=19754",
       "pubDate": "2025-03-14T17:33:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Firefox 포크 버전들 살펴보기",
+      "description": {
+        "$text": "<ul>\n<li>최근 Mozilla의 정책 변화로 인해 Firefox 사용자들이 실망하고 대안을 찾기 시작함</li>\n<li>Firefox 사용자는 Chrome 생태계에서 벗어나면서도 완전한 기능을 제공하는 대안을 원함</li>\n<li>주요 Firefox 포크로는 <strong>GNU IceCat</strong>, <strong>Floorp</strong>, <strong>LibreWolf</strong>, <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19767",
+      "guid": "https://news.hada.io/topic?id=19767",
+      "pubDate": "2025-03-15T10:30:29+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Katana - 일반 키보드에서 QMK 같은 기능 사용하기",
+      "description": {
+        "$text": "<ul>\n<li>윈/맥/리눅스 지원 &quot;키보드 리맵퍼&quot;</li>\n<li>\n<strong>QMK</strong>는 편리하지만 특정 기계식 키보드에서만 활용 가능함\n<ul>\n<li>원하는 키 조합을 통해 <strong>키보드 입력을 커스터마이징</strong>할 수 있음</li>\n</ul>\n</li>\n<li>\n<strong>Shift</strong> 키처럼 입력 모드를 바꿀 수 있는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19766",
+      "guid": "https://news.hada.io/topic?id=19766",
+      "pubDate": "2025-03-15T10:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "xlskubectl - 스프레드시트에서 Kubernetes 클러스터 제어하기",
+      "description": {
+        "$text": "<ul>\n<li>Google 스프레드시트와 Kubernetes를 통합</li>\n<li>&quot;이제 <strong>사용 비용을 추적</strong>하는 <strong>스프레드시트</strong>에서 <strong>쿠버네티스 클러스터를 관리</strong>할 수 있게 됨&quot;</li>\n<li>\n<h2>사용법</h2>\n<ul>\n<li>다음 명령어로 브리지를 시작할 수 있음\n<ul>\n<li>\n<code>$ ku...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19765",
+      "guid": "https://news.hada.io/topic?id=19765",
+      "pubDate": "2025-03-15T09:57:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메타, 전 직원의 Facebook 관련 책 홍보 저지 시도",
+      "description": {
+        "$text": "<ul>\n<li>Meta는 전직 정책 임원이자 내부 고발자인 Sarah Wynn-Williams의 회고록 출간을 막기 위한 초기 승리를 거둠\n<ul>\n<li>이 책에서 마크 저커버그의 페이스북 중국 진출 시도 및 조엘 캐플런의 부적절한 행동 폭로</li>\n<li>중재자는 이 책의 저자가 책 판매 및 홍보를 중단해야 한다고 결정</li>\n</ul>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19764",
+      "guid": "https://news.hada.io/topic?id=19764",
+      "pubDate": "2025-03-15T09:54:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WebUSB 미지원 문제 해결을 위한 Firefox 해킹 방법",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;우리는 WebUSB가 필요 없어요!&quot;</p>\n</blockquote>\n<ul>\n<li>웹 페이지가 WebUSB 없이 USB 장치에 접근할 수 있는 방법이 있음. 또한, 장치는 사용자 동의 요구 사항을 우회하도록 설계될 수 있음.</li>\n</ul>\n<h3>빠른 데모</h3>\n<ul>\n<li>Raspberry Pi Pico에 u2f-hax.uf2를 로드하고, loc",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19763",
+      "guid": "https://news.hada.io/topic?id=19763",
+      "pubDate": "2025-03-15T09:51:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스팀 네트워크 시스템",
+      "description": {
+        "$text": "<h4><strong>맨해튼의 증기 시스템</strong></h4>\n<ul>\n<li>1882년부터 맨해튼은 시민들의 가정과 사업체에 증기를 공급해 왔음. 이는 호텔, 레스토랑, 병원, 박물관 등 다양한 곳에서 사용되며, 맨해튼의 상징적인 건물과 일반 아파트에서도 공간과 물을 데우는 데 사용됨.</li>\n<li>증기는 전기, 하수, 물과 같이 중앙...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19761",
+      "guid": "https://news.hada.io/topic?id=19761",
+      "pubDate": "2025-03-15T09:45:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "전직 페이스북 이사의 새 책, 마크 저커버그의 냉혹한 이미지 묘사",
+      "description": {
+        "$text": "<ul>\n<li>사라 윈-윌리엄스는 2011년 페이스북에 합류해 글로벌 정책 디렉터로 승진했으나, 상사였던 조엘 캐플런의 성희롱을 폭로한 후 2017년에 해고됨</li>\n<li>새책에서 마크 저커버그, 셰릴 샌드버그(전 COO), 조엘 캐플런(현 글로벌 정책 총괄)의 문제점을 신랄하게 비판</li>\n<li>메타는 윈-윌리엄스의 폭로를 막...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19760",
+      "guid": "https://news.hada.io/topic?id=19760",
+      "pubDate": "2025-03-15T09:42:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "삼성 Q990D, 1020 펌웨어 업데이트 후 응답 없음 문제 발생",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>커뮤니티 홈</h2>\n<ul>\n<li>삼성 커뮤니티에 오신 것을 환영함.</li>\n<li>도움 받기, 그룹, 앰배서더 스타 코너, 로그인/등록 가능함.</li>\n</ul>\n</li>\n<li>\n<h2>삼성 Q990D 펌웨어 업데이트 후 응답 없음</h2>\n<ul>\n<li>최근 펌웨어 업데이트 이후 사운드바가 응답하지 않음.</li>\n<li>여러 사용자가 같...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19759",
+      "guid": "https://news.hada.io/topic?id=19759",
+      "pubDate": "2025-03-15T09:39:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AWS에서 EU의 클라우드로 옮기기 - 비용 62% 절감",
+      "description": {
+        "$text": "<ul>\n<li>Hopsworks는 AWS의 높은 egress 비용을 줄이기 위해 2024년 4분기에 OVHCloud로 성공적으로 이전했으며 <strong>비용을 62% 절감</strong>함</li>\n<li>특히 네트워크 송신 비용은 AWS에서 1TB당 $90이 들었던 반면, OVH에서는 1TB당 $11로 1/8 수준에 불과해 전체 비용 절감의 주요 요인이 되었음</li>\n<li>AWS...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19758",
+      "guid": "https://news.hada.io/topic?id=19758",
+      "pubDate": "2025-03-15T09:26:29+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TinyKVM - Varnish 위에서 실행되는 빠른 샌드박스",
+      "description": {
+        "$text": "<ul>\n<li>KVM 기반의 단일 프로세스 샌드박스\n<ul>\n<li>일반 리눅스 프로그램이나 특정 API를 사용하는 프로그램을 샌드박스에서 실행 가능</li>\n</ul>\n</li>\n<li>하드웨어 가상화를 사용해 <strong>네이티브 성능</strong>을 제공</li>\n<li>KVM API의 일부분만 사용 → 코드베이스가 작고 효율적임</li>\n</ul>\n<h2>Tiny...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19757",
+      "guid": "https://news.hada.io/topic?id=19757",
+      "pubDate": "2025-03-15T09:03:30+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
