@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-15T17:34:09+09:00",
+  "lastBuildDate": "2025-03-15T22:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25427,6 +25427,19 @@
       "link": "https://news.hada.io/topic?id=19768",
       "guid": "https://news.hada.io/topic?id=19768",
       "pubDate": "2025-03-15T17:34:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, 곧 안드로이드 사용자와의 암호화된 RCS 메시징 지원 예정",
+      "description": {
+        "$text": "<h2>뉴스</h2>\n<ul>\n<li>\n<p>애플이 곧 안드로이드 사용자와의 RCS 메시지 암호화를 지원할 예정임</p>\n<ul>\n<li>애플은 iOS, iPadOS, macOS, watchOS에 엔드 투 엔드 암호화(RCS) 메시지 지원을 추가할 예정임</li>\n<li>GSM Association은 최신 RCS 표준에 Messaging Layer Security(MLS) 프로토콜 기반의 E2EE를 포함하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19769",
+      "guid": "https://news.hada.io/topic?id=19769",
+      "pubDate": "2025-03-15T22:33:23+09:00",
       "author": "neo",
       "category": ""
     }
