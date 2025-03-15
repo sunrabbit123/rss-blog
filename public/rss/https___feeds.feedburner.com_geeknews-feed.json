@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-15T10:30:29+09:00",
+  "lastBuildDate": "2025-03-15T17:34:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25415,6 +25415,19 @@
       "guid": "https://news.hada.io/topic?id=19757",
       "pubDate": "2025-03-15T09:03:30+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "브라이어: 피어 투 피어 암호화 메시징 시스템",
+      "description": {
+        "$text": "<h2>작동 방식</h2>\n<ul>\n<li>\n<strong>Briar</strong>는 활동가, 기자 등 안전하고 간편한 통신이 필요한 사람들을 위한 메시징 앱임.</li>\n<li>전통적인 메시징 앱과 달리 중앙 서버에 의존하지 않고, 사용자 기기 간 직접 동기화됨.</li>\n<li>인터넷이 끊길 경우 Bluetooth, Wi-Fi, 메모리 카드로 동기화 가능하여 위...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19768",
+      "guid": "https://news.hada.io/topic?id=19768",
+      "pubDate": "2025-03-15T17:34:09+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
