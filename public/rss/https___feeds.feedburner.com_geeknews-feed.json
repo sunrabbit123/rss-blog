@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-16T13:38:22+09:00",
+  "lastBuildDate": "2025-03-16T19:33:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25584,6 +25584,19 @@
       "guid": "https://news.hada.io/topic?id=19779",
       "pubDate": "2025-03-16T13:07:37+09:00",
       "author": "sungchi",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: yt-dlp 기반 개인 YouTube 프론트엔드",
+      "description": {
+        "$text": "<h2>my-yt&gt; MYGA - 유튜브를 <strong>다시</strong> 멋지게</h2>\n<p>광고 없이 깔끔하고 최소한의 유튜브 프론트엔드를 제공함. yt-dlp와 로컬 AI 모델을 통해 지역적이고 집중적이며 간결한 유튜브 경험을 제공함.</p>\n<h3>기능</h3>\n<ul>\n<li>채널 관리 및 구독</li>\n<li>\n<code>yt-dlp</code>를 사용하여 유튜브에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19782",
+      "guid": "https://news.hada.io/topic?id=19782",
+      "pubDate": "2025-03-16T19:33:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
