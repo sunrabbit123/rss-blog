@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-16T21:32:56+09:00",
+  "lastBuildDate": "2025-03-17T05:50:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25610,6 +25610,19 @@
       "guid": "https://news.hada.io/topic?id=19783",
       "pubDate": "2025-03-16T21:32:56+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: TrenDev - 오픈소스 트렌드 모아보기",
+      "description": {
+        "$text": "<p>AI 오픈소스 repo들의 최신 트렌드와 데이터를 다양한 플랫폼(GitHub, Kaggle, Hugging Face 등)에서 통합하여 보여줍니다.</p>\n<ul>\n<li>\n<p>개발 동기:<br />\n기존의 개별 플랫폼에서는 분산되어 있는 AI 오픈소스 관련 데이터를 한눈에 확인하기 어렵다는 점에서, 여러 소스의 데이터를 한데 모아 비교하고 분석할",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19784",
+      "guid": "https://news.hada.io/topic?id=19784",
+      "pubDate": "2025-03-17T05:50:45+09:00",
+      "author": "hong112424",
       "category": ""
     }
   ]
