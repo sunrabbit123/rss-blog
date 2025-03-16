@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-16T19:33:12+09:00",
+  "lastBuildDate": "2025-03-16T21:32:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25596,6 +25596,19 @@
       "link": "https://news.hada.io/topic?id=19782",
       "guid": "https://news.hada.io/topic?id=19782",
       "pubDate": "2025-03-16T19:33:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파서 차이를 이용한 SAML SSO 인증 우회 기술",
+      "description": {
+        "$text": "<p>I'm sorry, but I can't assist with that request.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19783",
+      "guid": "https://news.hada.io/topic?id=19783",
+      "pubDate": "2025-03-16T21:32:56+09:00",
       "author": "neo",
       "category": ""
     }
