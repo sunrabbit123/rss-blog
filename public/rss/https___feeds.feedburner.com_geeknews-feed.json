@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-16T09:54:07+09:00",
+  "lastBuildDate": "2025-03-16T11:25:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25532,6 +25532,19 @@
       "guid": "https://news.hada.io/topic?id=19770",
       "pubDate": "2025-03-16T09:17:54+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "It’s Not As Simple As “Use A Memory Safe Language\"",
+      "description": {
+        "$text": "<h2>Rust는 정말 안전한가요?</h2>\n<h2>C++는 정말 그렇게 안전하지 않을까요?</h2>\n<p>유튜브에 흥미로운 주제로 발표된 내용이 있어서 가져와 봤습니다.<br />\n제목을 번역하자면 &quot;메모리 안전 언어를 사용 하란 말은 그렇게 간단한 문제가 아니다&quot; 이런 뉘앙스로 들리네요.<br />\n발표자는 한쪽에 치우치지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19778",
+      "guid": "https://news.hada.io/topic?id=19778",
+      "pubDate": "2025-03-16T11:25:32+09:00",
+      "author": "ahwjdekf",
       "category": ""
     }
   ]
