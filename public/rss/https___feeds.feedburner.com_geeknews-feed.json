@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-17T13:16:03+09:00",
+  "lastBuildDate": "2025-03-17T14:47:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25792,6 +25792,32 @@
       "guid": "https://news.hada.io/topic?id=19804",
       "pubDate": "2025-03-17T13:16:03+09:00",
       "author": "laeyoung",
+      "category": ""
+    },
+    {
+      "title": "Show GN: C#에서 런타임 오버헤드를 최소화하며 가독성있는 HasFlag 코드 작성하기",
+      "description": {
+        "$text": "<h2>개발 배경</h2>\n<p>Unity 게임을 개발하거나 C#을 사용하며 기본 Enum의 FlagHasFlag 를 사용할 때마다 Boxing 으로 인해 가비지가 생성되는것을 쉽게 방지하기 위해 개발하게 된 패키지입니다!</p>\n<h2>작동방식</h2>\n<p>Source Generator 를 이용하여 컴파일 타임에 코드들 중 [Flag] 를 가진 enum 선언들을 찾아 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19806",
+      "guid": "https://news.hada.io/topic?id=19806",
+      "pubDate": "2025-03-17T14:47:54+09:00",
+      "author": "clash4970",
+      "category": ""
+    },
+    {
+      "title": "애플리케이션 개발 측면에서 본 Drizzle ORM 대 Kysely 비교",
+      "description": {
+        "$text": "<h2>Drizzle ORM vs Kysely 비교 요약</h2>\n<h3>Drizzle ORM의 장점</h3>\n<ul>\n<li>\n<strong>스키마 정의의 직관성</strong>: 선언적 방식의 스키마 정의가 가능하며, 이로부터 자동으로 <code>CREATE TABLE</code> SQL 생성이 가능.</li>\n<li>\n<strong>자동화된 마이그레이션</strong>: 스키마 변경사항을 자동으로 감지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19805",
+      "guid": "https://news.hada.io/topic?id=19805",
+      "pubDate": "2025-03-17T14:08:09+09:00",
+      "author": "hongminhee",
       "category": ""
     }
   ]
