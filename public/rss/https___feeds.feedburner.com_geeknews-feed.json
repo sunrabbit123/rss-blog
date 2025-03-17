@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-17T10:14:01+09:00",
+  "lastBuildDate": "2025-03-17T11:49:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25752,6 +25752,32 @@
       "link": "https://news.hada.io/topic?id=19792",
       "guid": "https://news.hada.io/topic?id=19792",
       "pubDate": "2025-03-17T09:42:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Luft's Road to Elasticity - Part 2: Auto-Scaling with Query History",
+      "description": {
+        "$text": "<blockquote>\n<p>자체 제작 데이터베이스인 Luft의 탄력성(elasticity)을 개선하기 위해, 쿼리 히스토리를 활용한 비용 기반 오토스케일러를 구현한 경험을 공유합니다.</p>\n</blockquote>\n<ul>\n<li>이전 작업에서 Shared Storage 아키텍처로 전환했으나, 실질적인 효과를 얻기 위해선 효율적인 오토스케일링 시스템이 필",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19803",
+      "guid": "https://news.hada.io/topic?id=19803",
+      "pubDate": "2025-03-17T11:49:01+09:00",
+      "author": "kimmachinegun",
+      "category": ""
+    },
+    {
+      "title": "C++로 재현한 Photoshop 경험",
+      "description": {
+        "$text": "<h4>그때 내가 C++로 Photoshop을 재창조했을 때</h4>\n<ul>\n<li>\n<p><strong>프로젝트 배경</strong></p>\n<ul>\n<li>2006년 여름, 필자는 C++/Windows API 과정을 마친 후, 마우스만으로 조작할 수 있는 만화 리더 앱을 개발하기 시작했음. 이 앱은 Fiew라는 이름으로 불렸음.</li>\n<li>가을에는 학위 논문 주제를 결정해",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19802",
+      "guid": "https://news.hada.io/topic?id=19802",
+      "pubDate": "2025-03-17T11:33:07+09:00",
       "author": "neo",
       "category": ""
     }
