@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-17T16:33:03+09:00",
+  "lastBuildDate": "2025-03-17T18:18:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25831,6 +25831,19 @@
       "guid": "https://news.hada.io/topic?id=19807",
       "pubDate": "2025-03-17T16:33:03+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "서비스의 성능 분석하기 1편: 성능 평가의 기본 개념",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>성능 평가란?<br />\n서비스가 성능 요구사항을 충족하는지 확인하고 개선할 부분을 찾는 과정.</p>\n</li>\n<li>\n<p>성능 평가의 핵심 지표</p>\n<ul>\n<li>Throughput(처리량): 단위 시간당 처리할 수 있는 작업량 (예: TPS, RPS).</li>\n<li>Latency(지연 시간): 작업이 처리되는 데 걸리는 시간 (작을수록 좋",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19808",
+      "guid": "https://news.hada.io/topic?id=19808",
+      "pubDate": "2025-03-17T18:18:28+09:00",
+      "author": "chuckolet",
       "category": ""
     }
   ]
