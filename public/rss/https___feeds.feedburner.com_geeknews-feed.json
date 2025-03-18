@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-18T12:34:20+09:00",
+  "lastBuildDate": "2025-03-18T14:30:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25987,6 +25987,19 @@
       "guid": "https://news.hada.io/topic?id=19819",
       "pubDate": "2025-03-18T12:34:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: kubegraph: 실시간 Kubernetes 시각화 툴",
+      "description": {
+        "$text": "<p>WebAssembly 를 통해서 웹 브라우져에서 Kubernetes API 를 직접 찔러서 실시간으로 K8s 의 Deployment, ReplicaSet, Pod 등의 리소스를 시각화 해주는 도구입니다. kubectl 설정이 되어있을 경우 다음 명령어로 바로 사용해볼 수 있습니다.</p>\n<pre><code>curl -L https://github.com/iwanhae/kubegraph/releases/d",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19820",
+      "guid": "https://news.hada.io/topic?id=19820",
+      "pubDate": "2025-03-18T14:30:10+09:00",
+      "author": "kuber",
       "category": ""
     }
   ]
