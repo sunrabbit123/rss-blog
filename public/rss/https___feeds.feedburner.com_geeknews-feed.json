@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-18T14:30:10+09:00",
+  "lastBuildDate": "2025-03-18T16:51:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26000,6 +26000,32 @@
       "guid": "https://news.hada.io/topic?id=19820",
       "pubDate": "2025-03-18T14:30:10+09:00",
       "author": "kuber",
+      "category": ""
+    },
+    {
+      "title": "내가 만난 멋진 SRE (구글 슬라이드)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>&quot;좋은 SRE에 대한 정답은 없지만, 그동안 만났던 멋진 SRE 들의 이야기를 해주고 싶어요&quot;</strong>\n</li>\n<li>SRE는 다양한 개발 경험(백엔드, 프론트엔드 등)을 통해 인프라와 연결되는 업무에 대한 관심을 넓히는 것이 좋음</li>\n<li>SRE는 매일 예상치 못한 문제에 직면함\n<ul>\n<li>기존...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19822",
+      "guid": "https://news.hada.io/topic?id=19822",
+      "pubDate": "2025-03-18T16:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: “잠깐만.. 저 친구가 뭐라고 하는거지?” 영어가 완벽하지 않은 분들을 위한 AI 화상회의 어시스턴트",
+      "description": {
+        "$text": "<p>회의 중에 모두가 빠르게 말하고 복잡한 용어들을 쓸 때... 몰래 구글에서 “north star metric”나 “tech debt”가 어떤 의미인지 검색해본 적 있으신가요? 저도 영어가 완벽하지 않은 창업자로서 그런 경험이 너무너무 많았습니다. 그래서 열심히(!!) 만들고 있습니다.</p>\n<p>Cabos는 영어가 완벽하지 않은 분들을",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19821",
+      "guid": "https://news.hada.io/topic?id=19821",
+      "pubDate": "2025-03-18T16:33:21+09:00",
+      "author": "shlee0605",
       "category": ""
     }
   ]
