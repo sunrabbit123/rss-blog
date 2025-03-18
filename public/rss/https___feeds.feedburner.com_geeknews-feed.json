@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-18T16:51:01+09:00",
+  "lastBuildDate": "2025-03-18T22:33:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26026,6 +26026,19 @@
       "guid": "https://news.hada.io/topic?id=19821",
       "pubDate": "2025-03-18T16:33:21+09:00",
       "author": "shlee0605",
+      "category": ""
+    },
+    {
+      "title": "리플링, 스파이 행위로 딜 고소",
+      "description": {
+        "$text": "리플링, 스파이 행위로 딜 고소",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19823",
+      "guid": "https://news.hada.io/topic?id=19823",
+      "pubDate": "2025-03-18T22:33:03+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
