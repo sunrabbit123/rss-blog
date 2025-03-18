@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-17T18:18:28+09:00",
+  "lastBuildDate": "2025-03-18T09:51:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25844,6 +25844,84 @@
       "guid": "https://news.hada.io/topic?id=19808",
       "pubDate": "2025-03-17T18:18:28+09:00",
       "author": "chuckolet",
+      "category": ""
+    },
+    {
+      "title": "DiceDB 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>DiceDB</strong>는 오픈소스, 고성능, 반응형 인메모리(in-memory) 데이터베이스임</li>\n<li>주로 <strong>캐시</strong>로 사용되며, <strong>쿼리 구독</strong>(query subscription)을 통해 <strong>실시간 데이터 업데이트</strong> 제공</li>\n<li>최신 하드웨어에 최적화되어 높은 처리량과 낮은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19814",
+      "guid": "https://news.hada.io/topic?id=19814",
+      "pubDate": "2025-03-18T09:51:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "클라우드플레어 리스본 사무실의 혼란",
+      "description": {
+        "$text": "<h2>Cloudflare의 리스본 사무실의 혼돈: 파동 운동으로 인터넷 보안 강화</h2>\n<ul>\n<li>Cloudflare는 인터넷 보안을 위한 독특한 방법으로 유명하며, 2025년 3월에는 리스본 사무실에 50개의 <strong>파동 기계</strong>로 구성된 &quot;혼돈의 벽&quot;을 설치함.</li>\n<li>이 파동 기계는 샌프란시스코의 <strong>용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19813",
+      "guid": "https://news.hada.io/topic?id=19813",
+      "pubDate": "2025-03-18T09:48:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딥러닝은 그리 신비롭거나 다르지 않다",
+      "description": {
+        "$text": "<ul>\n<li>딥러닝 모델의 일반화(generalization) 현상이 기존 모델과 다르고 신비하다는 인식이 있음</li>\n<li>\n<strong>과적합(overfitting)</strong>, <strong>더블 디센트(double descent)</strong>, <strong>과매개화(overparametrization)</strong> 등이 딥러닝의 특징으로 자주 언급됨</li>\n<li>그러나 이러한 현상...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19812",
+      "guid": "https://news.hada.io/topic?id=19812",
+      "pubDate": "2025-03-18T09:45:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "RDAP 도입, WHOIS 종료",
+      "description": {
+        "$text": "<ul>\n<li>2025년 1월 28일부터 등록 데이터 접근 프로토콜(RDAP)이 일반 최상위 도메인 이름(gTLD) 등록 정보를 제공하는 주요 소스로 사용됨. 이는 기존 WHOIS 서비스를 대체하는 것임.</li>\n<li>RDAP는 국제화 지원, 데이터에 대한 안전한 접근, 권위 있는 서비스 발견, 등록 데이터에 대한 차별화된 접근 제공 등 WHO...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19811",
+      "guid": "https://news.hada.io/topic?id=19811",
+      "pubDate": "2025-03-18T09:42:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"Alexa 기능 '음성 녹음 전송 안 함' 사용 불가\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>discuss.systems 소개</strong></p>\n<ul>\n<li>discuss.systems는 독립적인 Mastodon 서버 중 하나로, 연구자, 학자, 전문가들이 컴퓨터 시스템 연구 및 실무에 대해 논의할 수 있는 공간임. 운영체제, 분산 시스템, 네트워크, 데이터베이스, 아키텍처 등이 주요 주제임.</li>\n<li>서버는 Dan Ports",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19810",
+      "guid": "https://news.hada.io/topic?id=19810",
+      "pubDate": "2025-03-18T09:39:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 출발을 준비할 때 읽어볼 100권의 책",
+      "description": {
+        "$text": "<p>토스의 토크 세션 연사들이 추천한 책 리스트</p>\n<ul>\n<li>\n<ol>\n<li>테드 창의 《숨》</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>에릭 리스의 《린 스타트업》</li>\n</ol>\n</li>\n<li>\n<ol start=\"3\">\n<li>랜디 코미사의 《승려와 수수께끼》</li>\n</ol>\n</li>\n<li>\n<ol start=\"4\">\n<li>엘리 골드렛의 《더 골》</l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19809",
+      "guid": "https://news.hada.io/topic?id=19809",
+      "pubDate": "2025-03-18T09:25:16+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
