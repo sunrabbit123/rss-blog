@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-18T11:34:15+09:00",
+  "lastBuildDate": "2025-03-18T12:34:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25974,6 +25974,19 @@
       "guid": "https://news.hada.io/topic?id=19816",
       "pubDate": "2025-03-18T11:10:37+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "아카이브 저장 (Archival Storage)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>디지털 보존(Digital Preservation)</strong> 전문가인 David Rosenthal의 발표 내용 요약</li>\n</ul>\n<h2>백업(Backup)과 아카이브(Archival)의 차이점</h2>\n<ul>\n<li>\n<strong>백업</strong>은 재난 발생 시 최근 상태로 복구하기 위해 필요함\n<ul>\n<li>백업 데이터의 유효 수명은 마지막 백업부터 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19819",
+      "guid": "https://news.hada.io/topic?id=19819",
+      "pubDate": "2025-03-18T12:34:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
