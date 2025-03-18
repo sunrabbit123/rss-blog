@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-18T10:34:10+09:00",
+  "lastBuildDate": "2025-03-18T11:34:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -25935,6 +25935,45 @@
       "guid": "https://news.hada.io/topic?id=19815",
       "pubDate": "2025-03-18T10:34:10+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존, 연간 35억 달러 절감을 위한 14,000개 관리직 감축 계획",
+      "description": {
+        "$text": "<h2>아마존의 관리직 감축 계획</h2>\n<ul>\n<li>\n<p>아마존은 2025년 초까지 약 14,000개의 관리직을 감축하여 연간 21억 달러에서 36억 달러를 절감할 계획임. 이는 아마존의 글로벌 관리 인력의 13% 감소를 의미하며, 관리자의 수를 105,770명에서 91,936명으로 줄이는 것임.</p>\n</li>\n<li>\n<p>최근 아마존은 커뮤니케",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19818",
+      "guid": "https://news.hada.io/topic?id=19818",
+      "pubDate": "2025-03-18T11:34:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Wait4X - 서비스가 준비될 때까지 기다려주는 경량 도구",
+      "description": {
+        "$text": "<ul>\n<li>강력하고 의존성 없는 크로스플랫폼 서비스 대기 툴</li>\n<li>TCP/HTTP/DNS를 지원하며, Redis/MySQL/Postgres/RabbitMQ 등의 서비스를 통합</li>\n<li>병령 체크, 역방향 체크, 지수 백오프 등을 지원하며 체크 성공후 특정 명령 실행 가능</li>\n<li>다양한 프로토콜 및 서비스를 지원하며 다음과 같은 작업에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19817",
+      "guid": "https://news.hada.io/topic?id=19817",
+      "pubDate": "2025-03-18T11:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HTTP/3가 널리 지원되지만 실제로는 거의 사용되지 않는 이유",
+      "description": {
+        "$text": "<ul>\n<li>HTTP/3는 2016년부터 개발되었고, 기반 프로토콜인 QUIC은 2013년에 Google에서 처음 도입됨</li>\n<li>현재 표준화되어 있고 다음과 같은 폭넓은 지원을 받음\n<ul>\n<li>\n<strong>95%의 브라우저에서 지원됨</strong>\n</li>\n<li>Cloudflare의 HTTP 요청 중 <strong>32%가 HTTP/3 사용</strong>\n</li>\n<li>웹사이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19816",
+      "guid": "https://news.hada.io/topic?id=19816",
+      "pubDate": "2025-03-18T11:10:37+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
