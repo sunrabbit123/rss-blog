@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T22:33:14+09:00",
+  "lastBuildDate": "2025-03-20T00:22:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26260,6 +26260,19 @@
       "guid": "https://news.hada.io/topic?id=19842",
       "pubDate": "2025-03-19T22:33:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 교내 한자시험을 위한 플래시 카드 서비스",
+      "description": {
+        "$text": "<p>안녕하세요! 항상 읽기만 하다가 처음으로 글을 써보네요<br />\n2023년 10월, 졸업 요건인 교내 한자 시험을 준비하려고 만든 서비스를 소개합니다<br />\n2주 정도 퇴근 후 프로젝트를 진행했고, 한 달 만에 400명이 넘는 학우들이 방문했답니다<br />\n지금도 시험 기간이 되면 몇몇 감사한 학우분들이 이용하고 있어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19843",
+      "guid": "https://news.hada.io/topic?id=19843",
+      "pubDate": "2025-03-20T00:22:25+09:00",
+      "author": "parallelkim12",
       "category": ""
     }
   ]
