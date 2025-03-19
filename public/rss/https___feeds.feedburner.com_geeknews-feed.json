@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T11:17:01+09:00",
+  "lastBuildDate": "2025-03-19T12:40:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26195,6 +26195,32 @@
       "guid": "https://news.hada.io/topic?id=19836",
       "pubDate": "2025-03-19T10:45:38+09:00",
       "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "JFK 암살 관련 내용을 물어볼 수 있는 AI 출시",
+      "description": {
+        "$text": "<p>도널드 트럼프 미국 대통령은 18일(현지시간)에 약 8만 페이지에 달하는 존 F. 케네디 전 대통령 암살 관련 미공개 파일을 털시 개버드 국가정보국장의 지휘 아래 어떠한 삭제나 요약 없이 모두 공개하겠다고 발표했습니다.</p>\n<p>발표된 자료를 바탕으로 한 LLM이 오픈소스로 공개되었습니다.</p>\n<p>https://www.c",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19839",
+      "guid": "https://news.hada.io/topic?id=19839",
+      "pubDate": "2025-03-19T12:40:43+09:00",
+      "author": "3xplore",
+      "category": ""
+    },
+    {
+      "title": "터키 대학, 에르도안 경쟁자 학위 취소로 대선 출마 방해",
+      "description": {
+        "$text": "터키 대학, 에르도안 경쟁자 학위 취소로 대선 출마 방해",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19838",
+      "guid": "https://news.hada.io/topic?id=19838",
+      "pubDate": "2025-03-19T11:33:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
