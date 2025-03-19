@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T16:33:49+09:00",
+  "lastBuildDate": "2025-03-19T22:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26246,6 +26246,19 @@
       "link": "https://news.hada.io/topic?id=19841",
       "guid": "https://news.hada.io/topic?id=19841",
       "pubDate": "2025-03-19T16:33:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ubuntu 패키지 재구축으로 90% 더 빨라진 속도",
+      "description": {
+        "$text": "<h3>Ubuntu 패키지 재구성을 통한 성능 향상</h3>\n<ul>\n<li>\n<p><strong>설정</strong></p>\n<ul>\n<li>\n<code>jq</code>를 사용하여 GeoJSON 파일을 처리하는 작업을 수행 중이며, 500MB 크기의 Alameda County Assessor의 지적도를 사용함.</li>\n<li>특정 조건에 맞는 데이터를 추출하는 쿼리를 실행하는데 약 5초가 소요",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19842",
+      "guid": "https://news.hada.io/topic?id=19842",
+      "pubDate": "2025-03-19T22:33:14+09:00",
       "author": "neo",
       "category": ""
     }
