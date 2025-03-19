@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T12:40:43+09:00",
+  "lastBuildDate": "2025-03-19T15:13:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26221,6 +26221,19 @@
       "guid": "https://news.hada.io/topic?id=19838",
       "pubDate": "2025-03-19T11:33:59+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Java 24 / JDK 24 출시(GA)",
+      "description": {
+        "$text": "<ul>\n<li>Oracle이 <strong>자바 24 (JDK 24)</strong> 출시를 공식 발표</li>\n<li>JDK 24는 JCP의 JSR 399에서 지정한 Java SE Platform 버전 24의 기준 구현으로, <strong>JDK 릴리스 프로세스(JEP 3)</strong> 를 통해 출시됨</li>\n</ul>\n<h2>[JEP별 요약]</h2>\n<ul>\n<li>\n<h2>JEP 404: Generational Shenandoah (실험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19840",
+      "guid": "https://news.hada.io/topic?id=19840",
+      "pubDate": "2025-03-19T15:13:54+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
