@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T10:01:13+09:00",
+  "lastBuildDate": "2025-03-19T11:17:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26169,6 +26169,32 @@
       "guid": "https://news.hada.io/topic?id=19826",
       "pubDate": "2025-03-19T09:01:51+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 시대의 조직 구조는 고정적이지 않고 유동적일 것",
+      "description": {
+        "$text": "<ul>\n<li>AI 소프트웨어는 <strong>비결정론적(non-deterministic)</strong> 이라는 말을 자주 듣게 됨\n<ul>\n<li>\n<strong>결정론적(deterministic)</strong>: 소프트웨어가 작업을 수행하기 위한 단계가 사전에 결정되어 있음. 인간이 문제 해결 방법을 미리 프로그래밍함</li>\n<li>\n<strong>비결정론적(non-determinis...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19837",
+      "guid": "https://news.hada.io/topic?id=19837",
+      "pubDate": "2025-03-19T11:17:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LG AI Research EXAONE Deep 출시",
+      "description": {
+        "$text": "<ul>\n<li>LG AI Research에서 개발한 새로운 Reasoning AI 모델, EXAONE Deep 공개</li>\n<li>Agentic AI 시대로의 전환에 필수적인 고성능 추론 모델</li>\n<li>수학, 과학, 코딩 분야에서 뛰어난 추론 능력 입증</li>\n<li>주요 특징:\n<ul>\n<li>\n<strong>수학</strong>: 고난도 수학 벤치마크에서 경쟁 모델 대비 뛰어난 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19836",
+      "guid": "https://news.hada.io/topic?id=19836",
+      "pubDate": "2025-03-19T10:45:38+09:00",
+      "author": "lemonmint",
       "category": ""
     }
   ]
