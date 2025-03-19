@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-19T15:13:54+09:00",
+  "lastBuildDate": "2025-03-19T16:33:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26234,6 +26234,19 @@
       "guid": "https://news.hada.io/topic?id=19840",
       "pubDate": "2025-03-19T15:13:54+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "BlueMigrate - 트윗을 원래 날짜로 Bluesky에 포팅하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>몇 번의 클릭만으로 X의 트윗을 Bluesky로 마이그레이션할 수 있는 서비스</li>\n<li>트윗의 원래 날짜를 유지하면서 가져올 수 있음\n<ul>\n<li>블루스카이는 API를 통해서 포스트 날짜를 지정 가능</li>\n</ul>\n</li>\n<li>100 개 까지는 무료, 1000개 포스트/쓰레드 $4</li>\n<li>300글자가 넘는 트윗은 짤림. 비디...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19841",
+      "guid": "https://news.hada.io/topic?id=19841",
+      "pubDate": "2025-03-19T16:33:49+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
