@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-20T12:21:45+09:00",
+  "lastBuildDate": "2025-03-20T20:33:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26428,6 +26428,19 @@
       "link": "https://news.hada.io/topic?id=19857",
       "guid": "https://news.hada.io/topic?id=19857",
       "pubDate": "2025-03-20T11:33:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI Blindspots – AI 코딩 중에 발견한 LLM의 맹점들",
+      "description": {
+        "$text": "<p>AI 코딩 중에 발견한 LLM의 맹점들. 주로 Claude Sonnet 기준</p>\n<ol>\n<li>\n<strong>Stop Digging</strong> → 문제 발생 시 방향 전환 어려움</li>\n<li>\n<strong>Use Static Types</strong> → 정적 타입 설정 필요</li>\n<li>\n<strong>Black Box Testing</strong> → 구현 세부 정보에 과도하게 의존</li>\n<li>\n<st",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19859",
+      "guid": "https://news.hada.io/topic?id=19859",
+      "pubDate": "2025-03-20T20:33:56+09:00",
       "author": "neo",
       "category": ""
     }
