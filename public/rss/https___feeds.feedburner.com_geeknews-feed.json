@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-20T00:22:25+09:00",
+  "lastBuildDate": "2025-03-20T10:24:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26273,6 +26273,136 @@
       "guid": "https://news.hada.io/topic?id=19843",
       "pubDate": "2025-03-20T00:22:25+09:00",
       "author": "parallelkim12",
+      "category": ""
+    },
+    {
+      "title": "무신사, PC 환경을 위한 UI 개발 예정",
+      "description": {
+        "$text": "<p>지난 2024년 6월, 무신사는 PC 버전 UI 지원을 중단했습니다.</p>\n<p>2025년 3월 17일에 올라온 새 공지사항에서는 2025년 3월 말부터 다시 지원할 것임을 밝혔습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19856",
+      "guid": "https://news.hada.io/topic?id=19856",
+      "pubDate": "2025-03-20T10:24:39+09:00",
+      "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "Boston Dynamics, 모션캡쳐 기반으로 강화학습한 Atlas 로봇 데모 공개",
+      "description": {
+        "$text": "<ul>\n<li>&quot;Walk, Run, Crawl, RL Fun&quot;</li>\n<li>인간 모션 캡처와 애니메이션을 가져와 강화 학습을 사용하여 개발된 동작을 시연</li>\n<li>Boston Dynamics 와 Robotics and AI Institute(RAI)의 협업으로 개발</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19855",
+      "guid": "https://news.hada.io/topic?id=19855",
+      "pubDate": "2025-03-20T10:15:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MrBeast는 유튜브 보다 초콜릿으로 돈을 더 많이 번다",
+      "description": {
+        "$text": "<ul>\n<li>MrBeast는 구독자 3.75억명으로 세계에서 가장 유명한 유튜버지만, 주요 수익원은 유튜브가 아닌 <strong>초콜릿 사업</strong>임</li>\n<li>Feastables(초콜릿 회사)의 지분을 대부분 소유하고 있으며, 2024년에 약 <strong>3630억원</strong>($250m)의 <strong>매출</strong>과 <strong>290억원</strong>($20m...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19854",
+      "guid": "https://news.hada.io/topic?id=19854",
+      "pubDate": "2025-03-20T10:03:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "독립(Indie) 앱 비즈니스에 대한 몇 가지 조언",
+      "description": {
+        "$text": "<ul>\n<li>맥용 웹 비디오 다운로더 Downie 와 미디어 포맷 변환기 Permute등 다양한 앱을 만든 개인 개발자 Carlie Monroe의 조언들</li>\n</ul>\n<h2>모든 것이 즉각적인 성공을 거두는 것은 아님</h2>\n<ul>\n<li>하룻밤 사이에 성공한 사례들이 많지만, 이는 극히 예외적인 경우이며, 대부분의 비즈니스는 시간이 필요함\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19853",
+      "guid": "https://news.hada.io/topic?id=19853",
+      "pubDate": "2025-03-20T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SpaceX의 Crew-9 지구 귀환",
+      "description": {
+        "$text": "SpaceX의 Crew-9 지구 귀환",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19852",
+      "guid": "https://news.hada.io/topic?id=19852",
+      "pubDate": "2025-03-20T09:45:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "여가(Leisure)로서의 연구라는 잃어버린 예술",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;아마추어 연구자들은 어디로 갔으며, 그들을 어떻게 되돌릴 수 있을까?&quot;</p>\n</blockquote>\n<h2>문명의 문학적 기반</h2>\n<ul>\n<li>샌프란시스코의 포트 메이슨에 위치한 <strong>Long Now Foundation</strong>의 <strong>Manual for Civilisation</strong>은 문명을 유지하거나 재건하는 데",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19851",
+      "guid": "https://news.hada.io/topic?id=19851",
+      "pubDate": "2025-03-20T09:42:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "fd: 'find'의 간단하고 빠르며 사용자 친화적인 대안",
+      "description": {
+        "$text": "<h2>fd 프로그램 소개</h2>\n<ul>\n<li>\n<code>fd</code>는 파일 시스템에서 항목을 찾기 위한 프로그램으로, <code>find</code>의 간단하고 빠르며 사용자 친화적인 대안임.</li>\n<li>\n<code>find</code>의 모든 기능을 지원하지는 않지만, 대부분의 사용 사례에 적합한 기본 설정을 제공함.</li>\n</ul>\n<h3>특징</h3>\n<u...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19850",
+      "guid": "https://news.hada.io/topic?id=19850",
+      "pubDate": "2025-03-20T09:39:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ICE에 의해 2주간 구금된 캐나다인",
+      "description": {
+        "$text": "<h2>나는 Ice에 의해 2주 동안 억류된 캐나다인임</h2>\n<ul>\n<li>\n<p><strong>억류 경험</strong>: Jasmine Mooney는 미국에서 일하기 위해 승인된 비자를 가지고 있었음에도 불구하고, 미국 입국 시 갑작스럽게 Ice에 의해 억류되었음. 그녀는 변호사와 언론의 주목을 받았지만, 다른 사람들에 비해 운이 좋았다고 느꼈...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19849",
+      "guid": "https://news.hada.io/topic?id=19849",
+      "pubDate": "2025-03-20T09:36:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Telescope - Clickhouse를 위한 웹 기반 로그 뷰어 UI 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>직관적인 로그 탐색 인터페이스를 제공하는 웹 애플리케이션</li>\n<li>\n<strong>ClickHouse</strong>에 저장된 모든 유형의 로그와 호환되며, 사용자는 ClickHouse와 쉽게 연결하여 로그를 검색하고 분석할 수 있음</li>\n<li>향후 추가적인 데이터 소스를 지원할 예정</li>\n</ul>\n<h2>주요 기능</h2>\n<ul>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19848",
+      "guid": "https://news.hada.io/topic?id=19848",
+      "pubDate": "2025-03-20T09:32:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "PDF에서 데이터 추출이 여전히 어려운 이유",
+      "description": {
+        "$text": "<h2>OCR(광학 문자 인식)의 한계</h2>\n<ul>\n<li>PDF 파일은 과학 연구, 정부 기록 등 중요한 데이터를 담고 있으나, 포맷이 고정적이라 기계가 읽고 분석하기 어려움</li>\n<li>PDF는 인쇄 레이아웃에 맞춰 제작된 형식이기 때문에 디지털 분석에 적합하지 않음</li>\n<li>많은 PDF는 정보의 이미지를 포함하므로, 이를 데...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19847",
+      "guid": "https://news.hada.io/topic?id=19847",
+      "pubDate": "2025-03-20T09:11:42+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
