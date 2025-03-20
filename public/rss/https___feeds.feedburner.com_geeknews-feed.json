@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-20T10:24:39+09:00",
+  "lastBuildDate": "2025-03-20T12:21:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26403,6 +26403,32 @@
       "guid": "https://news.hada.io/topic?id=19847",
       "pubDate": "2025-03-20T09:11:42+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "`git who` – 이 코드 누가 작성했어?!",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>git-who</code>는 코드베이스의 전체 구성 요소나 하위 시스템에 대한 책임자를 찾는 CLI 도구</li>\n<li>\n<code>git blame</code>과 달리, <code>git-who</code>는 <strong>파일 트리 단위</strong>로 작동하여 코드 작성자를 식별함</li>\n<li>세 가지 서브 커맨드를 제공하며, 각각의 하위 명령어는 Gi...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19858",
+      "guid": "https://news.hada.io/topic?id=19858",
+      "pubDate": "2025-03-20T12:21:45+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "날이 빨리 길어지고 있음",
+      "description": {
+        "$text": "<ul>\n<li>북반구에서는 춘분이 지나고 날이 빠르게 길어지고 있음. 노르웨이의 스타방에르에 사는 동료의 창문 배경이 어두웠다가 밝아지는 것을 보고, 날이 얼마나 빨리 길어지는지 궁금해졌음. 이를 알아보기 위해 위도에 따른 하루 길이 변화를 보여주는 인터랙티브 그래프를 만들었음.</li>\n</ul>\n<h3>수학적 배경...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19857",
+      "guid": "https://news.hada.io/topic?id=19857",
+      "pubDate": "2025-03-20T11:33:21+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
