@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-22T00:14:15+09:00",
+  "lastBuildDate": "2025-03-22T07:55:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26689,6 +26689,19 @@
       "guid": "https://news.hada.io/topic?id=19881",
       "pubDate": "2025-03-22T00:14:15+09:00",
       "author": "parallelkim12",
+      "category": ""
+    },
+    {
+      "title": "Bolt3D - 초고속 3D Scene 생성 모델",
+      "description": {
+        "$text": "<ul>\n<li>초고속 3D 장면 생성을 위한 <strong>잠재 확산 모델(latent diffusion model)</strong>\n</li>\n<li>하나 이상의 입력 이미지를 통해 7초 이내에 고해상도의 3D 장면을 생성할 수 있음</li>\n<li>대규모 멀티뷰 일관성 데이터셋을 구축해 훈련하였으며, 기존 3D 생성 모델 대비 <strong>최대 300배 빠름</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19882",
+      "guid": "https://news.hada.io/topic?id=19882",
+      "pubDate": "2025-03-22T07:38:19+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
