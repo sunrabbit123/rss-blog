@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-21T22:04:04+09:00",
+  "lastBuildDate": "2025-03-22T00:14:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26676,6 +26676,19 @@
       "guid": "https://news.hada.io/topic?id=19880",
       "pubDate": "2025-03-21T22:04:04+09:00",
       "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "Show GN: AI로 번역한 앵귤러 공식 문서",
+      "description": {
+        "$text": "<p>안녕하세요! 최근 앵귤러 프로젝트에 합류하면서 한글 자료 부족으로 어려움을 겪었어요.<br />\n그래서 오픈소스 AI 번역 프로젝트를 활용해 앵귤러 공식문서를 단 5시간 만에 한글화 후 배포까지 해보았답니다.<br />\n현재는 대부분 AI로 초벌 번역만 진행한 상태입니다!</p>\n<h3>번역 진행 상황</h3>\n<ul>\n<li>300개",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19881",
+      "guid": "https://news.hada.io/topic?id=19881",
+      "pubDate": "2025-03-22T00:14:15+09:00",
+      "author": "parallelkim12",
       "category": ""
     }
   ]
