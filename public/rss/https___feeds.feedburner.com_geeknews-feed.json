@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-20T20:33:56+09:00",
+  "lastBuildDate": "2025-03-21T10:01:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26442,6 +26442,136 @@
       "guid": "https://news.hada.io/topic?id=19859",
       "pubDate": "2025-03-20T20:33:56+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "웹 폰트의 메모리 안전성",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>웹 폰트의 메모리 안전성</h3>\n<ul>\n<li>\n<p><strong>FreeType을 대체하는 이유</strong></p>\n<ul>\n<li>웹은 다양한 신뢰할 수 없는 소스로부터 자원을 가져오는 독특한 환경임.</li>\n<li>Chrome은 웹 폰트를 안전하게 사용하기 위해 여러 보안 완화 조치를 사용함.</li>\n<li>FreeType은 복잡한 작업을 잘",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19872",
+      "guid": "https://news.hada.io/topic?id=19872",
+      "pubDate": "2025-03-21T10:01:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude, 인터넷 검색 기능(Web Search) 정식 지원 시작",
+      "description": {
+        "$text": "<ul>\n<li>Claude, 인터넷 검색 기능(Web Search) 정식 지원 시작 (Claude 3.7 Sonnet부터)</li>\n<li>최신 정보를 실시간 검색하여 보다 정확하고 신뢰할 수 있는 응답 제공</li>\n<li>웹 검색 결과를 직접 인용하여 출처를 명시, 사용자가 손쉽게 팩트체크 가능</li>\n<li>주요 활용 사례:\n<ul>\n<li>영업팀: 최신 업계 트렌...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19871",
+      "guid": "https://news.hada.io/topic?id=19871",
+      "pubDate": "2025-03-21T10:00:55+09:00",
+      "author": "ty91kr",
+      "category": ""
+    },
+    {
+      "title": "네덜란드 의회: 자국산 기술로 전환할 시기",
+      "description": {
+        "$text": "<h4>네덜란드 의회, 미국 기술 대신 자국 기술 채택 촉구</h4>\n<ul>\n<li>네덜란드 의회는 미국 기술 대신 자국 기술을 채택하자는 8개의 결의안을 통과시킴. 이는 정부 데이터가 해외로 전송되는 것에 대한 우려에서 비롯됨.</li>\n<li>결의안은 미국 기술 기업의 소프트웨어와 하드웨어를 대체하고, 네덜란드 기업과 새로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19870",
+      "guid": "https://news.hada.io/topic?id=19870",
+      "pubDate": "2025-03-21T09:58:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI 오디오 모델",
+      "description": {
+        "$text": "<ul>\n<li>개발자가 OpenAI API의 새로운 텍스트-음성 변환 모델을 시도해 볼 수 있는 인터랙티브 데모</li>\n<li>프롬프트로 음성효과, 톤, 속도, 감정, 발음, 일시 정지 등을 상세히 지정 가능</li>\n</ul>\n<h2>데모</h2>\n<ul>\n<li>목소리 선택: Alloy, Ash, Ballad, Coral, Echo 등 11가지</li>\n<li>다양한 Vibe 선택: S...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19869",
+      "guid": "https://news.hada.io/topic?id=19869",
+      "pubDate": "2025-03-21T09:55:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "북미 비디오 게임 노동자 산업 전반 노조 설립",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>북미 비디오 게임 노동자, 산업 전반의 노조 결성</h2>\n</li>\n<li>\n<p>미국과 캐나다의 비디오 게임 노동자들이 산업 전반의 노조를 결성함. United Videogame Workers-CWA (UVW-CWA)는 예술가, 작가, 디자이너, QA 테스터, 프로그래머, 프리랜서 등 다양한 직군의 노동자들을 하나로 모아 스튜디오와 현재...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19868",
+      "guid": "https://news.hada.io/topic?id=19868",
+      "pubDate": "2025-03-21T09:52:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프론트엔드 트레드밀(러닝머신)",
+      "description": {
+        "$text": "<ul>\n<li>많은 프론트엔드 팀이 <strong>프론트엔드를 새로 작성</strong>하면 <strong>성공</strong>할 것이라고 확신함\n<ul>\n<li>하지만 프론트엔드 프레임워크 선택은 장기적인 제품 개발에서 <strong>가장 중요하지 않은 기술적 결정</strong>임</li>\n<li>프레임워크 선택에 시간을 낭비하는 것은 비효율적임</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19867",
+      "guid": "https://news.hada.io/topic?id=19867",
+      "pubDate": "2025-03-21T09:49:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "번아웃 머신",
+      "description": {
+        "$text": "<ul>\n<li>기술 업계는 &quot;<strong>꿈의 직장</strong>&quot;이라는 신화를 팔아넘김\n<ul>\n<li>사무실의 빈백, 무료 음료수, &quot;애자일&quot; 프로세스 등으로 유혹</li>\n<li>실제로는 개발자, 시스템 관리자, 보안 전문가를 <strong>소모품</strong>처럼 다룸</li>\n</ul>\n</li>\n<li>&quot;<strong>열정</strong>&q...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19866",
+      "guid": "https://news.hada.io/topic?id=19866",
+      "pubDate": "2025-03-21T09:46:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub Actions로 인한 고통",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>GitHub Actions의 문제점</h3>\n<ul>\n<li>최근 GitHub Actions로 CI 스크립트를 다시 작성하는 데 많은 시간을 소비했음. 이전에는 Earthly를 사용했으나 중단되어 다시 GitHub Actions로 돌아옴.</li>\n<li>CI는 복잡하며, 병합 대기열, 여러 실행기, Rust 빌드, Docker 이미지, 통합 테스트 등을 포함함. ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19865",
+      "guid": "https://news.hada.io/topic?id=19865",
+      "pubDate": "2025-03-21T09:43:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FOSS 인프라가 AI 회사로부터 공격받고 있음",
+      "description": {
+        "$text": "<ul>\n<li>Drew DeVault(SourceHut 설립자)이 AI 크롤러가 <strong>robots.txt</strong>를 무시하고 SourceHut에 <strong>심각한 장애</strong> 발생시킨다고 경고</li>\n<li>KDE의 GitLab 인프라도 <strong>Alibaba의 IP 범위에서 발생한 AI 크롤러 공격</strong>으로 접근 불가 상태 발생</li>\n<li>\n<strong>AI 크롤러의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19864",
+      "guid": "https://news.hada.io/topic?id=19864",
+      "pubDate": "2025-03-21T09:40:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude, 이제 웹 검색 가능",
+      "description": {
+        "$text": "<ul>\n<li>Claude가 이제 <strong>인터넷 검색</strong>을 통해 <strong>최신 정보와 더 정확한 답변</strong>을 제공할 수 있음</li>\n<li>웹 검색을 통해 최신 이벤트와 정보를 반영하여 정확도를 향상시킴</li>\n<li>검색한 정보를 응답에 포함할 때 <strong>출처를 명확히 표시</strong>해 사용자가 쉽게 사실 확인 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19863",
+      "guid": "https://news.hada.io/topic?id=19863",
+      "pubDate": "2025-03-21T09:30:54+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
