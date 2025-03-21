@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-21T11:26:24+09:00",
+  "lastBuildDate": "2025-03-21T12:57:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26611,6 +26611,45 @@
       "guid": "https://news.hada.io/topic?id=19873",
       "pubDate": "2025-03-21T10:36:39+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Playwright Visual comparisons를 활용해, 효율적으로 더 안전한 개발 환경 만들기",
+      "description": {
+        "$text": "<h3>배경 및 문제 인식</h3>\n<ul>\n<li>프론트엔드 테스트는 UI 변경과 예측 불가한 사용자 입력으로 인해 어려움이 많음.</li>\n<li>사람이 직접 검증하는 테스트는 한계가 있어 자동화된 테스트 도입을 고려.</li>\n<li>기존 레코딩 방식의 E2E 테스트(TestProject, Playwright)는 유지보수 비용이 높고, UI 변경에 취약....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19878",
+      "guid": "https://news.hada.io/topic?id=19878",
+      "pubDate": "2025-03-21T12:57:14+09:00",
+      "author": "studroid",
+      "category": ""
+    },
+    {
+      "title": "자바의 체크드 예외 재고찰: 저평가된 타입 안전성 기능",
+      "description": {
+        "$text": "<h3>주요 내용 요약</h3>\n<ul>\n<li>자바의 체크드 예외가 커뮤니티에서 널리 비판받는 기능임에도 타입 안전성 측면에서 뛰어난 장점 보유.</li>\n<li>Rust의 <code>Result&lt;T, E&gt;</code>나 Haskell의 <code>Either a b</code>와 개념적으로 유사한 타입 안전성 메커니즘 제공.</li>\n<li>체크드 예외가 메서드 시그니...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19877",
+      "guid": "https://news.hada.io/topic?id=19877",
+      "pubDate": "2025-03-21T12:20:29+09:00",
+      "author": "hongminhee",
+      "category": ""
+    },
+    {
+      "title": "Universal Motion Graphics across All Platforms: Unleashing Creativity with ThorVG",
+      "description": {
+        "$text": "<p>FOSSASIA2025에서 소개한 ThorVG 프로젝트의 최신 업데이트 소개:</p>\n<ul>\n<li>산업 표준인 Lottie 스펙을 완벽하게 지원하는 범용 크로스플랫폼 엔진</li>\n<li>Lottie Expressions의 고급 스크립팅 기능 지원</li>\n<li>인터랙티브 Lottie 기능 지원 등</li>\n<li>https://github.com/thorvg/thorvg</li>\n</ul>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19876",
+      "guid": "https://news.hada.io/topic?id=19876",
+      "pubDate": "2025-03-21T11:27:48+09:00",
+      "author": "wuming84",
       "category": ""
     }
   ]
