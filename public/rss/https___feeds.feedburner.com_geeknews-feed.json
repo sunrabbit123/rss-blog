@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-21T12:57:14+09:00",
+  "lastBuildDate": "2025-03-21T15:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26650,6 +26650,19 @@
       "guid": "https://news.hada.io/topic?id=19876",
       "pubDate": "2025-03-21T11:27:48+09:00",
       "author": "wuming84",
+      "category": ""
+    },
+    {
+      "title": "macOS에서 비밀번호 유출 및 기타 문제",
+      "description": {
+        "$text": "<h2>비밀번호 유출 (그리고 더 많은 것들!) macOS에서</h2>\n<h3>소개</h3>\n<p>이 글은 Apple의 보안 업데이트에 포함된 취약점 <strong>CVE-2024-54471</strong>에 대해 설명함. 이 취약점은 <strong>macOS Sequoia 15.1, macOS Sonoma 14.7.1, macOS Ventura 13.7.1</strong>에서 패치되었음. macOS 기기를 사용하는 경...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19879",
+      "guid": "https://news.hada.io/topic?id=19879",
+      "pubDate": "2025-03-21T15:33:15+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
