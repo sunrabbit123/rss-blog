@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-21T15:33:15+09:00",
+  "lastBuildDate": "2025-03-21T22:04:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26663,6 +26663,19 @@
       "guid": "https://news.hada.io/topic?id=19879",
       "pubDate": "2025-03-21T15:33:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Model Context Protocol(MCP)을 통해 IntelliJ와 Claude를 연동하기",
+      "description": {
+        "$text": "<p>때는 2025년 3월 18일 새벽... MCP (Model Context Protocol) 를 처음 경험하고 느낀 놀라움이 너무 기억에 남아요. 그래서 이 강의를 통해 MCP를 전파하기 위해 이 강의를 만들게 되었어요. 2020년 IntelliJ를 처음 접했을 때의 신세계, 2022년 ChatGPT에 이어, MCP는 LLM을 이용한 개발의 패러다임을 또 한 번 바꿀...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19880",
+      "guid": "https://news.hada.io/topic?id=19880",
+      "pubDate": "2025-03-21T22:04:04+09:00",
+      "author": "sigridjineth",
       "category": ""
     }
   ]
