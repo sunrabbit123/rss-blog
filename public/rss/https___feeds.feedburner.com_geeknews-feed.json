@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-21T10:01:57+09:00",
+  "lastBuildDate": "2025-03-21T11:26:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26571,6 +26571,45 @@
       "link": "https://news.hada.io/topic?id=19863",
       "guid": "https://news.hada.io/topic?id=19863",
       "pubDate": "2025-03-21T09:30:54+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Universal Motion Graphics across All Platforms: Unleashing Creativity with ThorVG",
+      "description": {
+        "$text": "<p>FOSSASIA2025에서 소개한 ThorVG 프로젝트의 최신 업데이트</p>\n<ul>\n<li>산업 표준인 Lottie 스펙을 완벽하게 지원하는 범용 크로스플랫폼 엔진</li>\n<li>Lottie Expressions의 고급 스크립팅 기능 지원</li>\n<li>인터랙티브 Lottie 기능 지원 등</li>\n</ul>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19875",
+      "guid": "https://news.hada.io/topic?id=19875",
+      "pubDate": "2025-03-21T11:26:24+09:00",
+      "author": "wuming84",
+      "category": ""
+    },
+    {
+      "title": "Stripe, 자신들의 AI를 사용하지 않을시 추가로 $15의 분쟁 수수료를 부과하기로",
+      "description": {
+        "$text": "<ul>\n<li>기존에 분쟁이 발생할 때마다 부과되던 <strong>$15 수수료</strong>에 더해, 이제 <strong>분쟁에 대응할 경우 추가로 $15 수수료</strong> 발생\n<ul>\n<li>분쟁에서 승소할 경우에만 추가 수수료 환급 가능</li>\n</ul>\n</li>\n<li>은행은 어떤 증거를 제시하더라도 정당한 거래를 취소하는 경우가 많음\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19874",
+      "guid": "https://news.hada.io/topic?id=19874",
+      "pubDate": "2025-03-21T10:37:00+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI o1-pro, 이제 API로 접근 가능",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>입력 토큰 $150, 출력 토큰 $600</strong> (1백만개당)\n<ul>\n<li>o1-mini 보다 150배 비쌈</li>\n</ul>\n</li>\n<li>o1 시리즈 모델은 강화 학습(Reinforcement Learning)을 통해 답변 전에 생각하고 복잡한 추론을 수행하도록 훈련됨\n<ul>\n<li>\n<strong>o1-pro 모델</strong>은 더 많은 연산 자원을 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19873",
+      "guid": "https://news.hada.io/topic?id=19873",
+      "pubDate": "2025-03-21T10:36:39+09:00",
       "author": "xguru",
       "category": ""
     }
