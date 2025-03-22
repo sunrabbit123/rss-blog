@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-22T07:55:22+09:00",
+  "lastBuildDate": "2025-03-22T10:07:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26702,6 +26702,110 @@
       "guid": "https://news.hada.io/topic?id=19882",
       "pubDate": "2025-03-22T07:38:19+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Lightpanda - AI와 자동화를 위한 헤드리스 브라우저",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트, LLM 훈련, 웹 스크래핑 및 테스트를 위한 오픈소스 헤드리스 브라우저\n<ul>\n<li>크롬보다 <strong>9배 낮은 메모리 사용량</strong>, <strong>11배 빠른 실행 속도</strong>\n</li>\n</ul>\n</li>\n<li>\n<strong>Javascript 실행 지원</strong>, <strong>웹 API 지원</strong>, <strong>Playwright</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19890",
+      "guid": "https://news.hada.io/topic?id=19890",
+      "pubDate": "2025-03-22T10:07:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "인디웹의 성공 필요성 없음",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>IndieWeb의 중요성</h2>\n<ul>\n<li>IndieWeb은 개인이 자신의 웹사이트를 호스팅하고 콘텐츠를 소유하는 디지털 독립성을 되찾기 위한 인터넷의 한 구석임.</li>\n<li>이 커뮤니티는 개인 웹사이트를 통해 자신의 디지털 존재를 통제해야 한다는 아이디어를 홍보함.</li>\n<li>온라인 토론에서 IndieWeb이 &q...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19889",
+      "guid": "https://news.hada.io/topic?id=19889",
+      "pubDate": "2025-03-22T09:54:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple, Siri를 되살리기 위해 AI 임원진을 개편",
+      "description": {
+        "$text": "<ul>\n<li>애플은 인공지능(AI) 노력을 재정비하기 위해 경영진을 개편하고 있음.</li>\n<li>팀 쿡 CEO는 AI 책임자인 존 지안안드레아의 제품 개발 능력에 대한 신뢰를 잃고, Vision Pro 창조자인 마이크 록웰을 새로운 역할로 이동시킴.</li>\n<li>록웰은 소프트웨어 책임자인 크레이그 페더리기에게 보고하며, Siri는 지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19888",
+      "guid": "https://news.hada.io/topic?id=19888",
+      "pubDate": "2025-03-22T09:51:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "IronRDP - Microsoft RDP(원격 데스크탑)의 Rust 구현체",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 작성되어 안정적이고 성능이 강화된 <strong>Microsoft Remote Desktop Protocol(RDP)</strong> 구현\n<ul>\n<li>\n<strong>보안</strong>에 중점을 둔 고성능 오픈소스 라이브러리(Cargo 모음)</li>\n</ul>\n</li>\n<li>비동기 I/O 기반 <strong>완전한 RDP 클라이언트</strong> 제공 → 다양한 사용 사례에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19887",
+      "guid": "https://news.hada.io/topic?id=19887",
+      "pubDate": "2025-03-22T09:48:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프랑스, 백도어 요구 법안 거부 – 암호화의 승리",
+      "description": {
+        "$text": "<ul>\n<li>프랑스 하원이 <strong>암호화된 메시징 플랫폼에 백도어를 강제</strong>하는 법안을 거부함</li>\n<li>이 법안은 마약 밀매와의 싸움을 명분으로 제안되었으나 <strong>개인 통신의 사생활 보호를 심각하게 침해</strong>할 위험이 있었음</li>\n<li>법안 통과 시, Signal 및 WhatsApp 같은 플랫폼이 사용자 간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19886",
+      "guid": "https://news.hada.io/topic?id=19886",
+      "pubDate": "2025-03-22T09:45:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "관리자, 디렉터, VP의 진짜 의미 (2015)",
+      "description": {
+        "$text": "<p><strong>관리자, 디렉터, VP의 핵심 역할과 차이점</strong></p>\n<ul>\n<li>\n<strong>1. 관리자 (Manager)</strong>\n<ul>\n<li>\n<strong>결과를 내는 역할 (지원이 필요함)</strong>\n</li>\n<li>해당 분야에서 경험이 있음</li>\n<li>책임을 지고 일을 수행하지만 여전히 학습 중</li>\n<li>프로젝트의 전술적 계획을 실행",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19885",
+      "guid": "https://news.hada.io/topic?id=19885",
+      "pubDate": "2025-03-22T09:42:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "IETF 127 보이콧 운동",
+      "description": {
+        "$text": "<h2>IETF 127 보이콧</h2>\n<ul>\n<li>IETF 127 회의가 미국에서 열리는 것에 대한 반대 의견이 제기됨. 이는 미국의 여행 안전 문제와 관련이 있음.</li>\n<li>미국은 많은 사람들에게 이미 안전하지 않은 국가였으며, 현재는 거의 모든 여행자에게 적대적인 상태임.</li>\n<li>여러 사례가 있으며, 국경에서 억류되거나 비...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19884",
+      "guid": "https://news.hada.io/topic?id=19884",
+      "pubDate": "2025-03-22T09:39:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Retro Boy - Rust로 작성된 Game Boy 에뮬레이터, 웹에서 플레이 가능",
+      "description": {
+        "$text": "<ul>\n<li>정확한 CPU/오디오 에뮬레이션으로 cycle-accurate한 게임보이 에뮬레이터</li>\n<li>\n<strong>wasm-pack</strong>을 사용해 Rust 코드를 WebAssembly로 변환 → 웹에서 실행 가능</li>\n<li>\n<strong>Web Audio API</strong> 및 <strong>HTML Canvas</strong> 사용하여 오디오 및 그래픽 처리</li>\n<li>\n<strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19883",
+      "guid": "https://news.hada.io/topic?id=19883",
+      "pubDate": "2025-03-22T08:33:04+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
