@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-22T17:34:05+09:00",
+  "lastBuildDate": "2025-03-22T19:33:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26818,6 +26818,19 @@
       "link": "https://news.hada.io/topic?id=19891",
       "guid": "https://news.hada.io/topic?id=19891",
       "pubDate": "2025-03-22T17:34:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "기계 학습에서의 Pen and Paper 연습 (2022)",
+      "description": {
+        "$text": "<h2>컴퓨터 과학 &gt; 머신러닝</h2>\n<ul>\n<li>\n<p><strong>펜과 종이로 하는 머신러닝 연습 문제</strong></p>\n<ul>\n<li>Michael U. Gutmann이 작성한 이 문서는 주로 펜과 종이로 해결할 수 있는 머신러닝 연습 문제 모음임.</li>\n<li>다루는 주제는 선형대수, 최적화, 방향성 그래프 모델, 비방향성 그래프 모델, 그래",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19892",
+      "guid": "https://news.hada.io/topic?id=19892",
+      "pubDate": "2025-03-22T19:33:58+09:00",
       "author": "neo",
       "category": ""
     }
