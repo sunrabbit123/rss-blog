@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-22T10:07:01+09:00",
+  "lastBuildDate": "2025-03-22T17:34:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26805,6 +26805,19 @@
       "link": "https://news.hada.io/topic?id=19883",
       "guid": "https://news.hada.io/topic?id=19883",
       "pubDate": "2025-03-22T08:33:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OS 개발에 관한 작은 책",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>이 책은 x86 운영 체제 개발에 대한 실용적인 가이드로, 기술적 세부 사항을 제공하면서도 코드 예제를 과도하게 제공하지 않음.</li>\n<li>운영 체제 이론이 아닌 실제 커널 개발에 중점을 두며, 독자가 점차적으로 구현과 설계를 맡게 됨.</li>\n<li>초기 챕터에서는 개발 환경 설정과 가상 머신...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19891",
+      "guid": "https://news.hada.io/topic?id=19891",
+      "pubDate": "2025-03-22T17:34:05+09:00",
       "author": "neo",
       "category": ""
     }
