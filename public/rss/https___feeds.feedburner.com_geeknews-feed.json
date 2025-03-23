@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-23T11:06:48+09:00",
+  "lastBuildDate": "2025-03-23T12:32:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27013,6 +27013,19 @@
       "link": "https://news.hada.io/topic?id=19897",
       "guid": "https://news.hada.io/topic?id=19897",
       "pubDate": "2025-03-23T09:48:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Landrun - root나 컨테이너 없이 Landlock으로 모든 리눅스 프로세스 샌드박싱",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Landlock LSM</strong>을 사용해 리눅스 프로세스를 안전하게 실행하는 경량 샌드박스</li>\n<li>\n<strong>Firejail</strong>과 비슷하지만 커널 레벨 보안 및 최소한의 오버헤드를 제공</li>\n<li>\n<strong>커널 레벨 보안</strong>: Landlock LSM을 통해 프로세스 자체가 보안 정책을 설정하고 실행 환...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19907",
+      "guid": "https://news.hada.io/topic?id=19907",
+      "pubDate": "2025-03-23T12:32:48+09:00",
       "author": "neo",
       "category": ""
     }
