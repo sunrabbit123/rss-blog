@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-23T12:32:48+09:00",
+  "lastBuildDate": "2025-03-24T00:58:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27027,6 +27027,19 @@
       "guid": "https://news.hada.io/topic?id=19907",
       "pubDate": "2025-03-23T12:32:48+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PDF만 던져주면 끝날줄 알았다 - GPTs RAG 적용 실패기",
+      "description": {
+        "$text": "<h3>불교 GPT 개발 배경</h3>\n<ul>\n<li>불교 공부에 GPT를 활용하고자 했으나, 기본 성능은 기대 이하.</li>\n<li>PDF 자료 학습을 통해 답변 품질이 향상됨.</li>\n<li>자타카 경전 학습을 제안받아 프로젝트 착수.</li>\n</ul>\n<h3>PDF 학습의 한계</h3>\n<ul>\n<li>자타카 PDF 학습 후 환각 심각.</li>\n<li>다단, 표, 그림...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19908",
+      "guid": "https://news.hada.io/topic?id=19908",
+      "pubDate": "2025-03-24T00:58:43+09:00",
+      "author": "computerphilosopher",
       "category": ""
     }
   ]
