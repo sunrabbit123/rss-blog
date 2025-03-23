@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-23T03:32:54+09:00",
+  "lastBuildDate": "2025-03-23T09:45:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26845,6 +26845,45 @@
       "guid": "https://news.hada.io/topic?id=19893",
       "pubDate": "2025-03-23T03:32:54+09:00",
       "author": "guseod24",
+      "category": ""
+    },
+    {
+      "title": "미국 특허청(USPTO) 새 메모, 특허 괴물과의 싸움 더욱 어렵게 만들어",
+      "description": {
+        "$text": "<ul>\n<li>미국 특허청(USPTO)이 잘못된 특허를 보호하는 결정을 내림\n<ul>\n<li>2월 28일 발표된 메모에서 USPTO는 inter partes review(IPR)에 대한 접근을 더욱 제한함</li>\n<li>IPR은 대중이 잘못된 특허를 도전할 수 있도록 만든 과정임</li>\n</ul>\n</li>\n</ul>\n<h2><strong>IPR은 특허청의 실수를 바로잡기 위해 존재...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19896",
+      "guid": "https://news.hada.io/topic?id=19896",
+      "pubDate": "2025-03-23T09:45:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "조지 포먼 사망",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>조지 포먼, 복서에서 포먼 그릴 인포머셜 스타로, 76세로 사망</h2>\n<ul>\n<li>조지 포먼은 텍사스 출신으로 세계 헤비급 챔피언이었으며, TV와 대중문화의 아이콘이었음</li>\n<li>1990년대에 저비용 TV 시간을 활용하여 포먼 그릴 제품을 인포머셜을 통해 성공적으로 출시함</li>\n<li>1977년 링에서의 사건...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19895",
+      "guid": "https://news.hada.io/topic?id=19895",
+      "pubDate": "2025-03-23T09:42:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "몬스터 케이블스는 위협할 사람을 잘못 골랐다 (2008)",
+      "description": {
+        "$text": "<ul>\n<li>Monster Cables는 고가의 스테레오 케이블을 제조하는 회사이며, Blue Jeans Cable에 다양한 침해 혐의를 주장하며 <strong>중단 및 철회 서한</strong>을 보냄</li>\n<li>그러나 Blue Jeans Cable의 사장인 <strong>Kurt Denke</strong>는 과거 소송 변호사 출신으로, 강경하게 대응함</li>\n<li>Denke는 Monste...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19894",
+      "guid": "https://news.hada.io/topic?id=19894",
+      "pubDate": "2025-03-23T09:39:42+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
