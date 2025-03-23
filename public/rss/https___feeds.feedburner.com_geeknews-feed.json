@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-23T09:45:42+09:00",
+  "lastBuildDate": "2025-03-23T11:06:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -26883,6 +26883,136 @@
       "link": "https://news.hada.io/topic?id=19894",
       "guid": "https://news.hada.io/topic?id=19894",
       "pubDate": "2025-03-23T09:39:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NestJS에서 DB를 연동한 단위 테스트 환경 구축 공유 (Sociable Test)",
+      "description": {
+        "$text": "<h4><strong>1. 개요</strong></h4>\n<ul>\n<li>Sociable Test(실제 DB 연동) 방식의 단위 테스트 구축 방법 공유</li>\n<li>TypeORM 같은 ORM은 타입 안전성 문제가 있어, 실제 DB를 사용한 테스트가 필요함</li>\n</ul>\n<h4><strong>2. Solitary Test vs Sociable Test</strong></h4>\n<ul>\n<li>비교\n<ul>\n<li>Solitary Tes...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19906",
+      "guid": "https://news.hada.io/topic?id=19906",
+      "pubDate": "2025-03-23T11:06:48+09:00",
+      "author": "tothefullest08",
+      "category": ""
+    },
+    {
+      "title": "스크립트에서는 긴 옵션을 사용합시다",
+      "description": {
+        "$text": "<ul>\n<li>많은 명령줄 유틸리티는 짧은 형식 옵션(<code>-f</code>)과 긴 형식 옵션(<code>--force</code>)을 지원함</li>\n<li>짧은 형식은 대화형 사용을 위한 것임, 스크립트에서는 긴 형식을 사용할 것을 권장함</li>\n<li>예를 들어, 터미널에서는 <code>$ git switch -c my-new-branch</code>라고 입력함.</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19905",
+      "guid": "https://news.hada.io/topic?id=19905",
+      "pubDate": "2025-03-23T10:32:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "텐센트 Hunyuan-T1 - 최초의 Mamba 아키텍처 기반 초대형 모델",
+      "description": {
+        "$text": "<ul>\n<li>Hunyuan-T1은 TurboS 기반의 초대형 Hybrid-Transformer-Mamba MoE 모델</li>\n<li>대규모 후처리 학습을 통해 인간의 선호도에 맞춰 추론 능력을 확장하고 성능을 향상</li>\n<li>TurboS의 <strong>장문 텍스트 처리 능력</strong> 으로  문맥 손실 및 장거리 정보 의존 문제 해결</li>\n<li>\n<strong>Mamba 아키...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19904",
+      "guid": "https://news.hada.io/topic?id=19904",
+      "pubDate": "2025-03-23T10:31:36+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google, Gemma 3는 단일 GPU에서 실행가능한 가장 강력한 AI 모델이라고 주장",
+      "description": {
+        "$text": "<ul>\n<li>Google은 Gemini AI 기술을 기반으로 한 Gemma AI 모델의 후속 버전인 <strong>Gemma 3</strong>를 발표함</li>\n<li>Gemma 3는 개발자가 다양한 플랫폼에서 AI 애플리케이션을 실행할 수 있도록 설계됨\n<ul>\n<li>스마트폰에서 워크스테이션까지 실행 가능</li>\n<li>35개 이상의 언어 지원</li>\n<li>텍스트, 이미...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19903",
+      "guid": "https://news.hada.io/topic?id=19903",
+      "pubDate": "2025-03-23T10:20:06+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "프랑스 과학자가 미국 입국을 거부당했다고 프랑스 정부가 발표",
+      "description": {
+        "$text": "<ul>\n<li>프랑스 교육부는 국립과학연구센터(CNRS) 소속 과학자가 미국에서 열리는 학회에 참석하려다 입국이 거부되었다고 발표함</li>\n<li>교육부 장관은 입국 거부 이유가 과학자가 <strong>트럼프 행정부의 연구 정책에 대한 개인적인 의견을 표명</strong>했기 때문인 것으로 보인다고 주장</li>\n<li>미국 세관 및 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19902",
+      "guid": "https://news.hada.io/topic?id=19902",
+      "pubDate": "2025-03-23T10:09:11+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "STPA - Google SRE의 새로운 장애 예방 방법 교육",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>STPA(System Theoretic Process Analysis, 시스템 이론적 프로세스 분석)</strong> 는 시스템 및 제어 이론을 기반으로 복잡한 시스템의 <strong>제어-피드백 루프</strong>를 모델링하는 방법\n<ul>\n<li>구글은 STPA을 사용하여 소프트웨어 시스템을 분석하고 잠재적인 위험을 발견</li>\n</ul>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19901",
+      "guid": "https://news.hada.io/topic?id=19901",
+      "pubDate": "2025-03-23T09:56:41+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "캘리포니아 법무장관, 23andMe 고객 대상 소비자 경고 발령",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>23andMe의 재정적 어려움</strong>: 캘리포니아 법무장관 Rob Bonta는 유전자 검사 및 정보 회사인 23andMe의 고객에게 소비자 경고를 발행함. 이 회사는 재정적 어려움을 겪고 있으며, 지속 가능성에 대한 의문이 제기되고 있음.</li>\n<li>\n<strong>유전자 데이터 삭제 권리</strong>: 캘리포니아 주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19900",
+      "guid": "https://news.hada.io/topic?id=19900",
+      "pubDate": "2025-03-23T09:54:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PyTorch Internals (2019)",
+      "description": {
+        "$text": "<ul>\n<li>PyTorch의 내부 구조에 대한 설명으로, PyTorch의 C++ 코드베이스에 기여하고자 하는 사람들을 위한 안내서</li>\n<li>이 글의 목표는 PyTorch의 텐서 라이브러리 구조 및 자동 미분(autograd) 기법을 이해하고 코드베이스에서 길을 찾는 데 도움을 주는 것임</li>\n</ul>\n<h2>PyTorch 텐서의 기본 구조</h2>\n<ul...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19899",
+      "guid": "https://news.hada.io/topic?id=19899",
+      "pubDate": "2025-03-23T09:51:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Konva.js - JavaScript Canvas 2D 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>HTML5 Canvas 기반의 JavaScript 프레임워크로 고성능 애니메이션, 트랜지션, 노드 중첩, 레이어링, 필터링, 캐싱, 이벤트 처리 등을 지원</li>\n<li>데스크탑 및 모바일 기기에서 일관된 경험과 성능 제공</li>\n<li>다양한 도형을 지원하는 <strong>객체 지향 방식의 API</strong>\n</li>\n<li>수천 개의 도형을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19898",
+      "guid": "https://news.hada.io/topic?id=19898",
+      "pubDate": "2025-03-23T09:49:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Calibre 8.0 릴리즈 - e북 리더 & 관리자",
+      "description": {
+        "$text": "<ul>\n<li>Calibre는 전자책 관리 및 변환을 위한 강력한 도구로, 다양한 장치 및 형식을 지원하며, 지속적인 업데이트를 통해 사용자 경험을 개선</li>\n<li>\n<strong>폴더 연결 기능</strong> : 특정 폴더를 USB 장치처럼 인식 가능. Chromebook 등에서 USB 장치가 폴더로 표시될 때 유용</li>\n<li>\n<strong>목차 편집기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19897",
+      "guid": "https://news.hada.io/topic?id=19897",
+      "pubDate": "2025-03-23T09:48:43+09:00",
       "author": "neo",
       "category": ""
     }
