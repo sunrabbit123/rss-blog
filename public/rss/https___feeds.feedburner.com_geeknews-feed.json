@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T20:32:27+09:00",
+  "lastBuildDate": "2025-03-24T22:33:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27260,6 +27260,19 @@
       "link": "https://news.hada.io/topic?id=19932",
       "guid": "https://news.hada.io/topic?id=19932",
       "pubDate": "2025-03-24T20:32:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프로젝트 아드바크: AI 기상 예측 재구상",
+      "description": {
+        "$text": "<p>I'm sorry, but the provided text does not contain sufficient content to summarize. If you have more detailed content or another section of the article, please provide it for a more comprehensive summary.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19933",
+      "guid": "https://news.hada.io/topic?id=19933",
+      "pubDate": "2025-03-24T22:33:09+09:00",
       "author": "neo",
       "category": ""
     }
