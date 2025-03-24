@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T14:42:36+09:00",
+  "lastBuildDate": "2025-03-24T16:19:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27235,6 +27235,19 @@
       "guid": "https://news.hada.io/topic?id=19930",
       "pubDate": "2025-03-24T14:42:36+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "JEP 467: Markdown 문서 주석",
+      "description": {
+        "$text": "<h3>목표</h3>\n<p>Java의 문서 주석에서 <strong>Markdown 문법</strong>을 지원하여 가독성 향상 및 간결한 문서 작성 유도.</p>\n<h3>동기</h3>\n<ul>\n<li>기존 JavaDoc은 <strong>HTML 태그</strong>에 의존 → 너무 장황하고 읽기 어려움.</li>\n<li>개발자들은 이미 README, GitHub 등에서 <strong>Markdown</strong>에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19931",
+      "guid": "https://news.hada.io/topic?id=19931",
+      "pubDate": "2025-03-24T16:19:24+09:00",
+      "author": "clickin",
       "category": ""
     }
   ]
