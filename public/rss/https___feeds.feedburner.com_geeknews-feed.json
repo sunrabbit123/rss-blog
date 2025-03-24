@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T11:34:04+09:00",
+  "lastBuildDate": "2025-03-24T13:18:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27209,6 +27209,19 @@
       "guid": "https://news.hada.io/topic?id=19928",
       "pubDate": "2025-03-24T11:34:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Voice-Pro: 이재용 부회장 환영사를 더빙하며 알게된 동시통역의 어려움",
+      "description": {
+        "$text": "<p>2022년 5월 20일, 평택 삼성전자 반도체 공장에서 이재용 부회장이 영어로 환영사를 했죠. 그런데 OBS의 동시통역은 처참했습니다. 고등학생도 울고 갈 수준에, 엉뚱한 해석까지 곁들여 청중을 당혹스럽게 했습니다. 그래서 Voice-Pro로 제대로 된 더빙을 만들어봤습니다. 결과는 여기: <strong><a href=\"https://you...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19929",
+      "guid": "https://news.hada.io/topic?id=19929",
+      "pubDate": "2025-03-24T13:18:55+09:00",
+      "author": "abuskorea",
       "category": ""
     }
   ]
