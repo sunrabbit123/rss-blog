@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T00:58:43+09:00",
+  "lastBuildDate": "2025-03-24T10:11:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27040,6 +27040,136 @@
       "guid": "https://news.hada.io/topic?id=19908",
       "pubDate": "2025-03-24T00:58:43+09:00",
       "author": "computerphilosopher",
+      "category": ""
+    },
+    {
+      "title": "2025년 React 트렌드",
+      "description": {
+        "$text": "<ul>\n<li>React는 클라이언트-서버 경계를 허무는 <strong>풀스택 프레임워크</strong>로 진화 중</li>\n<li>Next.js의 독점적 지위가 약화되며 <strong>TanStack Start</strong> 및 <strong>React Router</strong>가 경쟁자로 부상</li>\n<li>React의 폼, 상태 관리, 서버 컴포넌트, AI 도입 등 기능이 강화됨</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19924",
+      "guid": "https://news.hada.io/topic?id=19924",
+      "pubDate": "2025-03-24T10:11:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "\"Vibe Coding\" vs 현실",
+      "description": {
+        "$text": "<ul>\n<li>최근 Andrej Karpathy의 발언이 화제: &quot;<strong>Vibe에 몸을 맡기고, 기하급수적인 성장을 받아들이고, 코드가 존재한다는 사실 조차 잊어버리세요.</strong>&quot;</li>\n<li>&quot;<strong>Vibe Coding</strong>&quot;은 명확한 계획이나 코드 작성 없이 AI 도구에 문제 해결을 위임하는 경향을 의미함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19923",
+      "guid": "https://news.hada.io/topic?id=19923",
+      "pubDate": "2025-03-24T10:02:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Next.js 버전 15.2.3 보안 취약점 해결 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>CVE-2025-29927</h2>\n</li>\n<li>\n<p>Next.js 버전 15.2.3이 보안 취약점(CVE-2025-29927)을 해결하기 위해 출시됨. <code>next start</code>와 <code>output: 'standalone'</code>을 사용하는 모든 자체 호스팅 Next.js 배포는 즉시 업데이트할 것을 권장함.</p>\n</li>\n<li>\n<h3>타임라인</h3>\n<ul>\n<li>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19922",
+      "guid": "https://news.hada.io/topic?id=19922",
+      "pubDate": "2025-03-24T09:59:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Next.js vs TanStack – Next.js의 한계와 TanStack의 장점",
+      "description": {
+        "$text": "<ul>\n<li>아직 React를 좋아하고 Vercel이 제공하는 것도 좋지만, <strong>Next.js의 복잡성 증가와 비용</strong> 문제로 인해 <strong>TanStack으로 전환</strong>\n</li>\n<li>TanStack은 아직 부족하지만, <strong>직관적</strong>이며 <strong>필요할 때 고급 기능을 쉽게 추가 가능</strong>\n</li>\n<li>Next.js의 고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19921",
+      "guid": "https://news.hada.io/topic?id=19921",
+      "pubDate": "2025-03-24T09:59:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HN에 공개: Drum Patterns 공유 웹사이트 구축",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>드럼 패턴 공유 플랫폼 소개</h2>\n<ul>\n<li>드럼 머신 패턴을 발견하고 공유할 수 있는 플랫폼임.</li>\n<li>다양한 장르의 드럼 패턴을 제공하며, 사용자가 직접 패턴을 만들고 공유할 수 있음.</li>\n</ul>\n</li>\n<li>\n<h2>드럼 패턴 예시</h2>\n<ul>\n<li>\n<strong>Breakbeat</strong>: 다양한 타악기 소리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19920",
+      "guid": "https://news.hada.io/topic?id=19920",
+      "pubDate": "2025-03-24T09:56:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "신경기호 프로그래밍 언어 Scallop",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Scallop 소개</h2>\n<ul>\n<li>Scallop은 AI 응용 프로그램에서 풍부한 상징적 추론을 지원하기 위해 설계된 선언적 언어임.</li>\n<li>Datalog에 기반하여 관계형 데이터베이스를 위한 논리 규칙 기반 쿼리 언어임.</li>\n</ul>\n</li>\n<li>\n<h2>Solver</h2>\n<ul>\n<li>Scallop은 확장 가능한 Datalog 솔버로, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19919",
+      "guid": "https://news.hada.io/topic?id=19919",
+      "pubDate": "2025-03-24T09:53:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "극지방의 소용돌이가 브레이크를 밟고 있다",
+      "description": {
+        "$text": "<ul>\n<li>극지 소용돌이 블로그는 성층권의 극지 소용돌이를 모니터링하고 예측하는 것에 관한 블로그로, 이들이 극한 겨울 날씨와 계절 기후에 미치는 영향에 대해 설명함</li>\n</ul>\n<h2>폴라 보텍스의 감속 현상</h2>\n<ul>\n<li>이번 겨울 시즌 동안 60°N 지역에서의 폴라 보텍스 바람은 성층권 북극 지역을 빠르게 순...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19918",
+      "guid": "https://news.hada.io/topic?id=19918",
+      "pubDate": "2025-03-24T09:50:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 세로토닌: 마음을 위한 AI",
+      "description": {
+        "$text": "<p>세로토닌은 마음을 위한 AI 입니다.</p>\n<ul>\n<li>AI 회고 / 일기: 아침에 하루를 준비하거나, 저녁에 하루 일과를 정리해볼 수 있습니다.</li>\n<li>AI 친구 / 서포트 그룹 (Support Group): 나와 공통점을 가진 AI 친구들에게 정서적인 지원을 받을 수 있습니다.</li>\n<li>감정분석 및 데이터: 일기를 작성하거나, A",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19917",
+      "guid": "https://news.hada.io/topic?id=19917",
+      "pubDate": "2025-03-24T09:48:09+09:00",
+      "author": "luckydaun",
+      "category": ""
+    },
+    {
+      "title": "NixOS와 재현 가능한 빌드로 탐지된 xz 백도어",
+      "description": {
+        "$text": "<ul>\n<li>2024년 3월, Linux 배포판에서 소스 타르볼을 압축 해제하는 데 사용되는 <code>xz</code> 소프트웨어에 백도어가 발견됨.</li>\n<li>이 백도어는 악의적인 유지보수자 _Jia Tan_에 의해 3년 동안 은밀하게 삽입됨.</li>\n<li>이 사건은 원격 코드 실행을 가능하게 하여 큰 영향을 미쳤으며, 발견하기 매우 어려웠...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19916",
+      "guid": "https://news.hada.io/topic?id=19916",
+      "pubDate": "2025-03-24T09:47:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Code With LLM - AI 지원 개발 도구들 모음",
+      "description": {
+        "$text": "<ul>\n<li>AI 지원 IDE : 개발 도구 이름, 간단한 설명, 변경 로그, 가격, 관련 포럼 링크\n<ul>\n<li>Cursor, Windsurf, PearAI, Copilot, Trae, Fleet, Zed,...</li>\n</ul>\n</li>\n<li>IDE용 확장들 : Cline, RooCode, Zencoder, Junie, Twinny,...</li>\n<li>CLI 도구들 : Aider Chat, Kwaak, CodeBuff, Claude Code,......</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19915",
+      "guid": "https://news.hada.io/topic?id=19915",
+      "pubDate": "2025-03-24T09:46:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
