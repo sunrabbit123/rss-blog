@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T10:11:01+09:00",
+  "lastBuildDate": "2025-03-24T11:14:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27170,6 +27170,32 @@
       "guid": "https://news.hada.io/topic?id=19915",
       "pubDate": "2025-03-24T09:46:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 (번역)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Vibe Coding</strong>은 인간이 AI 모델과 협업해 효율적으로 프로젝트를 구축하는 소프트웨어 개발 방식</li>\n<li>세 가지 핵심 기둥으로 구성됨:\n<ul>\n<li>\n<strong>명세(Specification):</strong> 목표 정의 (예: “로그인 기능이 있는 Twitter 클론 구축”)</li>\n<li>\n<strong>규칙(Rules):</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19927",
+      "guid": "https://news.hada.io/topic?id=19927",
+      "pubDate": "2025-03-24T11:14:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Laravel AI Translator: 더 강력해진 라라벨 기반 (혹은 Crowdin) 프로덕트의 AI 번역 시스템",
+      "description": {
+        "$text": "<p><a href=\"https://news.hada.io/topic?id=15612\">이전</a>에 소개시켜드린바가 있지만, 새로운 기능을 업데이트 하고 리팩토링 작업을 하게 되어 공유합니다.</p>\n<p>저는 글로벌 게임 데이터 서비스 OP.GG를 창업하고 운영중입니다.</p>\n<p>저희는 15개 국어가 넘는 언어를 서비스중인데, 그동안 사람 번역가를 이용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19926",
+      "guid": "https://news.hada.io/topic?id=19926",
+      "pubDate": "2025-03-24T10:58:50+09:00",
+      "author": "kargnas",
       "category": ""
     }
   ]
