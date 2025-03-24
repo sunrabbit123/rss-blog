@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-24T11:14:01+09:00",
+  "lastBuildDate": "2025-03-24T11:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27196,6 +27196,19 @@
       "guid": "https://news.hada.io/topic?id=19926",
       "pubDate": "2025-03-24T10:58:50+09:00",
       "author": "kargnas",
+      "category": ""
+    },
+    {
+      "title": "\"모든 데모의 어머니\" 키셋을 위한 USB 인터페이스",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>USB 인터페이스와 &quot;모든 데모의 어머니&quot; 키셋</h2>\n<ul>\n<li>1960년대 초, 더글라스 엥겔바트는 컴퓨터가 인간의 지능을 어떻게 증강할 수 있는지 연구하기 시작했음. 그는 마우스, 하이퍼텍스트, 공유 문서, 윈도우, 그래픽 사용자 인터페이스 등 현대 컴퓨팅의 많은 기능을 개발했음. 1968년 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19928",
+      "guid": "https://news.hada.io/topic?id=19928",
+      "pubDate": "2025-03-24T11:34:04+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
