@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-25T15:18:56+09:00",
+  "lastBuildDate": "2025-03-25T17:34:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27456,6 +27456,19 @@
       "guid": "https://news.hada.io/topic?id=19953",
       "pubDate": "2025-03-25T15:09:29+09:00",
       "author": "sungblab",
+      "category": ""
+    },
+    {
+      "title": "독일 의회, Git 기여 그래프로 투표",
+      "description": {
+        "$text": "<h2>2024년 1월 17일</h2>\n<ul>\n<li>\n<strong>연간 보고서 2022의 결의안</strong>\n<ul>\n<li>주제: 국방, 외교 정책, 우크라이나, 독일 연방군, 군사</li>\n<li>내용: CDU/CSU의 결의안은 독일 정부가 우크라이나에 TAURUS 미사일을 제공하고 이를 신속히 재보충할 것을 요구함</li>\n<li>결과: 찬성 178(27%), 반대 485(7...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19955",
+      "guid": "https://news.hada.io/topic?id=19955",
+      "pubDate": "2025-03-25T17:34:51+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
