@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T21:59:08+09:00",
+  "lastBuildDate": "2025-03-26T23:36:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27716,6 +27716,19 @@
       "guid": "https://news.hada.io/topic?id=19975",
       "pubDate": "2025-03-26T21:34:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Every TypeScript developer is AI developer",
+      "description": {
+        "$text": "<ul>\n<li>Agentica, Function Calling 특화 프레임워크</li>\n<li>TypeScript 클래스 타입만 넣으면, 그 함수들을 호출해주는 챗봇 완성</li>\n<li>컴파일러가 소스 코드를 분석하여 LLM schema 자동 생성</li>\n<li>따라서 모든 TypeScript 개발자는 곧 잠재적 AI 개발자라는 논리</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19977",
+      "guid": "https://news.hada.io/topic?id=19977",
+      "pubDate": "2025-03-26T23:36:30+09:00",
+      "author": "samchon",
       "category": ""
     }
   ]
