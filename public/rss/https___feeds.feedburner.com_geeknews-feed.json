@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T17:33:24+09:00",
+  "lastBuildDate": "2025-03-26T21:59:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27690,6 +27690,32 @@
       "guid": "https://news.hada.io/topic?id=19973",
       "pubDate": "2025-03-26T17:17:41+09:00",
       "author": "sm0514sm",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 쉽고 빠르게 설치할 수 있는 최신 Git 라이브러리, es-git",
+      "description": {
+        "$text": "<p>지금까지 Node.js에서 Git을 다루려면 느린 설치 속도를 감내하거나, 비효율적으로 Git 프로세스를 직접 띄워야 했어요.</p>\n<p>토스에서 Git을 현대적이고 쉽게 사용할 수 있는 라이브러리인 <strong>es-git</strong>을 공개해요.</p>\n<h3>특징</h3>\n<ul>\n<li>사전 빌드된 네이티브 모듈을 포함하고 있어서 빠르게 설",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19976",
+      "guid": "https://news.hada.io/topic?id=19976",
+      "pubDate": "2025-03-26T21:59:08+09:00",
+      "author": "raon0211",
+      "category": ""
+    },
+    {
+      "title": "자신을 파는 기술, 자신의 작업을 파는 기술",
+      "description": {
+        "$text": "<h2>자신을 팔고, 작업을 팔기</h2>\n<ul>\n<li>기술적으로 뛰어난 작업을 수행하는 것만으로는 충분하지 않음. 아무리 훌륭한 작업을 하더라도 이를 알리지 않으면 세상은 그 작업의 혜택을 받을 수 없고, 작업은 잃어버린 것과 같음.</li>\n<li>많은 기술적으로 뛰어난 사람들이 자신의 작업을 기록하고 다른 사람들과 소...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19975",
+      "guid": "https://news.hada.io/topic?id=19975",
+      "pubDate": "2025-03-26T21:34:14+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
