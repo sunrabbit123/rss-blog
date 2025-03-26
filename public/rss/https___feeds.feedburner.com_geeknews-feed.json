@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T16:33:50+09:00",
+  "lastBuildDate": "2025-03-26T17:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27664,6 +27664,32 @@
       "guid": "https://news.hada.io/topic?id=19972",
       "pubDate": "2025-03-26T16:33:50+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 크롤러가 트래픽을 지배해 일부 국가 차단 조치",
+      "description": {
+        "$text": "<h2>오픈 소스 개발자들이 AI 크롤러 트래픽에 맞서 싸우는 이유</h2>\n<ul>\n<li>\n<p><strong>AI 크롤러의 문제점</strong>: 소프트웨어 개발자 Xe Iaso는 Amazon의 공격적인 AI 크롤러 트래픽으로 인해 Git 저장소 서비스가 불안정해지고 다운타임이 발생하는 문제를 겪음. 표준 방어 조치를 설정했음에도 불구하고 AI 크...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19974",
+      "guid": "https://news.hada.io/topic?id=19974",
+      "pubDate": "2025-03-26T17:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: velopers: 국내 IT 기업들의 기술 블로그를 한곳에서 모아볼 수 있는 웹사이트",
+      "description": {
+        "$text": "<h4>소개</h4>\n<p>velopers는 다양한 국내 IT 기업들의 기술 블로그를 한곳에서 모아볼 수 있는 웹사이트에요. 기업 테크 블로그 포스팅을 RSS 기반으로 크롤링하고 AI로 분류해서 필요한 정보를 더 쉽고 빠르게 찾을 수 있어요.</p>\n<h4>주요 기능들</h4>\n<ul>\n<li>여러 기업의 기술 블로그 게시물을 한 눈에 확인</li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19973",
+      "guid": "https://news.hada.io/topic?id=19973",
+      "pubDate": "2025-03-26T17:17:41+09:00",
+      "author": "sm0514sm",
       "category": ""
     }
   ]
