@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T12:43:52+09:00",
+  "lastBuildDate": "2025-03-26T16:33:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27651,6 +27651,19 @@
       "guid": "https://news.hada.io/topic?id=19971",
       "pubDate": "2025-03-26T12:43:52+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Hacker News 유명도 기준 최고의 개인 블로그들",
+      "description": {
+        "$text": "<ul>\n<li>Hacker News에서 인기 있는 개인 블로그를 순위별로 나열한 목록으로, 각 블로그의 저자, 주제 및 총 점수를 표시</li>\n<li>다양한 기술 및 비즈니스 주제를 다루며, 독립 저널리스트부터 기술 분석가에 이르기까지 다양한 배경의 저자들이 포함</li>\n</ul>\n<h2>Hacker News 인기 개인 블로그 순위</h2>\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19972",
+      "guid": "https://news.hada.io/topic?id=19972",
+      "pubDate": "2025-03-26T16:33:50+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
