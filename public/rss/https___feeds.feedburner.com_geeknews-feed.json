@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T09:56:01+09:00",
+  "lastBuildDate": "2025-03-26T10:47:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27599,6 +27599,32 @@
       "guid": "https://news.hada.io/topic?id=19957",
       "pubDate": "2025-03-26T08:53:01+09:00",
       "author": "samchon",
+      "category": ""
+    },
+    {
+      "title": "코딩은 프로그래밍이 아니에요",
+      "description": {
+        "$text": "<ul>\n<li>Leslie Lamport는 LaTeX의 초기 개발자이며 분산 시스템 분야의 선구자. 2013년 튜링상 수상</li>\n<li>그가 SCaLE 22x 키노트에서 <strong>추상화의 중요성</strong>을 강조하며, 대부분의 프로그래머가 코딩과 언어에 몰두하지만, <strong>코딩 전 추상적 사고와 설계가 핵심</strong>임을 지적함</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19969",
+      "guid": "https://news.hada.io/topic?id=19969",
+      "pubDate": "2025-03-26T10:47:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Polypane - 야심찬 웹 개발자를 위한 브라우저",
+      "description": {
+        "$text": "<ul>\n<li>반응형 디자인, 접근성, 성능 테스트 등 웹사이트 개발과 디버깅, 테스트를 위한 기능이 통합된 데스크탑 브라우저(크로미움 기반)</li>\n<li>모든 작업이 실시간으로 동기화되며, 다양한 사이즈의 뷰포트를 동시에 확인하고 조작 가능\n<ul>\n<li>클릭, 입력, 스크롤, hover 등 모든 동작이 모든 뷰포트에 즉시 반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19968",
+      "guid": "https://news.hada.io/topic?id=19968",
+      "pubDate": "2025-03-26T10:32:33+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
