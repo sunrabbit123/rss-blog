@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-25T17:34:51+09:00",
+  "lastBuildDate": "2025-03-26T09:56:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27469,6 +27469,136 @@
       "guid": "https://news.hada.io/topic?id=19955",
       "pubDate": "2025-03-25T17:34:51+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Crabtime - Zig의 Comptime을 Rust에서 사용합시다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>컴파일 타임</strong>에 인라인 Rust 로직을 평가하여 <strong>새로운 코드를 생성하여 추가</strong>해주는 매크로</li>\n<li>Procedural 매크로보다 더 많은 유연성과 성능을 제공하는 동시에 macro_rules보다 읽고 쓰기가 더 쉽고 자연스러움</li>\n<li>Token Stream/Macro Fragments/Rust 코드로 In...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19967",
+      "guid": "https://news.hada.io/topic?id=19967",
+      "pubDate": "2025-03-26T09:56:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Search My Site – 개인 및 독립 웹사이트를 위한 오픈소스 검색 엔진",
+      "description": {
+        "$text": "<ul>\n<li>&quot;indieweb&quot;, &quot;small web&quot;, &quot;digital gardens&quot;와 같은 비상업적 콘텐츠에 초점을 맞춘 틈새 검색 엔진임</li>\n<li>주로 개인 및 독립 웹사이트를 대상으로 하며, 광고 없이 사용자 경험을 중시함</li>\n<li>개인의 경험이나 특정 주제, 취미, 관심사에 대한 깊이 있는 정보를 찾고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19966",
+      "guid": "https://news.hada.io/topic?id=19966",
+      "pubDate": "2025-03-26T09:54:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "일본 과학자들, 척수 손상 치료를 위한 줄기세포 임상 실험",
+      "description": {
+        "$text": "<ul>\n<li>일본 Keio University 연구진이 세계 최초로 iPS 줄기세포를 이용한 척수 손상 치료 임상 시험을 실시함</li>\n<li>중증 척수 손상으로 인한 마비에 대해 현재까지 효과적인 치료법이 없는 상황임</li>\n<li>일본에서는 척수 손상 환자가 약 15만 명 이상 존재하며, 매년 5,000명 이상의 신규 환자가 발생함</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19965",
+      "guid": "https://news.hada.io/topic?id=19965",
+      "pubDate": "2025-03-26T09:51:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스패머들이 SPF, DKIM, DMARC를 더 잘 활용함",
+      "description": {
+        "$text": "<ul>\n<li>DMARC, SPF, DKIM과 같은 이메일 인증 방법은 스팸을 줄이기 위한 수단으로 사용되지만, 실제로는 스팸 발송자들이 더 잘 활용하고 있음.</li>\n<li>이러한 인증 방법들은 대부분의 발신자에게는 별다른 이점이 없으며, 인증 실패에 기반한 메일 거부는 오히려 해로울 수 있음.</li>\n<li>스팸 발송자들은 저렴한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19964",
+      "guid": "https://news.hada.io/topic?id=19964",
+      "pubDate": "2025-03-26T09:48:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 4o 이미지 생성 기능 공개",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 <strong>이미지 생성</strong>이 언어 모델의 핵심 기능 중 하나여야 한다고 오랫동안 믿어왔고, 이러한 비전을 바탕으로 가장 정교하고 <strong>강력한 이미지 생성기를 GPT‑4o에 통합</strong>함</li>\n<li>GPT‑4o의 이미지 생성은 단순히 아름다운 이미지를 넘어 실제로 <strong>유용하고 가치 있...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19963",
+      "guid": "https://news.hada.io/topic?id=19963",
+      "pubDate": "2025-03-26T09:45:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, Gemini 2.5 출시",
+      "description": {
+        "$text": "<ul>\n<li>Gemini 2.5는 복잡한 문제 해결을 위해 설계된 가장 지능적인 <strong>추론 기반 AI 모델</strong>\n</li>\n<li>최초 릴리스인 <strong>Gemini 2.5 Pro Experimental</strong>은 다양한 AI 벤치마크에서 최고 성능을 기록함</li>\n<li>특히 <a href=\"https://lmarena.ai/?leaderboard\">LMArena</a> 순위에서 큰 격...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19962",
+      "guid": "https://news.hada.io/topic?id=19962",
+      "pubDate": "2025-03-26T09:42:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Stoop Coffee: 간단한 아이디어가 우리 동네를 변화시킨 방법",
+      "description": {
+        "$text": "<ul>\n<li>Patty와 남편 Tyler는 도시에서도 교외 같은 공동체 느낌을 만들고자 노력함</li>\n<li>처음엔 쿠키를 만들어 돌리거나 저녁 식사에 초대할까 고민했지만, 결국 주말 아침에 집 밖에서 커피를 마시기로 결정함</li>\n<li>비록 집에 현관 계단은 없었지만, 접이식 의자를 들고 나와 햇볕을 즐기며 이웃을 맞이하는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19961",
+      "guid": "https://news.hada.io/topic?id=19961",
+      "pubDate": "2025-03-26T09:39:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "argp - Go용 GNU 스타일 커맨드라인 인자 파서",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>./test -vo out.png --size 256 input.txt</code> 같은 GNU 표준을 따르는 명령줄 인자 파서</li>\n<li>\n<code>-h</code> 및 <code>--help</code>로 내장된 도움말 메시지 제공</li>\n<li>태그 설정으로 구조체 필드에 인자 매핑</li>\n<li>배열, 슬라이스, 구조체 같은 복합 타입 필드 지원</li>\n<li>중첩...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19959",
+      "guid": "https://news.hada.io/topic?id=19959",
+      "pubDate": "2025-03-26T09:15:48+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI의 주요 가치는 R&D보다 광범위한 자동화에서 발생함",
+      "description": {
+        "$text": "<ul>\n<li>일반적으로 AI의 경제적 가치는 <strong>연구 및 개발(R&amp;D)</strong> 자동화를 통해 창출될 것이라는 관점이 널리 퍼져 있음\n<ul>\n<li>\n<strong>Dario Amodei</strong>는 AI가 생물학, 신경과학, 경제학 R&amp;D에 긍정적인 영향을 줄 것이라고 주장함</li>\n<li>\n<strong>Demis Hassabis</strong>는 AI가 모...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19958",
+      "guid": "https://news.hada.io/topic?id=19958",
+      "pubDate": "2025-03-26T09:15:05+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "typia (20,000x faster validator) challenges to Agentic AI framework, with its compiler skill",
+      "description": {
+        "$text": "<ul>\n<li>typia 는 TypeScript 컴파일러 API 를 사용하는 runtime validator, 컴파일 타임에 소스 코드를 분석하여 validator, serialized, JSON schema 등을 자동 생성</li>\n<li>Agentica: typia 컴파일러 스킬을 활용하여 Agentic AI Framework 에 도전, LLM Function Calling 에 특화</li>\n<li>Agentica 는 전통적인 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19957",
+      "guid": "https://news.hada.io/topic?id=19957",
+      "pubDate": "2025-03-26T08:53:01+09:00",
+      "author": "samchon",
       "category": ""
     }
   ]
