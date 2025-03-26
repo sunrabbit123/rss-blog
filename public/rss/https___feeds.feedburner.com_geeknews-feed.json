@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T10:47:32+09:00",
+  "lastBuildDate": "2025-03-26T11:52:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27624,6 +27624,19 @@
       "link": "https://news.hada.io/topic?id=19968",
       "guid": "https://news.hada.io/topic?id=19968",
       "pubDate": "2025-03-26T10:32:33+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Node.js에서 Corepack 배포 중단하기로 결정",
+      "description": {
+        "$text": "<ul>\n<li>Node.js 기술운영위원회(TSC)가 Corepack을 더 이상 Node.js에 포함해 배포하지 않기로 공식 투표로 결정함</li>\n<li>Node.js 25버전부터 적용되며, Node.js 24 이하에서는 실험적 기능으로 계속 제공됨</li>\n</ul>\n<h2>Corepack의 역할과 한계</h2>\n<ul>\n<li>Corepack은 Node.js 16.9.0에서 도입된 실험적 도구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19970",
+      "guid": "https://news.hada.io/topic?id=19970",
+      "pubDate": "2025-03-26T11:52:19+09:00",
       "author": "xguru",
       "category": ""
     }
