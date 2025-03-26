@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T11:52:19+09:00",
+  "lastBuildDate": "2025-03-26T12:43:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27637,6 +27637,19 @@
       "link": "https://news.hada.io/topic?id=19970",
       "guid": "https://news.hada.io/topic?id=19970",
       "pubDate": "2025-03-26T11:52:19+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TLA+ - 프로그램 및 동시/분산 시스템을 모델링하기 위한 고급 언어",
+      "description": {
+        "$text": "<ul>\n<li>TLA+는 코드 수준이 아닌 상위 수준에서 <strong>소프트웨어를 모델링</strong>하고, 회로 수준이 아닌 상위 수준에서 <strong>하드웨어를 모델링</strong>하기 위한 <strong>언어</strong>임</li>\n<li>모델을 작성하고 이를 검사할 수 있는 <a href=\"https://github.com/tlaplus/tlaplus\">통합 개발 환경(IDE)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19971",
+      "guid": "https://news.hada.io/topic?id=19971",
+      "pubDate": "2025-03-26T12:43:52+09:00",
       "author": "xguru",
       "category": ""
     }
