@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-26T23:36:30+09:00",
+  "lastBuildDate": "2025-03-27T10:13:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27729,6 +27729,136 @@
       "guid": "https://news.hada.io/topic?id=19977",
       "pubDate": "2025-03-26T23:36:30+09:00",
       "author": "samchon",
+      "category": ""
+    },
+    {
+      "title": "Playwright MCP - LLM을 위한 웹 브라우저 자동화용 MCP 서버",
+      "description": {
+        "$text": "<ul>\n<li>Playwright를 기반으로 동작하는 MCP(Model Context Protocol) 서버</li>\n<li>LLM이 웹 페이지와 상호작용할 수 있도록 구조화된 접근성 스냅샷을 제공하여 <strong>빠르고 가벼움</strong>\n</li>\n<li>스크린샷이나 비전 모델 없이 구조화된 텍스트 기반 데이터만으로 웹 자동화를 구현</li>\n<li>\n<strong>용도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19987",
+      "guid": "https://news.hada.io/topic?id=19987",
+      "pubDate": "2025-03-27T10:13:35+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenPubkey SSH (OPKSSH) 오픈소스 공개 - SSH와 통합된 싱글 사인온 시스템",
+      "description": {
+        "$text": "<ul>\n<li>Cloudflare는 OPKSSH(OpenPubkey SSH)를 오픈소스로 공개함</li>\n<li>OPKSSH는 OpenID Connect 기반 SSO 로그인으로 SSH 키를 자동으로 생성 및 사용하게 해줌</li>\n<li>사용자는 더 이상 SSH 공개키/비공개키를 직접 관리하거나 서버에 배포할 필요가 없음</li>\n<li>SSH 프로토콜을 수정하지 않고도 SSH 인증에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19986",
+      "guid": "https://news.hada.io/topic?id=19986",
+      "pubDate": "2025-03-27T09:56:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "캐나다와 미국 간 항공 수요 70% 이상 급감",
+      "description": {
+        "$text": "<h2>캐나다와 미국 간 항공 수요 급감</h2>\n<ul>\n<li>최근 캐나다와 미국 간 여행 수요가 급감하고 있음. 이는 항공과 도로 모두에서 나타나고 있으며, 일부 항공사는 두 나라 간 항공편 일정을 축소하고 있음.</li>\n<li>항공 분석 회사 OAG에 따르면, 2024년 3월과 2025년 3월의 여름 시즌 예약을 비교했을 때, 항공권 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19985",
+      "guid": "https://news.hada.io/topic?id=19985",
+      "pubDate": "2025-03-27T09:53:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CSV 포맷에 대한 러브레터",
+      "description": {
+        "$text": "<ul>\n<li>CSV를 대체할 &quot;우월한&quot; 형식들이 자주 소개되지만, 대부분은 편향된 비교를 기반으로 CSV의 진정한 강점을 간과함</li>\n<li>이 글은 CSV가 완벽하다는 것이 아니라, 과소평가된 장점을 조명하고자 함</li>\n<li>CSV를 미워하는 것이 멋져 보이는 분위기에 반해 CSV의 진가를 되새김</li>\n</ul>\n<h2>1....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19984",
+      "guid": "https://news.hada.io/topic?id=19984",
+      "pubDate": "2025-03-27T09:50:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "변호사 없이 수감: 텍사스 마을의 빈곤한 피고인 방치 문제",
+      "description": {
+        "$text": "<h4>변호사 없이 감옥에 방치된 사람들: 텍사스 마을이 가난한 피고인들을 실패시키는 방법</h4>\n<ul>\n<li>\n<p><strong>배경</strong>: 이글 패스, 텍사스는 멕시코의 피에드라스 네그라스와 국경을 맞대고 있으며, 많은 주민들이 매일 국경을 넘어 일하거나 쇼핑을 하거나 친척을 방문함.</p>\n</li>\n<li>\n<p><strong>문",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19983",
+      "guid": "https://news.hada.io/topic?id=19983",
+      "pubDate": "2025-03-27T09:47:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WebJSX - JSX와 웹 컴포넌트 기반 초경량 웹 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>JSX와 Web Components 기반, 두 개의 핵심 함수만으로 가상 DOM을 다루고 실 DOM에 반영 가능한 매우 단순한 아키텍처\n<ul>\n<li>\n<code>createElement</code>: JSX로 작성된 가상 DOM 생성</li>\n<li>\n<code>applyDiff</code>: 가상 DOM과 실제 DOM을 비교하여 효율적으로 변경 사항 반영</li>\n</ul>\n</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19982",
+      "guid": "https://news.hada.io/topic?id=19982",
+      "pubDate": "2025-03-27T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Debian Bookworm 라이브 이미지 재현 가능성 확보",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Debian bookworm 라이브 이미지 완전 재현 가능</h2>\n<ul>\n<li>Debian 개발자 Roland Clobus가 Reproducible Builds 메일링 리스트에 짧은 공지를 통해 Debian 12.10 (&quot;bookworm&quot;)의 라이브 이미지가 이제 100% 재현 가능함을 발표함</li>\n<li>재현 가능한 라이브 이미지와 Debian Live 관련 정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19981",
+      "guid": "https://news.hada.io/topic?id=19981",
+      "pubDate": "2025-03-27T09:44:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Elixir로 슈퍼볼의 시각적 충실도 조정",
+      "description": {
+        "$text": "<h2>Cyanview: Super Bowl의 시각적 일관성을 Elixir로 조정</h2>\n<ul>\n<li>\n<strong>카메라 셰이딩</strong>: Super Bowl과 같은 라이브 이벤트에서 200대의 카메라의 시각적 일관성을 조정하기 위해 카메라 셰이딩 기술을 사용함. 이는 각 카메라의 색상, 노출 등을 조정하여 일관된 방송 경험을 제공하는 것임.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19980",
+      "guid": "https://news.hada.io/topic?id=19980",
+      "pubDate": "2025-03-27T09:41:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Dokploy - Vercel, Heroku, Netlify의 오픈소스 대체제",
+      "description": {
+        "$text": "<ul>\n<li>무료이며 자체 호스팅 가능한 Platform as a Service(PaaS)</li>\n<li>애플리케이션과 데이터베이스의 배포 및 관리를 간편하게 처리하며, 클라우드 서비스 의존 없이 자체 서버에서 운영 가능</li>\n<li>\n<strong>언어</strong>: Node.js, PHP, Python, Go, Ruby 등 지원</li>\n<li>\n<strong>DB</strong>: MySQL,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19979",
+      "guid": "https://news.hada.io/topic?id=19979",
+      "pubDate": "2025-03-27T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, Agents SDK에 MCP 지원 추가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>MCP(Model Context Protocol)</strong> 는 LLM에게 도구와 컨텍스트를 제공하는 표준화된 방식임</li>\n<li>USB-C 포트처럼, 다양한 데이터 소스나 도구와 AI 모델을 연결하는 표준 인터페이스 역할을 함</li>\n<li>OpenAI Agents SDK는 MCP를 지원하여 다양한 MCP 서버와 통합 가능함</li>\n</ul>\n<h2>M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19978",
+      "guid": "https://news.hada.io/topic?id=19978",
+      "pubDate": "2025-03-27T09:20:54+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
