@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-27T10:13:35+09:00",
+  "lastBuildDate": "2025-03-27T11:07:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27858,6 +27858,19 @@
       "link": "https://news.hada.io/topic?id=19978",
       "guid": "https://news.hada.io/topic?id=19978",
       "pubDate": "2025-03-27T09:20:54+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: 내가 공동창업한 회사를 떠나야 할까요?",
+      "description": {
+        "$text": "<ul>\n<li>수백억 매출을 올리는 회사를 운영 중이며, 외부 투자 거의 없이 공동 창업자 둘이서만 의사결정하는 구조임</li>\n<li>현재 공동 창업자와 방향성이 완전히 다르고, 본인의 영향력은 사라진 상태이며 지금 방향이 회사를 망칠 것이라 믿고 있음</li>\n<li>내 지분을 할인해서라도 팔고 떠나는 것을 고민 중인데,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19988",
+      "guid": "https://news.hada.io/topic?id=19988",
+      "pubDate": "2025-03-27T11:07:01+09:00",
       "author": "xguru",
       "category": ""
     }
