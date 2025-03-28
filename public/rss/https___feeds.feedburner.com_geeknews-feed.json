@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-27T17:34:47+09:00",
+  "lastBuildDate": "2025-03-28T10:03:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -27924,6 +27924,136 @@
       "guid": "https://news.hada.io/topic?id=19992",
       "pubDate": "2025-03-27T17:32:06+09:00",
       "author": "sungchi",
+      "category": ""
+    },
+    {
+      "title": "코어 타입과의 작별, 우리가 알고 사랑하는 Go의 등장",
+      "description": {
+        "$text": "<h2>핵심 타입과 Go 언어의 변화</h2>\n<ul>\n<li>\n<p><strong>Go 1.18 릴리스</strong>: 제네릭 도입과 함께 타입 매개변수, 타입 제약 조건, 타입 집합 등의 새로운 기능 추가. 핵심 타입이라는 추상 개념도 도입되었음. 이는 제네릭 피연산자를 다루기 쉽게 하기 위한 것이었음.</p>\n</li>\n<li>\n<p><strong>타입 매개변",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20008",
+      "guid": "https://news.hada.io/topic?id=20008",
+      "pubDate": "2025-03-28T10:03:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "피라네시의 원근법 트릭 (2019)",
+      "description": {
+        "$text": "<h2>피라네시의 원근법 트릭</h2>\n<ul>\n<li>\n<p><strong>피라네시와 그의 예술</strong></p>\n<ul>\n<li>조반니 바티스타 피라네시는 18세기 예술가로, 로마의 건축물을 묘사한 '베두타' 에칭으로 유명함.</li>\n<li>그의 작품은 장소의 세부 사항을 정확히 기록하며, 당시의 다른 예술가들과 차별화된 독특한 원근법을 사용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20007",
+      "guid": "https://news.hada.io/topic?id=20007",
+      "pubDate": "2025-03-28T10:00:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "에이전틱 코딩에서 개발자 역량의 역할",
+      "description": {
+        "$text": "<h2>생성적 AI 탐구</h2>\n<ul>\n<li>\n<strong>생성적 AI와 LLMs</strong>: 생성적 AI와 특히 대규모 언어 모델(LLMs)은 대중의 인식을 크게 끌어올렸음. 많은 소프트웨어 개발자들이 이 기술의 가능성에 흥미를 느끼고 있지만, 장기적으로 우리 직업에 어떤 영향을 미칠지 확신하지 못하고 있음.</li>\n</ul>\n<h2>개발자 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20006",
+      "guid": "https://news.hada.io/topic?id=20006",
+      "pubDate": "2025-03-28T09:57:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인간 운전자보다 사고가 적은 Waymo 자율주행차",
+      "description": {
+        "$text": "<h4>50백만 마일 후, Waymo의 사고율이 인간 운전자보다 낮음</h4>\n<ul>\n<li>\n<p><strong>Waymo의 사고 사례</strong></p>\n<ul>\n<li>Waymo의 첫 번째 치명적인 사고는 1월 19일 샌프란시스코에서 발생했음. Waymo 차량은 신호등에 멈춰 있었고, 다른 차량이 뒤에서 고속으로 충돌하여 6중 추돌 사고가 발생했음.</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20005",
+      "guid": "https://news.hada.io/topic?id=20005",
+      "pubDate": "2025-03-28T09:54:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Oracle 고객, 클라우드 침해로 인해 데이터가 유출된 것이 맞다고 확인",
+      "description": {
+        "$text": "<ul>\n<li>Oracle은 Oracle Cloud의 SSO 로그인 서버 침해 및 600만 명의 계정 데이터 도난을 부인했으나, 여러 회사와의 확인을 통해 <strong>위협 행위자가 공유한 데이터 샘플이 유효함</strong>을 확인함</li>\n<li>'rose87168'라는 인물이 Oracle Cloud 서버를 침해했다고 주장하며, <strong>600만 사용자에 대한 인증...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20004",
+      "guid": "https://news.hada.io/topic?id=20004",
+      "pubDate": "2025-03-28T09:51:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "논의가 두려운 웹사이트 Hacker News",
+      "description": {
+        "$text": "<h4>2017년 iPhone X 출시와 리뷰</h4>\n<ul>\n<li>2017년, iPhone X는 iPhone 8 및 8 Plus와 함께 발표되었음.</li>\n<li>iPhone X는 10월 27일부터 주문 가능했고, 11월 3일부터 배송 시작되었음.</li>\n<li>초기 리뷰는 10월 31일에 등장했으며, 필자는 12월 26일에 전체 리뷰를 게시했음.</li>\n</ul>\n<h4>Hacker News와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20003",
+      "guid": "https://news.hada.io/topic?id=20003",
+      "pubDate": "2025-03-28T09:48:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대형 언어 모델의 사고 과정을 추적하기",
+      "description": {
+        "$text": "<ul>\n<li>Claude 같은 언어 모델은 사람이 직접 프로그램한 것이 아니라 방대한 데이터로 학습됨</li>\n<li>학습 과정에서 문제 해결 전략을 스스로 학습하며, 이 전략은 수십억 개의 연산에 암호화되어 있음</li>\n<li>결과적으로 모델 개발자조차도 Claude가 대부분의 작업을 어떻게 수행하는지 완전히 이해하지 못함</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20002",
+      "guid": "https://news.hada.io/topic?id=20002",
+      "pubDate": "2025-03-28T09:45:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "블렌더, 오스카 수상 버전 툴 출시",
+      "description": {
+        "$text": "<h2>새로운 기능</h2>\n<ul>\n<li>Blender 4.4는 안정성에 중점을 두고 있으며, &quot;Winter of Quality&quot;라는 프로젝트를 통해 700개 이상의 문제를 해결하고 기술 부채를 줄이며 문서를 개선함.</li>\n<li>애니메이션 워크플로우를 혁신하는 &quot;Action Slots&quot; 기능이 도입되어 여러 데이터 블록이 단일 액션...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20001",
+      "guid": "https://news.hada.io/topic?id=20001",
+      "pubDate": "2025-03-28T09:42:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비공식 Windows 7 서비스 팩 2",
+      "description": {
+        "$text": "<ul>\n<li>Windows 7 Service Pack 2는 다양한 업데이트, 앱 이식, 기능 개선을 포함하여 최신 상태의 Windows 7 ISO를 손쉽게 구성할 수 있도록 한 패키지</li>\n<li>반현대적인(세미-모던) 시스템에서도 더 나은 사용성을 제공하기 위한 목적을 가짐</li>\n</ul>\n<h2>주요 업데이트 및 기능 통합</h2>\n<ul>\n<li>2020년까지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20000",
+      "guid": "https://news.hada.io/topic?id=20000",
+      "pubDate": "2025-03-28T09:17:20+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Next.js를 선택하기 전에 꼭 알아야 할 것들",
+      "description": {
+        "$text": "<ul>\n<li>Next.js 의 개방성과 거버넌스 문제에 대해 다루는 글: 어댑터의 부재, 공식 서버리스 지원 부족, Vercel 전용 코드 경로, 그리고 보안 사고에 대한 Vercel의 대응 자세등</li>\n<li>기술 스택 선택은 프로젝트의 개발 속도, 품질, 팀 구성 등에 장기적인 영향을 주는 중요한 결정임</li>\n<li>오픈소스 소프트웨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=19999",
+      "guid": "https://news.hada.io/topic?id=19999",
+      "pubDate": "2025-03-28T09:16:47+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
