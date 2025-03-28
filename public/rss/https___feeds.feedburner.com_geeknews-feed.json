@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-28T12:15:54+09:00",
+  "lastBuildDate": "2025-03-28T14:34:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28080,6 +28080,19 @@
       "guid": "https://news.hada.io/topic?id=20010",
       "pubDate": "2025-03-28T12:15:54+09:00",
       "author": "plant",
+      "category": ""
+    },
+    {
+      "title": "P&G 실험으로 확인한 AI와의 협업의 미래 – 팀의 적정 규모는?",
+      "description": {
+        "$text": "<p>P&amp;G는 하버드, 워튼, ESSEC 비즈니스 스쿨과 협력하여 776명의 직원들을 대상으로 생성형 AI가 팀워크에 미치는 영향을 연구함.</p>\n<h3>주요 발견</h3>\n<ol>\n<li>\n<strong>AI는 개인 성과를 크게 향상시킴</strong>: AI를 사용한 개인은 AI 없이 일하는 팀과 동등한 품질의 결과물을 만듦.</li>\n<li>\n<strong>최",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20011",
+      "guid": "https://news.hada.io/topic?id=20011",
+      "pubDate": "2025-03-28T14:34:09+09:00",
+      "author": "gogamza",
       "category": ""
     }
   ]
