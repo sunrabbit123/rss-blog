@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-28T14:34:09+09:00",
+  "lastBuildDate": "2025-03-28T15:34:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28093,6 +28093,19 @@
       "guid": "https://news.hada.io/topic?id=20011",
       "pubDate": "2025-03-28T14:34:09+09:00",
       "author": "gogamza",
+      "category": ""
+    },
+    {
+      "title": "가정에서 시도한 Artificial Sunlight 제작",
+      "description": {
+        "$text": "<h2>인공 햇빛 만들기 프로젝트</h2>\n<ul>\n<li>\n<p><strong>프로젝트 배경</strong></p>\n<ul>\n<li>DIY Perks의 비디오에서 500W LED와 대형 포물면 반사경을 사용해 인공 햇빛을 만드는 것을 보고 영감을 받음.</li>\n<li>공간을 덜 차지하는 디자인을 고민하며, 여러 개의 LED와 렌즈 배열을 사용해 새로운 디자인을 시도",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20012",
+      "guid": "https://news.hada.io/topic?id=20012",
+      "pubDate": "2025-03-28T15:34:33+09:00",
+      "author": "neo",
       "category": ""
     }
   ]

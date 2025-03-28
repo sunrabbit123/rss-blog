@@ -714,6 +714,15 @@
       "pubDate": "Thu, 27 Mar 2025 10:48:32 +0900",
       "author": "pjt3591oo",
       "category": "인공지능 활용"
+    },
+    {
+      "title": "[인공지능] LLM 서비스의 확장을 위한 MCP",
+      "description": "안녕하세요 멍개입니다. 이번 시간은 요즘 매우 핫한 MCP를 다뤄보겠습니다. 먼저, MCP(Model Context Protocol)가 무엇인지부터 살펴보겠습니다. 그리고 cursor와 claude에서 MCP를 사용해보겠습니다. ● MCP MCP는 Model Context Protocol입니다. MCP는 anthropic에서 만든 프로토콜을 규정한 것을 의미합니다. MCP는 프로토콜(약속 or 규칙)입니다. 그렇다면 무엇을 위한 프로토콜일까요? · MCP 구조 우리는 chatgpt, claude, grok3, gemini와 같은 LLM 서비스를 이용하거나 LLM 모델이 탑재된 cursor와 같은 AI 도구를 이용하게 됩니다. 이러한 도구들을 MCP Client라고 합니다. 우리의 MCP Client들은 특정 프로그램과 연결하여 데이터를 조....... <img src=\"https://blogthumb.pstatic.net/MjAyNTAzMjhfMjE5/MDAxNzQzMTM5ODUzNTQ1.w2Ks4dFZ3n7sNfnEjdinXmvIqNdCsxmhnIEpVZfDNXkg.ouSvWE4abDLHpSXEUqvAtZs6Ch6PdhhxGexPPC1Sd4cg.PNG/Untitled_Diagram.drawio_%281%29.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223813104521?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223813104521",
+      "pubDate": "Fri, 28 Mar 2025 16:21:12 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
