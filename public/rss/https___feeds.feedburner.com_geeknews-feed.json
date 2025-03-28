@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-28T15:34:33+09:00",
+  "lastBuildDate": "2025-03-28T16:37:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28105,6 +28105,32 @@
       "link": "https://news.hada.io/topic?id=20012",
       "guid": "https://news.hada.io/topic?id=20012",
       "pubDate": "2025-03-28T15:34:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Em Dash, En Dash, Hyphen 사용법",
+      "description": {
+        "$text": "<h2>Em Dash (—) 사용법</h2>\n<h3>Em Dash란 무엇인가?</h3>\n<ul>\n<li>Em Dash는 쉼표, 콜론, 괄호처럼 기능하며, 추가 정보나 설명을 강조하는 데 사용됨.</li>\n<li>콜론처럼 앞의 내용을 설명하거나 확장하는 절을 소개함.</li>\n</ul>\n<h3>Em Dash의 새로운 방향 표시</h3>\n<ul>\n<li>문장의 구조에서 갑작스러운 변화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20014",
+      "guid": "https://news.hada.io/topic?id=20014",
+      "pubDate": "2025-03-28T16:37:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLMs에 여전히 낙관적인 일부 사람들에 대한 이해 부족",
+      "description": {
+        "$text": "LLMs에 여전히 낙관적인 일부 사람들에 대한 이해 부족",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20013",
+      "guid": "https://news.hada.io/topic?id=20013",
+      "pubDate": "2025-03-28T16:34:22+09:00",
       "author": "neo",
       "category": ""
     }
