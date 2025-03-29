@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-29T13:36:52+09:00",
+  "lastBuildDate": "2025-03-29T18:08:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28288,6 +28288,19 @@
       "guid": "https://news.hada.io/topic?id=20025",
       "pubDate": "2025-03-29T10:32:58+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "샘 알트먼이 그리는 OpenAI의 미래 – 서비스, BM, AGI에 대한 전략",
+      "description": {
+        "$text": "<h2>샘 알트먼 인터뷰 요약</h2>\n<h3>OpenAI의 예상치 못한 성공과 변화</h3>\n<ul>\n<li>OpenAI는 원래 순수 연구 목적의 비영리기관이었으나, ChatGPT의 폭발적 인기로 초대형 소비자 테크 기업으로 급성장</li>\n<li>ChatGPT는 1억 명 사용자 달성까지 단 2개월 소요</li>\n<li>샘 알트먼은 이렇게 빠르게 소비자 서비스 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20028",
+      "guid": "https://news.hada.io/topic?id=20028",
+      "pubDate": "2025-03-29T18:08:34+09:00",
+      "author": "zihado",
       "category": ""
     }
   ]
