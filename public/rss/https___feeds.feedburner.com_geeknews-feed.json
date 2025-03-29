@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-29T09:52:51+09:00",
+  "lastBuildDate": "2025-03-29T10:50:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28261,6 +28261,32 @@
       "link": "https://news.hada.io/topic?id=20016",
       "guid": "https://news.hada.io/topic?id=20016",
       "pubDate": "2025-03-29T09:04:51+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.5 Pro는 코딩 성능이 최고 수준(SOTA)인 모델임",
+      "description": {
+        "$text": "<ul>\n<li>Google이 출시한 Gemini 2.5 Pro는 GPT-4o의 화려한 이미지 생성 기능 출시로 주목을 덜 받았지만, 실제로는 중요한 발전임</li>\n<li>\n<strong>코드 작성 성능이 매우 뛰어나고</strong>, 최대 100만 토큰의 컨텍스트 길이로 전체 코드베이스를 처리할 수 있는 성능을 제공</li>\n<li>사용자 피드백도 매우 긍정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20026",
+      "guid": "https://news.hada.io/topic?id=20026",
+      "pubDate": "2025-03-29T10:50:20+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "사용자들이 구독 비용을 피하기 위해 LibreOffice 다운로드 증가중",
+      "description": {
+        "$text": "<ul>\n<li>LibreOffice는 Microsoft Office의 무료 오픈소스 대안이며, 최근 주당 다운로드 수가 100만에 가까워짐\n<ul>\n<li>윈도우, 맥, 리눅스에서 작동하는 스탠드얼론 데스크탑 소프트웨어로 <strong>무료 사용</strong> 가능</li>\n</ul>\n</li>\n<li>이는 2023년 이후 가장 높은 수치로, 최근 25.2 버전 출시 이후 다운...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20025",
+      "guid": "https://news.hada.io/topic?id=20025",
+      "pubDate": "2025-03-29T10:32:58+09:00",
       "author": "xguru",
       "category": ""
     }
