@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-28T21:34:14+09:00",
+  "lastBuildDate": "2025-03-29T09:52:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28145,6 +28145,123 @@
       "guid": "https://news.hada.io/topic?id=20015",
       "pubDate": "2025-03-28T21:34:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "xAI가 X를 인수, xAI의 현재 가치는 $80B(117조원)",
+      "description": {
+        "$text": "<ul>\n<li>@xAI 가 @X 를 전액 주식 거래 방식으로 인수함\n<ul>\n<li>이 거래로 xAI의 기업 가치는 약 800억 달러로 평가됨</li>\n<li>X는 450억 달러 가치에서 120억 달러 부채를 제외한 330억 달러로 평가</li>\n</ul>\n</li>\n<li>xAI는 설립 2년 만에 세계적인 AI 연구소로 자리잡았고, 모델 개발과 데이터 센터 구축을 빠...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20024",
+      "guid": "https://news.hada.io/topic?id=20024",
+      "pubDate": "2025-03-29T09:52:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자동 경로 설정기 개발 전 나 자신에게 해주고 싶었던 조언",
+      "description": {
+        "$text": "<h4>세계에서 가장 빠른 자동 배선기를 만들기 위한 중요한 교훈</h4>\n<ul>\n<li>\n<p><em><em>A</em> 알고리듬의 중요성</em>*</p>\n<ul>\n<li>A* 알고리듬은 모든 종류의 탐색에 가장 적합한 기초 알고리듬임.</li>\n<li>BFS와 DFS를 사용하는 코드는 대부분 A*로 변환하여 성능을 크게 향상시킬 수 있음.</li>\n<li>여러 레",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20023",
+      "guid": "https://news.hada.io/topic?id=20023",
+      "pubDate": "2025-03-29T09:49:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트 마우스 장치에 포함된 USB-to-PS/2 마우스 어댑터 관련 주의사항",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>Windows 95 설치 프로그램의 GUI 선택 이유</h4>\n<ul>\n<li>Windows 95 설치 프로그램은 Windows 95의 축소판 GUI를 사용하지 않음.</li>\n<li>당시 하드웨어의 제한된 성능과 메모리 용량이 주요 이유였음.</li>\n<li>설치 과정에서의 안정성과 호환성을 보장하기 위해 MS-DOS 기반의 설치 프로그램을 선택함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20022",
+      "guid": "https://news.hada.io/topic?id=20022",
+      "pubDate": "2025-03-29T09:46:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini의 Python 샌드박스를 해킹하여 소스 코드를 유출(일부)",
+      "description": {
+        "$text": "<ul>\n<li>Google은 <strong>AI 보안</strong> 강화를 위해 사전 <strong>red-teaming</strong> 방식의 bugSWAT 이벤트를 개최하며, 연구자들에게 자사 AI 시스템을 철저히 테스트할 기회를 제공함</li>\n<li>2023년 $50,000을 수상했던 팀이, 이번에도 Gemini의 새로운 취약점을 발견해 ‘<strong>Most Valuable Hacker(M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20021",
+      "guid": "https://news.hada.io/topic?id=20021",
+      "pubDate": "2025-03-29T09:43:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파이썬으로 살펴보는 아키텍처 패턴",
+      "description": {
+        "$text": "<ul>\n<li>&quot;TDD with Python&quot; 저자 Harry와 소프트웨어 아키텍트 Bob이 복잡한 소프트웨어 아키텍처를 이해하고 관리하는 방법을 설명한 책</li>\n<li>이커머스 회사에서 실제 사용한 아키텍처 기법들을 정리하여 공유함</li>\n<li>\n<code>MADE.com</code>은 유럽 기반의 온라인 가구 판매 회사로, 글로벌 공급망...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20020",
+      "guid": "https://news.hada.io/topic?id=20020",
+      "pubDate": "2025-03-29T09:40:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "경찰에 요청한 내 차량의 공공 감시 영상",
+      "description": {
+        "$text": "<h4>경찰관과 도넛 가게</h4>\n<ul>\n<li>경찰관 두 명이 도넛 가게에 들어오는 장면을 목격함. 그들은 도넛이 아닌 감시 영상 때문에 방문함.</li>\n</ul>\n<h4>감시 상태 연구</h4>\n<ul>\n<li>감시 상태 연구를 통해 공공 감시가 없는 곳을 찾기 어려움을 발견함. 특히 차량 번호판을 읽는 카메라가 많이 사용됨.</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20019",
+      "guid": "https://news.hada.io/topic?id=20019",
+      "pubDate": "2025-03-29T09:37:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Komodo - 여러 서버에 빌드/배포하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>서버, 빌드, 배포, 자동화 프로세스 등을 구조적으로 관리할 수 있도록 도와주는 웹 플랫폼</li>\n<li>DevOps 워크플로우 전반을 하나의 대시보드에서 제어할 수 있도록 설계되었으며, 대수 제한 없이 서버를 연결하고 자동화할 수 있음</li>\n<li>Git Push로 트리거 되어 자동 버전 관리되는 docker 이미지를 빌...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20018",
+      "guid": "https://news.hada.io/topic?id=20018",
+      "pubDate": "2025-03-29T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "두바이 드론 쇼 산업의 성장은 창작자들에게 새로운 기회",
+      "description": {
+        "$text": "<ul>\n<li>UAE에서는 5년 전부터 드론 쇼가 대중화되기 시작했으며, 현재 시장은 빠르게 확장 중임</li>\n<li>보통 400대 이상의 드론을 사용하며, 비용은 평균 1.5억원($112k)이상</li>\n</ul>\n<h2>새로운 창작 플랫폼으로 떠오른 드론 쇼</h2>\n<ul>\n<li>2025년 1월, 두바이의 '미래 박물관' 앞에서 600대의 드론이 LED로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20017",
+      "guid": "https://news.hada.io/topic?id=20017",
+      "pubDate": "2025-03-29T09:08:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Linux 커널 6.14는 성능과 Windows 호환성이 대폭 향상됨",
+      "description": {
+        "$text": "<ul>\n<li>Linux 6.14 커널이 살짝 지연 발표됨 (토발즈가 다른 작업하다 까먹었다고 설명)</li>\n<li>새로운 <strong>NTSYNC</strong> 드라이버가 포함되어 Wine과 Steam Play 상에서 <strong>Windows 앱과 게임 성능이 향상</strong>됨\n<ul>\n<li>NTSYNC는 Windows NT 동기화 메커니즘을 커널 수준에서 직접 구현함으로써...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20016",
+      "guid": "https://news.hada.io/topic?id=20016",
+      "pubDate": "2025-03-29T09:04:51+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
