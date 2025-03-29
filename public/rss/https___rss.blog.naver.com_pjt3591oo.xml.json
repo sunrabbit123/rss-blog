@@ -1,6 +1,6 @@
 {
   "title": "멍개의 연구소",
-  "description": "깃허브: https://github.com/pjt3591oo T-158643",
+  "description": "깃허브: https://github.com/pjt3591oo",
   "link": "https://blog.naver.com/pjt3591oo?fromRss=true&trackingCode=rss",
   "lastBuildDate": "",
   "items": [
@@ -721,6 +721,15 @@
       "link": "https://blog.naver.com/pjt3591oo/223813104521?fromRss=true&trackingCode=rss",
       "guid": "https://blog.naver.com/pjt3591oo/223813104521",
       "pubDate": "Fri, 28 Mar 2025 16:21:12 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] Chrome Devtools MCP를 활용하여 디버깅을 해보자",
+      "description": "안녕하세요 멍개입니다. 오늘은 chrome devtools MCP를 이용하여 디버깅을 해보겠습니다. 본 글을 읽기전에 MCP가 무엇이고 어떻게 셋팅을 해야하는지 모른다면 다음글을 먼저 읽고 오는것을 추천드립니다. https://blog.naver.com/pjt3591oo/223813104521 ● Chrome Devtools MCP 셋업하기 Chrome Devtools MCP를 사용하기 위해선 MCP 서버 뿐 아니라 크롬 확장 프로그램과 별도의 추가적인 서버가 필요합니다. · 깃 레포지토리 해당 레포지토리에는 3개의 구성 요소가 존재합니다. chrome-extension은 크롬 확장 프로그램으로 추가해야 합니다. browser-tools-server는 별도로 서버를 실행시켜야 합니다. (npx로 해당 경로를 직접 이용하지 않....... <img src=\"https://blogthumb.pstatic.net/MjAyNTAzMjlfNDgg/MDAxNzQzMjM0MDEwMjQw.J9E3KcaJT1zyGxQ5TSC4khabxqmhzciHRUzrJm26idEg.hsZtfb9LXFkwKOUmwoMQH6pAg2T1JARKa0lpT1HHZbwg.PNG/Screenshot_2025-03-29_at_16.39.48.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223814132934?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223814132934",
+      "pubDate": "Sat, 29 Mar 2025 17:21:34 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
     }
