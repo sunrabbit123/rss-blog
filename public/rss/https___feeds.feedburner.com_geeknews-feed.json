@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-29T18:08:34+09:00",
+  "lastBuildDate": "2025-03-30T09:49:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28301,6 +28301,123 @@
       "guid": "https://news.hada.io/topic?id=20028",
       "pubDate": "2025-03-29T18:08:34+09:00",
       "author": "zihado",
+      "category": ""
+    },
+    {
+      "title": "규모 7.7 지진, Southeast Asia 강타하여 Myanmar 및 Thailand 영향",
+      "description": {
+        "$text": "규모 7.7 지진, Southeast Asia 강타하여 Myanmar 및 Thailand 영향",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20037",
+      "guid": "https://news.hada.io/topic?id=20037",
+      "pubDate": "2025-03-30T09:49:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Plain - 파이썬용 웹 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Python으로 프로덕트를 빠르게 구축할 수 있도록 설계된 웹 프레임워크 (Django를 포크)</li>\n<li>싱글 커맨드로 로컬 개발 시작 가능하며, 대시보드와 기능 플래그 등을 통해 프로덕션으로 이동할 수 있음\n<ul>\n<li>스타터 킷을 클론 하여 빠르게 시작</li>\n</ul>\n</li>\n<li>핵심 <code>plain</code> 패키지와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20036",
+      "guid": "https://news.hada.io/topic?id=20036",
+      "pubDate": "2025-03-30T09:46:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: ESP32와 e-paper 화면을 활용한 물리적 포모도로 타이머",
+      "description": {
+        "$text": "<h3>ESP32 기반 집중 타이머 프로젝트</h3>\n<p>ESP32와 ePaper 디스플레이, 회전 다이얼을 사용한 집중 타이머 프로젝트임. 이 저장소의 코드는 일부 자산과 폰트가 제거되어 바로 사용하기는 어려우나, 필요에 따라 수정 가능함.</p>\n<h4>부품 목록</h4>\n<ul>\n<li>ESP32 (AZDelivery ESP32 NodeMCU 사용)</li>\n<li>Wave",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20035",
+      "guid": "https://news.hada.io/topic?id=20035",
+      "pubDate": "2025-03-30T09:43:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플의 Severance가 원격 데스크톱에서 편집되는 이유",
+      "description": {
+        "$text": "<h2>Apple의 TV 제작 방식에 대한 놀라운 진실</h2>\n<ul>\n<li>Apple TV+의 대표작인 <strong>Severance</strong>는 Apple의 브랜드를 강화하는 데 큰 역할을 함</li>\n<li>HBO의 위상 하락과 달리 Apple은 고급 콘텐츠 제작에서 주도권을 잡고 있음</li>\n<li>Apple은 Severance의 편집 과정을 공개하며 Mac 기반 제작을 강...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20034",
+      "guid": "https://news.hada.io/topic?id=20034",
+      "pubDate": "2025-03-30T09:40:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Xee - Rust로 구현된 최신 XPath 및 XSLT 엔진",
+      "description": {
+        "$text": "<ul>\n<li>Xee는 Rust로 개발된 XML 실행 엔진으로, 최신 버전의 XPath 3.1과 XSLT 3.0을 지원함\n<ul>\n<li>XPath는 XML 쿼리 언어이며, XSLT는 XML 문서를 다른 문서로 변환하는 언어</li>\n</ul>\n</li>\n<li>커맨드라인 도구 <code>xee</code>와 Rust 라이브러리 <code>xee-xpath</code>로 구성되어 있으며, XPath 쿼리를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20033",
+      "guid": "https://news.hada.io/topic?id=20033",
+      "pubDate": "2025-03-30T09:37:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, Windows 11 설치시에 로컬 계정 생성을 우회하던 구멍 차단 예정",
+      "description": {
+        "$text": "<ul>\n<li>Microsoft는 Windows 11 설치 시 인터넷 연결 및 Microsoft 계정 로그인을 우회할 수 있는 잘 알려진 방법을 차단할 예정임\n<ul>\n<li>즉, <strong>윈도 11 설치시에 인터넷 연결과 Microsoft 계정이 필수</strong>가 됨</li>\n</ul>\n</li>\n<li>최신 Windows 11 Insider Preview 빌드에서는 <code>bypassnro.cmd...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20032",
+      "guid": "https://news.hada.io/topic?id=20032",
+      "pubDate": "2025-03-30T09:33:23+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "TracePerf - Node.js용 성능 추적/실행 모니터링 도구",
+      "description": {
+        "$text": "<ul>\n<li>복잡한 함수 흐름과 메모리 사용을 효율적으로 분석할 수 있도록 설계된 오픈소스 도구</li>\n<li>CommonJS와 ESM 환경 모두를 지원하며, 브라우저에서도 동일한 API를 제공하는 것이 큰 장점</li>\n<li>\n<strong>고성능 실행 시간 추적</strong>: 오버헤드를 최소화하면서 함수 실행 시간을 정확히 측정</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20031",
+      "guid": "https://news.hada.io/topic?id=20031",
+      "pubDate": "2025-03-30T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Postgres Language Server: 첫번째 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>Postgres 전용 Language Server Protocol (LSP) 구현과 다양한 개발 도구를 제공</li>\n<li>Postgres의 기본 파서인 <code>libpg_query</code>를 기반으로 하여 Postgres 구문과 100% 호환되는 안정적인 SQL 기능을 제공</li>\n<li>서버-클라이언트 구조로 설계되었으며, 전송 방식에 구애받지 않는 유연한 디자인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20030",
+      "guid": "https://news.hada.io/topic?id=20030",
+      "pubDate": "2025-03-30T09:30:13+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Windows 11 설치 시 로컬 계정 및 오프라인 설치 우회 차단 예정",
+      "description": {
+        "$text": "<ul>\n<li>Windows 11의 최신 빌드에서 인터넷 연결과 Microsoft 계정 없이 설치를 할 수 있는 기능이 제거됨</li>\n<li>Microsoft는 <code>bypassnro.cmd</code> 스크립트를 빌드에서 삭제하여 보안과 사용자 경험을 향상시킬 계획\n<ul>\n<li>이 변경으로 모든 사용자가 설치 과정에서 인터넷에 연결되고 Microsoft 계정을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20029",
+      "guid": "https://news.hada.io/topic?id=20029",
+      "pubDate": "2025-03-30T09:29:46+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
