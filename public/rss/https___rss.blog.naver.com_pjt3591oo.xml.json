@@ -732,6 +732,15 @@
       "pubDate": "Sat, 29 Mar 2025 17:21:34 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] Figma MCP를 이용하여 커피숍 앱 만들어보기",
+      "description": "안녕하세요 멍개입니다. 이번 시간은 Figma MCP를 이용하여 커피숍 앱의 한 페이지를 만들어보겠습니다. · Figma Access Token 얻기 대시보드에서 프로필 - 셋팅을 들어가면 됩니다. 다음과 같이 셋팅화면이 뜨게되는데 Security탭을 들어가면 Personal Access Tokens에서 Generate 토큰을 누르면 토큰 발급이 가능합니다. · Figma MCP 추가 앞에서 생성된 Access Token을 [FIGMA-ACCESS-TOKEN]에 넣어줍니다. get_figma_data는 피그마의 데이터를 가져옵니다. download_figma_images는 피그마의 디자인을 이미지로 다운로드 받습니다. ● Figma MCP로 프론트엔드 개발 figma는 다음링크에서 샘플 디자인을 공유합니다. https://www.figma.com/co....... <img src=\"https://blogthumb.pstatic.net/MjAyNTAzMzBfMTAg/MDAxNzQzMzEzODgyNjE4.C1o2tk4dwCRfmQmvPEJj0GCWFlyoiFVSLsdXHPW0sogg.2UjKWGVTHyE1K6vd7pU0Dzrc8lnjKoc1PJInxe2XpOAg.PNG/Screenshot_2025-03-30_at_14.50.47.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223814999583?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223814999583",
+      "pubDate": "Sun, 30 Mar 2025 16:07:24 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }

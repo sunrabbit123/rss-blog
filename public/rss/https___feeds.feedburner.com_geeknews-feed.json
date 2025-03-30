@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-30T09:49:27+09:00",
+  "lastBuildDate": "2025-03-30T14:32:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28418,6 +28418,19 @@
       "guid": "https://news.hada.io/topic?id=20029",
       "pubDate": "2025-03-30T09:29:46+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "누구나 당신의 휴대폰에 있는 모든 앱을 안다면",
+      "description": {
+        "$text": "<ul>\n<li>몇 년 전까지만 해도 안드로이드 앱은 <strong>사용자의 허락 없이 설치된 모든 앱 목록을 확인</strong>할 수 있었음</li>\n<li>Android 11(2022년부터 적용)부터 Google은 앱 개발자에게 설치된 앱 목록 접근 권한을 제한하는 <code>패키지 가시성 정책</code>을 도입함</li>\n<li>예외적으로 파일 관리자, 브라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20038",
+      "guid": "https://news.hada.io/topic?id=20038",
+      "pubDate": "2025-03-30T14:32:57+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
