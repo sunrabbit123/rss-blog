@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-30T14:32:57+09:00",
+  "lastBuildDate": "2025-03-30T16:33:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28430,6 +28430,19 @@
       "link": "https://news.hada.io/topic?id=20038",
       "guid": "https://news.hada.io/topic?id=20038",
       "pubDate": "2025-03-30T14:32:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "보셀 액션 어드벤처 롤플레잉 게임 Veloren 출시",
+      "description": {
+        "$text": "<h2>Veloren에 오신 것을 환영합니다</h2>\n<ul>\n<li>\n<strong>Veloren</strong>은 광대한 판타지 세계를 배경으로 한 액션 어드벤처 롤플레잉 게임임</li>\n<li>🏕️ 거대한 산, 건조한 사막, 울창한 정글 등 다양한 환경을 탐험할 수 있음</li>\n<li>⚔️ 역동적이고 빠른 전투를 통해 다양한 무기와 플레이 스타일을 발견...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20039",
+      "guid": "https://news.hada.io/topic?id=20039",
+      "pubDate": "2025-03-30T16:33:03+09:00",
       "author": "neo",
       "category": ""
     }
