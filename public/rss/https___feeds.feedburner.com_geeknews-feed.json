@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-30T16:33:03+09:00",
+  "lastBuildDate": "2025-03-30T21:01:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28444,6 +28444,19 @@
       "guid": "https://news.hada.io/topic?id=20039",
       "pubDate": "2025-03-30T16:33:03+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "글또 1~10기. 7년의 커뮤니티 운영 회고",
+      "description": {
+        "$text": "<p>개발자 글쓰기 커뮤니티인 글또를 7년 동안 운영하면서 진행한 것들과 커뮤니티를 운영하면서 배운 내용을 정리한 글입니다.</p>\n<p>개발자 생태계에 좋은 커뮤니티가 많이 나오면 좋겠다는 생각을 담아 글을 작성했어요.</p>\n<p>글또의 특징</p>\n<ul>\n<li>슬랙의 봇을 6개 넘게 사용\n<ul>\n<li>글 제출, 포인트 집계 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20040",
+      "guid": "https://news.hada.io/topic?id=20040",
+      "pubDate": "2025-03-30T21:01:19+09:00",
+      "author": "zzsza",
       "category": ""
     }
   ]
