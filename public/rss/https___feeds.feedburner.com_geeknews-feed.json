@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-30T21:01:19+09:00",
+  "lastBuildDate": "2025-03-30T21:34:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28457,6 +28457,19 @@
       "guid": "https://news.hada.io/topic?id=20040",
       "pubDate": "2025-03-30T21:01:19+09:00",
       "author": "zzsza",
+      "category": ""
+    },
+    {
+      "title": "유타주, 미국 최초로 수돗물에서 Fluoride 금지",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>유타주, 미국 최초로 수돗물 불소 사용 금지</h3>\n<ul>\n<li>\n<p>유타 주지사 스펜서 콕스가 이번 주 불소 금지 법안을 서명하여, 5월 7일부터 시행 예정임. 이는 공공 수돗물에서 불소 사용을 금지하는 미국 최초의 주가 됨. 플로리다와 오하이오 등 다른 주들도 유사한 법안을 검토 중임.</p>\n</li>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20041",
+      "guid": "https://news.hada.io/topic?id=20041",
+      "pubDate": "2025-03-30T21:34:07+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
