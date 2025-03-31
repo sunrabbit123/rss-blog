@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-31T10:01:02+09:00",
+  "lastBuildDate": "2025-03-31T12:43:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28600,6 +28600,32 @@
       "guid": "https://news.hada.io/topic?id=20045",
       "pubDate": "2025-03-31T09:43:52+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "최신 AI 웹사이트 빌더 도구들 테스트 후기",
+      "description": {
+        "$text": "<ul>\n<li>기존엔 &quot;Figma → 팀 리뷰 → 개발자 구현&quot; 전통적 프로세스를 사용했음</li>\n<li>이번엔 <strong>AI 기반 웹사이트 빌더 도구</strong>들(Cursor, v0, Lovable, Bolt)이 실제 프로젝트에서 얼마나 유용한지 테스트함</li>\n<li>이번 실험의 목표는 AI가 이 과정을 얼마나 단순화할 수 있는지, <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20056",
+      "guid": "https://news.hada.io/topic?id=20056",
+      "pubDate": "2025-03-31T12:43:23+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플의 AI가 실망스러운 것이 아님. AI가 실망스러운 것",
+      "description": {
+        "$text": "<ul>\n<li>최근 애플은 인공지능(AI) 분야에서 기대 이하의 성과로 <strong>기술 및 금융 매체의 비판</strong>을 받고 있음\n<ul>\n<li>2024년 6월에 발표한 AI 기반 Siri는 <strong>출시가 무기한 연기</strong>\n</li>\n<li>문자 요약 등 출시된 기능들은 <strong>도움이 되지 않는 수준</strong>\n</li>\n</ul>\n</li>\n<li>비...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20055",
+      "guid": "https://news.hada.io/topic?id=20055",
+      "pubDate": "2025-03-31T12:42:50+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
