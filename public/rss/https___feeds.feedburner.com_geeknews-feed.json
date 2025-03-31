@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-30T21:34:07+09:00",
+  "lastBuildDate": "2025-03-31T10:01:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28469,6 +28469,136 @@
       "link": "https://news.hada.io/topic?id=20041",
       "guid": "https://news.hada.io/topic?id=20041",
       "pubDate": "2025-03-30T21:34:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Fireproof - 브라우저용 경량 임베디드 DB",
+      "description": {
+        "$text": "<ul>\n<li>브라우저 환경에서 쉽게 사용할 수 있도록 설계된 <strong>경량 임베디드 도큐먼트 데이터베이스</strong>\n<ul>\n<li>\n<strong>암호화된 실시간 동기화</strong> 기능 제공</li>\n</ul>\n</li>\n<li>React와 같은 프론트엔드 프레임워크뿐 아니라 다양한 JavaScript 실행 환경에서도 일관된 API로 작동</li>\n<li>UI...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20054",
+      "guid": "https://news.hada.io/topic?id=20054",
+      "pubDate": "2025-03-31T10:01:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "개발자가 읽는 블로그 게시물을 작성하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>개발자들이 실제로 읽고 공유하는 블로그 글을 어떻게 써야 하는지에 대한 실용적인 가이드</li>\n<li>저자는 9년간의 소프트웨어 블로깅 경험과 수백만 조회수를 바탕으로, 성공적인 포스팅과 실패한 포스팅의 차이를 분석함</li>\n<li>Hacker News, Reddit, Lobsters 등 개발자 커뮤니티에서 주목받는 글의 공통...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20053",
+      "guid": "https://news.hada.io/topic?id=20053",
+      "pubDate": "2025-03-31T09:56:20+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "그래머리의 배신?",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>David Bushell</h3>\n<ul>\n<li>웹 관련 모든 것을 설계, 구축, 컨설팅하는 전문가임</li>\n<li>영국에 거주하며 전 세계적으로 코딩 작업을 수행함</li>\n<li>Mastodon, Bluesky, CodePen, GitHub, RSS Feed와 관련된 활동을 하고 있음</li>\n<li>고용 가능성 있음</li>\n</ul>\n</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20052",
+      "guid": "https://news.hada.io/topic?id=20052",
+      "pubDate": "2025-03-31T09:55:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 싫어했던 매니저가 나에게 가르쳐준 교훈",
+      "description": {
+        "$text": "<ul>\n<li>지금은 엔지니어링 매니저가 되었지만 내가 소프트웨어 엔지니어로 일하던 시절, 복잡한 기능을 며칠간 작업해 PR를 올렸음</li>\n<li>피드백은 단호하고 냉정했음 “<strong>오버 엔지니어링임. 복잡함. 리팩토링하시오</strong>”는 간단한 문장이 전부였음</li>\n<li>칭찬 한마디 없이 비판만 받은 경험에 분노...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20051",
+      "guid": "https://news.hada.io/topic?id=20051",
+      "pubDate": "2025-03-31T09:55:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "swiftly 1.0 출시 - Swift 버전 관리 도구",
+      "description": {
+        "$text": "<ul>\n<li>Swift 버전 설치, 관리, 업데이트 과정을 간소화해주는 공식 버전 관리 도구 <strong>swiftly</strong>의 첫 번째 안정 버전이 출시</li>\n<li>기존에는 Xcode를 통해서만 Swift 최신 버전 사용 가능했으나, 이제는 <strong>macOS 및 다양한 Linux 배포판에서 독립적인 설치</strong>가 가능해짐</li>\n<li>Swift...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20050",
+      "guid": "https://news.hada.io/topic?id=20050",
+      "pubDate": "2025-03-31T09:55:04+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "오늘날 평균 대학생",
+      "description": {
+        "$text": "<h2>오늘날의 평균 대학생</h2>\n<h4>변화된 모습</h4>\n<ul>\n<li>필자는 30년 넘게 교수로 재직 중이며, 현재 미국의 지역 공립 대학에서 가르치고 있음. 학생들은 평균적인 수준으로, 다양한 배경을 가지고 있으며, 교육과 삶의 기회를 중요하게 여김.</li>\n</ul>\n<h4>읽기</h4>\n<ul>\n<li>대부분의 학생들은 기능적으로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20049",
+      "guid": "https://news.hada.io/topic?id=20049",
+      "pubDate": "2025-03-31T09:52:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "페이지드 아웃 #6 [pdf]",
+      "description": {
+        "$text": "페이지드 아웃 #6 [pdf]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20048",
+      "guid": "https://news.hada.io/topic?id=20048",
+      "pubDate": "2025-03-31T09:49:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Composio - AI 에이전트를 위한 통합 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Python과 JavaScript에서 250개 이상의 툴과 다양한 AI 프레임워크를 연결하여 실제 동작 가능한 AI 에이전트를 구축할 수 있음</li>\n<li>250+ 개 이상의 툴 통합 지원 및 <strong>MCP 서버</strong>도 제공\n<ul>\n<li>GitHub, Notion, Gmail, Slack, Hubspot, Salesforce 등 SaaS 툴</li>\n<li>OS 도구: Shell, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20047",
+      "guid": "https://news.hada.io/topic?id=20047",
+      "pubDate": "2025-03-31T09:48:49+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "uv를 활용한 독립 실행형 Python 스크립트",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>Python uv를 사용한 독립 실행형 Python 스크립트</h2>\n</li>\n<li>\n<p><code>uv</code>를 사용하면 Python 스크립트를 독립 실행형으로 만들 수 있음. 이는 스크립트의 shebang 라인에 <code>uv</code>를 추가하여 가능함.</p>\n</li>\n<li>\n<p>Go 프로젝트를 진행하면서, PostgreSQL 데이터베이스를 백엔드",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20046",
+      "guid": "https://news.hada.io/topic?id=20046",
+      "pubDate": "2025-03-31T09:46:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내 Vizio TV가 저절로 전체 화면으로 비디오를 재생하기 시작했습니다. 무슨 일이 일어난 것인가요?",
+      "description": {
+        "$text": "<h2>VIZIO TV의 Scenic Mode (풍경 모드) 기능 안내</h2>\n<ul>\n<li>Scenic Mode는 TV가 일정 시간 동안 사용되지 않으면 자동으로 <strong>전체 화면에서 자연 풍경 영상을 재생</strong>하는 <strong>무료 기능</strong>임</li>\n<li>사용자의 집이나 사무실 공간에 <strong>편안한 분위기를 제공</strong>하는 것이 목적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20045",
+      "guid": "https://news.hada.io/topic?id=20045",
+      "pubDate": "2025-03-31T09:43:52+09:00",
       "author": "neo",
       "category": ""
     }
