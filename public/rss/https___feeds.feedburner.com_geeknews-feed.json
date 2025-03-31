@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-31T12:43:23+09:00",
+  "lastBuildDate": "2025-03-31T13:51:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28625,6 +28625,19 @@
       "link": "https://news.hada.io/topic?id=20055",
       "guid": "https://news.hada.io/topic?id=20055",
       "pubDate": "2025-03-31T12:42:50+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "반쪽 AI검색 네이버 'AI브리핑', 검색 1위 유지 가능할까",
+      "description": {
+        "$text": "<ul>\n<li>네이버 AI 검색 ‘AI 브리핑’이 3/27에 정식 출시됨</li>\n<li>\n<strong>적용 범위는 매우 제한적</strong>으로, 4가지 방식만 제공: 공식형/멀티출처형, 숏콘텐츠형, 지역기반 플레이스형, AI 쇼핑 가이드형</li>\n<li>시맨틱 검색이 부족한 '반쪽짜리' AI 검색: 예시에서 조차 <strong>자연어 질의는 없었음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20057",
+      "guid": "https://news.hada.io/topic?id=20057",
+      "pubDate": "2025-03-31T13:51:01+09:00",
       "author": "xguru",
       "category": ""
     }
