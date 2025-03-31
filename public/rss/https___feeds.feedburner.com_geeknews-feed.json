@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-03-31T18:04:33+09:00",
+  "lastBuildDate": "2025-04-01T03:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28652,6 +28652,19 @@
       "guid": "https://news.hada.io/topic?id=20060",
       "pubDate": "2025-03-31T18:04:33+09:00",
       "author": "austin",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Show GN: Eyecons – VS 코드 테마 색상에 맞게 자동 조정되는 아이콘 테마",
+      "description": {
+        "$text": "<p>VS Code용 아이콘 테마인 Eyecons를 만들었습니다 (Cursor 에디터에서도 작동합니다).<br />\n아이콘 색상이 현재 편집기 테마에 자동으로 맞춰지도록 설계되어, 시각적으로 더 일관된 개발 환경을 제공합니다.</p>\n<p>시맨틱 색상 변수에 의존하지 않고, 테마의 팔레트를 분석한 뒤<br />\n커스텀 알고리즘을 사용해 가",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20061",
+      "guid": "https://news.hada.io/topic?id=20061",
+      "pubDate": "2025-04-01T03:34:04+09:00",
+      "author": "azatio",
       "category": ""
     }
   ]
