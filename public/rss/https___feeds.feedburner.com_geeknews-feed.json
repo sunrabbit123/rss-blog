@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T15:54:58+09:00",
+  "lastBuildDate": "2025-04-01T19:33:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28925,6 +28925,32 @@
       "guid": "https://news.hada.io/topic?id=20082",
       "pubDate": "2025-04-01T15:54:58+09:00",
       "author": "calmlake79",
+      "category": ""
+    },
+    {
+      "title": "Go 최적화 가이드",
+      "description": {
+        "$text": "<h2>Go 애플리케이션 최적화 시리즈</h2>\n<p><strong>Go 애플리케이션 최적화 시리즈</strong>는 개발자가 더 빠르고 효율적인 Go 애플리케이션을 작성할 수 있도록 돕기 위한 기술 기사 모음임. 고성능 API, 마이크로서비스, 분산 시스템을 구축할 때 실용적인 패턴, 실제 사례, 저수준 성능 통찰력을 제공하여 최적화 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20084",
+      "guid": "https://news.hada.io/topic?id=20084",
+      "pubDate": "2025-04-01T19:33:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Anthropic Economic Index: Claude 3.7 Sonnet의 영향",
+      "description": {
+        "$text": "<ul>\n<li>Anthropic이 Claude 3.7 Sonnet 출시 이후 AI 경제 영향에 대한 두 번째 연구 보고서 발표</li>\n<li>이 보고서는 새롭고 가장 강력한 모델인 Claude 3.7 Sonnet의 출시 이후 Claude.ai 사용 데이터 분석</li>\n<li>데이터셋은 자유롭게 다운로드 가능하도록 공개됨</li>\n</ul>\n<h2>주요 발견</h2>\n<ul>\n<li>Clau...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20083",
+      "guid": "https://news.hada.io/topic?id=20083",
+      "pubDate": "2025-04-01T19:10:51+09:00",
+      "author": "esc5221",
       "category": ""
     }
   ]
