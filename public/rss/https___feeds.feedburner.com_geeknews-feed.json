@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T11:08:26+09:00",
+  "lastBuildDate": "2025-04-01T13:35:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28898,6 +28898,19 @@
       "link": "https://news.hada.io/topic?id=20070",
       "guid": "https://news.hada.io/topic?id=20070",
       "pubDate": "2025-04-01T10:41:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제임스 웹 우주 망원경, 대부분의 은하가 시계 방향으로 회전함을 발견",
+      "description": {
+        "$text": "<h3>SMART NEWS</h3>\n<h4>제임스 웹 우주망원경이 대부분의 은하가 시계 방향으로 회전함을 밝힘</h4>\n<ul>\n<li>제임스 웹 우주망원경(JWST)은 2021년 12월 태양 주위를 도는 궤도에 발사된 이후 우주의 역사를 연구하고 있음.</li>\n<li>최근 JWST의 고급 심우주 탐사(JADES) 이미지에서 대부분의 은하가 같은 방향으로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20081",
+      "guid": "https://news.hada.io/topic?id=20081",
+      "pubDate": "2025-04-01T13:35:46+09:00",
       "author": "neo",
       "category": ""
     }
