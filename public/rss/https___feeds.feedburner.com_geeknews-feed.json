@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T09:28:01+09:00",
+  "lastBuildDate": "2025-04-01T11:08:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28769,6 +28769,136 @@
       "guid": "https://news.hada.io/topic?id=20062",
       "pubDate": "2025-04-01T08:27:14+09:00",
       "author": "arthurk",
+      "category": ""
+    },
+    {
+      "title": "공개된 비밀로 인한 GitHub CodeQL 공급망 공격 발생",
+      "description": {
+        "$text": "<h2>GitHub CodeQL의 공급망 공격</h2>\n<ul>\n<li>GitHub CodeQL에서 잠재적인 공급망 공격이 발생할 수 있는 상황이 발견됨. 이는 공개적으로 노출된 비밀로 인해 발생할 수 있는 문제임.</li>\n<li>공격자는 GitHub Actions 워크플로우에서 코드를 실행할 수 있으며, 이는 수많은 저장소에 영향을 미칠 수 있음.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20080",
+      "guid": "https://news.hada.io/topic?id=20080",
+      "pubDate": "2025-04-01T11:08:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "교실 내 Air Filter 설치의 놀라운 교육적 혜택 (2020)",
+      "description": {
+        "$text": "<h2>교실에 공기 필터 설치의 교육적 이점</h2>\n<ul>\n<li>\n<p><strong>배경</strong>: 2015년 알리소 캐년 가스 누출 사건으로 인해 로스앤젤레스의 많은 학교에 공기 필터가 설치되었음. 이로 인해 학생들의 시험 점수가 크게 상승하였으며, 이러한 상승은 다음 해에도 지속되었음.</p>\n</li>\n<li>\n<p><strong>연구 결과",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20079",
+      "guid": "https://news.hada.io/topic?id=20079",
+      "pubDate": "2025-04-01T11:05:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트: 낮은 능력, 높은 신뢰성 요청",
+      "description": {
+        "$text": "<h2>AI 에이전트: 더 적은 능력, 더 많은 신뢰성</h2>\n<ul>\n<li>\n<p><strong>항공편 예약과 AI 에이전트</strong><br />\n항공편 예약은 AI 에이전트 데모의 'Hello World'로 불리며, 이는 단순하고 예측 가능한 UX를 제공하는 Google Flights와 같은 서비스와 비교됨. AI가 복잡한 블랙박스가 되는 것은 혁신이 아닌 문제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20078",
+      "guid": "https://news.hada.io/topic?id=20078",
+      "pubDate": "2025-04-01T11:02:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "곰팡이가 아닌 Calcium Lactate (2018)",
+      "description": {
+        "$text": "<h2>치즈에 자라는 하얀 물질</h2>\n<ul>\n<li>\n<p><strong>칼슘 락테이트</strong>: 치즈에 하얀 물질이 보일 때, 이는 곰팡이가 아닌 칼슘 락테이트일 수 있음. 이는 치즈가 오래 숙성되었음을 나타내며, 맛이 깊어졌음을 의미함.</p>\n</li>\n<li>\n<p><strong>치즈 결정</strong>: 치즈에 있는 결정은 두 가지 종류로 나뉨",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20077",
+      "guid": "https://news.hada.io/topic?id=20077",
+      "pubDate": "2025-04-01T10:59:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 파일탐색기에서 우클릭하면 즉시 다운로드 링크가 생성됩니다.- 윈도우앱",
+      "description": {
+        "$text": "<p>파일탐색기의 컨텍스트 메뉴(우클릭메뉴)로 사용하는 간단한 파일전송앱니다.<br />\n사용자가 어딘가에 업로드하는 경험 자체를 제거했습니다.</p>\n<h2>사용법.</h2>\n<ol>\n<li>보낼파일을 우클릭후 메뉴선택</li>\n<li>붙여넣기 (이메일 본문이나 대화창등에)<br />\n끝.</li>\n</ol>\n<h2>설명</h2>\n<ul>\n<li>업로드 시작",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20075",
+      "guid": "https://news.hada.io/topic?id=20075",
+      "pubDate": "2025-04-01T10:55:48+09:00",
+      "author": "filekiwi",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.5 Pro 와 Claude 3.7 Sonnet의 코딩 비교",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gemini 2.5 Pro</strong>가 코드 작성에서 더 뛰어남</li>\n<li>Claude 3.7 Sonnet도 훌륭하지만, 지금은 Gemini 2.5 Pro를 사용하는 것이 더 이득임</li>\n<li>\n<strong>1백만 토큰 컨텍스트 윈도우</strong>와 무료 이용 가능함이 큰 장점</li>\n<li>과거엔 Claude 3.7 Sonnet이 항상 비교 기준이었지만...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20074",
+      "guid": "https://news.hada.io/topic?id=20074",
+      "pubDate": "2025-04-01T10:53:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수상한 행위 들통난 후, Honey 크롬 확장의 사용자 400만 명 이탈",
+      "description": {
+        "$text": "<ul>\n<li>Chrome의 인기 확장 프로그램 <strong>Honey</strong>가 <strong>2024년 말 유튜브 영상으로 인해 논란</strong>에 휩싸이며 <strong>약 400만 명의 사용자 감소</strong>\n</li>\n<li>Honey는 온라인 쇼핑 시 자동으로 쿠폰 코드를 찾아주는 서비스로 알려져 있으며, <strong>PayPal이 2020년에 약 40억 달러에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20073",
+      "guid": "https://news.hada.io/topic?id=20073",
+      "pubDate": "2025-04-01T10:50:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Oracle, 자사 SaaS 서비스에서 발생한 심각한 보안 사고 은폐 시도",
+      "description": {
+        "$text": "<ul>\n<li>Oracle이 관리하는 SaaS 서비스에서 <strong>심각한 사이버 보안 사고가 발생했으나</strong>, Oracle은 이를 <strong>고객에게 알리지 않고 은폐하려 한 정황이 드러남</strong>\n</li>\n<li>클라우드 서비스 제공자는 <strong>사이버 보안 사고에 대해 투명한 공개가 필수적</strong>이나, Oracle은 오히려 피해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20072",
+      "guid": "https://news.hada.io/topic?id=20072",
+      "pubDate": "2025-04-01T10:47:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Demoscene - 스웨덴에서 유네스코 문화유산으로 지정",
+      "description": {
+        "$text": "<ul>\n<li>스웨덴에서 <strong>데모씬(Demoscene)</strong> 이 <strong>국가 유네스코 무형문화유산</strong>으로 지정됨</li>\n<li>이 작업은 국제 프로젝트 <strong>Art of Coding</strong>의 일환으로, <strong>데모씬을 전 세계 유네스코 유산으로 지정하려는 운동</strong>임</li>\n<li>데모씬은 <strong>가장 오래된 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20071",
+      "guid": "https://news.hada.io/topic?id=20071",
+      "pubDate": "2025-04-01T10:44:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제1차 수정헌법의 각 기둥이 공격받는 상황",
+      "description": {
+        "$text": "<h3>청원권</h3>\n<ul>\n<li>청원권은 시민들이 정부에 불만을 제기하거나 행동을 요청할 수 있는 권리임. 그러나 트럼프 행정부는 이 권리를 여러 방면에서 위협하고 있음.</li>\n<li>공화당 의원들이 지역 타운홀 미팅을 피하도록 권고받고 있으며, 이는 행정부의 예산 삭감과 인력 감축에 영향을 받은 주민들의 분노를 피...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20070",
+      "guid": "https://news.hada.io/topic?id=20070",
+      "pubDate": "2025-04-01T10:41:25+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
