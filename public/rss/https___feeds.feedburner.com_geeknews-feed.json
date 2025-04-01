@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T03:34:04+09:00",
+  "lastBuildDate": "2025-04-01T09:28:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28665,6 +28665,110 @@
       "guid": "https://news.hada.io/topic?id=20061",
       "pubDate": "2025-04-01T03:34:04+09:00",
       "author": "azatio",
+      "category": ""
+    },
+    {
+      "title": "markdown-to-slides - 마크다운을 슬라이드로 변환하는 웹앱",
+      "description": {
+        "$text": "<ul>\n<li>Markdown을 <strong>아름다운 프레젠테이션 슬라이드</strong>로 변환</li>\n<li>\n<strong>실시간 마크다운 미리보기</strong> : GitHub Flavored Markdown(GFM) 지원</li>\n<li>KaTeX를 통한 수학식 렌더링</li>\n<li>완전 반응형 디자인 및 다크/라이트 테마</li>\n<li>내보내기 옵션 : PDF(고품질 렌더링), PPTX...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20069",
+      "guid": "https://news.hada.io/topic?id=20069",
+      "pubDate": "2025-04-01T09:28:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "주니어 개발자의 역습",
+      "description": {
+        "$text": "<h2>Part 1: 여섯 개의 AI 코딩 물결</h2>\n<ul>\n<li>\n<strong>Vibe 코딩</strong>은 LLM에게 코드를 작성하도록 요청하고 결과를 피드백하면서 반복하는, 대화 기반 코딩 방식에 붙여진 유쾌한 별칭임</li>\n<li>기존 코딩이나 자동완성 중심 코딩과는 매우 다른 개념으로, 처음에는 명확한 정의 없이 사용되었으나 Andre...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20068",
+      "guid": "https://news.hada.io/topic?id=20068",
+      "pubDate": "2025-04-01T09:21:53+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "PostgreSQL 사용 시 도움 되는 패턴들",
+      "description": {
+        "$text": "<ul>\n<li>Postgres를 더 생산적이고 안전하게 사용하는 데 도움이 되는 실용적인 패턴들을 정리한 글</li>\n<li>각 패턴은 작지만 누적되면 큰 차이를 만들어냄</li>\n</ul>\n<h2>UUID 기본 키 사용</h2>\n<ul>\n<li>UUID는 무작위이기 때문에 정렬이나 인덱스 성능 면에서 단점이 있음</li>\n<li>숫자 ID보다 공간을 더 많이 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20067",
+      "guid": "https://news.hada.io/topic?id=20067",
+      "pubDate": "2025-04-01T09:20:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "ttyd - 웹에서 터미널을 공유하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>터미널의 내용을 웹을 통해 실시간으로 공유할 수 있게 해주는 간단한 커맨드라인 도구</li>\n<li>브라우저를 통해 서버의 터미널에 접근하거나 특정 명령을 실행할 수 있어, 원격 지원, 프레젠테이션, 교육 등 다양한 용도로 활용 가능</li>\n<li>\n<strong>고성능 네트워킹</strong>: Libwebsockets와 libuv 기반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20066",
+      "guid": "https://news.hada.io/topic?id=20066",
+      "pubDate": "2025-04-01T09:16:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "내가 Vibe 코딩을 그만두는 이유",
+      "description": {
+        "$text": "<ul>\n<li>개발 중 &quot;<strong>몰입 상태(Flow)</strong>&quot;를 AI와 함께 경험하는 <strong>Vibe Coding</strong>에 대해 반성적으로 고찰한 글</li>\n<li>최근 두 달 동안 Vibe 코딩에 의존했지만, <strong>생산성과 비용 면에서 만족스럽지 않았다고 판단</strong>함</li>\n<li>Vibe Coding은 <strong>특정한 개발 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20065",
+      "guid": "https://news.hada.io/topic?id=20065",
+      "pubDate": "2025-04-01T09:13:09+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "로드맵: Lakehouse 시대의 Data 3.0",
+      "description": {
+        "$text": "<ul>\n<li>기업의 <strong>데이터 인프라</strong>는 기술 발전에 따라 함께 진화하며 새로운 제품과 서비스를 가능하게 하고 있음</li>\n<li>데이터 인프라는 기존의 온프레미스 데이터 웨어하우스에서 클라우드 기반 데이터 웨어하우스 및 데이터 레이크로 발전해왔음</li>\n<li>최근에는 AI의 급격한 발전과 함께 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20064",
+      "guid": "https://news.hada.io/topic?id=20064",
+      "pubDate": "2025-04-01T09:12:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까?",
+      "description": {
+        "$text": "<ul>\n<li>LangGraph, OpenAI Agents SDK, Smolagents, CrewAI, AutoGen, Semantic Kernel, LlamaIndex Agents 등 다양한 <strong>오픈 소스 AI 에이전트 프레임워크</strong>를 비교한 글</li>\n<li>AI 에이전트 개발은 과거에는 스크립트와 프롬프트 엔지니어링, 시행착오의 조합이었으나, 이제 오픈소스 프레임워크가 증...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20063",
+      "guid": "https://news.hada.io/topic?id=20063",
+      "pubDate": "2025-04-01T09:11:00+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Armin Ronacher의 Sentry에서의 10년 회고.",
+      "description": {
+        "$text": "<p>Flask를 만든 것으로 유명한 Armin Ronacher가 10년간 다닌 Sentry를 퇴사하며 남긴 회고(?) 글이네요.</p>\n<hr />\n<p>새로운 시작</p>\n<p>모든 끝은 새로운 시작을 의미하며, 오늘은 저에게 새로운 장의 시작입니다. 10년 전, 저는 미지의 세계로 뛰어들었고, 오늘 또 다른 도전을 시작합니다. 10년 동안 Sentry에서",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20062",
+      "guid": "https://news.hada.io/topic?id=20062",
+      "pubDate": "2025-04-01T08:27:14+09:00",
+      "author": "arthurk",
       "category": ""
     }
   ]
