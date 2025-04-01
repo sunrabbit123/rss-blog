@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T13:35:46+09:00",
+  "lastBuildDate": "2025-04-01T15:54:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28912,6 +28912,19 @@
       "guid": "https://news.hada.io/topic?id=20081",
       "pubDate": "2025-04-01T13:35:46+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 오늘의AI번역",
+      "description": {
+        "$text": "<p>LLM AI 기반 번역 웹서비스 &quot;오늘의AI번역&quot; (1일 만에 개발/공개)</p>\n<p><strong>개발 배경: 번역기 유목민 생활 청산기</strong></p>\n<ul>\n<li>\n<strong>문제 인식</strong>: 현재 개발 중인 다른 서비스에서 외국어 처리/번역 작업이 매우 빈번하게 필요</li>\n<li>\n<strong>기존 방식의 한계</strong>:\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20082",
+      "guid": "https://news.hada.io/topic?id=20082",
+      "pubDate": "2025-04-01T15:54:58+09:00",
+      "author": "calmlake79",
       "category": ""
     }
   ]
