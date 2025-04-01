@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-01T19:33:11+09:00",
+  "lastBuildDate": "2025-04-02T06:38:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28951,6 +28951,19 @@
       "guid": "https://news.hada.io/topic?id=20083",
       "pubDate": "2025-04-01T19:10:51+09:00",
       "author": "esc5221",
+      "category": ""
+    },
+    {
+      "title": "코드와 한글 [Code and Hangul]",
+      "description": {
+        "$text": "<h2>전북대학교 이상로 교수의 연구 아카이브: 한글 코드와 기술 표준화의 기록</h2>\n<p>이상로 교수가 운영했던 웹사이트는 2000년대 초반 한국의 문자 처리 기술과 코드 변환 연구를 체계적으로 정리함으로, 한글 정보화와 국제 표준화 과정에서 중요한 역할을 했습니다. 이 사이트는 당시 컴퓨터 과학 분야의 학문적 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20085",
+      "guid": "https://news.hada.io/topic?id=20085",
+      "pubDate": "2025-04-02T06:38:46+09:00",
+      "author": "guesswhat",
       "category": ""
     }
   ]
