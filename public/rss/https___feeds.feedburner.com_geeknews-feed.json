@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T06:38:46+09:00",
+  "lastBuildDate": "2025-04-02T10:08:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -28964,6 +28964,136 @@
       "guid": "https://news.hada.io/topic?id=20085",
       "pubDate": "2025-04-02T06:38:46+09:00",
       "author": "guesswhat",
+      "category": ""
+    },
+    {
+      "title": "Dagger Shell - 컨테이너 시대를 위한 새로운 쉘",
+      "description": {
+        "$text": "<ul>\n<li>Unix 쉘은 50년 이상 사용되어 왔으며, 단순한 명령어로 복잡한 동작을 조합할 수 있는 강력한 컴퓨팅 도구였음\n<ul>\n<li>그러나 현대 소프트웨어 스택은 훨씬 복잡해졌고, 기존 쉘로는 이 모든 작업을 다루기 어려움</li>\n<li>Docker, make, powershell, nix 등에서 영감을 받아, 컨테이너, 시크릿, 서비스 엔...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20095",
+      "guid": "https://news.hada.io/topic?id=20095",
+      "pubDate": "2025-04-02T10:08:10+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "빠르게 AI 제품을 개선하는 실전 가이드",
+      "description": {
+        "$text": "<ul>\n<li>많은 AI 팀들이 <strong>도구 선택에만 집중</strong>하고 정작 중요한 <strong>효과 측정과 반복 학습</strong>을 간과함</li>\n<li>저자는 30개 이상의 AI 제품 구축을 도와온 경험을 바탕으로, <strong>성공하는 팀들의 공통된 실행 방식</strong>을 소개</li>\n<li>핵심은 <strong>측정 중심 사고방식과 실험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20094",
+      "guid": "https://news.hada.io/topic?id=20094",
+      "pubDate": "2025-04-02T10:06:17+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Firefox, 마침내 웹 앱(PWA) 지원 재도입 예정",
+      "description": {
+        "$text": "<ul>\n<li>Firefox가 수년간 사용자들의 요구를 무시한 끝에 <strong>Progressive Web Apps(PWAs)</strong> 지원을 추가하기로 결정함</li>\n<li>현재 Firefox Nightly 빌드에서 <code>about:config</code>에 있는 <strong>숨겨진 실험적 플래그</strong> <code>browser.taskbarTabs.enabled</code>를 통해 해당 기능을 활...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20093",
+      "guid": "https://news.hada.io/topic?id=20093",
+      "pubDate": "2025-04-02T10:04:52+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI Academy - 무료 AI 교육 사이트 공개",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI Academy는 AI의 변화력을 실질적으로 활용할 수 있도록 워크숍, 토론, 디지털 콘텐츠를 통해 지원함</li>\n<li>초급부터 고급 엔지니어링 통합까지 <strong>다양한 수준의 교육 콘텐츠</strong> 제공</li>\n<li>\n<strong>온라인과 오프라인을 병행한 이벤트</strong> 운영을 통해 다양한 배경을 가진 사람...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20092",
+      "guid": "https://news.hada.io/topic?id=20092",
+      "pubDate": "2025-04-02T09:49:21+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "만우절 장난으로 해고될 뻔한 이야기",
+      "description": {
+        "$text": "<ul>\n<li>누구나 인생에서 한 번쯤은 제대로 된 장난을 해봐야 한다는 저자의 철학에서 출발한 실제 경험담</li>\n<li>이 이야기는 대학에서 첫 직장을 얻은 신입 데이터베이스 프로그래머 시절의 만우절 장난에 관한 것임</li>\n</ul>\n<h2>초창기 시스템과 환경</h2>\n<ul>\n<li>대학은 경쟁력 있는 급여는 없었지만 교육 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20091",
+      "guid": "https://news.hada.io/topic?id=20091",
+      "pubDate": "2025-04-02T09:47:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FluentSubs - 뉴스와 같은 실제 콘텐츠로 배우는 Duolingo 스타일 언어 학습",
+      "description": {
+        "$text": "<ul>\n<li>Duolingo 방식의 청취 연습을 뉴스와 같은 실제 콘텐츠를 활용해 제공하는 학습 프로젝트</li>\n<li>모든 영상은 자동 자막보다 훨씬 정밀한 전사(Transcribe) 과정을 거쳐 높은 품질의 자막을 생성함</li>\n<li>품질이 높은 전사본을 필터링한 후, LLM이 학습에 적합한 문장 구간만을 선별해 연습 문제로 활용함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20090",
+      "guid": "https://news.hada.io/topic?id=20090",
+      "pubDate": "2025-04-02T09:44:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Nue – React 버튼보다 가벼운 앱",
+      "description": {
+        "$text": "<ul>\n<li>Nue 는 Standard-First 웹 프레임워크</li>\n<li>이번 릴리스에서는 HTML, CSS, JS와 같은 최신 웹 표준을 최대한 활용하여 전체 앱(38kb)이 React/ShadCN 버튼(73kb)보다 가벼움</li>\n<li>Large-Scale도 지원 : 기존과 동일한 앱에 <strong>Rust</strong> 계산 엔진과 <strong>EventSourcing</strong>을 추가하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20089",
+      "guid": "https://news.hada.io/topic?id=20089",
+      "pubDate": "2025-04-02T09:41:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "8년간 집을 1,000개의 재활용 노트북 배터리로 운영한 남성",
+      "description": {
+        "$text": "<ol>\n<li>\n<p><strong>프로젝트 개요</strong><br />\n2016년부터 시작된 이 DIY 프로젝트는 태양광 패널과 1,000개 이상의 중고 노트북 배터리를 조합해 가정용 전력을 공급함. 전기 요금 없이 8년 동안 안정적으로 사용 중.</p>\n</li>\n<li>\n<p><strong>시스템 구성</strong><br />\n초기에는 지게차 배터리와 1.4kW 태양",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20088",
+      "guid": "https://news.hada.io/topic?id=20088",
+      "pubDate": "2025-04-02T09:40:28+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "게르마늄의 Electron Band Structure 논란",
+      "description": {
+        "$text": "<h2>독일산 전자의 밴드 구조</h2>\n<ul>\n<li>\n<strong>초록</strong>: 독일산 전자의 저항률이 온도에 따라 지수적으로 변화한다는 주장은 거짓임. 이론적 모델링과 실험을 통해 장비와 관련 문서들이 부실하다는 것을 발견함.</li>\n</ul>\n<h2>소개</h2>\n<ul>\n<li>독일산 전자는 명확한 에너지 밴드에 갇혀 있으며, 이 밴...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20087",
+      "guid": "https://news.hada.io/topic?id=20087",
+      "pubDate": "2025-04-02T09:38:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "KOReader - 오픈 소스 전자책 리더",
+      "description": {
+        "$text": "<ul>\n<li>e-Ink 리더를 위한 문서 뷰어</li>\n<li>\n<strong>Portable</strong>: Cervantes, Kindle, Kobo, PocketBook, reMarkable 등의 임베디드 장치와 Android 및 Linux 컴퓨터에서 실행 가능함. 개발자는 Linux와 MacOS에서 KOReader 에뮬레이터를 실행할 수 있음</li>\n<li>\n<strong>다양한 형식의 문서 지원</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20086",
+      "guid": "https://news.hada.io/topic?id=20086",
+      "pubDate": "2025-04-02T08:33:42+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
