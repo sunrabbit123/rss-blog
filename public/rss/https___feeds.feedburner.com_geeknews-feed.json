@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T13:56:23+09:00",
+  "lastBuildDate": "2025-04-02T14:36:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29159,6 +29159,19 @@
       "guid": "https://news.hada.io/topic?id=20098",
       "pubDate": "2025-04-02T13:09:48+09:00",
       "author": "sungchi",
+      "category": ""
+    },
+    {
+      "title": "블레츨리 코드 브레이커 베티 웹, 101세로 별세",
+      "description": {
+        "$text": "<h2>블레츨리 코드 해독자 베티 웹, 101세로 별세</h2>\n<ul>\n<li>\n<p><strong>베티 웹의 생애와 업적</strong></p>\n<ul>\n<li>제2차 세계 대전 당시 블레츨리 파크에서 적의 암호를 해독한 베티 웹이 101세로 별세함.</li>\n<li>웹은 18세에 블레츨리 파크에 합류하여, 이후 미국 펜타곤에서 일본 암호 해독을 도왔음.</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20101",
+      "guid": "https://news.hada.io/topic?id=20101",
+      "pubDate": "2025-04-02T14:33:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
