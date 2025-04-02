@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T10:08:10+09:00",
+  "lastBuildDate": "2025-04-02T11:33:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29094,6 +29094,32 @@
       "guid": "https://news.hada.io/topic?id=20086",
       "pubDate": "2025-04-02T08:33:42+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "글루벅스의 파워월 (2016)",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>프로젝트 소개</h4>\n<ul>\n<li>Glubux는 자신의 전기 수요를 충족시키기 위해 일부 전기를 생산하고 있음</li>\n<li>1.4kw의 태양광 패널, 오래된 24v 460AH 지게차 배터리, Victron MPPT100/50 충전 컨트롤러, 24v에서 12v로 변환하는 Victron 전압 변환기, 3KVA Victron 인버터를 사용 중임</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20097",
+      "guid": "https://news.hada.io/topic?id=20097",
+      "pubDate": "2025-04-02T11:33:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Netflix의 미디어 프로덕션 스위트(MPS)",
+      "description": {
+        "$text": "<ul>\n<li>Netflix는 전통적인 물리 기반의 비효율적이고 복잡한 미디어 관리 시스템을 혁신하기 위해 <strong>Media Production Suite(MPS)</strong> 를 개발</li>\n<li>\n<strong>클라우드 기반의 워크플로우</strong>를 통해 창작자들이 창의적인 작업에 더 집중할 수 있도록 지원하며, 제작부터 후반 작업까지 글로벌 협...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20096",
+      "guid": "https://news.hada.io/topic?id=20096",
+      "pubDate": "2025-04-02T11:04:17+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
