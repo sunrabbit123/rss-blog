@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T20:34:20+09:00",
+  "lastBuildDate": "2025-04-02T21:18:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29198,6 +29198,19 @@
       "guid": "https://news.hada.io/topic?id=20104",
       "pubDate": "2025-04-02T20:34:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: saas-starter-ko: SaaS 웹 서비스를 만들기 위한 Next.js(15) 템플릿",
+      "description": {
+        "$text": "<p>빠른 saas 웹 서비스 구축을 위한 Next.js 템플릿입니다.</p>\n<p>vercel에서 만든 <a href=\"https://github.com/nextjs/saas-starter\">saas-starter</a>에 대해 아시나요? 기본적인 로그인, Stripe결제, 대쉬보드 등등이 있는 saas에 필요한 간단한 기능들이 구현되어 있는 템플릿입니다.</p>\n<p>하지만 개발자들이 사",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20105",
+      "guid": "https://news.hada.io/topic?id=20105",
+      "pubDate": "2025-04-02T21:18:20+09:00",
+      "author": "kyt0315",
       "category": ""
     }
   ]
