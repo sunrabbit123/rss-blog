@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T16:15:16+09:00",
+  "lastBuildDate": "2025-04-02T20:34:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29185,6 +29185,19 @@
       "guid": "https://news.hada.io/topic?id=20103",
       "pubDate": "2025-04-02T16:15:16+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "모든 데이터 동기화 중단",
+      "description": {
+        "$text": "<h2>엣지 복제에 대한 새로운 접근 방식</h2>\n<ul>\n<li>데이터 동기화는 생각보다 어려운 문제임. 기존 솔루션은 전체 데이터셋을 클라이언트에 동기화하거나, 논리적 변경을 추적하는 방식으로 나뉨.</li>\n<li>Graft는 이러한 문제를 해결하기 위해 설계되었으며, 간단한 물리적 복제와 효율적인 논리적 복제를 결합한 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20104",
+      "guid": "https://news.hada.io/topic?id=20104",
+      "pubDate": "2025-04-02T20:34:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
