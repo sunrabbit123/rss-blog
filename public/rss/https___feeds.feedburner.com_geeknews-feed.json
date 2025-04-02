@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T14:36:24+09:00",
+  "lastBuildDate": "2025-04-02T16:15:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29172,6 +29172,19 @@
       "guid": "https://news.hada.io/topic?id=20101",
       "pubDate": "2025-04-02T14:33:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google, Gemini 2.5 Pro Canvas 무료로 공개",
+      "description": {
+        "$text": "<ul>\n<li>기존에 유료인 Gemini Advanced(월 $20) 사용자에게만 제공하던 기능</li>\n<li>지난 주 Gemini 2.5 Exp 버전을 무료 사용자에게도 공개한 후 Canvas도 같이 제공 시작</li>\n<li>AI 기반의 문서 작성, 실시간 코드 편집 및 미리보기로 웹앱 작성, 오디오 오버뷰 등이 가능</li>\n<li>\n<a href=\"https://gemini.go...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20103",
+      "guid": "https://news.hada.io/topic?id=20103",
+      "pubDate": "2025-04-02T16:15:16+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
