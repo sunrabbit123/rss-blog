@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T20:33:32+09:00",
+  "lastBuildDate": "2025-04-04T00:37:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29445,6 +29445,19 @@
       "guid": "https://news.hada.io/topic?id=20125",
       "pubDate": "2025-04-03T20:33:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "절대 Cron에서 표준 출력을 사용하지 마세요 - root 볼륨 포화 괴담",
+      "description": {
+        "$text": "<ul>\n<li>운영 서버 루트 디스크가 갑자기 90% 이상 사용되는 현상 발생</li>\n<li>\n<code>du</code>로 전수 조사해도 사용량이 설명되지 않음</li>\n<li>cron에서 실행된 rsync 기반 스크립트가 <code>/tmp</code>의 삭제된 파일을 계속 열어둠</li>\n<li>cron은 별도 리디렉션 없을 경우 표준 출력과 표준 에러를 임시 파...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20126",
+      "guid": "https://news.hada.io/topic?id=20126",
+      "pubDate": "2025-04-04T00:37:05+09:00",
+      "author": "computerphilosopher",
       "category": ""
     }
   ]
