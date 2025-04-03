@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T11:33:05+09:00",
+  "lastBuildDate": "2025-04-03T13:33:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29354,6 +29354,32 @@
       "guid": "https://news.hada.io/topic?id=20118",
       "pubDate": "2025-04-03T11:33:05+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mozilla, Gmail 및 Microsoft 365에 도전하는 \"Thundermail\" 이메일 서비스 출시",
+      "description": {
+        "$text": "<h2>Mozilla, Gmail 및 Microsoft 365에 도전하는 &quot;Thundermail&quot; 이메일 서비스 출시</h2>\n<ul>\n<li>Mozilla는 Thunderbird 오픈 소스 이메일 클라이언트를 Thundermail 및 Thunderbird Pro 출시를 통해 완전한 커뮤니케이션 플랫폼으로 전환하고 있음</li>\n<li>Mozilla의 이메일 서비스 확장은 Gmail 및 Micr...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20120",
+      "guid": "https://news.hada.io/topic?id=20120",
+      "pubDate": "2025-04-03T13:33:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI MVP를 넘어서: 실제로 필요한 것",
+      "description": {
+        "$text": "<ul>\n<li>AI 제품을 만드는 대부분의 회사는 실험 단계에 갇혀 있으며 신뢰할 만한 시스템과 도구가 부족함</li>\n<li>우리의 사례\n<ul>\n<li>올해 초, LLM 모델을 <code>gpt-4o-2024-08-06</code>에서 <code>gpt-4o-2024-11-20</code>로 업데이트함</li>\n<li>핵심 프롬프트 테스트 통과율이 기존 100%에서 79%로 하락함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20119",
+      "guid": "https://news.hada.io/topic?id=20119",
+      "pubDate": "2025-04-03T12:56:26+09:00",
+      "author": "winterjung",
       "category": ""
     }
   ]
