@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T00:37:05+09:00",
+  "lastBuildDate": "2025-04-04T07:39:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29458,6 +29458,58 @@
       "guid": "https://news.hada.io/topic?id=20126",
       "pubDate": "2025-04-04T00:37:05+09:00",
       "author": "computerphilosopher",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트가 프론트엔드 개발을 조용히 변화시키고 있다",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트가 프론트엔드 개발 영역에 점진적으로 침투하며 <strong>개발 방식 자체를 변화</strong>시키고 있음</li>\n<li>레이아웃 최적화, 반복 작업 자동화, 사용자 행동 기반 UX 개선 제안 등 <strong>백그라운드에서 조용히 작업 수행</strong>\n</li>\n<li>이들은 단순 보조 도구가 아닌 <strong>목표 지향...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20130",
+      "guid": "https://news.hada.io/topic?id=20130",
+      "pubDate": "2025-04-04T07:39:33+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "닌텐도 스위치 2, 6월 5일 발매",
+      "description": {
+        "$text": "<ul>\n<li>닌텐도 스위치의 디자인은 유지하면서, 더욱 커진 본체 크기, 4K급으로 강력해진 그래픽 성능, 개선된 조이콘 작동 방식등 세세한 변화</li>\n<li>401g, 조이콘 2 장착시 534g</li>\n<li>CPU 와 GPU는 NVidia 커스텀 프로세서</li>\n<li>화면은 7.9인치, 디스플레이 픽셀수가 2배로 커짐</li>\n<li>1080p 120프레임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20129",
+      "guid": "https://news.hada.io/topic?id=20129",
+      "pubDate": "2025-04-04T07:36:16+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google은 어떻게 Gemini Robotics 모델을 개발했나",
+      "description": {
+        "$text": "<ul>\n<li>Google DeepMind는 물리적 작업이 가능한 차세대 로봇용 멀티모달 AI 모델인 <strong>Gemini Robotics</strong>를 개발</li>\n<li>해당 모델은 텍스트, 비디오, 오디오뿐만 아니라 실제 행동까지 수행할 수 있도록 <strong>Gemini 2.0</strong>을 로봇 특화 데이터로 파인튜닝한 버전</li>\n<li>로봇이 샐러드 만...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20128",
+      "guid": "https://news.hada.io/topic?id=20128",
+      "pubDate": "2025-04-04T07:27:26+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Qwen-2.5-32B가 이제 최고의 오픈소스 OCR 모델입니다",
+      "description": {
+        "$text": "<ul>\n<li>OCR 성능을 분석하는 Omni OCR 벤치마크에서 최근 출시된 Qwen 2.5 VL(72B, 32B), Gemma-3-27B, DeepSeek-v3-0324, mistral-ocr 등의 모델을 포함하여 비교</li>\n<li>\n<strong>Qwen 2.5 VL 72b/32b</strong> 모델이 가장 높은 정확도 기록\n<ul>\n<li>둘 다 약 <strong>75% 정확도</strong>로 GPT-4o 수준의 성능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20127",
+      "guid": "https://news.hada.io/topic?id=20127",
+      "pubDate": "2025-04-04T07:22:28+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
