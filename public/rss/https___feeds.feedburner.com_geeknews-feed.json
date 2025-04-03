@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T16:33:20+09:00",
+  "lastBuildDate": "2025-04-03T17:46:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29393,6 +29393,32 @@
       "guid": "https://news.hada.io/topic?id=20121",
       "pubDate": "2025-04-03T16:33:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 한국에서 자유 오픈소스 소프트웨어나 Linux 관련 이야기를 나눌 수 있는 소통 창구가 있나요?",
+      "description": {
+        "$text": "<p>우분투 코리아나 langdev같이 특정 주제를 다룬 등지의 소통 채널은 있지만</p>\n<p>한국에서 자유 오픈소스 소프트웨어 나 Linux, FreeBSD 등지의 좀더 일반적인 주제를 한국어나 한국 맥락을 더 담아서 이야기 나눌 수 있는 소통 창구를 찾아 보지 못한것 같습니다.</p>\n<p>예전에는 KLDP나 유저그룹 같은게 있던것 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20123",
+      "guid": "https://news.hada.io/topic?id=20123",
+      "pubDate": "2025-04-03T17:46:25+09:00",
+      "author": "guesswhat",
+      "category": ""
+    },
+    {
+      "title": "ONLYOFFICE, HWP/HWPX 파일 지원 시작",
+      "description": {
+        "$text": "<h2>ONLYOFFICE, HWP/HWPX 파일 지원 시작</h2>\n<p>ONLYOFFICE Desktop Editors가 최신 버전 8.3에서 한글 문서 포맷인 HWP와 HWPX 파일을 지원합니다.<br />\n한컴오피스 없이도 HWP/HWPX 파일을 열고, 편집 후 DOCX, PDF 등으로 저장할 수 있습니다.</p>\n<h3>주요 기능</h3>\n<ul>\n<li>HWP/HWPX 파일 열기 및 자동 변환...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20122",
+      "guid": "https://news.hada.io/topic?id=20122",
+      "pubDate": "2025-04-03T17:41:19+09:00",
+      "author": "guesswhat",
       "category": ""
     }
   ]
