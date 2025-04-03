@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-02T21:18:20+09:00",
+  "lastBuildDate": "2025-04-03T10:01:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29211,6 +29211,136 @@
       "guid": "https://news.hada.io/topic?id=20105",
       "pubDate": "2025-04-02T21:18:20+09:00",
       "author": "kyt0315",
+      "category": ""
+    },
+    {
+      "title": "대화형 인터페이스에 대한 반론",
+      "description": {
+        "$text": "<ul>\n<li>기술 업계에서는 몇 년마다 새로운 AI 기술이 등장할 때마다 “이번에는 자연어 인터페이스가 모든 것을 바꿀 것”이라는 환상이 반복됨</li>\n<li>Siri, Alexa, 챗봇, AirPods 플랫폼, 그리고 최근에는 대형 언어 모델(LLM)까지 이런 흐름을 타고 있음</li>\n<li>그러나 실제로 우리의 컴퓨터 사용 방식은 거의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20117",
+      "guid": "https://news.hada.io/topic?id=20117",
+      "pubDate": "2025-04-03T10:01:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DEDA – 추적 점 추출, 디코딩 및 익명화 도구 키트",
+      "description": {
+        "$text": "<h2>DEDA - 추적 점 추출, 디코딩 및 익명화 도구</h2>\n<ul>\n<li>\n<strong>문서 색상 추적 점</strong>: 상업용 컬러 레이저 프린터에 통합된 작은 점으로, 프린터 및 출력물에 대한 정보를 인코딩함. 거의 모든 출력물에 소스 장치에 대한 정보가 포함됨.</li>\n<li>\n<strong>도구의 기능</strong>: 이 도구는 이러한 법...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20116",
+      "guid": "https://news.hada.io/topic?id=20116",
+      "pubDate": "2025-04-03T09:58:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "RIP 발 킬머: 영화 Real Genius - 너드들이 여전히 좋아하는 작품 (2015)",
+      "description": {
+        "$text": "<h2>30년이 지나도 여전히 Nerd들에게 사랑받는 영화 'Real Genius'</h2>\n<ul>\n<li>\n<p>'Real Genius'는 1980년대 대학 캠퍼스 코미디 영화 중 하나로, 여전히 많은 사람들에게 사랑받고 있음.</p>\n</li>\n<li>\n<p>이 영화는 실제 레이저 기술을 연구하던 대학생들의 이야기를 느슨하게 기반으로 하고 있으며, CIA가 우주",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20115",
+      "guid": "https://news.hada.io/topic?id=20115",
+      "pubDate": "2025-04-03T09:55:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM이 결정을 내리거나 비즈니스 로직을 실행하도록 하지 마세요",
+      "description": {
+        "$text": "<h2>핵심 주장: LLM에서 최대한 빨리 빠져나오고 오래 머물지 말아야 함</h2>\n<ul>\n<li>LLM에게 의사결정이나 비즈니스 로직을 맡기면 안 됨 → <strong>정확성과 안정성이 부족</strong>\n</li>\n<li>대부분의 경우, LLM은 단지 <strong>사용자와 애플리케이션 API 사이의 인터페이스</strong> 역할만 해야 함</li>\n<li>핵...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20114",
+      "guid": "https://news.hada.io/topic?id=20114",
+      "pubDate": "2025-04-03T09:52:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Plan 9에 Tailscale 포팅 작업",
+      "description": {
+        "$text": "<h2>Tailscale의 Plan 9 포팅</h2>\n<ul>\n<li>\n<p><strong>소개</strong></p>\n<ul>\n<li>Tailscale이 Plan 9에서 작동하게 되었음. 이는 4월 1일의 농담이 아닌 실제 사실임.</li>\n<li>Plan 9에 Tailscale을 포팅하는 과정에서 여러 기술적 도전과 해결책이 있었음.</li>\n</ul>\n</li>\n<li>\n<p><strong>Plan 9에 대한 이해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20113",
+      "guid": "https://news.hada.io/topic?id=20113",
+      "pubDate": "2025-04-03T09:49:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 시스템을 평가하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>LLM(대형 언어 모델) 기반 애플리케이션은 <strong>비결정적 출력 특성</strong> 때문에 전통적인 테스트 방식으로는 적절한 평가가 어려움</li>\n<li>따라서 LLM 시스템의 성능을 유지하고 개선하기 위해 <strong>전용 평가 방식(evals)</strong> 이 필수적임</li>\n</ul>\n<h2>eval이 중요한 이유</h2>\n<ul>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20112",
+      "guid": "https://news.hada.io/topic?id=20112",
+      "pubDate": "2025-04-03T09:47:04+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "CERN 과학자들이 양(Sheep)에서 양자 얽힘의 증거를 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>CERN의 양 떼는 40년 넘게 봄과 여름 동안 CERN 부지를 돌아다니며, LHC 주변의 초원을 유지하고 생물 다양성을 보호하는 데 기여함.</p>\n</li>\n<li>\n<p>양의 무리 행동은 입자처럼 행동하는 것으로 알려져 있으며, 이는 물리학자와 동물학자 모두에게 흥미로운 연구 주제임.</p>\n</li>\n<li>\n<p>새로운 연구",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20111",
+      "guid": "https://news.hada.io/topic?id=20111",
+      "pubDate": "2025-04-03T09:46:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "13개의 원으로 만든 동물들 (2016)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>13개의 원으로 만든 13마리 동물</strong></p>\n<ul>\n<li>Twitter 로고에서 영감을 받아 13개의 완벽한 원으로 구성된 디자인 도전을 시작함.</li>\n<li>포트폴리오에 간단하고 멋진 작품을 추가하고자 함.</li>\n<li>13개의 원으로 구성된 13마리 동물 디자인을 소개함.</li>\n</ul>\n</li>\n<li>\n<p><s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20110",
+      "guid": "https://news.hada.io/topic?id=20110",
+      "pubDate": "2025-04-03T09:43:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "35,000줄짜리 요리 앱을 Vibe 코딩해봤어요",
+      "description": {
+        "$text": "<ul>\n<li>창업자 출신 투자자가 20시간 바이브코딩 작업으로 개발한 요리 앱</li>\n<li>핵심 기능은 요리 중 손을 사용하지 않고도 조작할 수 있는 <strong>음성 비서</strong>\n</li>\n<li>Rails 8 API 백엔드 + React 프론트엔드 + OpenAI의 실시간 음성 API</li>\n<li>OpenAI의 <strong>함수-호출</strong> 기능을 활용하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20109",
+      "guid": "https://news.hada.io/topic?id=20109",
+      "pubDate": "2025-04-03T09:41:51+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년 스타일 셀프 호스팅 가이드",
+      "description": {
+        "$text": "<ul>\n<li>데이터 수집 중심의 중앙화된 서비스에 대한 대안으로 <strong>셀프 호스팅</strong>이 최근 인기를 얻고 있음</li>\n<li>다양한 도구와 앱을 실험후 <strong>1년 이상 안정적으로 운영</strong> 중인 경험을 바탕으로 유용했던 도구들을 소개\n<ul>\n<li>컨테이너 런타임, 웹 기반 관리도구, 리버스 프록시와 VPN...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20108",
+      "guid": "https://news.hada.io/topic?id=20108",
+      "pubDate": "2025-04-03T09:38:07+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
