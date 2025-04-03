@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T13:33:30+09:00",
+  "lastBuildDate": "2025-04-03T16:33:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29380,6 +29380,19 @@
       "guid": "https://news.hada.io/topic?id=20119",
       "pubDate": "2025-04-03T12:56:26+09:00",
       "author": "winterjung",
+      "category": ""
+    },
+    {
+      "title": "미국 행정부, 중국에 34% 관세 부과, EU에 20% 관세 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<h4>셰필드 철강 제조업체의 '불확실성' 발언</h4>\n<ul>\n<li>3월 초부터 미국에 들어오는 모든 철강과 알루미늄에 25% 관세가 부과됨.</li>\n<li>최근 발표로 인해 일부 기업들은 혼란을 겪고 있으며, 새로운 관세가 자사에 추가적인 압박을 가할지에 대해 불확실함을 느낌.</li>\n<li>비디오 재생을 위해 브라우...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20121",
+      "guid": "https://news.hada.io/topic?id=20121",
+      "pubDate": "2025-04-03T16:33:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
