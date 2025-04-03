@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T17:46:25+09:00",
+  "lastBuildDate": "2025-04-03T19:57:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29419,6 +29419,19 @@
       "guid": "https://news.hada.io/topic?id=20122",
       "pubDate": "2025-04-03T17:41:19+09:00",
       "author": "guesswhat",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 가민 스마트워치 데이터를 이용한 AI 분석 챗봇",
+      "description": {
+        "$text": "<h3>서비스 링크</h3>\n<ul>\n<li>\n<a href=\"https://garmin-fit-bot.vercel.app/\">소개 페이지</a>\n</li>\n<li>\n<a href=\"https://pf.kakao.com/_GVxmnn\">카카오톡 챗봇 채널</a>\n</li>\n</ul>\n<h3>🚀 서비스 소개</h3>\n<p>GeekNews에서 Garmin 스마트워치 데이터를 분석하는 도구인 GarminDB에 관한 포스팅을 보고 영감을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20124",
+      "guid": "https://news.hada.io/topic?id=20124",
+      "pubDate": "2025-04-03T19:57:04+09:00",
+      "author": "zamoca",
       "category": ""
     }
   ]
