@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-03T19:57:04+09:00",
+  "lastBuildDate": "2025-04-03T20:33:32+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29432,6 +29432,19 @@
       "guid": "https://news.hada.io/topic?id=20124",
       "pubDate": "2025-04-03T19:57:04+09:00",
       "author": "zamoca",
+      "category": ""
+    },
+    {
+      "title": "AoE 1, 2, 3 DE를 위한 100% 오프라인 LAN 멀티플레이어 지원 웹 서버",
+      "description": {
+        "$text": "<h2>Age LAN Server</h2>\n<p>Age LAN Server는 인터넷 연결 없이도 멀티플레이어 LAN 게임 모드를 즐길 수 있게 해주는 웹 서버임. 공식 서버가 유지보수 중이거나 종료되더라도 게임의 LAN 기능을 사용할 수 있게 해줌.</p>\n<p><strong>🎮 지원 게임:</strong></p>\n<ul>\n<li>\n<strong>Age of Empires: Definitive Editi",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20125",
+      "guid": "https://news.hada.io/topic?id=20125",
+      "pubDate": "2025-04-03T20:33:32+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
