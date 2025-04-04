@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T07:39:33+09:00",
+  "lastBuildDate": "2025-04-04T10:33:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29509,6 +29509,136 @@
       "link": "https://news.hada.io/topic?id=20127",
       "guid": "https://news.hada.io/topic?id=20127",
       "pubDate": "2025-04-04T07:22:28+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "추론 모델의 비일관성 발언",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>이유 모델은 항상 생각한 것을 말하지 않음</h3>\n<ul>\n<li>최근 &quot;이유 모델&quot;이 주목받고 있음. 이러한 AI 모델은 최종 답변뿐만 아니라 그 답변에 도달하는 과정인 &quot;Chain-of-Thought&quot;도 보여줌.</li>\n<li>Chain-of-Thought는 AI 안전 연구자들에게 유용함. 모델의 숨겨진 행동을 발견...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20142",
+      "guid": "https://news.hada.io/topic?id=20142",
+      "pubDate": "2025-04-04T10:33:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Thoughtworks Technology Radar, Volume 32 공개",
+      "description": {
+        "$text": "<ul>\n<li>테크닉/도구/플랫폼/개발언어 및 프레임워크 분야의 최신 트렌드들을 Hold/Assess/Trial/Adopt 4단계로 시각화 및 설명</li>\n<li>흥미로운 기술 항목(blip)을 추적함. Blip은 시간이 지나면서 4개 단계 사이를 이동\n<ul>\n<li>\n<strong>Adopt (도입 권장)</strong> : 업계 전반에서 적극적으로 도입해야 한다고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20141",
+      "guid": "https://news.hada.io/topic?id=20141",
+      "pubDate": "2025-04-04T10:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "왜 세상은 색을 잃어가고 있는가?",
+      "description": {
+        "$text": "<ul>\n<li>주차장에 가면 검정, 흰색, 은색 차량이 대부분임</li>\n<li>넷플릭스나 영화관에서도 색감이 빠진 화면이 주류를 이룸</li>\n<li>대형 브랜드 로고들도 점점 단색 위주로 단순화됨</li>\n<li>이는 단순한 유행이 아닌, 문화 전반의 미학적 변화 현상임</li>\n<li>과거에는 생동감 있던 것이 이제는 무미건조해지고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20140",
+      "guid": "https://news.hada.io/topic?id=20140",
+      "pubDate": "2025-04-04T09:55:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Headscale - Tailscale 컨트롤 서버의 셀프 호스팅 구현 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>Headscale은 <strong>Tailscale의 컨트롤 서버</strong> 기능을 자체 호스팅할 수 있도록 만든 <strong>오픈 소스 대안 프로젝트</strong>\n</li>\n<li>Tailscale은 <strong>WireGuard 기반의 현대적 VPN 솔루션</strong>으로, NAT 환경에서도 작동하는 오버레이 네트워크 구성 가능</li>\n<li>원래의 Tailscale C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20139",
+      "guid": "https://news.hada.io/topic?id=20139",
+      "pubDate": "2025-04-04T09:52:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Dijkstra의 \"자연어 프로그래밍의 어리석음\"에 대하여",
+      "description": {
+        "$text": "<h2>자연어 프로그래밍의 어리석음에 대한 비판</h2>\n<ul>\n<li>자동 계산기 초창기부터, 형식적인 기호 체계를 요구하는 프로그래밍 방식에 불만을 가진 사람들이 존재함</li>\n<li>기계는 주어진 명령을 그대로 수행하는 '충실한 노예'로서, 명백한 오류도 그대로 실행함</li>\n<li>일부 사람들은, 기계가 오류를 무시하고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20138",
+      "guid": "https://news.hada.io/topic?id=20138",
+      "pubDate": "2025-04-04T09:49:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모자를 쓰고 채찍을 사용하는 고고학자 모험가 이미지",
+      "description": {
+        "$text": "<h2>GPT 이미지 생성과 저작권 문제에 대한 탐구</h2>\n<ul>\n<li>GPT 이미지 생성 기능 업데이트 이후, 인터넷 사용자들이 다양한 콘텐츠를 <strong>Studio Ghibli 스타일로 변환</strong>하는 트렌드 확산</li>\n<li>대표 사례로는 밈인 ‘Disaster Girl’을 Ghibli 스타일로 재생산한 이미지들</li>\n<li>이는 AI가 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20137",
+      "guid": "https://news.hada.io/topic?id=20137",
+      "pubDate": "2025-04-04T09:46:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CASCII - 웹 기반 ASCII/유니코드 다이어그램 빌더",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>텍스트 기반의 도식(Diagram)</strong> 을 만드는 데 특화된 도구, 마치 MS Paint를 텍스트로 구현한 듯한 간단하고 직관적인 UI를 제공</li>\n<li>ASCII 및 Unicode 모드를 전환할 수 있으며, 정렬을 위한 배경 그리드 기능도 포함</li>\n<li>결과물을 클립보드로 직접 복사하거나 Base64 형식으로 내보...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20136",
+      "guid": "https://news.hada.io/topic?id=20136",
+      "pubDate": "2025-04-04T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AnimeJs v4 출시",
+      "description": {
+        "$text": "<ul>\n<li>Anime.js는 웹에서 모든 것을 애니메이션화할 수 있는 빠르고 다재다능한 JavaScript 라이브러리</li>\n<li>V4는 전체 구조를 새롭게 재작성하여 성능을 크게 향상시키고, API도 더 현대적인 방식으로 개편됨</li>\n<li>특히 ES Module 지원, 트리 쉐이킹 최적화, 복잡한 애니메이션 조합 개선 등으로 개발자 경험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20135",
+      "guid": "https://news.hada.io/topic?id=20135",
+      "pubDate": "2025-04-04T09:43:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "17년 된 Thinkpad를 유지하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>나심 탈레브는 <strong>&quot;Antifragile&quot;</strong> 에서 취약(fragile) 시스템과 강건(robust) 시스템을 구분함</li>\n<li>취약한 시스템은 충격에 쉽게 무너지는 반면, 강건한 시스템은 스트레스를 견딤</li>\n<li>특히 오래된 기술이 더 오래 지속될 가능성이 높다는 <strong>린디 효과(Lindy Effect)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20134",
+      "guid": "https://news.hada.io/topic?id=20134",
+      "pubDate": "2025-04-04T09:40:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Shezem-rs - Rust 기반의 고속 오디오 지문 인식 시스템",
+      "description": {
+        "$text": "<ul>\n<li>Shazam에서 영감을 받은 <strong>고속 오디오 인식 및 식별 시스템</strong>의 Rust 구현 오픈소스</li>\n<li>속도, 효율성, 단순성을 중점으로 설계되어 있으며 CLI를 통해 <strong>오디오 파일의 인덱싱 및 검색</strong>을 수행 가능</li>\n</ul>\n<h2>주요 특징 및 장점</h2>\n<ul>\n<li>\n<strong>고속 인덱싱 및...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20133",
+      "guid": "https://news.hada.io/topic?id=20133",
+      "pubDate": "2025-04-04T09:31:01+09:00",
       "author": "xguru",
       "category": ""
     }
