@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T15:33:14+09:00",
+  "lastBuildDate": "2025-04-04T23:34:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29692,6 +29692,19 @@
       "guid": "https://news.hada.io/topic?id=20145",
       "pubDate": "2025-04-04T15:20:27+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트의 원본 소스 코드",
+      "description": {
+        "$text": "<h2>BASIC 본능</h2>\n<ul>\n<li>Microsoft의 50주년을 기념하며 회사의 원본 소스 코드를 공개함.</li>\n<li>Altair BASIC은 Office, Windows 95, Xbox, AI 이전에 존재했던 Microsoft의 초기 소프트웨어임.</li>\n</ul>\n<h2>시작점</h2>\n<ul>\n<li>Bill Gates는 1976년 Microsoft가 설립된 지 거의 1년이 되었을 때 첫 공개...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20147",
+      "guid": "https://news.hada.io/topic?id=20147",
+      "pubDate": "2025-04-04T23:34:42+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
