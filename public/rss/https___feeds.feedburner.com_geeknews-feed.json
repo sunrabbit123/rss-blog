@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T11:41:01+09:00",
+  "lastBuildDate": "2025-04-04T15:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29666,6 +29666,32 @@
       "guid": "https://news.hada.io/topic?id=20143",
       "pubDate": "2025-04-04T11:34:35+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Curl-impersonate: 주요 브라우저를 모방할 수 있는 특별한 curl 빌드",
+      "description": {
+        "$text": "<h2>curl-impersonate</h2>\n<p>특정 브라우저를 모방할 수 있는 curl의 특별한 빌드로, Chrome, Edge, Safari, Firefox를 모방할 수 있음. curl-impersonate는 실제 브라우저와 동일한 TLS 및 HTTP 핸드셰이크를 수행할 수 있음. 명령줄 도구로 사용하거나 라이브러리로 통합 가능함.</p>\n<h3>왜 필요한가?</h3>\n<ul>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20146",
+      "guid": "https://news.hada.io/topic?id=20146",
+      "pubDate": "2025-04-04T15:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 AI 코드 편집기 사용을 중단한 이유",
+      "description": {
+        "$text": "<ul>\n<li>처음 AI 코드 도구를 사용할 때는 놀라움과 효율성에 감탄했음</li>\n<li>특히 C++ 컴파일 에러 분석에 도움을 줘 마치 마법처럼 느껴졌음</li>\n<li>GitHub Copilot과 다양한 LLM 기반 에디터 통합 도구를 사용하면서 개발 워크플로우의 일환이 되었음</li>\n<li>그러나 2024년 말에는 모든 LLM 통합 기능을 코드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20145",
+      "guid": "https://news.hada.io/topic?id=20145",
+      "pubDate": "2025-04-04T15:20:27+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
