@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T10:33:24+09:00",
+  "lastBuildDate": "2025-04-04T11:41:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29640,6 +29640,32 @@
       "guid": "https://news.hada.io/topic?id=20133",
       "pubDate": "2025-04-04T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Cognition, AI 소프트웨어 에이전트 Devin 2.0 공개",
+      "description": {
+        "$text": "<ul>\n<li>Devin 2.0은 <strong>클라우드 기반의 에이전트 네이티브 IDE</strong>를 도입하며, <strong>다중 작업</strong>, <strong>코드 협업</strong>, <strong>수정 및 테스트</strong>까지 가능하게 함</li>\n<li>기본 플랜은 월 $20부터 시작하며, <strong>여러개의 Devin을 병렬로 실행</strong>, <strong>사용자 개...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20144",
+      "guid": "https://news.hada.io/topic?id=20144",
+      "pubDate": "2025-04-04T11:41:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 2027 전망",
+      "description": {
+        "$text": "<h2>중반 2025: 비틀거리는 에이전트</h2>\n<ul>\n<li>세계는 처음으로 AI 에이전트를 목격함.</li>\n<li>개인 비서로 광고되는 컴퓨터 사용 에이전트가 등장하여 간단한 작업을 수행할 수 있음.</li>\n<li>전문 코딩 및 연구 에이전트가 직업을 변화시키기 시작함.</li>\n<li>이 에이전트들은 이론적으로는 인상적이지만 실제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20143",
+      "guid": "https://news.hada.io/topic?id=20143",
+      "pubDate": "2025-04-04T11:34:35+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
