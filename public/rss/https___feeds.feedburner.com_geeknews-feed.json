@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-05T14:10:48+09:00",
+  "lastBuildDate": "2025-04-05T16:39:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29822,6 +29822,19 @@
       "guid": "https://news.hada.io/topic?id=20156",
       "pubDate": "2025-04-05T14:10:48+09:00",
       "author": "beenzinozino",
+      "category": ""
+    },
+    {
+      "title": "AI 2027 보고서 (번역 & 요약)",
+      "description": {
+        "$text": "<p>최근 발표된 'AI 2027' 보고서는 인공지능 기술이 앞으로 몇 년 안에 겪을 급격한 변화와 그 영향에 대한 충격적인 예측을 담고 있습니다. 이 보고서에 따르면 인공 초지능(ASI)의 등장이 인류의 운명을 좌우할 수 있으며, 우리가 지금 내리는 결정이 그 미래를 결정한다고 합니다. 이 글에서는 보고서의 핵심 내용을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20157",
+      "guid": "https://news.hada.io/topic?id=20157",
+      "pubDate": "2025-04-05T16:39:26+09:00",
+      "author": "jaehong747",
       "category": ""
     }
   ]
