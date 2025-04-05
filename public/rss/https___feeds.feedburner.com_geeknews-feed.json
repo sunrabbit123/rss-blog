@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-04T23:34:42+09:00",
+  "lastBuildDate": "2025-04-05T09:54:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29704,6 +29704,97 @@
       "link": "https://news.hada.io/topic?id=20147",
       "guid": "https://news.hada.io/topic?id=20147",
       "pubDate": "2025-04-04T23:34:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "과도하게 설계된 앵커 링크",
+      "description": {
+        "$text": "<h2>앵커 링크 문제 해결</h2>\n<ul>\n<li>\n<p><strong>앵커 링크의 문제점</strong><br />\n앵커 링크는 간단해 보이지만, 페이지 하단에 있는 제목에 도달하지 못하는 문제가 발생할 수 있음. 이는 사용자 경험에 부정적 영향을 미침.</p>\n</li>\n<li>\n<p><strong>핫픽스: 추가 패딩</strong><br />\n가장 간단한 해결책은 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20154",
+      "guid": "https://news.hada.io/topic?id=20154",
+      "pubDate": "2025-04-05T09:54:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nvidia, CUDA에 네이티브 Python 지원 추가",
+      "description": {
+        "$text": "<h2>NVIDIA의 CUDA에 네이티브 Python 지원 추가</h2>\n<ul>\n<li>\n<p><strong>Python의 인기 상승</strong></p>\n<ul>\n<li>2024년 GitHub 오픈 소스 설문조사에 따르면 Python이 JavaScript를 제치고 가장 인기 있는 프로그래밍 언어로 등극함.</li>\n<li>NVIDIA의 CUDA 툴킷은 오랫동안 C++ 또는 Fortran 지식이 필요했으나",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20153",
+      "guid": "https://news.hada.io/topic?id=20153",
+      "pubDate": "2025-04-05T09:51:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 시대의 시니어 개발자 역량",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>최근 몇 달 동안 AI 기반 코딩 도구를 개인 및 직업 프로젝트에 실험적으로 사용해 본 결과, 긍정적인 경험을 얻음.</li>\n<li>AI 도구를 통해 더 나은 결과를 더 짧은 시간 안에 달성하고, 출력물의 품질도 상당히 향상됨.</li>\n<li>일부 개발자들은 AI 도구가 잘 작동하지 않는다고 하지만, AI ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20152",
+      "guid": "https://news.hada.io/topic?id=20152",
+      "pubDate": "2025-04-05T09:48:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI로 인한 OSINT에서 비판적 사고의 점진적 붕괴",
+      "description": {
+        "$text": "<h2>OSINT에서 AI로 인한 비판적 사고의 점진적 붕괴</h2>\n<ul>\n<li>OSINT는 원래 사고의 게임이었으나, 이제는 신뢰의 게임으로 변하고 있음. AI 도구에 대한 의존이 증가하면서 비판적 사고가 감소하고 있음.</li>\n<li>AI 도구는 작업을 더 쉽게 만들지만, 판단력은 언어 모델에서 나오지 않음. 비판적 습관을 유지하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20151",
+      "guid": "https://news.hada.io/topic?id=20151",
+      "pubDate": "2025-04-05T09:45:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gumroad 소스 코드 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>시작하기</strong></p>\n<ul>\n<li>\n<p><strong>필수 조건</strong></p>\n<ul>\n<li>Ruby, Node.js, Docker 및 Docker Compose, MySQL 및 Percona Toolkit, 이미지 처리 라이브러리(예: ImageMagick, libvips), FFmpeg, PDFtk 설치 필요.</li>\n<li>MacOS와 Linux에 대한 설치 방법 제공.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20150",
+      "guid": "https://news.hada.io/topic?id=20150",
+      "pubDate": "2025-04-05T09:42:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지루함을 느끼는 It 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>지루함에 대하여</strong>\n<ul>\n<li>모든 것을 포괄하는 그 본질에 대한 지루함.</li>\n<li>그것의 불가피하고 비인간적인 결과.</li>\n<li>'그것'에 대한 실체가 있다는 사실.</li>\n<li>쓰레기가 들어가고 쓰레기가 나오는 것.</li>\n<li>아무도 그것을 원하지 않음.</li>\n<li>내 세대의 최고의 두뇌들이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20149",
+      "guid": "https://news.hada.io/topic?id=20149",
+      "pubDate": "2025-04-05T09:39:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대학 총장, 비겁함 반대 입장 표명",
+      "description": {
+        "$text": "<h4>대학 총장, 비겁함에 맞서다</h4>\n<ul>\n<li>\n<p><strong>배경</strong>: 트럼프 행정부는 학생 활동에 대한 처벌을 통해 대학을 겨냥하고 있음. 웨슬리언 대학교의 마이클 로스 총장은 대학들이 이에 굴복할 필요가 없음을 주장함.</p>\n</li>\n<li>\n<p><strong>웨슬리언 대학교의 상황</strong>: 캠퍼스는 평화로운 봄",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20148",
+      "guid": "https://news.hada.io/topic?id=20148",
+      "pubDate": "2025-04-05T08:33:12+09:00",
       "author": "neo",
       "category": ""
     }
