@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-05T09:54:54+09:00",
+  "lastBuildDate": "2025-04-05T10:18:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29796,6 +29796,19 @@
       "guid": "https://news.hada.io/topic?id=20148",
       "pubDate": "2025-04-05T08:33:12+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sidekick - 맥용 로컬 퍼스트 LLM 챗봇 애플리케이션 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>사용자의 파일, 폴더, 웹사이트를 기반으로 정보를 제공하며 <strong>완전 오프라인에서도 동작</strong>\n</li>\n<li>설치형 모델 추론 엔진이 내장되어 있으며, 필요 시 OpenAI 호환 API 키를 연결하여 외부 모델도 활용 가능</li>\n<li>LLM이 문맥 정보를 기반으로 보다 정확한 답변을 제공할 수 있도록 설계...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20155",
+      "guid": "https://news.hada.io/topic?id=20155",
+      "pubDate": "2025-04-05T10:18:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
