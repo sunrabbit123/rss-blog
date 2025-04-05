@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-05T21:06:44+09:00",
+  "lastBuildDate": "2025-04-06T01:11:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -29848,6 +29848,32 @@
       "guid": "https://news.hada.io/topic?id=20158",
       "pubDate": "2025-04-05T21:06:44+09:00",
       "author": "tothefullest08",
+      "category": ""
+    },
+    {
+      "title": "오픈소스 LLM 선택 기준 체크리스트",
+      "description": {
+        "$text": "<p>DeepSeek, Llama등 그 많은 오픈소스 LLM들 중 나는 무엇을 골라야 할지 구체적으로 정리 된게 있으면 좋겠다 싶을 정도로, 각 오픈소스 LLM들에서 챙겨봐야 하는 것들은 너무 많습니다. 그래서 이를 정리할 수 있는 기준 체크리스트를 만들었습니다. 사실 체크리스트라 하고 '이런 부분 확인해보셨나요?'라고 묻는 질...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20160",
+      "guid": "https://news.hada.io/topic?id=20160",
+      "pubDate": "2025-04-06T01:11:46+09:00",
+      "author": "jinhoy",
+      "category": ""
+    },
+    {
+      "title": "Show GN: [Unlock Portfolio] 터미널/해킹 게임 형식의 포트폴리오 사이트",
+      "description": {
+        "$text": "<p>System Rose의 안내에 따라, 터미널을 통해 해킹당한 포트폴리오를 복구해보는<br />\n인터랙티브 게임 형식의 웹 기반 포트폴리오입니다.</p>\n<p>사용자는 해커가 남긴 퀴즈를 풀며 프로젝트 아카이브를 복원하고,<br />\n마지막엔 해커의 정체와 사이트 제작자의 정보도 직접 밝혀낼 수 있습니다.</p>\n<p>(해커의 퀴즈",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20159",
+      "guid": "https://news.hada.io/topic?id=20159",
+      "pubDate": "2025-04-06T01:04:15+09:00",
+      "author": "guseod24",
       "category": ""
     }
   ]
