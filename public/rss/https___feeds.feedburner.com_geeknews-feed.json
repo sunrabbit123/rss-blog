@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-06T09:59:13+09:00",
+  "lastBuildDate": "2025-04-06T13:34:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30003,6 +30003,19 @@
       "link": "https://news.hada.io/topic?id=20165",
       "guid": "https://news.hada.io/topic?id=20165",
       "pubDate": "2025-04-06T08:42:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "취업 제안 협상을 위한 10가지 규칙",
+      "description": {
+        "$text": "<h2>직장 제안 협상 10가지 규칙</h2>\n<ul>\n<li>\n<p><strong>협상의 중요성</strong></p>\n<ul>\n<li>협상은 배울 수 있는 기술이며, 누구나 습득할 수 있음.</li>\n<li>협상은 고용 시장에서 자신의 가치를 극대화하기 위한 필수 과정임.</li>\n<li>협상은 회사와의 관계를 손상시키지 않으며, 오히려 능력과 진지함을 보여",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20175",
+      "guid": "https://news.hada.io/topic?id=20175",
+      "pubDate": "2025-04-06T13:34:06+09:00",
       "author": "neo",
       "category": ""
     }
