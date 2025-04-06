@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-06T13:34:06+09:00",
+  "lastBuildDate": "2025-04-06T18:32:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30016,6 +30016,19 @@
       "link": "https://news.hada.io/topic?id=20175",
       "guid": "https://news.hada.io/topic?id=20175",
       "pubDate": "2025-04-06T13:34:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플 Darwin OS 및 XNU 커널 심층 분석",
+      "description": {
+        "$text": "<h3>소개</h3>\n<ul>\n<li>Apple의 Darwin 운영체제는 macOS, iOS 등 Apple의 모든 현대 OS 플랫폼의 기반이 되는 Unix 유사 코어임.</li>\n<li>XNU 커널은 Mach 마이크로커널과 BSD Unix의 요소를 결합한 <strong>하이브리드 커널</strong>임.</li>\n<li>이 설계는 모듈성과 성능의 균형을 맞추며, 마이크로커널 메시지 전달...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20176",
+      "guid": "https://news.hada.io/topic?id=20176",
+      "pubDate": "2025-04-06T18:32:58+09:00",
       "author": "neo",
       "category": ""
     }
