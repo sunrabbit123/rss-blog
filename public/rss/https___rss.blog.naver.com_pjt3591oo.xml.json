@@ -741,6 +741,15 @@
       "pubDate": "Sun, 30 Mar 2025 16:07:24 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] 나만의 MCP Client를 만들어보자",
+      "description": "안녕하세요 멍개입니다. 이번 포스트에서는 Cursor와 Claude와 같이 MCP를 제공하는 도구의 원리를 이해하기 위해 MCP Client를 직접 구축해보겠습니다. 지난 시간에 MCP가 어떤 구조로 되어있는지 다뤄보았습니다. Host는 실제로 사용자가 조작하는 어플리케이션을 의미합니다. 대표적으로 Cursor, Claude가 있습니다. 또한 최근에는 visual studio code에서도 MCP를 사용할 수 있도록 업데이트가 되었습니다. 본 포스트에서는 stdio / sse 방식으로 구성된 MCP Server를 구성하고 MCP Client로 연결하여 사용하는 방법을 javascript로 알아보겠습니다. MCP Server는 stdio와 SSE 방식으로 제공할 수 있습니다. Server는 일반적인 서버를 의미하....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA0MDZfMjQy/MDAxNzQzOTI3NTY1MDk2.NEFS49GN0u_jwpfaqxY-ZqvPaXfPj9cMvRIEHvHSBG4g.S2GYQVmGvUw5loeodimFIkxsPoAdHgKwB8ycfN21rIYg.PNG/%C1%A6%B8%F1_%BE%F8%B4%C2_%B4%D9%C0%CC%BE%EE%B1%D7%B7%A5.drawio_%282%29.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223824144846?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223824144846",
+      "pubDate": "Sun, 06 Apr 2025 20:43:04 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
