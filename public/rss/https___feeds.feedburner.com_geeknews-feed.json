@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-07T10:41:05+09:00",
+  "lastBuildDate": "2025-04-07T12:34:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30185,6 +30185,32 @@
       "link": "https://news.hada.io/topic?id=20190",
       "guid": "https://news.hada.io/topic?id=20190",
       "pubDate": "2025-04-07T10:38:17+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "최근 AI 모델 발전, 대부분 헛소리 같은 느낌",
+      "description": {
+        "$text": "<h2>최근 AI 모델의 발전이 주로 허상처럼 느껴짐</h2>\n<ul>\n<li>약 9개월 전, 필자와 세 명의 친구들은 AI가 대규모 코드베이스를 자율적으로 모니터링할 만큼 충분히 발전했다고 판단하여, 인간 보안 테스트의 가치를 대체할 수 있는 도구를 만들기 위해 회사를 설립함.</li>\n<li>회사 설립 초기, Claude 3.5 sonnet이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20193",
+      "guid": "https://news.hada.io/topic?id=20193",
+      "pubDate": "2025-04-07T12:34:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 시대에 Modern Data Stack이 중요한 이유",
+      "description": {
+        "$text": "<ul>\n<li>2021년부터 2023년 초까지 데이터 기술 분야, 특히 <strong>Modern Data Stack</strong>은 기술 산업 내에서 가장 활발하고 주목받는 영역이었음</li>\n<li>2023년 말 ChatGPT가 등장하면서 관심이 AI로 이동했고, 데이터 인프라에 대한 논의는 다소 묻힘</li>\n<li>하지만 AI가 실제 업무 흐름 속에 통합되기 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20192",
+      "guid": "https://news.hada.io/topic?id=20192",
+      "pubDate": "2025-04-07T11:41:01+09:00",
       "author": "xguru",
       "category": ""
     }
