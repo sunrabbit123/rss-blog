@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-07T09:56:01+09:00",
+  "lastBuildDate": "2025-04-07T10:41:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30160,6 +30160,32 @@
       "guid": "https://news.hada.io/topic?id=20180",
       "pubDate": "2025-04-07T09:40:44+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "수익성 있는 스타트업",
+      "description": {
+        "$text": "<ul>\n<li>수년간 스타트업은 <strong>성장에 우선순위</strong>를 두도록 교육받아 왔음</li>\n<li>\n<strong>수익성</strong>은 야망이 없거나 잘못된 것으로 여겨졌으며, <strong>규모를 달성</strong>한 후에나 고려해야 한다고 생각되었음</li>\n<li>그러나 이러한 생각은 항상 <strong>결함</strong>이 있었음</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20191",
+      "guid": "https://news.hada.io/topic?id=20191",
+      "pubDate": "2025-04-07T10:41:05+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Swift에서 WebAssembly 지원을 위한 비전 제안",
+      "description": {
+        "$text": "<ul>\n<li>Swift 커뮤니티는 <strong>WebAssembly(Wasm)</strong> 지원을 꾸준히 개발해 왔으며, 이를 바탕으로 장기적인 비전을 제안함</li>\n<li>WebAssembly는 <strong>이식성, 보안성, 성능</strong>을 중시하는 <strong>가상 머신 명령어 집합</strong>으로, 다양한 플랫폼에서 실행 가능함</li>\n<li>Swift에서 Wasm을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20190",
+      "guid": "https://news.hada.io/topic?id=20190",
+      "pubDate": "2025-04-07T10:38:17+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
