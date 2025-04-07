@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-06T21:44:37+09:00",
+  "lastBuildDate": "2025-04-07T09:56:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30029,6 +30029,136 @@
       "link": "https://news.hada.io/topic?id=20176",
       "guid": "https://news.hada.io/topic?id=20176",
       "pubDate": "2025-04-06T18:32:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hyperlight - 경량 가상 머신 관리자(VMM)",
+      "description": {
+        "$text": "<ul>\n<li>애플리케이션에 내장(Embed) 가능한 경량 가상 머신 관리자(VMM)</li>\n<li>\n<strong>신뢰할 수 없는 코드 실행을 위한 마이크로 가상 머신(micro VM)</strong> 을 생성하고 관리할 수 있게 해주는 오픈소스 라이브러리</li>\n<li>주로 <strong>Windows Hypervisor Platform</strong>, <strong>KVM</strong>, <st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20189",
+      "guid": "https://news.hada.io/topic?id=20189",
+      "pubDate": "2025-04-07T09:56:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "트럼프의 비경제적 Tariff Formula, 오류에 기반한 정책",
+      "description": {
+        "$text": "<p>해당 문서는 요약할 내용이 없습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20188",
+      "guid": "https://news.hada.io/topic?id=20188",
+      "pubDate": "2025-04-07T09:55:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "QEMU에서 iPhone 에뮬레이션",
+      "description": {
+        "$text": "<h4>여정의 시작</h4>\n<ul>\n<li>iOS 에뮬레이션을 시작하며 기존 오픈 소스 솔루션을 검토함.</li>\n<li>alephsecurity/xnu-qemu-arm64를 성공적으로 실행했으나, 읽기 전용 프로젝트임이 우려됨.</li>\n<li>TrungNguyen1909/qemu-t8030를 시도하며 여러 흥미로운 기능을 발견함:\n<ul>\n<li>iOS 복원 가능</li>\n<li>iOS 14 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20187",
+      "guid": "https://news.hada.io/topic?id=20187",
+      "pubDate": "2025-04-07T09:52:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "다프트 펑크의 'Something About Us' 재창조",
+      "description": {
+        "$text": "<h2>Daft Punk의 Something About Us 재창조하기</h2>\n<ul>\n<li>\n<strong>Marca Tatem</strong> (Instagram) — 샌프란시스코, 2025년 4월 3일\n<ul>\n<li>\n<strong>Ableton Live 12</strong>를 사용하여 <strong>Daft Punk</strong>의 &quot;Something About Us&quot;를 재창조하는 개인적인 여정을 공유함.</li>\n<li>\n<s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20186",
+      "guid": "https://news.hada.io/topic?id=20186",
+      "pubDate": "2025-04-07T09:49:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hatchet – Postgres에 기반한 작업 오케스트레이션 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>Postgres 기반의 <strong>대규모 백그라운드 작업 처리 플랫폼</strong> 오픈소스</li>\n<li>\n<strong>분산 작업 큐(Distributed Task Queue)</strong> 및 <strong>워크플로 오케스트레이션 플랫폼</strong>\n</li>\n<li>복잡한 작업 워크플로, 실패 복구, 스케줄링, 이벤트 기반 트리거, 실시간 모니터링까지 지원...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20185",
+      "guid": "https://news.hada.io/topic?id=20185",
+      "pubDate": "2025-04-07T09:47:12+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "자율주행 테슬라, 다른 어떤 차량보다 오토바이 운전자와의 치명적 추돌 사고 빈번",
+      "description": {
+        "$text": "자율주행 테슬라, 다른 어떤 차량보다 오토바이 운전자와의 치명적 추돌 사고 빈번",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20184",
+      "guid": "https://news.hada.io/topic?id=20184",
+      "pubDate": "2025-04-07T09:46:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오픈소스 메인테이너를 위한 필수 GitHub Action 들",
+      "description": {
+        "$text": "<ul>\n<li>GitHub Actions를 활용하면 오픈소스 프로젝트의 <strong>반복적이고 수동적인 작업을 자동화</strong>하여 메인테이너가 <strong>코드 작성과 커뮤니티 성장에 집중</strong>할 수 있음</li>\n<li>아래 5가지 액션은 대표적인 자동화 도구로, 초보자부터 숙련자까지 유용하게 활용 가능</li>\n</ul>\n<h2>1. Stal...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20183",
+      "guid": "https://news.hada.io/topic?id=20183",
+      "pubDate": "2025-04-07T09:46:21+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MCP의 \"S\"는 보안을 의미합니다",
+      "description": {
+        "$text": "<ul>\n<li>MCP는 LLM과 도구를 연결하는 표준 프로토콜이지만, 기본적으로 보안이 적용되어 있지 않음</li>\n<li>명령어 삽입, 도구 중독, 정의 변조 등 다양한 보안 취약점이 존재함</li>\n<li>MCP는 인증, 암호화, 무결성 검증 기능이 없어 신뢰하기 어려운 구조임</li>\n<li>ScanMCP 같은 도구로 가시성과 통제를 확보하는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20182",
+      "guid": "https://news.hada.io/topic?id=20182",
+      "pubDate": "2025-04-07T09:43:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub Copilot Pro+ 발표 및 새로운 AI 모델, MCP 서버 공개",
+      "description": {
+        "$text": "<ul>\n<li>GitHub이 새로운 개인 유료 플랜 <strong>Copilot Pro+</strong> 를 발표하고 가격 정책을 변경\n<ul>\n<li>Copilot Pro - <strong>$10/월</strong>, 300 프리미엄 요청</li>\n<li>Copilot Pro+ - <strong>$39/월,</strong> 1500 프리미엄 요청</li>\n</ul>\n</li>\n</ul>\n<h2>GitHub Copilot Pro+</h2>\n<ul>\n<li>기존...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20181",
+      "guid": "https://news.hada.io/topic?id=20181",
+      "pubDate": "2025-04-07T09:40:50+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "표준 Ebooks: 진정한 독서 애호가를 위한 정성스럽게 제작된 자유로운 전자책",
+      "description": {
+        "$text": "<h2>Standard Ebooks 소개</h2>\n<ul>\n<li>\n<strong>자유롭고 해방된 전자책</strong>: Standard Ebooks는 자원봉사자들이 주도하는 프로젝트로, 공공 도메인 전자책의 새로운 에디션을 제작함. 이 전자책들은 미국 저작권 제한이 없고 무료로 제공됨.</li>\n<li>\n<strong>프로젝트의 중요성</strong>: Project Gutenberg와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20180",
+      "guid": "https://news.hada.io/topic?id=20180",
+      "pubDate": "2025-04-07T09:40:44+09:00",
       "author": "neo",
       "category": ""
     }
