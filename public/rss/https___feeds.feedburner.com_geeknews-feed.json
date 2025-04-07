@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-07T12:34:36+09:00",
+  "lastBuildDate": "2025-04-07T16:34:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30212,6 +30212,45 @@
       "guid": "https://news.hada.io/topic?id=20192",
       "pubDate": "2025-04-07T11:41:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "macOS Sequoia에서 Rsync가 Openrsync로 대체",
+      "description": {
+        "$text": "<h2>macOS Sequoia에서 rsync가 openrsync로 대체됨</h2>\n<ul>\n<li>\n<p><strong>rsync의 역할</strong></p>\n<ul>\n<li>Unix 기반 운영 체제에서 rsync는 파일을 전송하고 동기화하는 명령줄 도구임.</li>\n<li>macOS에 오랫동안 포함되어 있었으나, Apple은 rsync 2.x 버전만 제공해 왔음.</li>\n</ul>\n</li>\n<li>\n<p><stro",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20196",
+      "guid": "https://news.hada.io/topic?id=20196",
+      "pubDate": "2025-04-07T16:34:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "라마 4는 한국어에 가장 친화적인 오픈소스 모델입니다.",
+      "description": {
+        "$text": "<p>Sionic AI 리서치 팀에 따르면, 지난 일요일 메타가 공개한 라마 4 Llama 4 는 한국어에 가장 친화적인 오픈소스 모델입니다.</p>\n<p>llama4의 토크나이저 구성이 한국어 표현 관점에서 기존 Llama3.3 대비 2.5배, 그리고 지금까지 한국어 지원 비율이 가장 높던 Qwen 대비해서도 크게 개선되었음을 알 수 있습니다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20195",
+      "guid": "https://news.hada.io/topic?id=20195",
+      "pubDate": "2025-04-07T16:15:42+09:00",
+      "author": "hophfg",
+      "category": ""
+    },
+    {
+      "title": "Microsoft AI Skills Fest (4.8 부터)",
+      "description": {
+        "$text": "<p>📅 기간: 2025년 4월 8일 ~ 5월 28일, 총 50일간 진행되는 AI 학습 이벤트입니다.</p>\n<p>🌍 전 세계 참여: 기술 초보자부터 전문가까지 누구나 참여 가능하며, 전 세계 커뮤니티와 함께 AI 기술을 배우고 성장할 수 있는 기회입니다.</p>\n<p>🎉 특별 이벤트 : 기네스 세계 기록 도전: 4월 8일에 열리는 24시간 AI 학",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20194",
+      "guid": "https://news.hada.io/topic?id=20194",
+      "pubDate": "2025-04-07T16:09:05+09:00",
+      "author": "kansm",
       "category": ""
     }
   ]
