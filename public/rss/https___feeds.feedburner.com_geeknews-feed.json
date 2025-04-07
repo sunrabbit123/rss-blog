@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-07T19:26:53+09:00",
+  "lastBuildDate": "2025-04-07T20:33:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30264,6 +30264,19 @@
       "guid": "https://news.hada.io/topic?id=20197",
       "pubDate": "2025-04-07T19:26:53+09:00",
       "author": "enarche",
+      "category": ""
+    },
+    {
+      "title": "정치인 주식 거래 추적 Capitol Trades",
+      "description": {
+        "$text": "<ul>\n<li>\n<h3>최근 거래</h3>\n<ul>\n<li>\n<p><strong>Installed Building Products Inc (IBP:US)</strong></p>\n<ul>\n<li>David Taylor, 공화당, 하원, OH</li>\n<li>구매: 1K–15K</li>\n<li>3일 전</li>\n</ul>\n</li>\n<li>\n<p><strong>JPMorgan Chase &amp; Co (JPM:US)</strong></p>\n<ul>\n<li>David Taylor, 공화당, 하원",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20198",
+      "guid": "https://news.hada.io/topic?id=20198",
+      "pubDate": "2025-04-07T20:33:07+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
