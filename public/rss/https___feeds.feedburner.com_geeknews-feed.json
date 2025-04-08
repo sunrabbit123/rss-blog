@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-08T10:08:17+09:00",
+  "lastBuildDate": "2025-04-08T11:13:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30458,6 +30458,19 @@
       "link": "https://news.hada.io/topic?id=20208",
       "guid": "https://news.hada.io/topic?id=20208",
       "pubDate": "2025-04-08T09:56:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스태프 엔지니어 vs 엔지니어링 매니저",
+      "description": {
+        "$text": "<ul>\n<li>Staff Engineer는 언제 필요하며, Engineering Manager와 어떤 차이가 있는가?\n<ul>\n<li>많은 엔지니어와 매니저들이 두 역할에 혼란을 겪고 있음</li>\n</ul>\n</li>\n<li>사람 관리를 피하고 기술에 집중하고 싶은 EM, 기술 리더십을 맡고 싶은 Senior Engineer 등이 고민 중</li>\n<li>각 역할의 책임과 범위를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20214",
+      "guid": "https://news.hada.io/topic?id=20214",
+      "pubDate": "2025-04-08T11:13:01+09:00",
       "author": "xguru",
       "category": ""
     }
