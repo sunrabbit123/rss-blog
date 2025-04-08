@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-08T13:13:01+09:00",
+  "lastBuildDate": "2025-04-08T17:38:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30485,6 +30485,19 @@
       "guid": "https://news.hada.io/topic?id=20215",
       "pubDate": "2025-04-08T13:13:01+09:00",
       "author": "jaehong747",
+      "category": ""
+    },
+    {
+      "title": "고차원 임베딩에서 벡터 유사도를 파헤치기",
+      "description": {
+        "$text": "<p>고차원 공간에서 “내적이 특정 값 이상일 확률”을 구하는 방법은 간단한 원리에 바탕을 두고 있다. 단위 구의 표면적을 구하고, 해당 내적이 나타내는 각도를 통해 캡 면적을 산출한 다음, 이를 전체 표면적과 비교하면 끝이다.</p>\n<p>하지만 이 간단한 계산을 통해, 실제로 내적이라는 값이 고차원 임베딩 공간에",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20216",
+      "guid": "https://news.hada.io/topic?id=20216",
+      "pubDate": "2025-04-08T17:38:23+09:00",
+      "author": "sigridjineth",
       "category": ""
     }
   ]
