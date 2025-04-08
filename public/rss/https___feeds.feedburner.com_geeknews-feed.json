@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-08T09:53:16+09:00",
+  "lastBuildDate": "2025-04-08T10:08:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30381,6 +30381,84 @@
       "guid": "https://news.hada.io/topic?id=20200",
       "pubDate": "2025-04-08T09:07:10+09:00",
       "author": "kodingwarrior",
+      "category": ""
+    },
+    {
+      "title": "‘코딩 오류’로 인한 해고 후 복귀한 NIH 수석 과학자들",
+      "description": {
+        "$text": "<ul>\n<li>미국 국립신경질환 및 뇌졸중연구소(NINDS)에서 해고되었던 수석 연구자 10명이 다시 근무를 시작함</li>\n<li>이들의 해고는 &quot;컴퓨터 오류&quot; 혹은 &quot;코딩 오류&quot;에 의한 실수였다고 알려짐</li>\n<li>공식적인 복직은 아직 이루어지지 않았으며, 대부분의 의사소통은 비공식적인 전화나 문자로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20213",
+      "guid": "https://news.hada.io/topic?id=20213",
+      "pubDate": "2025-04-08T10:08:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엔지니어 연봉은 어디서 나오는가?",
+      "description": {
+        "$text": "<ul>\n<li>많은 소프트웨어 엔지니어들이 본인의 일이 왜 중요한지를 잘못 이해하고 있음</li>\n<li>종종 수익성과 무관한 일(기술 부채 해결, 접근성 개선 등)에 집중하다가 해고되거나 낮은 평가를 받는 경우가 많음</li>\n<li>이는 마치 자신의 해고를 유도한 정치인을 지지하는 것과 비슷한 사고 구조임</li>\n</ul>\n<h2...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20212",
+      "guid": "https://news.hada.io/topic?id=20212",
+      "pubDate": "2025-04-08T10:05:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Glamorous Toolkit",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Glamorous Toolkit</strong>은 시스템을 설명 가능하게 만드는 <strong>Moldable Development Environment</strong>\n</li>\n<li>Mac, Linux, Windows에서 무료로 사용할 수 있는 오픈 소스</li>\n<li>\n<strong>Moldable Development</strong>는 문제를 해결하기 위해 맥락에 맞는 미세 도구를 사용하는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20211",
+      "guid": "https://news.hada.io/topic?id=20211",
+      "pubDate": "2025-04-08T10:02:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애틀랜틱의 제프리 골드버그가 백악관 Signal 채팅에 추가된 경위",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>백악관 Signal 그룹 채팅에 기자가 추가된 경위</strong></p>\n<ul>\n<li>도널드 트럼프의 국가안보보좌관 마이크 월츠가 예멘 공습 계획에 대한 Signal 그룹 채팅에 기자 제프리 골드버그를 실수로 추가함.</li>\n<li>월츠는 몇 달 전 잘못된 연락처로 골드버그의 번호를 저장한 것이 원인임.</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20210",
+      "guid": "https://news.hada.io/topic?id=20210",
+      "pubDate": "2025-04-08T09:59:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Browser MCP: Cursor, Claude, VS Code를 활용한 브라우저 자동화 기술",
+      "description": {
+        "$text": "<ul>\n<li>AI 앱을 MCP를 통해 브라우저에 연결하여 웹사이트에서 작업을 자동화할 수 있게 하는 도구\n<ul>\n<li>예를 들어, 웹사이트에서 <strong>반복적으로 양식을 작성</strong>하는 작업을 자동화</li>\n</ul>\n</li>\n<li>\n<strong>워크플로우 자동화</strong>: 작업 속도를 높이고 자동화하여 효율성을 향상</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20209",
+      "guid": "https://news.hada.io/topic?id=20209",
+      "pubDate": "2025-04-08T09:56:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bare - 빠르고 경량화된 모듈형 JavaScript 런타임",
+      "description": {
+        "$text": "<ul>\n<li>모바일 및 데스크톱 모두를 지원하며, 다양한 하드웨어에서 실행 가능한 최소한의 JavaScript 런타임</li>\n<li>비동기 이벤트 기반 아키텍처로 <strong>모듈성, 범용성, 경량성</strong>에 집중</li>\n<li>P2P 애플리케이션 개발과 크로스플랫폼 앱에 최적화</li>\n</ul>\n<h2>주요 기능</h2>\n<ul>\n<li>\n<h2>완전 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20208",
+      "guid": "https://news.hada.io/topic?id=20208",
+      "pubDate": "2025-04-08T09:56:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
