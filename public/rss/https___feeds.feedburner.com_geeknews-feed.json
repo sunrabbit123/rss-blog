@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-08T11:13:01+09:00",
+  "lastBuildDate": "2025-04-08T13:13:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30472,6 +30472,19 @@
       "guid": "https://news.hada.io/topic?id=20214",
       "pubDate": "2025-04-08T11:13:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "대중에게 힘을 - LLM이 기술 확산의 패턴을 뒤집다.",
+      "description": {
+        "$text": "<p>안드레이 카파시(Andrej Karpathy)는 기존 기술 확산 패턴이 LLM에 의해 완전히 역전된 현상을 설명합니다. 역사적으로 혁신 기술은 정부나 군대에서 시작해 기업을 거쳐 개인에게 도달하는 하향식(top-down) 경로를 따랐지만, LLM은 정반대로 개인에게 가장 큰 혜택을 주고 기업과 정부에는 제한적 영향을 미치고 있...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20215",
+      "guid": "https://news.hada.io/topic?id=20215",
+      "pubDate": "2025-04-08T13:13:01+09:00",
+      "author": "jaehong747",
       "category": ""
     }
   ]
