@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-09T23:33:26+09:00",
+  "lastBuildDate": "2025-04-10T00:33:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30758,6 +30758,19 @@
       "guid": "https://news.hada.io/topic?id=20237",
       "pubDate": "2025-04-09T23:33:26+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 형태의 AI 환각",
+      "description": {
+        "$text": "<ul>\n<li>요즘 많은 사람들이 AI를 통해 글쓰기, 리서치, 아이디어 발상 등에서 큰 도움을 받음\n<ul>\n<li>GPT나 Claude 같은 도구는 빠르고 정확하게 정보를 정리하고 새로운 영감을 제공</li>\n<li>저자도 다양한 작업에서 AI를 활용하며 큰 재미와 효율성을 느꼈음</li>\n</ul>\n</li>\n<li>저자는 최근 AI가 정리한 글을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20238",
+      "guid": "https://news.hada.io/topic?id=20238",
+      "pubDate": "2025-04-10T00:33:54+09:00",
+      "author": "kciter1",
       "category": ""
     }
   ]
