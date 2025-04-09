@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-09T15:38:31+09:00",
+  "lastBuildDate": "2025-04-09T23:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30744,6 +30744,19 @@
       "link": "https://news.hada.io/topic?id=20234",
       "guid": "https://news.hada.io/topic?id=20234",
       "pubDate": "2025-04-09T15:34:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "텍스트-랩 프리티로 개선된 타이포그래피",
+      "description": {
+        "$text": "<h3>더 나은 타이포그래피</h3>\n<ul>\n<li>\n<strong>짧은 마지막 줄 피하기</strong>: 단락 끝에 단어 하나만 남는 것을 피하는 것이 중요함. 이는 시각적으로 이상해 보일 수 있으며, 단락 사이의 공간이 잘못된 크기로 보일 수 있음.</li>\n<li>\n<strong>나쁜 래그 피하기</strong>: 텍스트의 들쭉날쭉한 가장자리를 최소...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20237",
+      "guid": "https://news.hada.io/topic?id=20237",
+      "pubDate": "2025-04-09T23:33:26+09:00",
       "author": "neo",
       "category": ""
     }
