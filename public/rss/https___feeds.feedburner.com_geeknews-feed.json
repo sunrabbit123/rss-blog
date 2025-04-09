@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-09T11:00:33+09:00",
+  "lastBuildDate": "2025-04-09T15:38:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30705,6 +30705,45 @@
       "link": "https://news.hada.io/topic?id=20228",
       "guid": "https://news.hada.io/topic?id=20228",
       "pubDate": "2025-04-09T09:54:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "좋은 개발자로 가는 길목에서 – AB180에서의 성장기 (AB180 인턴 후기)",
+      "description": {
+        "$text": "<ul>\n<li>AB180의 개발 문화 속에서 기술적으로 성장하고, 책임감 있게 일하는 법을 배운 인턴십 회고입니다.</li>\n<li>단순히 작동하는 코드를 넘어, “더 나은 설계와 시스템 신뢰도” 를 고민한 경험을 공유합니다.\n<ul>\n<li>Airflow QA 시스템과 연동된 E2E 테스트 환경 구축</li>\n<li>자동화된 사용량 기록의 신뢰성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20236",
+      "guid": "https://news.hada.io/topic?id=20236",
+      "pubDate": "2025-04-09T15:38:31+09:00",
+      "author": "jak3b",
+      "category": ""
+    },
+    {
+      "title": "주니어 개발자의 시작: AB180에서 배운 엔지니어링 문화 (AB180 인턴 후기)",
+      "description": {
+        "$text": "<ul>\n<li>AB180의 개발 문화 속에서 기술적으로 성장하고, 책임감 있게 일하는 법을 배운 인턴십 회고입니다.</li>\n<li>단순히 작동하는 코드를 넘어, “더 나은 설계와 시스템 신뢰도” 를 고민한 경험을 공유합니다.\n<ul>\n<li>Python → Kotlin 포스트백 설정 API 마이그레이션</li>\n<li>설정 일관성 검증을 위한 QA 시...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20235",
+      "guid": "https://news.hada.io/topic?id=20235",
+      "pubDate": "2025-04-09T15:37:50+09:00",
+      "author": "jak3b",
+      "category": ""
+    },
+    {
+      "title": "Cyc 부고",
+      "description": {
+        "$text": "<h2>사이크 프로젝트의 실패</h2>\n<ul>\n<li>\n<strong>요약</strong>: 사이크(Cyc) 프로젝트는 40년 동안 인공지능의 일반 지능을 구축하려는 시도로, 상징적 논리를 확장하는 방식으로 진행되었으나 실패로 끝남. 이 에세이는 사이크의 비밀스러운 역사를 조명하여 널리 알리고자 함.</li>\n</ul>\n<h3>자동화된 수학자와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20234",
+      "guid": "https://news.hada.io/topic?id=20234",
+      "pubDate": "2025-04-09T15:34:30+09:00",
       "author": "neo",
       "category": ""
     }
