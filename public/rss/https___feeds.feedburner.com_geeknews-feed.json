@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-10T12:29:17+09:00",
+  "lastBuildDate": "2025-04-10T16:57:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30940,6 +30940,19 @@
       "guid": "https://news.hada.io/topic?id=20253",
       "pubDate": "2025-04-10T12:29:17+09:00",
       "author": "zxavi",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 캐릭터 게이트웨이: AI 캐릭터 / 에이전트 데이터베이스",
+      "description": {
+        "$text": "<p>AI 컴패니언 채팅 제품을 만들고 싶은 개발자분들이나 AI 캐릭터 채팅을 저렴하게 사용하고 싶은 파워 유저분들을 위한 웹사이트에요.</p>\n<p>AI 캐릭터 채팅</p>\n<ul>\n<li>원하는 AI 캐릭터를 1분만에 만들고, GPT, Claude, Gemini, 오픈소스 모델 등 원하는 AI 모델과 대화할 수 있습니다.</li>\n<li>일간 활성 캐릭",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20254",
+      "guid": "https://news.hada.io/topic?id=20254",
+      "pubDate": "2025-04-10T16:57:56+09:00",
+      "author": "luckydaun",
       "category": ""
     }
   ]
