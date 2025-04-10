@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-10T00:33:54+09:00",
+  "lastBuildDate": "2025-04-10T09:57:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30771,6 +30771,136 @@
       "guid": "https://news.hada.io/topic?id=20238",
       "pubDate": "2025-04-10T00:33:54+09:00",
       "author": "kciter1",
+      "category": ""
+    },
+    {
+      "title": "Cilium 이야기: 작은 코드 변경이 만들어낸 놀라운 네트워크 안정성 향상",
+      "description": {
+        "$text": "<p>Kubernetes 에서 사용되는 대표적인 CNI 중 하나인 Cilium 프로젝트에서 아주 작은 코드 변경이 네트워크 안정성에 미친 큰 효과를 설명하는 기술 사례입니다. 핵심 내용을 요약하면 다음과 같습니다.</p>\n<ol>\n<li>배경지식: NAT와 Kubernetes 네트워킹<br />\nNAT(Network Address Translation): 하나의 공인 IP로 여",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20250",
+      "guid": "https://news.hada.io/topic?id=20250",
+      "pubDate": "2025-04-10T09:57:18+09:00",
+      "author": "kuber",
+      "category": ""
+    },
+    {
+      "title": "Ironwood - 추론 시대를 위한 최초의 구글 TPU",
+      "description": {
+        "$text": "<ul>\n<li>Google이 7세대 Tensor Processing Unit(TPU)인 <strong>Ironwood</strong>를 발표함</li>\n<li>Ironwood는 <strong>AI 추론을 위해 특별히 설계된 첫 TPU</strong>이며, 현재까지 가장 강력하고 에너지 효율적인 모델임</li>\n<li>\n<strong>대형 언어 모델(LLM)</strong> 과 <strong>Mixture of Experts(MoE)</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20249",
+      "guid": "https://news.hada.io/topic?id=20249",
+      "pubDate": "2025-04-10T09:56:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, Agent2Agent 프로토콜 (A2A) 발표",
+      "description": {
+        "$text": "<ul>\n<li>A2A는 Google이 설계한 오픈 프로토콜로, <strong>Anthropic의 MCP(Model Context Protocol)를 보완</strong>하는 형태임</li>\n<li>\n<strong>대규모 멀티 에이전트 시스템</strong>을 구축할 때 발생하는 다양한 문제를 해결하고자 개발됨</li>\n<li>다양한 제공자에서 만든 <strong>에이전트들이 상호작용</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20248",
+      "guid": "https://news.hada.io/topic?id=20248",
+      "pubDate": "2025-04-10T09:53:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PostgreSQL 풀 텍스트 검색: 제대로 하면 빠르다(느리다는 오해 해소)",
+      "description": {
+        "$text": "<ul>\n<li>PostgreSQL의 기본 Full-Text Search(FTS)는 느리다는 인식이 있지만, <strong>적절한 최적화만 하면 매우 빠르게 동작함</strong>\n</li>\n<li>Neon의 블로그에서는 Rust 기반 <code>pg_search</code> 확장과 기본 FTS를 비교하여 후자가 느리다고 주장함</li>\n<li>하지만 이 비교는 PostgreSQL FTS에 필수적인 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20247",
+      "guid": "https://news.hada.io/topic?id=20247",
+      "pubDate": "2025-04-10T09:50:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아시아에서 제작되는 Nike 신발 한 켤레의 제작 비용은 얼마일까?",
+      "description": {
+        "$text": "<h4>나이키 신발 제조 비용</h4>\n<ul>\n<li>2014년, 나이키의 프로그램 디렉터였던 Steve Bence는 나이키 신발의 제조 비용에 대해 설명함. $100에 판매되는 신발의 제조 비용은 약 $25임.</li>\n<li>FOB(Free On Board) 비용은 신발이 출발지 항구에서 선적될 때의 비용을 의미함. 이 비용은 공장이 제품을 배에 실을 때까...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20246",
+      "guid": "https://news.hada.io/topic?id=20246",
+      "pubDate": "2025-04-10T09:47:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Node.js 개발자를 위한 Llama Stack 실용 가이드",
+      "description": {
+        "$text": "<ul>\n<li>Red Hat Node.js 팀이 LLM과 Node.js, TypeScript/JavaScript 통합 방안을 실험</li>\n<li>여러 프레임워크를 비교하며 특히 <strong>tool/function 호출과 에이전트 동작 방식</strong>을 중점적으로 검토</li>\n<li>최근 출시된 <strong>Llama Stack</strong>의 기능과 Node.js와의 통합 가능성을 분석</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20245",
+      "guid": "https://news.hada.io/topic?id=20245",
+      "pubDate": "2025-04-10T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "내가 아는 최고의 개발자들이 공통적으로 가진 특성",
+      "description": {
+        "$text": "<ul>\n<li>저자는 다양한 개발자를 만나면서, 최고의 개발자들이 가진 공통된 특성에 대해 고민하게 됨</li>\n<li>이 글은 초보 개발자나 성장하고 싶은 사람들에게 영감을 주기 위해 작성된 관찰 기록임</li>\n</ul>\n<h2>레퍼런스 문서를 먼저 읽을 것</h2>\n<ul>\n<li>Stack Overflow나 LLM을 먼저 찾기보다는 공식 문서를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20244",
+      "guid": "https://news.hada.io/topic?id=20244",
+      "pubDate": "2025-04-10T09:44:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "트럼프, 대부분 국가에 대한 관세를 일시적으로 10%로 인하",
+      "description": {
+        "$text": "<ul>\n<li>트럼프 대통령은 대부분의 미국 무역 파트너국에 대한 새로운 수입 관세를 90일간 10%로 일시 인하함</li>\n<li>이 조치는 해당 국가들과의 무역 협상 시간을 확보하기 위한 목적임</li>\n<li>인하 발표는 약 90개국의 수입품에 대해 미국이 ‘상호 관세’(reciprocal tariff)를 적용한 직후 이루어짐</li>\n</ul>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20243",
+      "guid": "https://news.hada.io/topic?id=20243",
+      "pubDate": "2025-04-10T09:41:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Llama Stack 0.21 릴리즈 - Llama 4 지원",
+      "description": {
+        "$text": "<ul>\n<li>Meta의 <strong>Llama Stack</strong>은 생성형 AI 애플리케이션을 위한 핵심 구성 요소를 표준화한 프레임워크</li>\n<li>다양한 서비스 제공자의 구현체를 기반으로 통일된 API 레이어 제공</li>\n<li>개발 환경에서 프로덕션 환경으로 전환할 때 <strong>개발자 경험의 일관성</strong> 보장</li>\n<li>주요 구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20242",
+      "guid": "https://news.hada.io/topic?id=20242",
+      "pubDate": "2025-04-10T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "2025년 인도는 어떻게 온라인 쇼핑을 하는가",
+      "description": {
+        "$text": "<ul>\n<li>인도는 2024년에 세계 3위 리테일 시장으로 성장, 온라인 쇼핑 이용자 수는 미국을 제치고 세계 2위</li>\n<li>2024년 기준 e-리테일 총 거래액(GMV)은 약 600억 달러</li>\n<li>팬데믹 이후 소비 둔화로 성장률은 10~12% 수준으로 하락 (과거 20% 이상)</li>\n<li>그러나 2025년 축제 시즌 이후 소비 회복과 함께...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20241",
+      "guid": "https://news.hada.io/topic?id=20241",
+      "pubDate": "2025-04-10T09:22:56+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
