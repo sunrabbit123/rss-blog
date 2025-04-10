@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-10T16:57:56+09:00",
+  "lastBuildDate": "2025-04-11T03:45:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30953,6 +30953,19 @@
       "guid": "https://news.hada.io/topic?id=20254",
       "pubDate": "2025-04-10T16:57:56+09:00",
       "author": "luckydaun",
+      "category": ""
+    },
+    {
+      "title": "MCP 보안 취약점, Tool-Poison-Attack",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>MCP(Model Context Protocol)는 AI와 외부 시스템을 연결해주는 JSON-RPC 기반 프로토콜로, 최근 다양한 Host(Client)에서 사용되고 있음</p>\n</li>\n<li>\n<p>최근 발견된 Tool Poison Attack은 MCP Server의 Tool Description에 악의적인 프롬프트를 삽입해 AI의 동작을 오염시키는 방식의 취약점임</p>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20255",
+      "guid": "https://news.hada.io/topic?id=20255",
+      "pubDate": "2025-04-11T03:45:16+09:00",
+      "author": "blackcon",
       "category": ""
     }
   ]
