@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-10T10:35:12+09:00",
+  "lastBuildDate": "2025-04-10T12:29:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30927,6 +30927,19 @@
       "guid": "https://news.hada.io/topic?id=20251",
       "pubDate": "2025-04-10T10:20:27+09:00",
       "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 실시간 달리기 기록을 예측해주는 앱 - Pace Teller",
+      "description": {
+        "$text": "<h3>안녕하세요, 1인 개발하고 있습니다.</h3>\n<p>요즘 달리기가 취미인데, 기존의 유명 앱들에는 제가 필요로 하는 기능이 없어서 직접 만들어 보았습니다.</p>\n<p>플러터(Flutter)로 개발했으며, 초기 컨셉 검증용 버전은 약 2주 만에 완성했지만, 이를 다듬고 출시할 수준으로 끌어올리는 데는 3~4개월 정도가 걸렸습",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20253",
+      "guid": "https://news.hada.io/topic?id=20253",
+      "pubDate": "2025-04-10T12:29:17+09:00",
+      "author": "zxavi",
       "category": ""
     }
   ]
