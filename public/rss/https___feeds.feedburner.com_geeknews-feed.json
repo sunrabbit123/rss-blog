@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-11T03:45:16+09:00",
+  "lastBuildDate": "2025-04-11T10:11:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -30966,6 +30966,123 @@
       "guid": "https://news.hada.io/topic?id=20255",
       "pubDate": "2025-04-11T03:45:16+09:00",
       "author": "blackcon",
+      "category": ""
+    },
+    {
+      "title": "19세기 일본의 사진",
+      "description": {
+        "$text": "<h2>일본의 옛 사진들</h2>\n<ul>\n<li>\n<strong>Cosmographia</strong>는 세계와 우리의 위치를 탐구하는 뉴스레터임.</li>\n<li>이번 주 초 Christopher Harding과 대화를 나눈 후, 에든버러에서 일본을 꿈꾸게 되었음.</li>\n<li>예술을 통해 간접적으로 일본을 여행하고자 여러 박물관과 갤러리의 아카이브를 탐색하다가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20264",
+      "guid": "https://news.hada.io/topic?id=20264",
+      "pubDate": "2025-04-11T10:11:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "해커 뉴스의 Hug of Deaf 현상",
+      "description": {
+        "$text": "<h4>Hacker News Hug of Deaf</h4>\n<ul>\n<li>\n<p><strong>실험의 시작</strong></p>\n<ul>\n<li>약 3년 전, Debian 서버에 netcat 루프를 설정하여 Hacker News 커뮤니티의 임의 연결을 수락함.</li>\n<li>클라이언트가 연결될 때마다 간단한 &quot;ok&quot; 메시지를 전송하고, 연결을 즉시 종료하며, 터미널에서 네 번의 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20263",
+      "guid": "https://news.hada.io/topic?id=20263",
+      "pubDate": "2025-04-11T10:08:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "가필드 없는 Garfield",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Garfield Minus Garfield</strong><br />\nGarfield Minus Garfield는 Garfield 만화에서 Garfield를 제거하여 젊은 Jon Arbuckle의 존재적 고뇌를 드러내는 사이트임. 이는 고독과 우울증과 싸우는 고립된 젊은 보통 사람의 마음속으로 깊이 들어가는 여정임.</p>\n</li>\n<li>\n<p><strong>사이트 정",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20262",
+      "guid": "https://news.hada.io/topic?id=20262",
+      "pubDate": "2025-04-11T10:05:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "바이브 코딩시 한국어보다 영어가 더 잘 작동할까?",
+      "description": {
+        "$text": "<p>실무에서 영어와 한국어로 바이브 코딩을 진행해본 필자의 경험을 다음과 같이 정리했음</p>\n<ul>\n<li>LLM은 입력 언어와 무관하게 작업 품질의 차이는 발견하지 못함.</li>\n<li>하지만 영어는 동일한 의미를 더 적은 토큰으로 표현 가능.</li>\n<li>한국어는 형태소 단위 또는 음절로 분해돼 토큰 수가 많아짐.</li>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20261",
+      "guid": "https://news.hada.io/topic?id=20261",
+      "pubDate": "2025-04-11T10:02:46+09:00",
+      "author": "serithemage",
+      "category": ""
+    },
+    {
+      "title": "dockerfmt - Dockerfile 포매터",
+      "description": {
+        "$text": "<ul>\n<li>기존 <code>dockfmt</code>의 현대화된 대체 도구로, Dockerfile을 자동으로 정리하고 코드 스타일을 맞춰주는 도구임</li>\n<li>내부적으로 Dockerfile 구문 분석을 위해 <code>buildkit</code>을, <code>RUN</code> 명령 내 쉘 스크립트 포매팅을 위해 <code>mvdan/sh</code>를 사용함</li>\n<li>일관된 코드 스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20260",
+      "guid": "https://news.hada.io/topic?id=20260",
+      "pubDate": "2025-04-11T09:46:47+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "딥테크 스타트업 창업자에게 필요한 새로운 접근법",
+      "description": {
+        "$text": "<ul>\n<li>일반적인 스타트업 조언은 딥테크 스타트업에는 잘 맞지 않음</li>\n<li>전통적인 성장지표가 아닌, 성공과 실패가 명확히 갈리는 <strong>이진적 마일스톤</strong>이 기업 가치를 결정함</li>\n<li>딥테크 창업자는 기존의 스타트업 조언이 통하지 않는 길을 걷게 되며, <strong>과학, 규제, 시장의 복합적 장애...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20259",
+      "guid": "https://news.hada.io/topic?id=20259",
+      "pubDate": "2025-04-11T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "man 페이지는 훌륭해요, 문제는 man 리더입니다",
+      "description": {
+        "$text": "<ul>\n<li>man 페이지가 &quot;서로 연결된 링크가 없다&quot;거나 &quot;터미널 창을 줄이면 텍스트가 재정렬되지 않는다&quot;는 비판은 흔하지만, 실제로는 <strong>man 포맷 자체가 링크 기능과 재정렬 기능을 지원함</strong>\n</li>\n<li>문제는 <strong>man 페이지를 읽는 도구(man 명령어와 less 등)</strong> 가 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20258",
+      "guid": "https://news.hada.io/topic?id=20258",
+      "pubDate": "2025-04-11T09:45:14+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "`:visited`를 더 개인화 하기 - 이미 방문한 링크의 프라이버시 강화",
+      "description": {
+        "$text": "<ul>\n<li>오래된 웹 보안 문제인 <code>:visited</code> 링크 스타일링을 통한 &quot;사용자 방문 이력 노출&quot; 문제를 해결하기 위해 새로운 기능을 도입</li>\n<li>Chrome 136부터 <code>:visited</code> 기록을 &quot;분할 저장(partitioning)&quot;함으로써, 이 공격들을 원천 차단할 수 있는 구조로 개선</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20257",
+      "guid": "https://news.hada.io/topic?id=20257",
+      "pubDate": "2025-04-11T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "당장 팀에 적용할 수 있는, 실제로 동작하는 MCP 기반 자동화 사례들",
+      "description": {
+        "$text": "<p>팀 업무에 MCP를 도입해보고 실제로 도움이 된 사례들을 정리함.</p>\n<p>몇 주간 다양한 MCP 서버를 활용해 팀의 커뮤니케이션, 일정 관리, 데이터 조회, 미팅 준비 등의 워크플로우를 실험해보고 실제로 잘 작동했던 유스케이스들을 정리함.</p>\n<h4>직접 써보고 괜찮았던 MCP 유스케이스</h4>\n<ul>\n<li>Google Cale",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20256",
+      "guid": "https://news.hada.io/topic?id=20256",
+      "pubDate": "2025-04-11T08:58:00+09:00",
+      "author": "joellim",
       "category": ""
     }
   ]
