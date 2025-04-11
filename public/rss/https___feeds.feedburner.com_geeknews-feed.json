@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-11T17:53:36+09:00",
+  "lastBuildDate": "2025-04-11T19:34:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31252,6 +31252,19 @@
       "guid": "https://news.hada.io/topic?id=20277",
       "pubDate": "2025-04-11T17:00:32+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "핀테크 창업자 사기혐의로 기소; AI 앱이 필리핀에서 사람으로 운영된 것으로 밝혀짐",
+      "description": {
+        "$text": "<ul>\n<li>Nate의 창업자이자 전 CEO인 Albert Saniger가 투자자를 기만한 혐의로 미국 법무부에 의해 기소됨</li>\n<li>Nate는 2018년에 설립된 핀테크 스타트업으로, AI 기반의 “유니버설 체크아웃” 경험을 제공한다고 주장함</li>\n<li>Coatue, Forerunner Ventures 등으로부터 총 5천만 달러 이상을 투자받았으며, 20...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20279",
+      "guid": "https://news.hada.io/topic?id=20279",
+      "pubDate": "2025-04-11T19:34:55+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
