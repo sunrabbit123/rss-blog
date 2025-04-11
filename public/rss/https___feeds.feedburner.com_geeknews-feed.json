@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-11T11:03:43+09:00",
+  "lastBuildDate": "2025-04-11T11:44:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31161,6 +31161,32 @@
       "guid": "https://news.hada.io/topic?id=20265",
       "pubDate": "2025-04-11T10:14:36+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, Firebase Studio 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 앱 개발을 위한 클라우드 기반 통합 개발 환경</strong>으로 코드 작성, 테스트, 배포, 실행까지 한곳에서 가능</li>\n<li>브라우저에서 AI 에이전트를 통해 멀티 플랫폼 앱을 빠르고 쉽게 개발, 배포, 관리할 수 있는 풀스택 AI 작업 공간</li>\n<li>백엔드, 프론트엔드, 모바일 앱을 한 곳에서 구축...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20272",
+      "guid": "https://news.hada.io/topic?id=20272",
+      "pubDate": "2025-04-11T11:44:59+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI 도구 활용하여 30분 만에 결제 연동 끝내는 방법",
+      "description": {
+        "$text": "<ul>\n<li>통합 결제 인프라인 PortOne이 <strong>MCP 서버를 제공</strong>해서 결제 연동을 쉽고 빠르게 가능\n<blockquote>\n<p>&quot;포트원 V2로 카카오페이 결제창 호출을 구현해줘&quot;<br />\n&quot;Kotlin으로 포트원 V2 웹훅 검증하는 코드 작성해줘&quot;<br />\n&quot;포트원 파트너정산 자동화 서비스에 파트너...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20271",
+      "guid": "https://news.hada.io/topic?id=20271",
+      "pubDate": "2025-04-11T11:32:10+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
