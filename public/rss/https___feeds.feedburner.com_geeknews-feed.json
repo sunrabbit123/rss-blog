@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-11T10:11:36+09:00",
+  "lastBuildDate": "2025-04-11T11:03:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31083,6 +31083,84 @@
       "guid": "https://news.hada.io/topic?id=20256",
       "pubDate": "2025-04-11T08:58:00+09:00",
       "author": "joellim",
+      "category": ""
+    },
+    {
+      "title": "마켓플레이스의 진화 - 에릭 플래닝엄 작성",
+      "description": {
+        "$text": "<h2>마켓플레이스의 진화</h2>\n<h3>마켓플레이스 비즈니스 모델의 과거, 현재, 미래 개요</h3>\n<ul>\n<li>최근 몇 주 동안 Uber를 타고 가면서 Waymo가 샌프란시스코에서 25%의 시장 점유율을 차지하고 있다는 통계를 보았음. 이는 Uber에 대한 Waymo의 영향을 생각하게 했음.</li>\n<li>많은 대기업들이 정보와 주의를 집...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20270",
+      "guid": "https://news.hada.io/topic?id=20270",
+      "pubDate": "2025-04-11T11:03:43+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "내 데이터 소유하기, 1부: 셀프 호스팅 캘린더 솔루션 통합",
+      "description": {
+        "$text": "<h2>소개</h2>\n<ul>\n<li>데이터와 기술을 직접 소유하고자 하는 시리즈의 첫 번째 부분으로, 자체 호스팅 캘린더 솔루션을 통합하는 방법에 대해 설명함.</li>\n<li>여행이 잦아 일정 관리가 복잡해지고, 기존 캘린더 시스템의 불편함을 해결하기 위해 자체 솔루션을 구축하게 됨.</li>\n</ul>\n<h2>요구 사항</h2>\n<ul>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20269",
+      "guid": "https://news.hada.io/topic?id=20269",
+      "pubDate": "2025-04-11T10:26:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1990년 영화 'Hunt for Red October' 2016년 재개봉",
+      "description": {
+        "$text": "<h2>미니어처 선박 시각 효과 기술</h2>\n<h3>Hunt for Red October (1990)</h3>\n<ul>\n<li>\n<strong>시각 효과 감독</strong>: Scott Squires</li>\n<li>\n<strong>촬영 감독</strong>: Patrick Sweeney</li>\n<li>이 영화의 시각 효과는 원래 Richard Edlund의 Boss Films에서 진행되었으며, Greg Jein의 감독 하에 약 5개월...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20268",
+      "guid": "https://news.hada.io/topic?id=20268",
+      "pubDate": "2025-04-11T10:23:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SpacetimeDB - 멀티플레이어 게임/앱을 구축하기 위한 DB",
+      "description": {
+        "$text": "<ul>\n<li>SpacetimeDB는 <strong>데이터베이스와 서버 기능을 결합한 시스템</strong>\n</li>\n<li>전통적인 웹 또는 게임 서버를 별도로 두는 대신, 클라이언트가 직접 데이터베이스에 연결하여 애플리케이션 로직을 실행</li>\n<li>Rust로 작성된 &quot;모듈&quot; 형태의 저장 프로시저를 통해 앱 로직을 데이터베이스에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20267",
+      "guid": "https://news.hada.io/topic?id=20267",
+      "pubDate": "2025-04-11T10:20:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PEP 750 – 템플릿 문자열(t-strings) 승인",
+      "description": {
+        "$text": "<ul>\n<li>PEP 750은 Python에 새로운 문자열 리터럴인 <strong>템플릿 문자열(<code>t&quot;...&quot;</code>)</strong> 을 도입함</li>\n<li>f-string의 일반화된 형태로, <code>Template</code> 타입을 생성하여 문자열과 삽입 값을 결합 전 처리할 수 있는 기능 제공</li>\n<li>웹 템플릿, 보안 검사, DSL(Domain-Speci...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20266",
+      "guid": "https://news.hada.io/topic?id=20266",
+      "pubDate": "2025-04-11T10:17:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Meta 내부고발자, Meta가 미국 안보를 훼손했다고 주장",
+      "description": {
+        "$text": "<ul>\n<li>Sarah Wynn-Williams는 Meta(구 Facebook)에서 글로벌 공공정책 디렉터로 7년 근무한 후 미 상원 청문회에서 증언함</li>\n<li>그녀는 Meta 임원들이 미국 안보를 반복적으로 훼손하고 미국적 가치에 배신했다고 주장함</li>\n<li>중국에서 180억 달러 규모의 사업을 확장하기 위해 베이징 지도자들과 유대 강화를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20265",
+      "guid": "https://news.hada.io/topic?id=20265",
+      "pubDate": "2025-04-11T10:14:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
