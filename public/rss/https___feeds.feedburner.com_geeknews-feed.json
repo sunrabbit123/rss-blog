@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-11T14:56:28+09:00",
+  "lastBuildDate": "2025-04-11T16:53:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31225,6 +31225,19 @@
       "link": "https://news.hada.io/topic?id=20275",
       "guid": "https://news.hada.io/topic?id=20275",
       "pubDate": "2025-04-11T14:56:28+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "성숙도 프레임워크: GTM 전략의 숨겨진 보석",
+      "description": {
+        "$text": "<h2>성숙도 프레임워크: GTM 전략의 숨겨진 보석</h2>\n<ul>\n<li>\n<strong>기능을 넘어선 대화</strong>: 성숙도 모델은 고객과의 대화를 비즈니스 가치 중심으로 전환시키며, 회사의 메시지를 통합하고, 제품 판매에서 비즈니스 가치 판매로의 전환을 돕는 중요한 자산임.</li>\n<li>\n<strong>성숙도 모델이란?</strong>:...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20276",
+      "guid": "https://news.hada.io/topic?id=20276",
+      "pubDate": "2025-04-11T16:53:48+09:00",
       "author": "xguru",
       "category": ""
     }
