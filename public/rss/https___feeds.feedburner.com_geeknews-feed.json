@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-12T07:18:53+09:00",
+  "lastBuildDate": "2025-04-12T09:59:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31304,6 +31304,123 @@
       "guid": "https://news.hada.io/topic?id=20282",
       "pubDate": "2025-04-12T07:16:43+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Fedora 변경, 99% 패키지 재현성 목표",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>Fedora의 패키지 재현 가능성 목표</strong></p>\n<ul>\n<li>Fedora는 패키지 빌드를 99% 재현 가능하게 만드는 목표를 세우고 있음.</li>\n<li>Debian은 이미 재현 가능한 빌드를 오랜 기간 동안 추진해 왔으며, Fedora는 이를 따라가고 있음.</li>\n<li>재현 가능한 빌드는 동일한 소스 코드, 빌드 환",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20293",
+      "guid": "https://news.hada.io/topic?id=20293",
+      "pubDate": "2025-04-12T09:59:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "개울에서 노는 아이들",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>어린 시절의 경험</h2>\n<ul>\n<li>어릴 적, 뒷마당의 개울을 막아보는 것이 즐거운 활동이었음.</li>\n<li>돌과 잎을 쌓아 올리고 모래로 구멍을 메우며 물을 막아보려 했음.</li>\n<li>어느 날, 큰 삽을 사용해 강둑을 무너뜨려 큰 댐을 만들 수 있다는 것을 깨달았음.</li>\n<li>아버지는 이 방법을 알아낸 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20292",
+      "guid": "https://news.hada.io/topic?id=20292",
+      "pubDate": "2025-04-12T09:56:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국산 $2,000 휴대폰 제조 과정",
+      "description": {
+        "$text": "<ul>\n<li>\n<h2>404 Media 소개</h2>\n<ul>\n<li>404 Media는 독립적인 웹사이트로, 인간 기자들이 작성하고 소유하며, 실제 사람들을 대상으로 한 콘텐츠를 제공함.</li>\n<li>AI 스크래퍼나 봇, 검색 알고리즘을 위한 것이 아님.</li>\n<li>유료 구독을 통해 광고 없는 모든 기사와 보너스 콘텐츠에 접근 가능함.</li>\n</ul...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20291",
+      "guid": "https://news.hada.io/topic?id=20291",
+      "pubDate": "2025-04-12T09:53:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "펜타곤, Accenture와 Deloitte와의 51억 달러 IT 계약 종료",
+      "description": {
+        "$text": "펜타곤, Accenture와 Deloitte와의 51억 달러 IT 계약 종료",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20290",
+      "guid": "https://news.hada.io/topic?id=20290",
+      "pubDate": "2025-04-12T09:50:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "런던 지하철 실시간 지도",
+      "description": {
+        "$text": "<p>The provided text does not contain any substantive content to summarize. It appears to be a mix of interface instructions and credits related to a map or data visualization tool. If you have a different article or more detailed content, please provide it for translation and summarization.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20289",
+      "guid": "https://news.hada.io/topic?id=20289",
+      "pubDate": "2025-04-12T09:47:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리액트 개발자를 위한 SSR 심층 분석 (번역)",
+      "description": {
+        "$text": "<ul>\n<li>자바스크립트가 없는 환경이 중요한 이유</li>\n<li>서버 사전 렌더링</li>\n<li>사전 렌더링 서버 비용\n<ul>\n<li>어디에 배포할까요?</li>\n<li>서버 도입이 성능에 미치는 영향</li>\n<li>Vercel/Netlify의 Next.js</li>\n</ul>\n</li>\n<li>서버에서 전체 페이지 사전 렌더링(SSR)</li>\n<li>SSR의 초기 부하 악화의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20288",
+      "guid": "https://news.hada.io/topic?id=20288",
+      "pubDate": "2025-04-12T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "메타 데이터 유출, 친팔레스타인 게시물 삭제 캠페인 드러나",
+      "description": {
+        "$text": "<h4>유출된 데이터가 드러낸 이스라엘의 대규모 검열 캠페인</h4>\n<ul>\n<li>\n<p><strong>검열의 배경</strong></p>\n<ul>\n<li>이스라엘 정부가 페이스북과 인스타그램에서 팔레스타인 지지 게시물을 대규모로 삭제하도록 주도한 사실이 드러남.</li>\n<li>메타의 내부 데이터에 따르면, 이스라엘의 삭제 요청에 94%의 비율",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20287",
+      "guid": "https://news.hada.io/topic?id=20287",
+      "pubDate": "2025-04-12T09:44:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "하지만 더 빠른 말이 필요하다면?",
+      "description": {
+        "$text": "<h2>하지만 정말로 더 빠른 말을 원한다면?</h2>\n<ul>\n<li>\n<p><strong>기술 업계에서의 명언</strong></p>\n<ul>\n<li>헨리 포드의 유명한 말: &quot;사람들에게 무엇을 원하는지 물어봤다면, 그들은 더 빠른 말을 원한다고 했을 것이다.&quot; 이는 기존 시장에서 새로운 제품을 만드는 대신 완전히 새로운 시장을 창출하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20286",
+      "guid": "https://news.hada.io/topic?id=20286",
+      "pubDate": "2025-04-12T09:41:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"100 Go Mistakes and How to Avoid Them\"의 뒷이야기",
+      "description": {
+        "$text": "<h2>책을 썼어요</h2>\n<h3>100 Go 실수와 피하는 방법의 이야기</h3>\n<ul>\n<li>책 &quot;100 Go Mistakes and How to Avoid Them&quot;은 2022년 8월에 출판되었음. 이 책의 이야기는 2018년으로 거슬러 올라감.</li>\n<li>스위스에서 C++ 레거시 코드베이스를 리팩토링하면서 Scala와 Akka를 평가했으나, 복잡함과 새로운...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20285",
+      "guid": "https://news.hada.io/topic?id=20285",
+      "pubDate": "2025-04-12T08:33:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
