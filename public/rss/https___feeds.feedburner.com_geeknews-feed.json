@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-12T11:51:58+09:00",
+  "lastBuildDate": "2025-04-12T17:32:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31434,6 +31434,19 @@
       "guid": "https://news.hada.io/topic?id=20294",
       "pubDate": "2025-04-12T11:51:58+09:00",
       "author": "serithemage",
+      "category": ""
+    },
+    {
+      "title": "블루스카이 게시물 삭제한 Adobe, 반발 직면",
+      "description": {
+        "$text": "<h2>Adobe가 Bluesky 게시물을 삭제한 이유</h2>\n<ul>\n<li>Adobe가 Twitter 대안 플랫폼인 Bluesky에 진출했으나, 사용자들의 반발로 인해 모든 게시물을 삭제하게 됨.</li>\n<li>Adobe는 아티스트, 디자이너, 스토리텔러와 소통하기 위해 Bluesky에 첫 게시물을 올렸으나, 사용자들의 불만을 초래함.</li>\n<li>사용자들은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20295",
+      "guid": "https://news.hada.io/topic?id=20295",
+      "pubDate": "2025-04-12T17:32:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
