@@ -750,6 +750,15 @@
       "pubDate": "Sun, 06 Apr 2025 20:43:04 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] 나만의 MCP Host를 만들어보자",
+      "description": "안녕하세요 멍개입니다. 지난시간에 MCP Client를 구현함으로써 MCP Host, MCP Client, MCP Server가 어떤 관계이며 어떻게 동작하는지 알아보았습니다. MCP Client만 보면 기존의 서버와 클라이언트와 차이점이 없습니다. HOST는 사용자에게 인터페이스를 제공하는 역할을 하며 LLM 모델로 하여금 쿼리를 분석하여 어떤 Client의 tools을 호출할지와 tools을 호출하기 위한 arguments를 만들어줍니다. 앞의 구조를 좀 더 자세히 보면 다음과 같습니다. 앞의 구조처럼 LLM 모델이 있어야 사용자의 자연어 입력으로부터 적절한 MCP Server를 호출할 수 있습니다. langchain을 이용하면 손쉽게 구현할 수 있습니다. 또한 LM Studio를 이용하면 로컬....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA0MTJfMTk4/MDAxNzQ0NDI1MDAwNzY3.GYpu6VFjQGhEXOy3A08Bll1fVcaso5Bqfu_sUPKjt1Ag.EHfdfzXlHs2j1LP3Zq8ljVQeSi77f--OTgzjzHbiXUUg.PNG/%C1%A6%B8%F1_%BE%F8%B4%C2_%B4%D9%C0%CC%BE%EE%B1%D7%B7%A5.drawio_%283%29.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223830623105?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223830623105",
+      "pubDate": "Sat, 12 Apr 2025 12:28:44 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
