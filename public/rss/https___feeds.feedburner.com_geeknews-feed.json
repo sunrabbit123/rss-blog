@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-12T09:59:41+09:00",
+  "lastBuildDate": "2025-04-12T11:51:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31421,6 +31421,19 @@
       "guid": "https://news.hada.io/topic?id=20285",
       "pubDate": "2025-04-12T08:33:11+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Windsurf의 인공지능 에이전트인 Cascade가 Jetbrains 플러그인으로 출시",
+      "description": {
+        "$text": "<p>JetBrains 에디터에서 Windsurf의 인공지능 에이전트인 Cascade를 사용할 수 있게 되었음.   Cascade는 다단계 협업 추론 에이전트이며, JetBrains 사용자들은 이제 선호하는 IDE를 변경하지 않고도 AI의 기능을 활용할 수 있게 됨. 또한, 제품 라인이 단순화되어 Windsorf 에디터와 Windsorf 플러그인으로 나뉘게 되...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20294",
+      "guid": "https://news.hada.io/topic?id=20294",
+      "pubDate": "2025-04-12T11:51:58+09:00",
+      "author": "serithemage",
       "category": ""
     }
   ]
