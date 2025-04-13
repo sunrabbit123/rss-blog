@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-13T10:38:20+09:00",
+  "lastBuildDate": "2025-04-13T11:59:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31563,6 +31563,45 @@
       "link": "https://news.hada.io/topic?id=20296",
       "guid": "https://news.hada.io/topic?id=20296",
       "pubDate": "2025-04-13T08:32:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Onit - 맥용 로컬 오픈소스 AI 채팅 어시스턴트",
+      "description": {
+        "$text": "<ul>\n<li>ChatGPT 데스크탑과 유사하지만 로컬모드로 동작 가능(Ollama)</li>\n<li>Anthropic, GoogleAI, xAI, DeepSeek 등 다양한 모델을 사용할 수 있고 쉽게 전환 가능</li>\n<li>파일 업로드 지원(드래그 &amp; 드롭)</li>\n<li>화면에서 문자열 선택후 실행하면 자동으로 컨텍스트에 추가</li>\n<li>채팅 글로벌 단축키...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20307",
+      "guid": "https://news.hada.io/topic?id=20307",
+      "pubDate": "2025-04-13T11:59:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "트럼프, 휴대전화·컴퓨터·칩에 대한 '상호' 관세 면제",
+      "description": {
+        "$text": "<ul>\n<li>미국이 Apple, Nvidia 등 주요 기술 기업에 <strong>관세 면제</strong>를 부여함</li>\n<li>면제 대상에는 <strong>스마트폰, 노트북, 반도체, 디스플레이</strong> 등이 포함됨</li>\n<li>면제 조치로 미국 소비자와 글로벌 제조업체들이 <strong>가격 인상 부담에서 일시적 보호</strong>를 받게 됨</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20306",
+      "guid": "https://news.hada.io/topic?id=20306",
+      "pubDate": "2025-04-13T11:34:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SVG로 만드는 멋진 것들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SVG</strong>는 웹에서 벡터 그래픽을 표현하는 강력한 도구임</li>\n<li>\n<strong>애니메이션</strong>을 통해 SVG 요소를 더욱 매력적으로 만들 수 있음</li>\n<li>\n<strong>마스크</strong>를 사용하여 SVG 요소의 특정 부분을 강조하거나 숨길 수 있음</li>\n<li>\n<strong>서버 사이드 렌더링</stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20305",
+      "guid": "https://news.hada.io/topic?id=20305",
+      "pubDate": "2025-04-13T11:32:35+09:00",
       "author": "neo",
       "category": ""
     }
