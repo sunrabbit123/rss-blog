@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-12T17:32:59+09:00",
+  "lastBuildDate": "2025-04-13T10:38:20+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31446,6 +31446,123 @@
       "link": "https://news.hada.io/topic?id=20295",
       "guid": "https://news.hada.io/topic?id=20295",
       "pubDate": "2025-04-12T17:32:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "바쉐론 콘스탄틴, 세계에서 가장 복잡한 손목시계 신기록 달성",
+      "description": {
+        "$text": "<ul>\n<li>Vacheron Constantin이 세계에서 가장 복잡한 손목시계 ‘Solaria’를 공개함</li>\n<li>총 41가지 복잡 기능과 13개의 잠재 특허 포함, 웨어러블한 크기 달성</li>\n<li>천문 기능부터 분 리피터까지, 복잡성의 절정을 보여주는 기술의 집약체</li>\n<li>이 시계는 단순한 작품이 아니라 미래 기술의 시험대 역할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20304",
+      "guid": "https://news.hada.io/topic?id=20304",
+      "pubDate": "2025-04-13T10:38:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파리 차량 통행 제한으로 대기 오염 대폭 감소",
+      "description": {
+        "$text": "<h2>파리의 자동차 제한과 대기 오염 변화</h2>\n<ul>\n<li>지난 20년 동안 파리는 자동차 도로를 자전거 도로로 바꾸고, 녹지 공간을 추가하며, 50,000개의 주차 공간을 제거하는 등 큰 물리적 변화를 겪음.</li>\n<li>이러한 변화의 결과로 대기 중의 오염 물질이 크게 감소함.</li>\n<li>Airparif에 따르면, 2005년 이후 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20303",
+      "guid": "https://news.hada.io/topic?id=20303",
+      "pubDate": "2025-04-13T10:35:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: AI가 생성한 파이썬 코드를 빠르게 추적하기 - pyhunt",
+      "description": {
+        "$text": "<p>AI 코딩 시대가 도래하면서, 이제는 코드를 직접 작성하기보다는 생성된 코드를 분석하고 검토하는 데 훨씬 더 많은 시간이 소요되고 있습니다.</p>\n<p>특히 어디서 어떤 함수가 호출되는지, 흐름을 파악하는 데 큰 노력이 들고, 에러 수정이나 리팩토링 과정에서 구조 자체가 바뀌는 일도 흔해졌습니다.</p>\n<p>프로",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20302",
+      "guid": "https://news.hada.io/topic?id=20302",
+      "pubDate": "2025-04-13T10:22:34+09:00",
+      "author": "easydev",
+      "category": ""
+    },
+    {
+      "title": "Erlang의 경량 프로세스와 메시지 전달에 관한 것이 아닌 본질 (2023)",
+      "description": {
+        "$text": "<h2>배경</h2>\n<ul>\n<li>Erlang은 신뢰할 수 있는 분산 시스템을 구축하기 위해 개발된 언어로, 처음에는 Prolog 라이브러리로 시작하여 독립적인 언어로 발전함.</li>\n<li>Ericsson에서 전화 교환기를 프로그래밍하는 데 사용되었으며, 1998년에는 오픈 소스로 전환됨.</li>\n<li>Joe Armstrong는 Erlang의 주요 설계자 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20301",
+      "guid": "https://news.hada.io/topic?id=20301",
+      "pubDate": "2025-04-13T09:55:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "당신의 강점이 약점인 이유",
+      "description": {
+        "$text": "<h2>강점은 언제나 약점과 함께 존재함</h2>\n<ul>\n<li>많은 엔지니어들의 <strong>가장 큰 장점과 가장 큰 단점</strong>은 실제로 <strong>같은 특성이 상황에 따라 다르게 나타나는 경우</strong>임</li>\n<li>예시: 작성자는 <strong>빠르게 코딩하는 능력</strong> 덕분에 칭찬을 받았지만, <strong>세부 사항을 간과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20300",
+      "guid": "https://news.hada.io/topic?id=20300",
+      "pubDate": "2025-04-13T09:52:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Vert - 셀프 호스팅 가능한 파일 변환기 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>VERT</strong>는 <strong>WebAssembly 기반의 로컬 파일 변환 도구</strong>로, 클라우드 없이 브라우저에서 직접 파일을 변환함</li>\n<li>\n<strong>개인정보 보호 강화</strong>를 위해 파일이 사용자의 장치 내에서 처리되며, 영상 파일의 경우 선택적으로 서버 변환도 가능함</li>\n<li>\n<strong>Sv...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20299",
+      "guid": "https://news.hada.io/topic?id=20299",
+      "pubDate": "2025-04-13T09:49:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "60초 만에 7천만 달러: 내부 정보로 28배 수익 달성 사례",
+      "description": {
+        "$text": "<h4>1:30 pm EST의 수직선</h4>\n<ul>\n<li>2025년 4월 9일, 누군가 약 250만 달러를 투자하여 1시간도 채 되지 않아 7천만 달러 이상을 벌어들임</li>\n<li>이 거래는 S&amp;P 500을 추적하는 ETF인 SPY와 관련된 특정 옵션을 구매하는 간단하지만 대담한 방식이었음</li>\n<li>이 옵션은 SPY를 주당 509달러에 구매할 수 있...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20298",
+      "guid": "https://news.hada.io/topic?id=20298",
+      "pubDate": "2025-04-13T09:46:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글이 모든 AI 분야에서 승리하고 있다",
+      "description": {
+        "$text": "<ul>\n<li>Google은 AI 모델의 성능, 가격 경쟁력, 그리고 제품 통합 측면에서 경쟁사들을 압도하며 AI 전 영역에서 주도권을 확보하고 있음</li>\n<li>Gemini 2.5 Pro를 중심으로 텍스트, 이미지, 음악, 영상, 음성, 에이전트 등 다양한 생성형 AI 기술을 선보이며 이를 Google 생태계에 빠르게 통합하고 있음</li>\n<li>클...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20297",
+      "guid": "https://news.hada.io/topic?id=20297",
+      "pubDate": "2025-04-13T09:43:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "당신에겐 웹소켓이 필요 없을 수도 있어요",
+      "description": {
+        "$text": "<ul>\n<li>WebSocket은 실시간 통신에 유용하지만, 항상 필요한 것은 아니며 HTTP 기반 대안이 더 간단하고 안정적일 수 있음</li>\n<li>트랜잭션 처리, 연결 관리, 서버 복잡성 등에서 WebSocket은 과도한 오버헤드를 유발할 수 있음</li>\n<li>HTTP Streaming과 라이브러리(eventkit)를 활용하면 WebSocket 없이도 실시간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20296",
+      "guid": "https://news.hada.io/topic?id=20296",
+      "pubDate": "2025-04-13T08:32:40+09:00",
       "author": "neo",
       "category": ""
     }
