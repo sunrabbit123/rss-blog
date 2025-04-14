@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-14T11:33:02+09:00",
+  "lastBuildDate": "2025-04-14T23:33:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31784,6 +31784,19 @@
       "link": "https://news.hada.io/topic?id=20317",
       "guid": "https://news.hada.io/topic?id=20317",
       "pubDate": "2025-04-14T09:48:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MCP의 문제점 분석",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>MCP</strong>는 LLM 기반의 에이전트와 어시스턴트에 서드파티 도구와 데이터를 연결하는 프로토콜로, 최근 빠르게 표준으로 자리 잡음</li>\n<li>MCP는 <strong>컨텍스트 제공</strong>과 <strong>에이전트 자율성</strong>을 통해 사용자 경험을 향상시키는 데 유용함</li>\n<li>MCP의 보안 문제는 인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20327",
+      "guid": "https://news.hada.io/topic?id=20327",
+      "pubDate": "2025-04-14T23:33:06+09:00",
       "author": "neo",
       "category": ""
     }
