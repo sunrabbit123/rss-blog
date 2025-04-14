@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-14T09:28:07+09:00",
+  "lastBuildDate": "2025-04-14T11:33:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31655,6 +31655,136 @@
       "guid": "https://news.hada.io/topic?id=20310",
       "pubDate": "2025-04-14T09:19:50+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Whenever – Python용 타입 및 DST 안전 날짜 및 시간 처리 기술",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Whenever</strong>는 Python의 datetime을 개선하여 <strong>DST 안전성</strong>과 <strong>타입 안전성</strong>을 제공하는 라이브러리임</li>\n<li>\n<strong>Rust</strong>와 <strong>순수 Python</strong>으로 사용 가능하며, <strong>성능</strong>이 뛰어남</li>\n<li>Python 표준 라이브러리와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20326",
+      "guid": "https://news.hada.io/topic?id=20326",
+      "pubDate": "2025-04-14T11:33:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4년간 경쟁이 치열한 SaaS 시장에서 사업을 운영하며 배운 점",
+      "description": {
+        "$text": "<ul>\n<li>Max Rozen이 창업한 OnlineOrNot은 이미 <strong>200개 이상의 경쟁 제품이 존재</strong>하는 시장에서 시작됨</li>\n<li>초기에는 많은 제품이 사용하기 불편했으며, 이후 수많은 경쟁 제품이 등장하고 빠르게 사라짐</li>\n<li>일부 경쟁 제품은 VC 자금을 받고 대기업에 인수되며 사용자 경험이 점점 악화되는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20325",
+      "guid": "https://news.hada.io/topic?id=20325",
+      "pubDate": "2025-04-14T11:01:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Equity 보상에 대한 오픈 가이드",
+      "description": {
+        "$text": "<ul>\n<li>Equity Compensation(이퀴티 보상)은 회사 지분을 근로에 대한 대가로 제공하는 방식이며, 직원과 회사의 목표를 일치시키는 역할임</li>\n<li>복잡한 용어, 세금 문제, 법적 고려사항 등으로 인해 이퀴티 보상은 전문가의 도움이 필요한 어려운 주제임</li>\n<li>잘못된 결정은 큰 재정적 손실로 이어질 수 있으...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20324",
+      "guid": "https://news.hada.io/topic?id=20324",
+      "pubDate": "2025-04-14T10:34:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Rust to C 컴파일러 – 95.9% 테스트 통과율",
+      "description": {
+        "$text": "<ul>\n<li>Rust에서 C로 변환하는 컴파일러 프로젝트의 진행 상황에 대한 업데이트임</li>\n<li>Rust Week에서 프로젝트에 대한 발표 예정이며, 테스트 통과율이 95.9%로 향상됨</li>\n<li>128비트 정수 처리 및 서브슬라이싱 버그 수정이 주요 개선 사항임</li>\n<li>다양한 C 컴파일러와 플랫폼 지원을 확장하고자 하는 노...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20323",
+      "guid": "https://news.hada.io/topic?id=20323",
+      "pubDate": "2025-04-14T10:07:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "무민의 어두운 면",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>무민 이야기</strong>는 단순한 귀여운 동화가 아닌, <strong>종말과 붕괴</strong>를 다루는 복잡한 이야기임</li>\n<li>\n<strong>토베 얀손</strong>은 <strong>전쟁 중</strong>에 무민 이야기를 창작하며, <strong>불안과 두려움</strong>을 표현함</li>\n<li>무민 시리즈는 <strong>가족과 관계의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20322",
+      "guid": "https://news.hada.io/topic?id=20322",
+      "pubDate": "2025-04-14T10:04:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Anubis works",
+      "description": {
+        "$text": "<ul>\n<li>Anubis는 유엔을 포함한 여러 주요 조직에서 사용되고 있는 소프트웨어임</li>\n<li>이 소프트웨어는 Linux Kernel Mailing List, FreeBSD, SourceHut, FFmpeg, Wine, UNESCO 등에서 배포됨</li>\n<li>Anubis의 배포는 소프트웨어의 중요성과 영향력을 보여줌</li>\n<li>개발자는 Anubis의 설치를 더 쉽게 만들고자...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20321",
+      "guid": "https://news.hada.io/topic?id=20321",
+      "pubDate": "2025-04-14T10:01:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WebTUI - 터미널 UI의 아름다움을 브라우저로 가져오는 CSS 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>WebTUI는 터미널 사용자 인터페이스의 미적 요소를 웹 브라우저로 가져오는 <strong>모듈형 CSS 라이브러리</strong>\n</li>\n<li>이 라이브러리는 <strong>단순하고 직관적인 UI 디자인</strong>을 제공하여 사용자 경험을 향상시킴</li>\n<li>\n<strong>모듈형 구조</strong>로 설계되어 있어 다양한 컴포넌트를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20320",
+      "guid": "https://news.hada.io/topic?id=20320",
+      "pubDate": "2025-04-14T09:57:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "포켓형 미니 PC와 AR 글래스로 노트북 대체",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Khadas Mind</strong> 미니 PC와 <strong>Xreal One AR</strong> 안경을 사용하여 휴대 가능한 작업 환경을 구축함</li>\n<li>\n<strong>Khadas Mind 2S</strong>는 강력한 성능과 휴대성을 제공하며, 다양한 포트를 통해 확장 가능</li>\n<li>\n<strong>Xreal One AR</strong> 안경은 가벼운 착용감과 간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20319",
+      "guid": "https://news.hada.io/topic?id=20319",
+      "pubDate": "2025-04-14T09:54:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Emacs Lisp Elements",
+      "description": {
+        "$text": "<ul>\n<li>Emacs Lisp는 Emacs를 확장하는 프로그래밍 언어로, 사용자가 Emacs를 개인화하고 효율적으로 사용할 수 있게 해줌</li>\n<li>Emacs Lisp는 함수 호출을 통해 모든 작업을 수행하며, 사용자는 키 바인딩이나 명령어를 통해 인터랙티브하게 함수 실행 가능</li>\n<li>Emacs Lisp의 함수는 입력을 받아 출력하며, 환...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20318",
+      "guid": "https://news.hada.io/topic?id=20318",
+      "pubDate": "2025-04-14T09:51:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Pixel 9a용 GrapheneOS 실험적 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GrapheneOS</strong>는 보안과 프라이버시를 중시하는 모바일 운영체제이며, Android 앱과 호환 가능함</li>\n<li>Pixel 9a 기기에 대한 실험적 릴리스를 제공하며, CLI와 웹을 통해 설치 가능</li>\n<li>Pixel 9a의 무선 업데이트 경로를 내부적으로 테스트하였으며, 이제 모든 채널을 통해 배포 중임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20317",
+      "guid": "https://news.hada.io/topic?id=20317",
+      "pubDate": "2025-04-14T09:48:19+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
