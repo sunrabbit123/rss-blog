@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-15T12:47:42+09:00",
+  "lastBuildDate": "2025-04-15T19:32:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31993,6 +31993,19 @@
       "guid": "https://news.hada.io/topic?id=20342",
       "pubDate": "2025-04-15T12:47:42+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "인텔, 알테라 지분 51% 사모펀드에 매각, 기업가치 87억 5천만 달러 평가",
+      "description": {
+        "$text": "<ul>\n<li>Intel이 Altera의 51% 지분을 Silver Lake에 매각하기로 결정함</li>\n<li>Altera는 독립적인 운영을 통해 세계 최대의 순수 FPGA 반도체 솔루션 회사가 될 예정임</li>\n<li>Raghib Hussain이 Altera의 새로운 CEO로 임명됨</li>\n<li>Silver Lake와의 협력으로 Altera의 기술 리더십과 AI 기반 시장에서의 성장을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20343",
+      "guid": "https://news.hada.io/topic?id=20343",
+      "pubDate": "2025-04-15T19:32:41+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
