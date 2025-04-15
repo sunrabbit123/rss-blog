@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-15T11:33:35+09:00",
+  "lastBuildDate": "2025-04-15T12:47:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31980,6 +31980,19 @@
       "guid": "https://news.hada.io/topic?id=20332",
       "pubDate": "2025-04-15T10:28:51+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NotebookLM으로 수백개 기업의 생성형 AI 활용 사례 읽기",
+      "description": {
+        "$text": "<p>구글에서 2025년 4월에 <a href=\"https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?ref=stdy.blog\">601개 기업의 생성형 AI 활용 사례를 공개</a></p>\n<ul>\n<li>더 정확히는 구글 클라우드 및 구글 AI의 활용 사례</li>\n<li>작년 4월 첫 공개 당시는 101개, 6배로 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20342",
+      "guid": "https://news.hada.io/topic?id=20342",
+      "pubDate": "2025-04-15T12:47:42+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
