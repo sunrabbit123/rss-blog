@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-14T23:33:06+09:00",
+  "lastBuildDate": "2025-04-15T10:16:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -31798,6 +31798,58 @@
       "guid": "https://news.hada.io/topic?id=20327",
       "pubDate": "2025-04-14T23:33:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "온프레미스 폐쇄망 환경에서 Docker 이미지를 효율적으로 관리하기",
+      "description": {
+        "$text": "<p>기업 환경에서는 보안상의 이유로 외부 인터넷이 차단된 폐쇄망에서 Docker를 운영하는 경우가 많습니다. 이런 환경에서는 이미지를 업데이트하거나 새로 배포하려면 외부에서 docker save로 저장한 이미지 파일을 수동으로 가져와 docker load로 로드해야 합니다.<br />\n하지만 이미지가 수 GB 이상일 경우, 조금만 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20331",
+      "guid": "https://news.hada.io/topic?id=20331",
+      "pubDate": "2025-04-15T10:16:25+09:00",
+      "author": "sigridjineth",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: \"앱\"이 아니라면 당신의 코드로 어떻게 수익을 내나요?",
+      "description": {
+        "$text": "<ul>\n<li>개인 코드가 기존 제품이나 SaaS 모델에 적합하지 않다면 어떻게 수익을 창출하시나요? 예를 들어\n<ul>\n<li>특정 틈새 작업을 정말 잘처리하는 ML모델을 훈련했는데, 이를 앱으로 만드는것은 오버킬 같음</li>\n<li>어떤 도구보다고 잘 로그파일을 처리하는 CLI를 만들었는데, 너무 특수분야라 회사를 만들수는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20330",
+      "guid": "https://news.hada.io/topic?id=20330",
+      "pubDate": "2025-04-15T10:04:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "lychee - Rust로 개발된 고속 비동기 링크 검사도구",
+      "description": {
+        "$text": "<ul>\n<li>Markdown, HTML, 텍스트 파일, 웹사이트의 링크를 분석하고 <strong>죽은 링크(broken link)</strong> 를 탐지하는 데 최적화</li>\n<li>CLI, 라이브러리, Docker, GitHub Action, pre-commit hook 으로 제공되어 다양한 개발 및 배포 파이프라인에 통합 가능</li>\n<li>다른 유명 오픈소스 링크 검사기들과 비교...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20329",
+      "guid": "https://news.hada.io/topic?id=20329",
+      "pubDate": "2025-04-15T09:42:57+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "포스트 개발자 시대",
+      "description": {
+        "$text": "<p>CSS와 프론트엔드 개발 교육 콘텐츠로 알려진 Josh Comeau가, 2023년 GPT-4 쇼케이스 직후 작성했던 글 “The End of Front-End Development”(https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)의 후속편으로 볼 수 있는 “The Post-Developer Era”라는 글을 발표했습니다.</p>\n<p>이번 글에서는",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20328",
+      "guid": "https://news.hada.io/topic?id=20328",
+      "pubDate": "2025-04-15T09:19:06+09:00",
+      "author": "dowha",
       "category": ""
     }
   ]
