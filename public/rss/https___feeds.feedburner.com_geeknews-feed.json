@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-15T19:32:41+09:00",
+  "lastBuildDate": "2025-04-15T21:52:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32006,6 +32006,19 @@
       "guid": "https://news.hada.io/topic?id=20343",
       "pubDate": "2025-04-15T19:32:41+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비인간 ID(NHI) 보안: MCP & A2A 위협",
+      "description": {
+        "$text": "<ul>\n<li>NHI 폭증 및 핵심 위협 부상: 클라우드/자동화 환경에서 비인간 ID(NHI: 서비스 계정, API 키 등) 수가 급증하며, 특히 MCP(Machine-to-Cloud Provider) 및 A2A(Application-to-Application) 통신 ID의 보안 중요성이 커지고 있습니다.</li>\n<li>MCP(시스템-클라우드) ID 위험:<br />\n** 클라우드 API와 통신하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20344",
+      "guid": "https://news.hada.io/topic?id=20344",
+      "pubDate": "2025-04-15T21:52:33+09:00",
+      "author": "cremit",
       "category": ""
     }
   ]
