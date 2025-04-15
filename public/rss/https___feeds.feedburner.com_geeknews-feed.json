@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-15T23:33:38+09:00",
+  "lastBuildDate": "2025-04-16T01:24:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32032,6 +32032,19 @@
       "guid": "https://news.hada.io/topic?id=20345",
       "pubDate": "2025-04-15T23:33:38+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 한국어 맞춤법 검사 MCP 서버",
+      "description": {
+        "$text": "<p>블로그 글을 쓸 때 매번 코드 구간과 markdown link 문법이 적용된 텍스트를 잘 편집해 복사 붙여넣기하며 맞춤법을 검사했는데, Cursor에서 실시간으로 맞춤법 검사기를 돌리고 싶어 처음 써보는 TypeScript로 LLM과 함께 바이브 코딩으로 한국어 맞춤법 검사 MCP(Model Context Protocol) 서버를 만들어 봤습니다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20346",
+      "guid": "https://news.hada.io/topic?id=20346",
+      "pubDate": "2025-04-16T01:24:50+09:00",
+      "author": "winterjung",
       "category": ""
     }
   ]
