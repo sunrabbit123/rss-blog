@@ -759,6 +759,15 @@
       "pubDate": "Sat, 12 Apr 2025 12:28:44 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] ADK(Agent Development Kit)를 이용하여 Agent를 만들어보자 1편",
+      "description": "안녕하세요 멍개입니다. 오늘은 최근에 구글에서 발표한 ADK(Agent Development Kit)을 다뤄보겠습니다. ADK는 Agent를 개발하기 위한 도구입니다. ADK를 다루기 전에 기본적인 agent 동작 방식을 이해해야 합니다. agent의 동작 방식은 MCP와 크게 다르지 않습니다. agent는 사용자로부터 쿼리를 받으면 적절한 tool을 호출하는 역할을 합니다. 이를 위해 다음과 같은 프로세스를 따릅니다. 사용자 쿼리를 받으면 이를 LLM 모델에 태워 agent가 가지고 있는 tool을 호출해야 하는지 결정 tool 호출이 결정되면 tool 호출을 하기 위해 필요한 arguments 추출 tool 호출 결과를 받으면 LLM을 통해 사용자에게 응답할 적절한 메시지 형태로 생성 ※....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA0MTZfMjUw/MDAxNzQ0Nzg2MTM0MTAz.EigeyxdOzmXE9SaJmPL0PmBvJ7aTflILFc7BWv5SPvkg.dXUlUj9P-Ey2UG9MR-tJhO5db_fhrlL499UXaMNwETog.PNG/Screenshot_2025-04-16_at_15.48.40.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223836017889?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223836017889",
+      "pubDate": "Wed, 16 Apr 2025 18:08:45 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
