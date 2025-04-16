@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T01:24:50+09:00",
+  "lastBuildDate": "2025-04-16T10:22:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32045,6 +32045,136 @@
       "guid": "https://news.hada.io/topic?id=20346",
       "pubDate": "2025-04-16T01:24:50+09:00",
       "author": "winterjung",
+      "category": ""
+    },
+    {
+      "title": "Cursor에 €400를 날려본 경험에서 얻은 교훈",
+      "description": {
+        "$text": "<ul>\n<li>Cursor는 빠르게 마이크로 SaaS를 만들 수 있을 만큼 <strong>생산성이 뛰어난 개발 도구</strong>여서 무조건 써야함</li>\n<li>그러나 AI가 생성한 코드는 <strong>일관성이 부족</strong>하고, <strong>보안 취약점</strong>이 생길 수 있음</li>\n</ul>\n<h2>1. <strong>무료 또는 Premium 모델은 사용 비추천...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20358",
+      "guid": "https://news.hada.io/topic?id=20358",
+      "pubDate": "2025-04-16T10:22:19+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI GPT-4.1 프롬프팅 가이드",
+      "description": {
+        "$text": "<p>아래는 <a href=\"https://cookbook.openai.com/examples/gpt4-1_prompting_guide\">GPT-4.1 프롬프팅 가이드</a>에 대한 핵심 요약을 ChatGPT o1을 사용해서 한국어로 정리한 것입니다. 실제 문서 내용과 약간의 차이가 있을 수 있으나, 전반적인 흐름과 주요 원칙을 간략히 전달하기 위해 작성했습니다:</p>\n<hr />\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20357",
+      "guid": "https://news.hada.io/topic?id=20357",
+      "pubDate": "2025-04-16T09:51:33+09:00",
+      "author": "serithemage",
+      "category": ""
+    },
+    {
+      "title": "Tauri 와 Electron 비교 - 성능, 번들크기 및 실제 트레이드오프들",
+      "description": {
+        "$text": "<ul>\n<li>원격 페어 프로그래밍을 위한 초저지연 리모트 컨트롤 앱을 개발 중에 앱 프레임워크로 <strong>Tauri를 채택</strong>\n<ul>\n<li>선택한 이유는 성능, 메모리 효율, 사이드카 지원 등</li>\n</ul>\n</li>\n<li>Rust 기반 백엔드 + 시스템 WebView 사용으로 Electron 대비 <strong>앱 크기와 메모리 사용량이 훨씬 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20356",
+      "guid": "https://news.hada.io/topic?id=20356",
+      "pubDate": "2025-04-16T09:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스마트 홈 디바이스 해킹 (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ESP32 기반 스마트 홈 기기</strong>를 리버스 엔지니어링하여 <strong>Home Assistant</strong>와 통합함</li>\n<li>\n<strong>모바일 앱</strong>을 분석하여 <strong>클라우드 서버</strong>와의 연결을 확인함</li>\n<li>\n<strong>네트워크 트래픽</strong>을 가로채어 <strong>기기 제어</strong>를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20355",
+      "guid": "https://news.hada.io/topic?id=20355",
+      "pubDate": "2025-04-16T09:50:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비디오 검열 해제 기술의 용이성 증가",
+      "description": {
+        "$text": "<ul>\n<li>유튜브 영상의 픽셀화된 부분을 해킹하여 내용을 알아내는 실험을 진행함</li>\n<li>세 명의 사람들이 서로 다른 방법으로 픽셀화된 내용을 해독하는 데 성공함</li>\n<li>GitHub 사용자 KoKuToru가 TensorFlow를 사용하여 픽셀 데이터를 추출하고 집계하는 방법을 공유함</li>\n<li>픽셀화된 영상은 움직임이 많을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20354",
+      "guid": "https://news.hada.io/topic?id=20354",
+      "pubDate": "2025-04-16T09:47:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4chan Sharty 해킹 및 관리자 이메일 유출 사건",
+      "description": {
+        "$text": "<ul>\n<li>2025년 4월, <strong>Soyjak.Party 커뮤니티</strong>가 4chan을 해킹했다고 주장하며 /QA/ 게시판 복원 및 <strong>자니터 이메일 유출</strong> 발생</li>\n<li>핵심 취약점은 4chan 백엔드의 <strong>구식 PHP 코드와 더 이상 지원되지 않는 MySQL 함수</strong>에 존재함</li>\n<li>유출된 정보에는 <strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20353",
+      "guid": "https://news.hada.io/topic?id=20353",
+      "pubDate": "2025-04-16T09:44:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유아와의 논쟁에서 승리하는 방법",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;불가능함&quot;</p>\n</blockquote>\n<ul>\n<li>\n<strong>유아(1~4세)와의 논쟁에서 이길 수는 없음</strong>\n<ul>\n<li>그 이유는 <strong>유아는 논쟁의 개념 자체를 이해하지 못하며, 실제로 논쟁에 관심이 없음</strong>\n</li>\n</ul>\n</li>\n<li>\n<strong>유아적 태도를 가진 사람들</strong>\n<ul>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20352",
+      "guid": "https://news.hada.io/topic?id=20352",
+      "pubDate": "2025-04-16T09:41:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년에 자바스크립트 개발자라면 꼭 알아야 할 기능들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>자바스크립트는 2025년에도 계속 진화 중이며</strong>, 일부 기능은 잘 알려지지 않았지만 매우 유용함</li>\n<li>새로운 <strong>Iterator 헬퍼 메서드들</strong>은 대규모 데이터 변환 시 훨씬 더 <strong>메모리 효율적</strong>으로 동작</li>\n<li>배열 끝에서 접근 가능한 <code>at()</code>, 간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20351",
+      "guid": "https://news.hada.io/topic?id=20351",
+      "pubDate": "2025-04-16T09:38:21+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "휘슬블로워, DOGE가 민감한 NLRB 데이터 탈취 가능성 공개",
+      "description": {
+        "$text": "<ul>\n<li>DOGE 팀이 민감한 노동 데이터에 접근하고 이를 은폐하려 했다는 내부 고발자의 폭로가 있었음</li>\n<li>DOGE 팀은 NLRB의 시스템에 접근하여 데이터를 가져갔으며, 이로 인해 보안 침해가 발생했을 가능성이 있음</li>\n<li>DOGE의 활동은 정부의 효율성을 높이기 위한 것이라고 주장되지만, 실제로는 민감한 데...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20350",
+      "guid": "https://news.hada.io/topic?id=20350",
+      "pubDate": "2025-04-16T09:38:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Docker, VSCode용 새로운 오픈소스 확장 Docker DX 출시",
+      "description": {
+        "$text": "<ul>\n<li>개발자가 Docker 관련 파일을 수정할 때 빠른 피드백을 제공하는 확장</li>\n<li>Dockerfile, Compose, Bake 파일을 위한 실시간 피드백 및 보안 검사 기능을 제공</li>\n<li>\n<strong>Docker Language Server 기반으로 VS Code 외 다른 에디터에서도 활용 가능</strong>\n</li>\n<li>코드는 기존 VS Code용 Docker...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20349",
+      "guid": "https://news.hada.io/topic?id=20349",
+      "pubDate": "2025-04-16T09:35:28+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
