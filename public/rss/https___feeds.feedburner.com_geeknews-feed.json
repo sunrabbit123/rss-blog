@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T22:33:02+09:00",
+  "lastBuildDate": "2025-04-16T23:14:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32266,6 +32266,19 @@
       "guid": "https://news.hada.io/topic?id=20365",
       "pubDate": "2025-04-16T22:33:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "‘리버스 엔지니어링’으로 10x 마케터가 되는 방법",
+      "description": {
+        "$text": "<ul>\n<li>좋은 마케터와 훌륭한 마케터를 구분하는 스킬은 성공적인 캠페인을 분석할 수 있는 능력(리버스 엔지니어링)</li>\n<li>마케팅에서 리버스 엔지니어링을 하는 방법은 다음과 같음:</li>\n<li>매일매일 훌륭한 마케팅 사례를 찾아 저장하기</li>\n<li>저장한 사례들을 분석하기</li>\n<li>분석한 사례들에서 핵심 성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20367",
+      "guid": "https://news.hada.io/topic?id=20367",
+      "pubDate": "2025-04-16T23:14:39+09:00",
+      "author": "liabilityuk0",
       "category": ""
     }
   ]
