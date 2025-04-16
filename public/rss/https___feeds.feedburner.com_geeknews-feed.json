@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T11:18:57+09:00",
+  "lastBuildDate": "2025-04-16T14:33:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32239,6 +32239,19 @@
       "link": "https://news.hada.io/topic?id=20359",
       "guid": "https://news.hada.io/topic?id=20359",
       "pubDate": "2025-04-16T10:33:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국의 과학 강국 부상",
+      "description": {
+        "$text": "<ul>\n<li>미국은 제2차 세계 대전 이후 과학과 기술 분야에서 세계를 선도하게 되었음</li>\n<li>영국은 전쟁 중 방어 기술에 집중했으나, 전후 경제적 제약으로 인해 혁신을 상업화하는 데 실패했음</li>\n<li>미국은 대학과 정부, 산업 간의 협력을 통해 혁신 생태계를 구축했음</li>\n<li>전쟁 후, 미국은 대학 연구에 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20364",
+      "guid": "https://news.hada.io/topic?id=20364",
+      "pubDate": "2025-04-16T14:33:55+09:00",
       "author": "neo",
       "category": ""
     }
