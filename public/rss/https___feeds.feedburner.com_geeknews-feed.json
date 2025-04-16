@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T14:33:55+09:00",
+  "lastBuildDate": "2025-04-16T22:33:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32252,6 +32252,19 @@
       "link": "https://news.hada.io/topic?id=20364",
       "guid": "https://news.hada.io/topic?id=20364",
       "pubDate": "2025-04-16T14:33:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국, 제조업 회귀의 어려움 과소평가",
+      "description": {
+        "$text": "<ul>\n<li>미국은 제조업을 되돌리려는 어려움을 과소평가하고 있음</li>\n<li>수입품에 대한 관세는 제조업을 되돌리지 못할 가능성이 높음</li>\n<li>미국의 산업 공급망은 약하며, 제조 기술도 부족함</li>\n<li>미국의 노동력은 중국보다 비효율적이며, 인프라가 부족함</li>\n<li>관세 정책은 복잡하고 불확실하여 제조업...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20365",
+      "guid": "https://news.hada.io/topic?id=20365",
+      "pubDate": "2025-04-16T22:33:02+09:00",
       "author": "neo",
       "category": ""
     }
