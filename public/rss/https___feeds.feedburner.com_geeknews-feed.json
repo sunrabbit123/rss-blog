@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T10:22:19+09:00",
+  "lastBuildDate": "2025-04-16T11:18:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32175,6 +32175,71 @@
       "guid": "https://news.hada.io/topic?id=20349",
       "pubDate": "2025-04-16T09:35:28+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Shopify CEO: \"AI 활용이 이제 기본 기대치\"",
+      "description": {
+        "$text": "Shopify CEO: &quot;AI 활용이 이제 기본 기대치&quot;",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20363",
+      "guid": "https://news.hada.io/topic?id=20363",
+      "pubDate": "2025-04-16T11:18:57+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "창업자 주도 영업(Founder-Led Sales)의 진실",
+      "description": {
+        "$text": "<h2>창업 초기 전략의 핵심은 <strong>고객에 집중</strong>하는 영업 활동</h2>\n<ul>\n<li>대부분 스타트업 초기 1년 동안 가장 흔한 실수는 go-to-market 전략과 관련 있음</li>\n<li>제품-시장 적합성(Product-Market Fit, PMF)에 문제가 있으면 아무리 잘 팔아도 해결 불가능</li>\n<li>고객 니즈를 파악하는 데 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20362",
+      "guid": "https://news.hada.io/topic?id=20362",
+      "pubDate": "2025-04-16T11:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Mitre에서 관리하던 CVE가 더 이상 미국 정보의 지원을 받지 못하는 위기에 처함",
+      "description": {
+        "$text": "<p>Mitre에서 운영하는 CVE(Common Vulnerabilities and Exposures) 및 CWE(Common Weaknewss Enumeration) 프로그램이 미국 정부의 자금 지원 계약이 만료되며 운영 위기에 처함</p>\n<ul>\n<li>4월16일/17일에 갱신되어야하는 계약이 만료됨</li>\n<li>CVE와 관련 운영자금이 끊김</li>\n<li>CVE는 취약점 관리, 보안 연구",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20361",
+      "guid": "https://news.hada.io/topic?id=20361",
+      "pubDate": "2025-04-16T10:52:47+09:00",
+      "author": "cremit",
+      "category": ""
+    },
+    {
+      "title": "Tomb Engine - 오픈소스 툼레이더 엔진",
+      "description": {
+        "$text": "<ul>\n<li>\n<em>Tomb Engine</em>은 <strong>클래식 Tomb Raider 게임의 제한을 제거하고 버그를 수정</strong>하기 위해 개발된 <strong>오픈소스 커스텀 레벨 엔진</strong>\n</li>\n<li>\n<strong>Lua 스크립팅 언어 지원</strong>, <strong>클래식 시리즈(1~5)의 오브젝트 활용 가능</strong>, <strong>고프레임레이트와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20360",
+      "guid": "https://news.hada.io/topic?id=20360",
+      "pubDate": "2025-04-16T10:51:18+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show HN: Unsure Calculator – 냅킨 뒤에 계산하는 확률적 계산기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Unsure Calculator</strong>는 불확실한 숫자를 계산할 수 있는 도구임</li>\n<li>이 계산기는 범위 표기법을 사용하여 불확실성을 처리함</li>\n<li>범위 표기법은 95% 확률로 숫자가 특정 범위 내에 있을 것이라고 가정함</li>\n<li>다양한 실생활 예시를 통해 불확실성을 다루는 방법을 설명함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20359",
+      "guid": "https://news.hada.io/topic?id=20359",
+      "pubDate": "2025-04-16T10:33:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
