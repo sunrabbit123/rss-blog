@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-17T13:33:26+09:00",
+  "lastBuildDate": "2025-04-17T18:33:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32447,6 +32447,32 @@
       "link": "https://news.hada.io/topic?id=20380",
       "guid": "https://news.hada.io/topic?id=20380",
       "pubDate": "2025-04-17T13:33:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"신입 뽑지 말고 AI로\" 카카오, 새 채용지침",
+      "description": {
+        "$text": "<p>카카오는 AI가 대체 가능한 직무에 대한 신규 채용을 제한하는 지침을 도입하여, AI 기술 발전으로 인한 일자리 감소 현실화에 선제적으로 대응하고 있다. 이는 SW 개발 등 AI 접목이 가능한 분야에서 신규 채용을 줄이고, AI가 대체할 수 있는 업무에 대해서는 정원을 부여하지 않는다는 내용을 담고 있다. 카카오의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20382",
+      "guid": "https://news.hada.io/topic?id=20382",
+      "pubDate": "2025-04-17T18:33:56+09:00",
+      "author": "jasper1080",
+      "category": ""
+    },
+    {
+      "title": "12-팩터 에이전트: 신뢰할 수 있는 LLM 애플리케이션 패턴",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>12 Factor Agents</strong>는 신뢰할 수 있는 LLM 애플리케이션을 구축하기 위한 원칙을 제시함</li>\n<li>AI 에이전트 프레임워크를 사용해본 경험을 바탕으로, 대부분의 제품이 진정한 에이전트가 아님을 발견함</li>\n<li>\n<strong>12 Factor Agents</strong>는 LLM 기반 소프트웨어를 고객에게 제공...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20381",
+      "guid": "https://news.hada.io/topic?id=20381",
+      "pubDate": "2025-04-17T18:32:37+09:00",
       "author": "neo",
       "category": ""
     }
