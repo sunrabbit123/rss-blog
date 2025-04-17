@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-17T11:33:43+09:00",
+  "lastBuildDate": "2025-04-17T13:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32434,6 +32434,19 @@
       "link": "https://news.hada.io/topic?id=20373",
       "guid": "https://news.hada.io/topic?id=20373",
       "pubDate": "2025-04-17T09:52:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CVE 재단",
+      "description": {
+        "$text": "<ul>\n<li>CVE Foundation이 CVE Program의 장기적인 지속 가능성과 독립성을 보장하기 위해 설립됨</li>\n<li>CVE Program은 25년 동안 글로벌 사이버 보안 인프라의 중요한 기둥으로 작용해 왔음</li>\n<li>미국 정부의 계약 종료로 인해 CVE Program의 독립적인 운영 필요성이 대두됨</li>\n<li>CVE Foundation은 비영리 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20380",
+      "guid": "https://news.hada.io/topic?id=20380",
+      "pubDate": "2025-04-17T13:33:26+09:00",
       "author": "neo",
       "category": ""
     }
