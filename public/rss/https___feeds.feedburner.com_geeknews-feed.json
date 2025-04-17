@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-16T23:14:39+09:00",
+  "lastBuildDate": "2025-04-17T09:49:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32279,6 +32279,71 @@
       "guid": "https://news.hada.io/topic?id=20367",
       "pubDate": "2025-04-16T23:14:39+09:00",
       "author": "liabilityuk0",
+      "category": ""
+    },
+    {
+      "title": "Veo 2로 Gemini와 Whisk에서 비디오 생성",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gemini</strong>와 <strong>Whisk</strong>를 통해 텍스트 기반 프롬프트를 고해상도 8초 비디오로 변환할 수 있는 기능이 제공됨</li>\n<li>\n<strong>Veo 2</strong> 모델을 사용하여 현실감 있는 비디오 생성 가능하며, <strong>Google One AI Premium</strong> 구독자에게 제공됨</li>\n<li>\n<strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20372",
+      "guid": "https://news.hada.io/topic?id=20372",
+      "pubDate": "2025-04-17T09:49:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TLS 인증서 유효기간 공식적으로 47일로 단축",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>TLS 인증서 유효기간 단축</strong>: CA/Browser Forum은 TLS 인증서의 유효기간을 줄이기로 결정했음. 2029년까지 인증서 유효기간이 47일로 단축될 예정임</li>\n<li>\n<strong>자동화의 중요성</strong>: 인증서 유효기간 단축으로 인해 자동화가 필수적임. Apple은 자동화가 인증서 수명 주기 관리에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20371",
+      "guid": "https://news.hada.io/topic?id=20371",
+      "pubDate": "2025-04-17T09:46:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, o3 와 o4-mini 모델 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>o3와 o4-mini</strong> 모델은 ChatGPT의 추론 능력을 대폭 향상시킴</li>\n<li>이 두 모델은 단순한 질문 답변을 넘어서, <strong>도구 조합 사용</strong>, <strong>시각 자료 분석</strong>, <strong>이미지 생성</strong>, <strong>Python 코드 실행</strong> 등 복잡한 작업도 수행 가능</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20370",
+      "guid": "https://news.hada.io/topic?id=20370",
+      "pubDate": "2025-04-17T09:43:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DHS 계약 갱신 실패로 CVE 프로그램 조기 종료 위기",
+      "description": {
+        "$text": "<ul>\n<li>MITRE의 <strong>CVE 프로그램</strong>은 사이버 보안의 핵심 요소로, 보안 취약점을 식별하고 관리하는 데 중요한 역할을 함</li>\n<li>\n<strong>CISA</strong>가 MITRE와의 계약을 연장하여 CVE 프로그램의 중단을 방지함</li>\n<li>계약 연장은 11개월 동안 지속될 예정이며, 이는 글로벌 사이버 커뮤니티의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20369",
+      "guid": "https://news.hada.io/topic?id=20369",
+      "pubDate": "2025-04-17T09:40:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "BeeAI Framework - 멀티 에이전트 개발용 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>Python 또는 TypeScript 기반으로 <strong>프로덕션 수준의 멀티 에이전트 시스템</strong>을 구축할 수 있도록 설계</li>\n<li>다양한 에이전트 구조와 워크플로우를 자유롭게 정의할 수 있어, 복잡한 협업형 AI 시스템 개발에 적합</li>\n<li>\n<h2>유연한 에이전트 아키텍처</h2>\n<ul>\n<li>\n<strong>간단한 단일...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20368",
+      "guid": "https://news.hada.io/topic?id=20368",
+      "pubDate": "2025-04-17T09:35:48+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
