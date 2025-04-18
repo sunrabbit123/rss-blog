@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T07:39:19+09:00",
+  "lastBuildDate": "2025-04-18T10:04:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32500,6 +32500,136 @@
       "guid": "https://news.hada.io/topic?id=20383",
       "pubDate": "2025-04-18T00:04:44+09:00",
       "author": "computerphilosopher",
+      "category": ""
+    },
+    {
+      "title": "K마트 쇼핑객 주목",
+      "description": {
+        "$text": "<ul>\n<li>이 기사는 Kmart에서 사용된 배경 음악 테이프의 독특한 컬렉션에 대한 이야기임</li>\n<li>1980년대 후반과 1990년대 초반에 Kmart에서 근무하며 회사에서 발행한 사전 녹음된 카세트 테이프를 수집한 경험을 공유함</li>\n<li>초기 테이프는 주로 기악곡으로 구성된 엘리베이터 음악이었으나, 1991년경부터는 주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20400",
+      "guid": "https://news.hada.io/topic?id=20400",
+      "pubDate": "2025-04-18T10:04:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "우리 태양계를 넘어선 행성에서 발견된 외계 생명체의 가장 유망한 징후",
+      "description": {
+        "$text": "<ul>\n<li>천문학자들이 태양계 밖의 행성에서 생명 존재를 시사할 수 있는 화학 물질을 발견했음</li>\n<li>James Webb 우주 망원경을 사용하여 K2-18b 행성의 대기에서 생명체의 잠재적 지문인 '바이오 시그니처'를 발견했음</li>\n<li>K2-18b는 지구보다 8.6배 무겁고 2.6배 크며, 124광년 떨어져 있음</li>\n<li>이 행성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20399",
+      "guid": "https://news.hada.io/topic?id=20399",
+      "pubDate": "2025-04-18T10:01:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Spotify 대안으로서의 Jellyfin",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Spotify</strong>를 떠나 <strong>Jellyfin</strong>을 사용하게 된 경험을 공유함</li>\n<li>Spotify를 탈퇴한 후 대체 음악 감상 방법을 찾아 여러 로컬 음악 플레이어를 시도했지만 대부분 불편하거나 시대에 뒤처진 UX였음</li>\n<li>웹 기반 음악 플레이어를 직접 만들기도 했지만, 오프라인 사용 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20398",
+      "guid": "https://news.hada.io/topic?id=20398",
+      "pubDate": "2025-04-18T09:58:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeepSeek의 분산 파일 시스템 3FS 소개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>3FS는 DeepSeek가 개발한 고성능 오픈소스 분산 파일 시스템</strong>으로, 대규모 데이터 처리와 높은 처리량을 지원함</li>\n<li>\n<strong>일반적인 파일 시스템처럼 동작하지만</strong>, 실제로는 여러 머신에 데이터를 분산 저장하며 사용자는 이를 의식하지 않아도 되는 추상화 구조를 가짐</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20397",
+      "guid": "https://news.hada.io/topic?id=20397",
+      "pubDate": "2025-04-18T09:55:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.5 Flash 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gemini 2.5 Flash</strong>는 Google AI Studio와 Vertex AI를 통해 제공되는 <strong>하이브리드 추론 모델</strong>로, 속도와 비용을 유지하면서 추론 능력을 크게 향상시킴</li>\n<li>\n<strong>생각(on/off) 기능</strong>과 <strong>thinking_budget 설정</strong>을 통해 <strong>성능, 비용, 지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20396",
+      "guid": "https://news.hada.io/topic?id=20396",
+      "pubDate": "2025-04-18T09:52:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TikTok은 산업적 규모로 어린이에게 해를 끼치고 있음",
+      "description": {
+        "$text": "<ul>\n<li>미국 14개 주 법무장관은 <strong>TikTok이 아동과 청소년에게 심각한 해악을 끼친다고 주장하며 소송</strong>을 제기함</li>\n<li>내부 문서와 직원 발언을 통해 <strong>중독성 알고리듬, 정신 건강 문제, 성적 착취 및 아동 포르노 노출</strong> 등이 드러남</li>\n<li>TikTok은 <strong>이 문제들을 인식하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20395",
+      "guid": "https://news.hada.io/topic?id=20395",
+      "pubDate": "2025-04-18T09:49:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Zoom.us 도메인 '비활성화'로 인한 Zoom 서비스 장애",
+      "description": {
+        "$text": "<ul>\n<li>Zoom 서비스는 2025년 4월 16일에 <strong>도메인 차단</strong>으로 인해 일시적으로 중단되었음</li>\n<li>\n<strong>GoDaddy Registry</strong>와 <strong>Markmonitor</strong> 간의 통신 오류로 인해 발생한 문제였음</li>\n<li>Zoom, Markmonitor, GoDaddy는 신속하게 문제를 해결하여 서비스를 복구하였음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20394",
+      "guid": "https://news.hada.io/topic?id=20394",
+      "pubDate": "2025-04-18T09:46:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 연방법원, 구글은 온라인 광고 기술분야의 독점 기업이라고 판결",
+      "description": {
+        "$text": "<ul>\n<li>미국 연방법원이 <strong>Google이 온라인 광고 기술 분야에서 불법적으로 독점을 유지했다는 판결</strong>을 내림</li>\n<li>Google은 <strong>광고 기술 시스템을 지배하면서 가격을 올리고 수수료를 더 많이 챙긴 혐의</strong>를 받음</li>\n<li>이번 판결은 <strong>1.88조 달러 규모의 Google에 구조조정 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20393",
+      "guid": "https://news.hada.io/topic?id=20393",
+      "pubDate": "2025-04-18T09:43:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 에이전트를 위한 가격 전략 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>AI 에이전트의 수익화는 이제 <strong>“사용량”이 아니라 “성과” 중심</strong>으로 이동 중</li>\n<li>\n<strong>4가지 대표적인 가격 책정 모델</strong>(에이전트 기준, 액션 기준, 워크플로우 기준, 성과 기준)을 사례와 함께 소개</li>\n<li>\n<strong>에이전트의 기능과 고객이 느끼는 가치 인식에 맞는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20392",
+      "guid": "https://news.hada.io/topic?id=20392",
+      "pubDate": "2025-04-18T09:17:15+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스타트업 사후 분석 (Postmortem)",
+      "description": {
+        "$text": "<ul>\n<li>2년만에 사업을 종료한 한 영국 스타트업의 실패 경험과 교훈을 상세히 공유한 글</li>\n<li>Tract는 <strong>영국의 주택 위기를 해결</strong>하기 위해 <strong>계획 허가(Planning Permission) 절차를 개선하는 소프트웨어 스타트업</strong>으로 출발했으나, <strong>수익화와 시장 적합성 부족으로 2년 만...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20391",
+      "guid": "https://news.hada.io/topic?id=20391",
+      "pubDate": "2025-04-18T09:16:34+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
