@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T23:33:59+09:00",
+  "lastBuildDate": "2025-04-19T07:35:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32747,6 +32747,32 @@
       "guid": "https://news.hada.io/topic?id=20409",
       "pubDate": "2025-04-18T23:33:59+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ChatGPT는 이제 사진의 위치를 정확히 알아냄",
+      "description": {
+        "$text": "<ul>\n<li>o3는 사진을 확대, 크롭, 더 밝게 변환하여 &quot;이 사진을 찍은 장소&quot;를 정확히 유추</li>\n</ul>\n<blockquote>\n<p>이제 야외에 찍은 사진을 공개하면 &quot;어떤 스토커든 월 2만원에 날 찾아낼 수 있음&quot; 으로 생각을 바꿔야함. 숙련된 사람만 가능한게 아님</p>\n</blockquote>\n<ul>\n<li>GeoGuessr",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20411",
+      "guid": "https://news.hada.io/topic?id=20411",
+      "pubDate": "2025-04-19T07:35:49+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Defold: 크로스 플랫폼 게임 엔진",
+      "description": {
+        "$text": "<ul>\n<li>가볍고 고성능인 <strong>2D 중심 게임 엔진</strong>이며, <strong>3D 기능도 지원</strong>함</li>\n<li>\n<strong>Lua 스크립트</strong> 기반으로 전체 게임 로직을 제어하며, 빠른 빌드와 핫 리로드로 개발 속도 향상</li>\n<li>\n<strong>무료</strong>로 제공되며, 라이선스 비용이나 로열티가 없음</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20410",
+      "guid": "https://news.hada.io/topic?id=20410",
+      "pubDate": "2025-04-19T07:10:23+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
