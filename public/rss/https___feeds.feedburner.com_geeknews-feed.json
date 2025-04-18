@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T19:52:06+09:00",
+  "lastBuildDate": "2025-04-18T23:33:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32734,6 +32734,19 @@
       "guid": "https://news.hada.io/topic?id=20408",
       "pubDate": "2025-04-18T19:52:06+09:00",
       "author": "unsure4000",
+      "category": ""
+    },
+    {
+      "title": "우편으로 배송되는 감자",
+      "description": {
+        "$text": "<ul>\n<li>이 문서는 USPS와 관련된 정보를 제공하는 웹사이트임</li>\n<li>웹사이트의 보안 확인 절차가 필요함</li>\n<li>Cloudflare를 통해 성능과 보안을 강화함</li>\n<li>Ray ID를 통해 특정 요청을 추적할 수 있음</li>\n<li>웹사이트의 접근성을 높이기 위한 보안 조치가 포함됨</li>\n</ul>\n<hr />\n<h2>USPS 웹사이트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20409",
+      "guid": "https://news.hada.io/topic?id=20409",
+      "pubDate": "2025-04-18T23:33:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
