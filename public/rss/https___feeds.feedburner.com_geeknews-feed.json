@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T11:32:48+09:00",
+  "lastBuildDate": "2025-04-18T13:26:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32669,6 +32669,32 @@
       "guid": "https://news.hada.io/topic?id=20401",
       "pubDate": "2025-04-18T11:12:51+09:00",
       "author": "passerby",
+      "category": ""
+    },
+    {
+      "title": "Google AI Studio - Starter Apps 사용기",
+      "description": {
+        "$text": "<p>(원글에는 시스템 프롬프트, 코드 스니펫과 gif들이 포함되어 있습니다)</p>\n<ul>\n<li>\n<a href=\"https://developers.googleblog.com/en/making-it-easier-to-build-with-the-gemini-api-in-google-ai-studio/\">Google AI Studio가 업데이트</a>되면서 Gemini를 활용한 다양한 미니 앱들(Starter Apps)을 가지고 노는",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20405",
+      "guid": "https://news.hada.io/topic?id=20405",
+      "pubDate": "2025-04-18T13:26:48+09:00",
+      "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "LLM으로 대규모 테스트 마이그레이션을 가속하기",
+      "description": {
+        "$text": "<ul>\n<li>Airbnb는 약 3,500개의 Enzyme 기반 테스트 파일을 <strong>React Testing Library(RTL)</strong> 로 자동 마이그레이션하는 데 성공</li>\n<li>원래 1.5년이 걸릴 것으로 예상한 작업을 <strong>LLM과 자동화 파이프라인으로 단 6주 만에 3.5K의 테스트파일 업데이트 완료</strong>\n</li>\n<li>자동 유효성 검사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20404",
+      "guid": "https://news.hada.io/topic?id=20404",
+      "pubDate": "2025-04-18T13:20:36+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
