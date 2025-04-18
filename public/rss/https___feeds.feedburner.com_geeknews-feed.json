@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T13:26:48+09:00",
+  "lastBuildDate": "2025-04-18T16:06:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32694,6 +32694,19 @@
       "link": "https://news.hada.io/topic?id=20404",
       "guid": "https://news.hada.io/topic?id=20404",
       "pubDate": "2025-04-18T13:20:36+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, CPU에서 실행가능한 초고효율 AI 모델 BitNet 개발",
+      "description": {
+        "$text": "<ul>\n<li>Microsoft 연구진이 <strong>BitNet b1.58 2B4T</strong>라는 <strong>초효율적인 AI 모델</strong>을 개발했음</li>\n<li>\n<strong>1비트 양자화</strong>를 통해 <strong>높은 속도와 낮은 메모리 사용량 달성</strong>하여 <strong>CPU</strong>에서도 실행 가능하며 <strong>MIT 라이선스</strong>로 공개됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20406",
+      "guid": "https://news.hada.io/topic?id=20406",
+      "pubDate": "2025-04-18T16:06:44+09:00",
       "author": "xguru",
       "category": ""
     }
