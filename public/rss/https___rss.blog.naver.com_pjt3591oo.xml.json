@@ -768,6 +768,15 @@
       "pubDate": "Wed, 16 Apr 2025 18:08:45 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[python] 파이썬 패키지 / 프로젝트 관리 도구 종결자 uv",
+      "description": "안녕하세요 멍개입니다. 이번 포스트에서는 uv 도구를 알아보겠습니다. 먼저, uv는 rust로 개발되었으며 pip와 venv, pyenv, poetry와 같이 패키지 관리, 프로젝트 관리, 가상환경 관리 등을 통합적으로 제공하는 도구입니다. https://blog.naver.com/pjt3591oo/222633677248 우리가 프로젝트를 진행할 때 관리하는 요소는 다음과 같습니다. 사용중인 런타임 / 언어의 버전(node에서는 n or nvm 이용) 프로젝트 관리(node에서는 package.json) 패키지 관리(node에서는 package.json) 프로젝트를 진행한다면 3가지 요소는 필수적으로 관리해야 합니다. 매우 당연한건데 파이썬은 이를 위해 별도의 도구들을 사용했어야 했습니다..... 이제서야 정.......",
+      "link": "https://blog.naver.com/pjt3591oo/223839255919?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223839255919",
+      "pubDate": "Fri, 18 Apr 2025 23:40:44 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
