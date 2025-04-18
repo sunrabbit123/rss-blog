@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-18T18:31:18+09:00",
+  "lastBuildDate": "2025-04-18T19:52:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32721,6 +32721,19 @@
       "guid": "https://news.hada.io/topic?id=20407",
       "pubDate": "2025-04-18T18:31:18+09:00",
       "author": "kwonhl0211",
+      "category": ""
+    },
+    {
+      "title": "Kagi, 모든 플랜 이용자를 대상으로 Assistant 제공 시작",
+      "description": {
+        "$text": "<ul>\n<li>유료 검색엔진 <a href=\"https://kagi.com\">Kagi</a>가 최고 등급의 Ultimate 플랜 사용자에게만 제공하던 Assistant(챗봇)의 적용 범위를 모든 플랜 사용자에게 확대함.</li>\n<li>Kagi의 <a href=\"https://kagi.com/privacy#Terms-of-use\">Fair use 정책</a>에 따라 사용 가능한 토큰량은 플랜에 따라 차등 지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20408",
+      "guid": "https://news.hada.io/topic?id=20408",
+      "pubDate": "2025-04-18T19:52:06+09:00",
+      "author": "unsure4000",
       "category": ""
     }
   ]
