@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-19T15:08:17+09:00",
+  "lastBuildDate": "2025-04-19T16:32:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32916,6 +32916,19 @@
       "guid": "https://news.hada.io/topic?id=20422",
       "pubDate": "2025-04-19T15:08:17+09:00",
       "author": "jaehong747",
+      "category": ""
+    },
+    {
+      "title": "15,000줄 검증된 암호기술 Python 구현 완료",
+      "description": {
+        "$text": "<ul>\n<li>Python은 이제 모든 해시 및 HMAC 알고리듬을 <strong>HACL</strong>*이라는 검증된 암호화 라이브러리를 통해 제공함</li>\n<li>HACL*는 Python의 요구 사항을 충족하기 위해 새로운 기능을 성공적으로 구현했으며, Python 사용자에게 투명하게 전환됨</li>\n<li>\n<strong>스트리밍 API</strong>는 복잡한 상태를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20423",
+      "guid": "https://news.hada.io/topic?id=20423",
+      "pubDate": "2025-04-19T16:32:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
