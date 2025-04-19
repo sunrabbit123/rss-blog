@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-19T07:35:49+09:00",
+  "lastBuildDate": "2025-04-19T10:33:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32772,6 +32772,123 @@
       "link": "https://news.hada.io/topic?id=20410",
       "guid": "https://news.hada.io/topic?id=20410",
       "pubDate": "2025-04-19T07:10:23+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "판사가 판결한 셀 타워 데이터 일괄 수색 위헌 결정",
+      "description": {
+        "$text": "<ul>\n<li>네바다의 판사가 <strong>타워 덤프</strong>가 헌법에 위배된다고 판결함</li>\n<li>타워 덤프는 수천 개의 개인 정보를 수집하는 수사 기법임</li>\n<li>법원은 이번에만 증거 사용을 허용했음</li>\n<li>타워 덤프는 <strong>제4차 수정헌법</strong>에 위배된다고 판단됨</li>\n<li>이 판결은 <strong>제9순회 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20420",
+      "guid": "https://news.hada.io/topic?id=20420",
+      "pubDate": "2025-04-19T10:33:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사이버 보안 업계의 귀청이 터질 듯한 침묵",
+      "description": {
+        "$text": "<ul>\n<li>크리스 크렙스는 2020년 미국 대선의 보안을 보장한 후 해고된 전 CISA 국장임</li>\n<li>트럼프 대통령은 크렙스를 대상으로 한 행정 명령을 발행하여 그를 조사하고 연관된 기업과의 계약을 제한하려 함</li>\n<li>이 명령은 헌법적 우려를 불러일으키며, 사이버 보안 업계는 대부분 침묵을 유지하고 있음</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20419",
+      "guid": "https://news.hada.io/topic?id=20419",
+      "pubDate": "2025-04-19T09:50:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: QR 코드에 담긴 Doom 스타일 게임 제작",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>The Backdooms</strong>는 QR 코드에서 직접 실행할 수 있는 HTML 게임으로, DOOM 1993과 The Backrooms에서 영감을 받아 개발됨</li>\n<li>이 프로젝트는 QR 코드 저장 및 압축의 한계를 시험하고, QR 코드 내에서 경량 웹 애플리케이션을 호스팅하는 혁신적인 방법을 보여주기 위해 설계됨</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20418",
+      "guid": "https://news.hada.io/topic?id=20418",
+      "pubDate": "2025-04-19T09:47:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ElasticSearch에 드디어 SQL 스타일 JOIN 기능 도입",
+      "description": {
+        "$text": "<ul>\n<li>ES 8.18에 <strong>ES|QL의 LOOKUP JOIN</strong> 명령어가 도입되어 데이터 상관관계 및 보강이 가능해짐</li>\n<li>기존 ENRICH 기능보다 설정과 관리가 쉬우며, <strong>데이터 조인, 보안 이벤트 상관 분석, 자산 정보 병합 등에 유용</strong>\n</li>\n<li>JOIN을 위해 새롭게 설계된 <strong>단일 샤드 기반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20417",
+      "guid": "https://news.hada.io/topic?id=20417",
+      "pubDate": "2025-04-19T09:46:47+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "디스코드 얼굴 인식 연령 확인 '더 큰 변화의 시작'",
+      "description": {
+        "$text": "<ul>\n<li>Discord는 영국과 호주에서 일부 사용자들의 나이를 확인하기 위해 <strong>얼굴 인식 기술</strong>을 테스트 중임</li>\n<li>온라인 안전법에 따라 성인 콘텐츠가 포함된 플랫폼은 <strong>강력한 나이 확인</strong>을 요구받게 됨</li>\n<li>\n<strong>Matt Navarra</strong>는 이러한 변화가 온라인 안전법의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20416",
+      "guid": "https://news.hada.io/topic?id=20416",
+      "pubDate": "2025-04-19T09:44:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TurboTax 소유주 Intuit, 미국 납세자와의 전쟁에서 승리",
+      "description": {
+        "$text": "<ul>\n<li>Intuit는 TurboTax의 소유자로, 미국의 무료 세금 신고 프로그램을 종료시키는 데 성공함</li>\n<li>IRS의 무료 세금 신고 프로그램인 Direct File이 종료될 예정이며, 이는 Intuit의 로비 활동의 결과임</li>\n<li>Intuit는 수년간 정부의 세금 신고 간소화 시도를 저지하기 위해 막대한 자금을 사용해왔음</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20415",
+      "guid": "https://news.hada.io/topic?id=20415",
+      "pubDate": "2025-04-19T09:41:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kagi Assistant, 모든 사용자에게 제공 시작",
+      "description": {
+        "$text": "<ul>\n<li>Kagi Assistant는 모든 사용자에게 제공되며, Kagi Search와 통합되어 사용자의 검색 경험을 향상시킴</li>\n<li>AI는 검색 관련 문맥에서 보조 역할을 하며, 사용자의 비판적 사고를 대체하지 않음</li>\n<li>사용자 맞춤형 어시스턴트를 생성하여 특정 작업에 맞게 활용 가능</li>\n<li>개인 정보 보호를 중시하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20414",
+      "guid": "https://news.hada.io/topic?id=20414",
+      "pubDate": "2025-04-19T09:38:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitZip - GitHub Repo의 서브폴더/파일 내려받기용 브라우저 확장",
+      "description": {
+        "$text": "<ul>\n<li>GitHub Repo 전체 프로젝트 대신 일부 폴더/파일만 빠르게 다운로드 가능</li>\n<li>멀티 파일 및 폴더를 선택하여 다운로드 지원</li>\n<li>크롬/Edge/Firefox 용 확장 제공</li>\n<li>확장 및 웹페이지 모두 오픈소스로 공개</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20413",
+      "guid": "https://news.hada.io/topic?id=20413",
+      "pubDate": "2025-04-19T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "ChatGPT로 사진에서 '역방향 위치 검색'을 실행하는게 유행하고 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ChatGPT를 이용한 이미지 기반 위치 추적</strong>이 바이럴 트렌드로 확산되고 있음</li>\n<li>OpenAI의 최신 모델 <strong>o3와 o4-mini는 이미지 분석 및 웹 검색 기능</strong>을 조합해 높은 정확도의 위치 추론 수행</li>\n<li>사용자들은 o3에 <strong>레스토랑 메뉴, 거리 풍경, 인물 사진 등을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20412",
+      "guid": "https://news.hada.io/topic?id=20412",
+      "pubDate": "2025-04-19T08:03:14+09:00",
       "author": "xguru",
       "category": ""
     }
