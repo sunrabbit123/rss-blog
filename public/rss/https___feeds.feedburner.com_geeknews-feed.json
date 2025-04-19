@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-19T13:43:42+09:00",
+  "lastBuildDate": "2025-04-19T15:08:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32903,6 +32903,19 @@
       "guid": "https://news.hada.io/topic?id=20421",
       "pubDate": "2025-04-19T13:43:42+09:00",
       "author": "winterjung",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 엔지니어의 미래 - 세계경제포럼 \"Future of Jobs Report 2025\" 분석",
+      "description": {
+        "$text": "<p>소프트웨어 엔지니어로서 급변하는 기술 환경에서 내 커리어는 어떻게 변화할까요? 어떤 기술이 중요해지고, AI는 내 직업에 어떤 영향을 미칠까요? 세계경제포럼의 최신 &quot;Future of Jobs Report 2025&quot;를 통해 소프트웨어 엔지니어에게 가장 중요한 인사이트를 Q&amp;A 형식으로 정리했습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20422",
+      "guid": "https://news.hada.io/topic?id=20422",
+      "pubDate": "2025-04-19T15:08:17+09:00",
+      "author": "jaehong747",
       "category": ""
     }
   ]
