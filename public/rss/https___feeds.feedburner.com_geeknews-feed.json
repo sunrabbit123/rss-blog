@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-19T10:33:06+09:00",
+  "lastBuildDate": "2025-04-19T13:43:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32890,6 +32890,19 @@
       "guid": "https://news.hada.io/topic?id=20412",
       "pubDate": "2025-04-19T08:03:14+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 자주 사용하는 셸 스니펫이 있으신가요?",
+      "description": {
+        "$text": "<p>저는 아래 셸 스크립트나 snippet을 <code>~/.zshrc</code>에 넣어두거나 alias걸어 사용하곤 하는데, 다른 분들은 어떤 스니펫을 사용하시는지 궁금해 올려봅니다.</p>\n<p>아래 내용은 <a href=\"https://www.winterjung.dev/fc8307/\">개인 블로그: 자주 사용하는 셸 스니펫</a>에도 적어두었는데 굳이 들어가서 보실",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20421",
+      "guid": "https://news.hada.io/topic?id=20421",
+      "pubDate": "2025-04-19T13:43:42+09:00",
+      "author": "winterjung",
       "category": ""
     }
   ]
