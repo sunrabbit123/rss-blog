@@ -777,6 +777,15 @@
       "pubDate": "Fri, 18 Apr 2025 23:40:44 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[인공지능] A2A란 무엇인가? 데모(demo)로 이해해보자",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 구글에서 발표한 ADK(Agent Development Kit), A2A(Agent2Agent)중 ADK를 다뤄보았습니다. 이번 시간은 A2A를 다뤄보겠습니다. A2A에 대한 샘플 코드는 깃허브에서 제공하고 있습니다. https://github.com/google/A2A ● A2A를 이해해보자 Agent간 통신은 어떻게 이루어지는지 알아보겠습니다. A2A는 한마디로 Agent에게 호출하는 표준입니다. 이 표준은 Agent의 스펙을 알려주는 하나의 API(/.well-known/agent.json)와 호출을 위한 JSON-RPC2.0으로 정의되어 있습니다. · A2A란? ADK는 Agent를 만드는 방법을 제공합니다. https://github.com/pjt3591oo/ADK-sample 여기서 각각의 항목이 Agent라고 할 수 있....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA0MTlfMTM1/MDAxNzQ1MDI1NDA0Mjk0.uZRCkEV2NKCZ98hf_QpbUytHOiY7WJwWKfdLccw4nUAg.KSZs87Dvz1iyO0xvg9n42r_a0EhUOX6hlMLlE1DbbEQg.PNG/Screenshot_2025-04-19_at_10.16.36.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223839552262?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223839552262",
+      "pubDate": "Sat, 19 Apr 2025 11:28:45 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
