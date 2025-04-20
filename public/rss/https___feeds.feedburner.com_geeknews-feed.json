@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-19T16:32:34+09:00",
+  "lastBuildDate": "2025-04-20T10:32:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -32929,6 +32929,136 @@
       "guid": "https://news.hada.io/topic?id=20423",
       "pubDate": "2025-04-19T16:32:34+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "웹의 붕괴 - Botnet 2부",
+      "description": {
+        "$text": "<ul>\n<li>AI 회사들이 데이터를 수집하기 위해 웹 크롤러를 사용하여 서버에 부하를 주고 있음</li>\n<li>일부 회사들은 앱 개발자들에게 네트워크 공유 SDK를 앱에 포함시켜 봇넷을 형성하게 함</li>\n<li>이러한 봇넷은 사용자들의 네트워크 대역폭을 사용하여 웹을 크롤링하고, 메일 서버를 공격하는 등의 행위를 함</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20435",
+      "guid": "https://news.hada.io/topic?id=20435",
+      "pubDate": "2025-04-20T10:32:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gridbach, 골드바흐 추측 4*10^18+7*10^13까지 검증",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gridbach는 웹 브라우저에서 동작하는 분산 컴퓨팅 시스템</strong>으로, 골드바흐의 추측을 <strong>4퀸틸리언(4×10¹⁸) + 70조까지 검증</strong>하며 세계 기록을 경신함\n<ul>\n<li>골드바흐의 추측 : <strong>모든 2보다 큰 짝수는 두 소수의 합으로 표현할 수 있다</strong>\n</li>\n</ul>\n</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20434",
+      "guid": "https://news.hada.io/topic?id=20434",
+      "pubDate": "2025-04-20T09:57:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Undercut-F1 – 드라이버 추적 및 가변 지연 기능을 갖춘 F1 라이브 타이밍 TUI",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>undercut-f1은 F1 세션의 실시간 타이밍 정보를 기록하여 나중에 재생할 수 있는 오픈소스 TUI 클라이언트</strong>\n</li>\n<li>\n<strong>신호 기반 스트림 데이터를 받아 시각화하거나 녹화된 세션을 리플레이</strong>할 수 있음</li>\n<li>상세한 드라이버별 타이밍 타워, 피트 스톱 전략, 레이스 컨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20433",
+      "guid": "https://news.hada.io/topic?id=20433",
+      "pubDate": "2025-04-20T09:54:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Android폰, 이제 3일간 미사용 시 자동 재부팅됨",
+      "description": {
+        "$text": "<ul>\n<li>안드로이드 기기에서 <strong>3일간 사용하지 않으면 자동 재시작되는 보안 기능</strong>이 새로 도입됨</li>\n<li>이 기능은 <strong>Google Play Services v25.14 업데이트</strong>를 통해 자동 배포됨</li>\n<li>재시작 후 초기 잠금 상태(<strong>Before First Unlock (BFU)</strong>)는 <strong>데이터 복...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20432",
+      "guid": "https://news.hada.io/topic?id=20432",
+      "pubDate": "2025-04-20T09:51:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "PiLiDAR - 라즈베리 파이 라이다 스캐너",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>PiLiDAR</strong>는 DIY 360° 3D 파노라마 스캐너로, <strong>LiDAR</strong>와 <strong>파노라마</strong> 기능을 통해 3D 장면을 구성함</li>\n<li>\n<strong>LiDAR</strong>는 LDRobot LD06, LD19 또는 STL27L을 사용하며, CRC 패키지 무결성 검사와 하드웨어 PWM을 포함함</li>\n<li>\n<strong>파노라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20431",
+      "guid": "https://news.hada.io/topic?id=20431",
+      "pubDate": "2025-04-20T09:48:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude Code: 에이전트 코딩을 위한 모범 사례",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Claude Code는 CLI 기반의 에이전틱 코딩 도구</strong>로, 다양한 개발 환경과 언어에 유연하게 적용 가능함</li>\n<li>\n<strong>CLAUDE.md 설정, 도구 허용 목록 관리, 사용자 정의 명령어 생성</strong>을 통해 Claude 사용성을 극대화할 수 있음</li>\n<li>\n<strong>워크플로우별 전략</strong>(탐색...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20430",
+      "guid": "https://news.hada.io/topic?id=20430",
+      "pubDate": "2025-04-20T09:45:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사서들은 위험한 사람들입니다.",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>사서들은 위험한 존재임</strong>: 사서들은 단순히 조용한 공간을 지키는 사람들이 아니라, <strong>미디어 리터러시의 용병</strong>이자 <strong>지식의 불꽃을 점화하는 사람들</strong>임</li>\n<li>\n<strong>역할</strong>: 사서들은 <strong>교육자</strong>, <strong>기술 전문가</strong>, <s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20429",
+      "guid": "https://news.hada.io/topic?id=20429",
+      "pubDate": "2025-04-20T09:42:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "편안한 비디오 게임은 스트레스와 불안을 해소할 수 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cozy 게임</strong>은 <strong>스트레스 해소와 정신 건강 향상에 긍정적 영향</strong>을 주는 연구 결과가 있음</li>\n<li>\n<strong>공동체 중심의 게임플레이</strong>와 <strong>부드럽고 따뜻한 분위기</strong>로 유저에게 정서적 안정감 제공</li>\n<li>누구나 쉽게 접근 가능한 설계로 다양한 연...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20428",
+      "guid": "https://news.hada.io/topic?id=20428",
+      "pubDate": "2025-04-20T09:39:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Scorpi - 맥OS용 경량 범용 하이퍼바이저",
+      "description": {
+        "$text": "<ul>\n<li>QEMU를 대체할 수 있도록 설계된 <strong>모던하고 경량화된 범용 하이퍼바이저</strong>\n</li>\n<li>FreeBSD의 Bhyve를 기반으로 하며, 장치 에뮬레이션 코드가 매우 작고 효율적</li>\n</ul>\n<h2>주요 특징</h2>\n<ul>\n<li>\n<strong>모던한 구조</strong>: 구형 장치를 배제하고, 대부분 <strong>VirtIO 기반 최...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20427",
+      "guid": "https://news.hada.io/topic?id=20427",
+      "pubDate": "2025-04-20T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Luxury 산업 보고서 - 럭셔리 시장의 변화와 미래 성장 전략",
+      "description": {
+        "$text": "<ul>\n<li>Bain&amp;Company에 따르면, 2024년 전 세계 럭셔리 소비는 총 €1.48T(2330조원)를 기록, 2023년 대비 1~3% 감소함</li>\n<li>럭셔리 시장은 <strong>럭셔리 자동차, 개인 명품, 럭셔리 호스피탈리티</strong> 세 가지 주요 부문이 전체 시장의 <strong>80%</strong> 를 차지함</li>\n<li>경험 기반 럭셔리(여행...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20426",
+      "guid": "https://news.hada.io/topic?id=20426",
+      "pubDate": "2025-04-20T09:12:11+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
