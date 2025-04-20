@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-20T16:32:35+09:00",
+  "lastBuildDate": "2025-04-21T00:36:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33072,6 +33072,19 @@
       "guid": "https://news.hada.io/topic?id=20436",
       "pubDate": "2025-04-20T16:32:35+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "[번역] 낙관주의는 현실이 됩니다",
+      "description": {
+        "$text": "<ul>\n<li>두려움의 대상: 스타트업이 빠른 실행력을 잃고 대기업처럼 느려지는 것.\n<ul>\n<li>초기 직원의 효율성을 이후 직원들도 유지해야 함.</li>\n</ul>\n</li>\n<li>업무 처리 속도의 핵심 요소:\n<ul>\n<li>업무의 소요시간을 미리 예상하는 ‘관점(Scope)’과 낙관적 태도가 실제 업무 속도에 큰 영향을 미침.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20437",
+      "guid": "https://news.hada.io/topic?id=20437",
+      "pubDate": "2025-04-21T00:36:26+09:00",
+      "author": "liabilityuk0",
       "category": ""
     }
   ]
