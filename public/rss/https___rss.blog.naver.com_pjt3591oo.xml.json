@@ -786,6 +786,15 @@
       "pubDate": "Sat, 19 Apr 2025 11:28:45 +0900",
       "author": "pjt3591oo",
       "category": "인공지능"
+    },
+    {
+      "title": "[인공지능] 구글이 공개한 A2A를 이용하여 코드생성 A2A Server 만들기",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 구글이 공개한 A2A가 무엇이고 샘플 코드/데모를 구동시켜 보았습니다. https://blog.naver.com/pjt3591oo/223839552262 ADK의 경우는 Development Kit이기 때문에 pypi, npm 등을 이용하여 설치 후 사용할 수 있었습니다. 하지만 A2A는 프로토콜이기 때문에 아직은 공식적으로 pypi나 npm 등에 존재하진 않습니다. · 프로젝트 준비 먼저, A2A를 가져옵니다. samples/python 경로를 이용하여 나만의 에이전트를 추가합니다 3개의 핵심 파일을 생성합니다. ☞ agent.py ☞ task_manager.py ☞ __main__.py 각 파일의 의존성은 다음과 같습니다. [__main__.py] <--- [task_manager.py] <--- [agent.py] _....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA0MjBfMzAw/MDAxNzQ1MTE1MDM5MDU1.bHeg3VkEzNmOIyRPXhYqa4Il__B64I1KIBYs1JcNG-Qg.cI9CSS8ydMchyBV53nOT2KbLNuLEX62QMonXf0e_3pwg.PNG/Screenshot_2025-04-20_at_11.10.34.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223840293717?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223840293717",
+      "pubDate": "Sun, 20 Apr 2025 11:23:42 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }
