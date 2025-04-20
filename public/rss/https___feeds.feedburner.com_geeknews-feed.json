@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-20T10:32:37+09:00",
+  "lastBuildDate": "2025-04-20T16:32:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33059,6 +33059,19 @@
       "guid": "https://news.hada.io/topic?id=20426",
       "pubDate": "2025-04-20T09:12:11+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show HN: GitHub 코드베이스를 쉬운 튜토리얼로 변환하는 AI 개발",
+      "description": {
+        "$text": "<ul>\n<li>AI를 활용하여 GitHub 코드베이스를 초보자 친화적인 튜토리얼로 변환하는 프로젝트인 Pocket Flow 소개</li>\n<li>GitHub 저장소를 크롤링하여 코드의 핵심 추상화를 분석하고 시각화를 통해 복잡한 코드를 쉽게 이해할 수 있는 튜토리얼로 변환함</li>\n<li>AI가 자동으로 생성한 다양한 GitHub 저장소의 예시 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20436",
+      "guid": "https://news.hada.io/topic?id=20436",
+      "pubDate": "2025-04-20T16:32:35+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
