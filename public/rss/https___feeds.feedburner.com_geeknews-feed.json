@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-21T09:54:19+09:00",
+  "lastBuildDate": "2025-04-21T10:03:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33214,6 +33214,19 @@
       "link": "https://news.hada.io/topic?id=20440",
       "guid": "https://news.hada.io/topic?id=20440",
       "pubDate": "2025-04-21T09:12:30+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "XPipe - 로컬 머신에서 전체 서버 인프라 접근하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>로컬 데스크탑에서 다양한 서버 인프라에 쉽게 접근할 수 있도록 해주는 <strong>모던한 셸 연결 허브이자 원격 파일 관리자</strong>\n</li>\n<li>기존 <code>ssh</code>, <code>docker</code>, <code>kubectl</code> 등과 같은 CLI 도구 위에서 작동하며, <strong>원격 시스템에 별도의 설정 없이 바로 사용</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20450",
+      "guid": "https://news.hada.io/topic?id=20450",
+      "pubDate": "2025-04-21T10:03:01+09:00",
       "author": "xguru",
       "category": ""
     }
