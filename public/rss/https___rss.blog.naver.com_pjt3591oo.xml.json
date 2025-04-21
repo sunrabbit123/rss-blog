@@ -804,6 +804,15 @@
       "pubDate": "Sun, 20 Apr 2025 16:01:29 +0900",
       "author": "pjt3591oo",
       "category": "인공지능 활용"
+    },
+    {
+      "title": "[인공지능] 구글이 공개한 A2A를 이용하여 A2A Client 만들기",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 구글이 공개한 A2A를 이용하여 코드생성을 하는 A2A 서버를 만들어 보았습니다. https://blog.naver.com/pjt3591oo/223840293717 이번 시간은 A2A 서버에게 작업을 요청하는 A2A 클라이언트를 만들어보겠습니다. · 프로젝트 준비 먼저 A2A 코드를 가져옵니다. · 필요한 모듈 임포트 __main__.py를 만든러 준 후 다음과 같이 모듈을 임포트 합니다. 여기서는 우리가 앞에서 만든 code_eval A2A Server를 이용하기 위해 http://localhost:10004을 사용합니다. A2ACardResolver는 a2a 서버 정보를 입력 받습니다. get_agent_card()를 호출하면 a2a server에게 /.well-known/agent.json을 호출하여 AgentCard 정.......",
+      "link": "https://blog.naver.com/pjt3591oo/223841062597?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223841062597",
+      "pubDate": "Mon, 21 Apr 2025 08:38:39 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능"
     }
   ]
 }

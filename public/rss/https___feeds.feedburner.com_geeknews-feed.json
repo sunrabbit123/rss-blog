@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-21T00:36:26+09:00",
+  "lastBuildDate": "2025-04-21T09:54:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33085,6 +33085,136 @@
       "guid": "https://news.hada.io/topic?id=20437",
       "pubDate": "2025-04-21T00:36:26+09:00",
       "author": "liabilityuk0",
+      "category": ""
+    },
+    {
+      "title": "Vibe Coding은 저품질 작업의 변명이 아니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Vibe Coding</strong>은 AI를 활용한 소프트웨어 개발 방식으로, 빠른 개발을 가능하게 하지만 품질을 보장하지 않음</li>\n<li>AI가 생성한 코드의 품질은 사람의 검토와 수정이 필요하며, AI는 주니어 개발자와 같은 역할을 수행함</li>\n<li>AI를 도구로 활용하여 반복 작업을 빠르게 처리할 수 있지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20449",
+      "guid": "https://news.hada.io/topic?id=20449",
+      "pubDate": "2025-04-21T09:54:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "1992년 6인용 아케이드 기계 Galaxian3 Theatre 6 복원",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Galaxian 3: Project Revival</strong>은 Namco가 1980년대 후반에 개발한 대형 아케이드 게임으로, 28명의 플레이어가 동시에 즐길 수 있는 <strong>Galaxian3: Project Dragoon</strong>으로 시작되었음</li>\n<li>이 게임은 여러 버전으로 출시되었으며, 1990년 오사카에서 처음 선보였고, 이후 16명...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20448",
+      "guid": "https://news.hada.io/topic?id=20448",
+      "pubDate": "2025-04-21T09:51:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비디오 생성용 Next-Frame Prediction 모델에서 Packing Input Frame Context 활용",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>비디오 생성</strong>을 위한 <strong>다음 프레임 예측 모델</strong>에서 <strong>입력 프레임 컨텍스트</strong>를 패킹하는 방법에 대한 연구임</li>\n<li>\n<strong>FramePack</strong>은 <strong>GPU 메모리 레이아웃</strong>을 최적화하여 <strong>프레임 예측</strong>을 효율적으로 수행하는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20447",
+      "guid": "https://news.hada.io/topic?id=20447",
+      "pubDate": "2025-04-21T09:48:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Zig comptime이 하지 않을 일들",
+      "description": {
+        "$text": "<ul>\n<li>Zig의 <strong>comptime</strong> 기능은 강력한 컴파일 타임 평가 기능을 제공하지만, 제한적임</li>\n<li>\n<strong>호스트 누출 방지</strong>: Zig는 컴파일 타임 코드가 호스트 아키텍처에 접근하지 못하도록 함</li>\n<li>\n<strong>동적 소스 코드 생성 불가</strong>: Zig는 동적 소스 코드 생성을 지원하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20446",
+      "guid": "https://news.hada.io/topic?id=20446",
+      "pubDate": "2025-04-21T09:45:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"Revenge of the Sith\"의 영화 실수 미스터리",
+      "description": {
+        "$text": "<ul>\n<li>영화는 수작업으로 만들어지며, 때때로 관객에게 영화의 이음새가 보이는 순간이 있음</li>\n<li>이러한 실수는 영화의 마법을 살짝 깨뜨리지만, 영화 제작 과정을 좋아하는 팬들에게는 즐거운 순간임</li>\n<li>&quot;Revenge of the Sith&quot;에서의 실수는 영화의 시각적 효과를 담당한 ILM에서 발생한 것으로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20445",
+      "guid": "https://news.hada.io/topic?id=20445",
+      "pubDate": "2025-04-21T09:42:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemma 3 QAT 모델: AI를 소비자용 GPU로 도입하는 기술",
+      "description": {
+        "$text": "<ul>\n<li>Gemma 3는 최신 AI 모델로, 고성능 GPU에서 실행 가능함</li>\n<li>Quantization-Aware Training(QAT)을 통해 메모리 요구량을 줄이며 높은 품질을 유지함</li>\n<li>int4 양자화를 통해 VRAM 요구량을 크게 줄여 소비자용 GPU에서도 실행 가능하게 함</li>\n<li>다양한 도구와의 통합을 통해 사용자가 쉽게 모델을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20444",
+      "guid": "https://news.hada.io/topic?id=20444",
+      "pubDate": "2025-04-21T09:39:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI는 우리를 '접착제'로 만들고 있다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 도구들이 개발자의 핵심 업무 일부를 대체</strong>하면서 <strong>사람은은 ‘문제 해결자’에서 ‘연결자’ 역할로 밀려나고 있음</strong>\n</li>\n<li>&quot;바이브 코딩&quot;처럼 <strong>AI가 구현을 맡고 인간은 아이디어만 제시하는 미래</strong>가 제시되지만, 현실은 아직 복잡함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20443",
+      "guid": "https://news.hada.io/topic?id=20443",
+      "pubDate": "2025-04-21T09:25:30+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "덜 느린 C/C++ 코드 작성하는 법 배우기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>고성능 C/C++ 및 어셈블리 코딩 기법</strong>을 실전 예제로 학습할 수 있는 오픈소스 프로젝트</li>\n<li>STL 대신 <strong>최적화된 라이브러리</strong>와 다양한 하드웨어 최적화 기법 사용 예시 포함</li>\n<li>\n<strong>입력 생성 비용</strong>, <strong>수학 함수 근사화</strong>, <strong>CP...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20442",
+      "guid": "https://news.hada.io/topic?id=20442",
+      "pubDate": "2025-04-21T09:14:53+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SQLite에서의 트랜잭션과 가상 테이블",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SQLite 가상 테이블도 쓰기 및 트랜잭션 지원이 가능</strong>하며, <code>xUpdate</code>, <code>xSync</code>, <code>xCommit</code>, <code>xRollback</code> 등의 훅을 구현해 사용함</li>\n<li>SQLite는 기본적으로 <strong>롤백 저널 방식으로 원자성</strong>을 보장하며, 여러 DB 파일을 다룰 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20441",
+      "guid": "https://news.hada.io/topic?id=20441",
+      "pubDate": "2025-04-21T09:14:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "실리콘 밸리의 횡단보도 버튼이 Musk와 Zuck 목소리로 나오도록 해킹됨",
+      "description": {
+        "$text": "<ul>\n<li>실리콘밸리 지역의 <strong>횡단보도 버튼 음성 시스템이 해킹</strong>되어 버튼을 누르면 <strong>Elon Musk 및 Mark Zuckerberg를 흉내낸 음성</strong>이 재생</li>\n<li>메시지는 <strong>풍자적이거나 불쾌감을 줄 수 있는 내용</strong>을 포함함\n<blockquote>\n<p>&quot;사람들은 암이 나쁘다고 하지만, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20440",
+      "guid": "https://news.hada.io/topic?id=20440",
+      "pubDate": "2025-04-21T09:12:30+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
