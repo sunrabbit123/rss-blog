@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-21T14:22:17+09:00",
+  "lastBuildDate": "2025-04-21T18:23:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33241,6 +33241,32 @@
       "guid": "https://news.hada.io/topic?id=20451",
       "pubDate": "2025-04-21T14:22:17+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "WinRing0: 왜 Windows가 각종 PC 모니터링 앱을 악성코드로 인식하기 시작했는가",
+      "description": {
+        "$text": "<ul>\n<li>2025년 3월 11일부터 전세계 수많은 PC 유저들이 Windows Defender(Windows에 내장된 안티바이러스 앱)로부터 악성 코드 경고를 받기 시작함.</li>\n<li>악성 코드의 진원지는 대부분 PC 제어용 소프트웨어로, Razer Synapse, SteelSeries Engine, MSI Afterburner 등이 포함되어 있음.</li>\n<li>이들 소프트웨어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20453",
+      "guid": "https://news.hada.io/topic?id=20453",
+      "pubDate": "2025-04-21T18:23:44+09:00",
+      "author": "mastotron",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 대한민국 대통령 대선 공약 정보 제공 플랫폼",
+      "description": {
+        "$text": "<h3>21대 대통령 후보 정보를 한눈에</h3>\n<ul>\n<li>제목은 거창하게 지었지만, 간략하게 말하면 제 21대 대통령선거에 앞서 대통령 후보의 약력이나 선거의 공약 혹은 후보의 논란 등을 제공하는 것을 목표로 하는 프로젝트입니다.</li>\n<li>\n<a href=\"https://%EB%8C%80%EC%84%A0%EC%9D%80%EC%A7%80%EA%B8%88.com\">🔗 h...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20452",
+      "guid": "https://news.hada.io/topic?id=20452",
+      "pubDate": "2025-04-21T18:16:24+09:00",
+      "author": "minsuchae",
       "category": ""
     }
   ]
