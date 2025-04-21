@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-21T10:03:01+09:00",
+  "lastBuildDate": "2025-04-21T14:22:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33227,6 +33227,19 @@
       "link": "https://news.hada.io/topic?id=20450",
       "guid": "https://news.hada.io/topic?id=20450",
       "pubDate": "2025-04-21T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 최신 추론 AI 모델은 더 환각을 많이 일으킴",
+      "description": {
+        "$text": "<ul>\n<li>최신 모델 <strong>o3와 o4-mini</strong>는 다양한 작업에서 뛰어난 성능을 보이지만, 이전 모델보다 <strong>더 많은 환각 현상</strong>을 보임</li>\n<li>\n<strong>환각 문제</strong>는 AI 발전에서 해결이 어려운 핵심 문제 중 하나이며, <strong>모델 크기가 커질수록 심화되는 경향</strong>을 가짐</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20451",
+      "guid": "https://news.hada.io/topic?id=20451",
+      "pubDate": "2025-04-21T14:22:17+09:00",
       "author": "xguru",
       "category": ""
     }
