@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-22T14:33:23+09:00",
+  "lastBuildDate": "2025-04-22T17:33:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33422,6 +33422,19 @@
       "link": "https://news.hada.io/topic?id=20474",
       "guid": "https://news.hada.io/topic?id=20474",
       "pubDate": "2025-04-22T14:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bluesky의 새로운 인증 형태",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Bluesky</strong>는 소셜 미디어에서 신뢰를 구축하기 위해 새로운 검증 시스템을 도입함</li>\n<li>사용자와 조직이 자신의 도메인을 사용자 이름으로 설정하여 검증할 수 있는 기능을 제공함</li>\n<li>\n<strong>블루 체크</strong>를 통해 눈에 띄는 시각적 신호를 제공하여 계정의 진위 여부를 쉽게...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20475",
+      "guid": "https://news.hada.io/topic?id=20475",
+      "pubDate": "2025-04-22T17:33:48+09:00",
       "author": "neo",
       "category": ""
     }
