@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-21T22:08:06+09:00",
+  "lastBuildDate": "2025-04-22T10:32:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33280,6 +33280,136 @@
       "guid": "https://news.hada.io/topic?id=20454",
       "pubDate": "2025-04-21T22:08:06+09:00",
       "author": "gracefullight",
+      "category": ""
+    },
+    {
+      "title": "파이프라이닝이 내가 가장 좋아하는 프로그래밍 언어 기능일지도 모름",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>파이프라이닝</strong>은 프로그래밍 언어에서 코드의 가독성과 유지보수성을 높이는 중요한 기능임</li>\n<li>\n<strong>Rust</strong>와 같은 언어에서 파이프라이닝은 코드의 흐름을 명확하게 하고, <strong>IDE</strong>의 자동 완성 기능을 통해 개발 생산성을 높임</li>\n<li>\n<strong>SQL</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20473",
+      "guid": "https://news.hada.io/topic?id=20473",
+      "pubDate": "2025-04-22T10:32:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Linux 코드를 30줄만 수정하면, 전력 사용량을 최대 30% 절감할 수 있음",
+      "description": {
+        "$text": "<ul>\n<li>미국 내 데이터센터 전력 소비는 2023년 기준 <strong>국가 전력의 약 4%</strong>, 2028년까지 <strong>12%로 증가 예상</strong>\n</li>\n<li>워털루대 연구팀은 <strong>리눅스 커널의 네트워크 처리 방식 개선</strong>을 통해 데이터센터의 전력 소비를 최대 <strong>30% 절감</strong>할 수 있는 방안을 개...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20472",
+      "guid": "https://news.hada.io/topic?id=20472",
+      "pubDate": "2025-04-22T10:13:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 전력 생산에서 '화석 연료 비중', 사상 처음으로 50% 아래로 하락",
+      "description": {
+        "$text": "<ul>\n<li>2025년 3월, <strong>미국 전력 생산에서 화석연료 비중이 사상 처음으로 50% 아래(49.2%)</strong> 로 떨어짐</li>\n<li>풍력과 태양광의 급성장으로 <strong>청정에너지가 전체 전력의 50.8%를 차지</strong>, 사상 첫 기록</li>\n<li>태양광은 전년 동월 대비 <strong>37% 증가</strong>, 풍력은 <strong>12% ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20471",
+      "guid": "https://news.hada.io/topic?id=20471",
+      "pubDate": "2025-04-22T10:10:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FTC, Uber의 기만적 구독 과금 및 취소 방해 행위 제소",
+      "description": {
+        "$text": "<ul>\n<li>미국 FTC는 Uber가 사용자 동의 없이 <strong>구독 요금을 부과</strong>하고, 취소 절차를 <strong>의도적으로 복잡하게 만든 혐의</strong>로 제소함</li>\n<li>Uber One 서비스는 월 25달러의 절약을 약속하지만, 실제로는 <strong>구독료(최대 $9.99)를 감안하지 않고</strong> 잘못된 정보를 제공함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20470",
+      "guid": "https://news.hada.io/topic?id=20470",
+      "pubDate": "2025-04-22T10:07:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "카메라를 샀다고 생각했지만, DJI가 판매한 것은 사용 라이선스였다 [동영상]",
+      "description": {
+        "$text": "카메라를 샀다고 생각했지만, DJI가 판매한 것은 사용 라이선스였다 [동영상]",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20469",
+      "guid": "https://news.hada.io/topic?id=20469",
+      "pubDate": "2025-04-22T10:04:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 ChatGPT 모델은 텍스트에 워터마크를 남기는 것으로 보임",
+      "description": {
+        "$text": "<ul>\n<li>Rumi라는 곳에서 <strong>GPT-o3, o4-mini 모델</strong>에 대해 테스트해본 결과,<br />\n긴 답변(예: 에세이 작성 등)에서 <strong>특수 문자 워터마크</strong>가 삽입되는 걸 발견했다고 함.</li>\n<li>이 워터마크는 <strong>&quot;Narrow No-Break Space (U+202F)&quot;</strong> 같은 유니코드 특수 공백 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20468",
+      "guid": "https://news.hada.io/topic?id=20468",
+      "pubDate": "2025-04-22T10:03:40+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Dia - 현실적인 대화를 생성하는 오픈 웨이트 TTS 모델",
+      "description": {
+        "$text": "<ul>\n<li>Dia는 텍스트 대사를 기반으로 <strong>고품질 대화 음성을 생성하는 1.6B 파라미터 TTS 모델</strong>로, 오디오 프롬프트를 통해 감정·톤 조절이 가능함</li>\n<li>Nari Labs에서 개발했으며, &quot;Nari&quot;는 순수 한국어로 &quot;<strong>백합</strong>&quot;을 의미함</li>\n<li>[S1], [S2]로 화자를 지정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20467",
+      "guid": "https://news.hada.io/topic?id=20467",
+      "pubDate": "2025-04-22T10:01:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이 블로그는 닌텐도 Wii에서 호스팅됩니다",
+      "description": {
+        "$text": "<ul>\n<li>이 블로그는 <strong>Nintendo Wii</strong>에서 호스팅되고 있으며, <strong>NetBSD</strong>를 사용하여 운영됨</li>\n<li>Wii는 <strong>PowerPC 750</strong> 기반의 단일 코어 CPU를 사용하며, 이는 우주 탐사와 같은 고성능 작업에도 사용되는 칩셋임</li>\n<li>\n<strong>NetBSD</strong>는 Wii에서 최신 버...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20466",
+      "guid": "https://news.hada.io/topic?id=20466",
+      "pubDate": "2025-04-22T09:58:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "난독화된 TikTok VM을 리버스 엔지니어링하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>TikTok</strong>은 <strong>가상 머신(VM)</strong> 을 사용하여 보안 및 난독화 계층을 강화함</li>\n<li>이 프로젝트는 이 <strong>웹 기반 가상머신(VM)을 리버스 엔지니어링</strong>하여 보안 우회 및 요청 서명 생성 방식을 분석함</li>\n<li>핵심 대상은 <code>webmssdk.js</code>로, 이는 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20465",
+      "guid": "https://news.hada.io/topic?id=20465",
+      "pubDate": "2025-04-22T09:55:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "페이스북과 인스타그램 비활성화가 사용자 감정 상태에 미치는 영향",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>소셜 미디어 비활성화</strong>가 사용자들의 <strong>감정 상태</strong>에 미치는 영향을 연구한 논문</li>\n<li>Facebook 계정을 6주간 비활성화한 사용자는 <strong>행복감, 불안, 우울증 지수에서 0.060 표준편차</strong> 개선을 보임</li>\n<li>Instagram 비활성화는 <strong>0.041 표준편차 개선...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20464",
+      "guid": "https://news.hada.io/topic?id=20464",
+      "pubDate": "2025-04-22T09:52:08+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
