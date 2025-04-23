@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-23T09:40:17+09:00",
+  "lastBuildDate": "2025-04-23T12:18:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33566,6 +33566,19 @@
       "guid": "https://news.hada.io/topic?id=20478",
       "pubDate": "2025-04-23T09:12:43+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "[2009 WSDM] 대규모 정보 검색 시스템 구축의 과제",
+      "description": {
+        "$text": "<h3>정보 검색 시스템의 주요 차원과 트레이드오프</h3>\n<ul>\n<li>시스템 설계 시 다음과 같은 요소들 간의 엔지니어링 트레이드오프를 균형 있게 고려해야 합니다.\n<ul>\n<li>인덱싱된 문서의 수</li>\n<li>초당 처리 쿼리 수 (QPS)</li>\n<li>인덱스 최신성/업데이트 속도</li>\n<li>쿼리 지연 시간 (Latency)</li>\n<li>각...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20488",
+      "guid": "https://news.hada.io/topic?id=20488",
+      "pubDate": "2025-04-23T12:18:29+09:00",
+      "author": "lemonmint",
       "category": ""
     }
   ]
