@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-23T12:18:29+09:00",
+  "lastBuildDate": "2025-04-23T15:32:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33579,6 +33579,19 @@
       "guid": "https://news.hada.io/topic?id=20488",
       "pubDate": "2025-04-23T12:18:29+09:00",
       "author": "lemonmint",
+      "category": ""
+    },
+    {
+      "title": "Atuin Desktop: 실행 가능한 Runbooks",
+      "description": {
+        "$text": "<ul>\n<li>Atuin Desktop는 <strong>터미널 워크플로우</strong>를 실행 가능한 <strong>로컬 우선 실행형 런북 편집기</strong>로 제공함</li>\n<li>\n<strong>스크립트 블록</strong>, <strong>임베디드 터미널</strong>, <strong>데이터베이스 클라이언트</strong>, <strong>Prometheus 차트</strong>를 한 곳에서 관리할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20489",
+      "guid": "https://news.hada.io/topic?id=20489",
+      "pubDate": "2025-04-23T15:32:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
