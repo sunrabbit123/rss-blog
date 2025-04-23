@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-23T15:32:59+09:00",
+  "lastBuildDate": "2025-04-23T17:32:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33591,6 +33591,19 @@
       "link": "https://news.hada.io/topic?id=20489",
       "guid": "https://news.hada.io/topic?id=20489",
       "pubDate": "2025-04-23T15:32:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sapphire: macOS용 Rust 기반 패키지 관리자 (Homebrew 대체)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Sapphire</strong>는 <strong>Rust</strong>로 개발된 차세대 패키지 관리자임</li>\n<li>\n<strong>Homebrew</strong>에서 영감을 받아 <strong>Formulae</strong>와 <strong>Casks</strong>를 설치 및 관리함</li>\n<li>현재 <strong>ARM</strong> 아키텍처만 지원하며, <strong>x86</strong> 지원은 추...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20490",
+      "guid": "https://news.hada.io/topic?id=20490",
+      "pubDate": "2025-04-23T17:32:46+09:00",
       "author": "neo",
       "category": ""
     }
