@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-24T10:00:03+09:00",
+  "lastBuildDate": "2025-04-24T10:18:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33735,6 +33735,84 @@
       "guid": "https://news.hada.io/topic?id=20492",
       "pubDate": "2025-04-24T08:49:48+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플과 메타, EU 법 위반으로 수백만 달러 벌금 부과",
+      "description": {
+        "$text": "<ul>\n<li>유럽연합(EU)이 <strong>Apple</strong>과 <strong>Meta</strong>에 각각 5억 유로와 2억 유로의 벌금을 부과함</li>\n<li>\n<strong>디지털 시장법(DMA)</strong> 을 통해 소규모 경쟁자들이 시장에 진입할 수 있도록 지원하려는 노력의 일환으로 벌금이 부과됨</li>\n<li>\n<strong>Donald Trump</strong> 대통령...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20507",
+      "guid": "https://news.hada.io/topic?id=20507",
+      "pubDate": "2025-04-24T10:18:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국의 사이버 방어 내부 해체",
+      "description": {
+        "$text": "<ul>\n<li>미국의 사이버 보안 체계가 내부에서부터 무너지고 있음</li>\n<li>Common Vulnerabilities and Exposures (CVE) 시스템이 거의 사라질 뻔한 상황이 발생함</li>\n<li>트럼프 행정부는 미국의 기술 보안 노력을 크게 후퇴시킴</li>\n<li>국가 사이버 방어를 약화시키는 중요한 인물들이 해고됨</li>\n<li>연방 정부...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20506",
+      "guid": "https://news.hada.io/topic?id=20506",
+      "pubDate": "2025-04-24T10:15:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Supabase, 기업가치 약 2조 9천억 원으로 2,900억 원 규모 시리즈 D 투자 유치",
+      "description": {
+        "$text": "<ul>\n<li>Supabase는 최근 <strong>$200M</strong>의 시리즈 D 투자를 받아 <strong>$2B</strong>의 기업 가치를 평가받음</li>\n<li>Postgres기반 백엔드로 Google의 Firebase에 대한 대안으로 급성장한 <strong>오픈 소스 애플리케이션 개발 플랫폼</strong>\n</li>\n<li>\n<strong>2백만 명의 개발자</strong>가 사용 중이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20505",
+      "guid": "https://news.hada.io/topic?id=20505",
+      "pubDate": "2025-04-24T10:12:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "고급 Python 기능들",
+      "description": {
+        "$text": "<ul>\n<li>파이썬에서 흔히 알려지지 않은 <strong>고급 기능 14가지</strong>를 실제 예제와 함께 소개함</li>\n<li>\n<code>typing</code>, <code>generics</code>, <code>protocols</code>, <code>context managers</code> 등 <strong>정적 타이핑과 구조적 설계</strong>에 대한 심도 있는 설명 제공</li>\n<li>파이썬 3...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20504",
+      "guid": "https://news.hada.io/topic?id=20504",
+      "pubDate": "2025-04-24T10:09:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ClickHouse가 더 게을러지고 더 빨라집니다 - 지연 로딩 최적화 도입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ClickHouse</strong>가 새로운 최적화 기법인 <strong>lazy materialization</strong>을 도입하여 <code>Top N</code> 쿼리 성능을 <strong>최대 1,500배</strong>까지 향상시킴</li>\n<li>\n<strong>필요할 때만 컬럼 데이터를 읽는 전략</strong>을 통해 디스크 I/O를 최소화함</li>\n<li>기존의 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20503",
+      "guid": "https://news.hada.io/topic?id=20503",
+      "pubDate": "2025-04-24T10:06:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플이 직접 Godot 엔진에 visionOS 플랫폼 네이티브 지원 준비중",
+      "description": {
+        "$text": "<ul>\n<li>Apple의 visionOS 팀이 <strong>Godot 엔진에 Vision Pro 지원을 추가</strong>하고자 하는 첫 PR 제출</li>\n<li>초기 목표는 <strong>기존 Godot 게임의 visionOS 네이티브 실행 및 몰입형 콘텐츠 제작 지원</strong>\n</li>\n<li>iOS 기반으로 visionOS 플랫폼을 구현하고 <strong>코드 재사용성과 구조화된 PR...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20502",
+      "guid": "https://news.hada.io/topic?id=20502",
+      "pubDate": "2025-04-24T10:03:04+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
