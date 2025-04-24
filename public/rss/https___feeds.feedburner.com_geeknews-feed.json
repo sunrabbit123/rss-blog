@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-23T17:32:46+09:00",
+  "lastBuildDate": "2025-04-24T10:00:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33605,6 +33605,136 @@
       "guid": "https://news.hada.io/topic?id=20490",
       "pubDate": "2025-04-23T17:32:46+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 마차 없는 자동차",
+      "description": {
+        "$text": "<ul>\n<li>AI를 사용하여 소프트웨어를 구축하는 것이 AI로 구축된 소프트웨어를 사용하는 것보다 더 즐거움</li>\n<li>많은 AI 앱이 기존 소프트웨어 구축 방식을 모방하여 AI 모델을 제한함</li>\n<li>Gmail의 AI 기능은 사용자가 원하는 방식으로 이메일을 작성하지 못함</li>\n<li>사용자가 직접 시스템 프롬프트를 작성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20501",
+      "guid": "https://news.hada.io/topic?id=20501",
+      "pubDate": "2025-04-24T10:00:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "공공 인터넷 회복을 위한 오픈 소스 프로젝트 자금 지원",
+      "description": {
+        "$text": "<ul>\n<li>NGI Zero Commons Fund는 42개의 자유 및 오픈 소스 프로젝트에 자금을 지원하여 인터넷의 공공성을 회복하려는 목표를 가짐</li>\n<li>선정된 프로젝트는 태양광 전원 마더보드, 고성능 파일 시스템 등 다양한 기술 혁신을 포함함</li>\n<li>교육 및 프라이버시 친화적인 도구 개발을 통해 사용자 경험을 개선하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20500",
+      "guid": "https://news.hada.io/topic?id=20500",
+      "pubDate": "2025-04-24T09:57:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DOGE 엔지니어의 코드가 NLRB 내부고발자 주장 입증",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>NLRB 내부 고발자</strong>는 Elon Musk 산하의 <strong>DOGE 부서</strong>가 민감한 노동 분쟁 데이터 10GB 이상을 무단 다운로드했다고 주장함</li>\n<li>DOGE 계정은 관리자 권한으로 로그 감시를 피하고 외부 GitHub 코드 세 개를 다운로드했으며, 이 중 하나는 <strong>웹 스크래핑 및 무차별 대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20499",
+      "guid": "https://news.hada.io/topic?id=20499",
+      "pubDate": "2025-04-24T09:54:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "폰트를 훔치지 않는 당신",
+      "description": {
+        "$text": "<ul>\n<li>유명한 &quot;You wouldn't steal a car&quot; 반-해적 캠페인에서 사용된 글꼴이 Just van Rossum에 의해 디자인된 것임</li>\n<li>Just van Rossum의 형제는 Python 프로그래밍 언어를 만든 Guido van Rossum임</li>\n<li>이 글꼴이 &quot;XBAND Rough&quot;라는 이름으로 불법 복제되어 무료로 배포되었음</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20498",
+      "guid": "https://news.hada.io/topic?id=20498",
+      "pubDate": "2025-04-24T09:50:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GTA San Andreas의 20년 된 버그, Windows 11 24H2에서 발견",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GTA San Andreas의 20년 된 버그가 Windows 11 24H2에서 드러남</strong>\n<ul>\n<li>GTA San Andreas에서 Skimmer 비행기가 Windows 11 24H2에서 사라지는 버그가 보고됨</li>\n<li>SilentPatch를 사용해도 문제 해결이 되지 않음</li>\n<li>Windows 11 23H2에서는 문제가 발생하지 않음</li>\n<li>Window...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20497",
+      "guid": "https://news.hada.io/topic?id=20497",
+      "pubDate": "2025-04-24T09:47:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go의 Layered 설계 방식",
+      "description": {
+        "$text": "<ul>\n<li>Go 언어는 <strong>패키지 간 순환 참조를 엄격히 금지</strong>하기 때문에, 이는 자연스럽게 <strong>계층적 설계(layered design)</strong> 를 유도함</li>\n<li>이 글은 Go 프로젝트를 <strong>의무적으로 갖게 되는 계층 구조</strong>를 설명하고, 그 위에 별도의 아키텍처를 강제하지 않아도 충분히 유효...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20496",
+      "guid": "https://news.hada.io/topic?id=20496",
+      "pubDate": "2025-04-24T09:32:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Open Codex - OpenAI의 Codex CLI를 오픈소스 LLM에 사용하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Open Codex</strong>는 OpenAI Codex에서 영감을 받은 <strong>완전한 오픈소스 CLI 기반 AI 코딩 어시스턴트</strong>\n<ul>\n<li>처음엔 OpenAI를 포크하려고 했으나, 코드상 문제 및 호환성 때문에 Python으로 밑바닥부터 새로 개발</li>\n</ul>\n</li>\n<li>\n<strong>API 키 없이 로컬에서 실행되며</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20495",
+      "guid": "https://news.hada.io/topic?id=20495",
+      "pubDate": "2025-04-24T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "왜 VC들은 채용 스타트업을 싫어하는가",
+      "description": {
+        "$text": "<ul>\n<li>Recruiting 스타트업은 <strong>경기 순환성과 수익 예측 불가</strong>로 <strong>VC 투자에 부적합한 구조</strong>임</li>\n<li>\n<strong>성과 측정이 모호하고 고객(스타트업)들이 채용에 미숙</strong>하여 제품 효과를 증명하기 어려움</li>\n<li>사용자들은 <strong>성과보다 ‘노력’이 보이는 도구</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20494",
+      "guid": "https://news.hada.io/topic?id=20494",
+      "pubDate": "2025-04-24T09:24:44+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 크롬을 인수해 'AI 우선' 경험으로 만들고자 함",
+      "description": {
+        "$text": "<h4>1. 배경: 구글 반독점 재판</h4>\n<ul>\n<li>미 법무부는 구글을 검색 독점 업체로 규정했고, 현재는 <strong>시정 조치 단계</strong>에 있음.</li>\n<li>주요 조치 중 하나로 <strong>크롬 브라우저 매각</strong>이 논의되고 있음.</li>\n<li>판사는 회의적인 반응을 보이고 있으나, 법무부는 크롬이 구글의 반경쟁 행...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20493",
+      "guid": "https://news.hada.io/topic?id=20493",
+      "pubDate": "2025-04-24T09:21:00+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Go의 Reaper를 속이기",
+      "description": {
+        "$text": "<ul>\n<li>Go 언어는 <strong>정의되지 않은 동작</strong>이 거의 없고, <strong>간단한 GC(가비지 컬렉션) 의미론</strong>을 가지고 있음</li>\n<li>Go 에서는 <strong>수동 메모리 관리</strong>가 가능하며, 이는 GC와 협력하여 수행할 수 있음</li>\n<li>\n<strong>Arena</strong>는 동일한 수명을 가진 메모리를 효율...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20492",
+      "guid": "https://news.hada.io/topic?id=20492",
+      "pubDate": "2025-04-24T08:49:48+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
