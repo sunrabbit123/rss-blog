@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-24T20:35:52+09:00",
+  "lastBuildDate": "2025-04-24T22:00:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33826,6 +33826,19 @@
       "guid": "https://news.hada.io/topic?id=20508",
       "pubDate": "2025-04-24T20:35:52+09:00",
       "author": "hongminhee",
+      "category": ""
+    },
+    {
+      "title": "리버스 엔지니어링용 IDA Pro MCP 서버",
+      "description": {
+        "$text": "<p>IDA Pro를 위한 MCP 서버가 나왔습니다.</p>\n<p>참조 :<br />\n<a href=\"https://news.hada.io/topic?id=19995\">리버스 엔지니어링용 Ghidra MCP 서버(GeekNews)</a></p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20509",
+      "guid": "https://news.hada.io/topic?id=20509",
+      "pubDate": "2025-04-24T22:00:01+09:00",
+      "author": "seokzoo",
       "category": ""
     }
   ]
