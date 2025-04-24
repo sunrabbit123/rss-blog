@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-24T10:18:11+09:00",
+  "lastBuildDate": "2025-04-24T20:35:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33813,6 +33813,19 @@
       "guid": "https://news.hada.io/topic?id=20502",
       "pubDate": "2025-04-24T10:03:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 나만의 연합우주(fediverse) 마이크로블로그 만들기",
+      "description": {
+        "$text": "<p>이 튜토리얼은 <a href=\"https://fedify.dev/\">Fedify</a> 라이브러리를 사용하여 <a href=\"https://activitypub.rocks/\">ActivityPub</a> 프로토콜 기반의 마이크로블로그 서비스를 구현하는 방법을 설명합니다. ActivityPub은 다양한 소셜 네트워크 서비스들이 서로 연동될 수 있게 해주는 분산형 소셜 네트워킹 프...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20508",
+      "guid": "https://news.hada.io/topic?id=20508",
+      "pubDate": "2025-04-24T20:35:52+09:00",
+      "author": "hongminhee",
       "category": ""
     }
   ]
