@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-24T22:00:01+09:00",
+  "lastBuildDate": "2025-04-25T09:46:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33839,6 +33839,123 @@
       "guid": "https://news.hada.io/topic?id=20509",
       "pubDate": "2025-04-24T22:00:01+09:00",
       "author": "seokzoo",
+      "category": ""
+    },
+    {
+      "title": "고용주에 대한 충성심 (2018)",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>직장에 대한 충성심</strong></p>\n<ul>\n<li>기술 산업에서의 평균 근속 기간은 약 3년임</li>\n<li>장기 근속은 드문 현상이며, 많은 사람들이 더 나은 기회를 찾아 이동함</li>\n<li>저자는 과거에 이러한 패턴을 따랐음을 인정함</li>\n<li>고용주에 대한 충성심과 개인적 성장 사이의 균형을 찾는 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20518",
+      "guid": "https://news.hada.io/topic?id=20518",
+      "pubDate": "2025-04-25T09:46:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "한국의 81,998개 술집을 둘러보는 최단 도보 경로",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>여행하는 세일즈맨 문제(TSP)</strong> 는 <strong>81,998개의 한국 바</strong>를 방문하는 최단 경로를 찾는 문제로, **Open Source Routing Machine (OSRM)**을 사용하여 해결됨</li>\n<li>이 경로는 <strong>178일</strong> 이상 소요되는 <strong>최적의 경로</strong>로, <strong>OSRM</strong>의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20517",
+      "guid": "https://news.hada.io/topic?id=20517",
+      "pubDate": "2025-04-25T09:43:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPLv2 라이선스 공지의 주소로 보낸 편지 (2022)",
+      "description": {
+        "$text": "<ul>\n<li>**GNU General Public License (GPL)**는 오픈 소스 소프트웨어의 자유와 정신을 잘 반영하는 라이선스임</li>\n<li>\n<strong>GPLv2</strong>는 1991년에 발표되어 물리적 주소가 포함된 반면, <strong>GPLv3</strong>는 2007년에 발표되어 URL을 포함함</li>\n<li>물리적 주소는 당시 인터넷 사용이 보편화되지 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20516",
+      "guid": "https://news.hada.io/topic?id=20516",
+      "pubDate": "2025-04-25T09:40:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AMD, GPU 가상화를 위한 오픈소스 드라이버 발표, 로드맵에 포함된 Radeon",
+      "description": {
+        "$text": "<ul>\n<li>AMD가 <strong>GPU 가상화</strong>를 위한 오픈 소스 GIM 드라이버를 발표함</li>\n<li>이 드라이버는 <strong>Instinct 가속기</strong>와 함께 사용되며, <strong>Radeon</strong> GPU에도 가상화 지원을 추가할 계획임</li>\n<li>\n<strong>Linux 커널</strong>에서 SR-IOV 기반 하드웨어 가상화를 제공하며, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20515",
+      "guid": "https://news.hada.io/topic?id=20515",
+      "pubDate": "2025-04-25T09:40:23+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Libro - 독서 기록을 남기는 심플한 커맨드라인 도구",
+      "description": {
+        "$text": "<ul>\n<li>독서 이력을 추적할 수 있는 간단한 커맨드라인 도구로, <strong>로컬 SQLite DB</strong>를 사용하여 설치가 필요없고 클라우드 의존성 없음</li>\n<li>윈도우, 맥, 리눅스 지원</li>\n<li>연도, 저자 등으로 도서 조회 및 통계 생성이 가능하고, <strong>Goodreads CSV 가져오기</strong> 기능도 지원</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20514",
+      "guid": "https://news.hada.io/topic?id=20514",
+      "pubDate": "2025-04-25T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Careless People - `부주의`한 사람들",
+      "description": {
+        "$text": "<ul>\n<li>Sarah Wynn-Williams의 회고록 <strong>Careless People</strong>은 <strong>Facebook 내부의 무능과 도덕적 해이를 폭로</strong>하는 생생한 내부 고발서임</li>\n<li>Zuckerberg, Sandberg, Kaplan 등 경영진의 <strong>인격적 결함과 무책임한 의사결정</strong>이 반복적으로 강조됨</li>\n<li>Facebook의 해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20513",
+      "guid": "https://news.hada.io/topic?id=20513",
+      "pubDate": "2025-04-25T09:26:45+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "\"소셜 미디어는 끝났다\" - 마크 주커버그",
+      "description": {
+        "$text": "<ul>\n<li>주커버그는 Meta의 반독점 재판에서 <strong>소셜 미디어의 시대가 끝났음</strong>을 시사함</li>\n<li>페이스북, 인스타그램 등에서 <strong>친구 콘텐츠 소비 비율이 계속 하락</strong> 중</li>\n<li>메타는 자사 플랫폼이 더 이상 소셜 네트워크가 아닌 <strong>디지털 콘텐츠 소비 플랫폼</strong>이라고 주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20512",
+      "guid": "https://news.hada.io/topic?id=20512",
+      "pubDate": "2025-04-25T09:25:21+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "네이버, 상업용 오픈소스 AI 모델 \"HyperCLOVA X SEED\" 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>한국어와 한국 문화에 특화</strong>된 소형 상업용 오픈소스 AI 모델</li>\n<li>\n<strong>3B, 1.5B, 0.5B</strong> 세 가지 파라미터 크기로 구성되어 다양한 산업 및 활용 환경에 맞춤형 적용 가능</li>\n<li>\n<strong>3B</strong> 모델은 <strong>이미지와 영상 이해 역량</strong>을 갖추고 있어 <s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20511",
+      "guid": "https://news.hada.io/topic?id=20511",
+      "pubDate": "2025-04-25T09:16:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 이미지 생성기능을 API에서도 가능하게 출시",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI가 지난달 ChatGPT에 도입한 <strong>이미지 생성 기능</strong>이 출시 첫 주에 <strong>7억 개 이상</strong>의 이미지 생성 기록을 달성함</li>\n<li>이제 이를 API로 확장한 <strong>gpt-image-1 모델</strong>이 출시되어 <strong>개발자와 기업이 자사 플랫폼에 통합 가능</strong>해짐</li>\n<li>다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20510",
+      "guid": "https://news.hada.io/topic?id=20510",
+      "pubDate": "2025-04-25T09:00:34+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
