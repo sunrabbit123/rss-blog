@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-25T11:42:23+09:00",
+  "lastBuildDate": "2025-04-25T14:29:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34021,6 +34021,19 @@
       "guid": "https://news.hada.io/topic?id=20519",
       "pubDate": "2025-04-25T09:49:28+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Gemini 기반 캘린더 앱, 스크린샷으로 손쉽게 일정 등록",
+      "description": {
+        "$text": "<p>LLM을 활용한 일정 관리 앱 Trace입니다.<br />\niOS, iPadOS, macOS에서 동작합니다.</p>\n<p>최근 AI 비서와 채팅하는 기능이 추가되었습니다.<br />\n현재 BETA라서 완벽하지는 않지만, 기본적인 일정 관련 대화를 나눌 수 있고, 생성/수정/삭제도 가능합니다.</p>\n<p>다른 기능으로는:</p>\n<ul>\n<li>자연어/음성/이미",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20525",
+      "guid": "https://news.hada.io/topic?id=20525",
+      "pubDate": "2025-04-25T14:29:45+09:00",
+      "author": "b8739",
       "category": ""
     }
   ]
