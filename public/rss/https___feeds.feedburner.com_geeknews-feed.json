@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-25T21:02:54+09:00",
+  "lastBuildDate": "2025-04-25T23:34:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34034,6 +34034,19 @@
       "guid": "https://news.hada.io/topic?id=20525",
       "pubDate": "2025-04-25T14:29:45+09:00",
       "author": "b8739",
+      "category": ""
+    },
+    {
+      "title": "DuckDB UI에서 입력 즉시 결과를 제공하는 Instant SQL 기능",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Instant SQL</strong>은 SQL 쿼리를 작성할 때 결과를 실시간으로 업데이트하여 쿼리 작성 및 디버깅을 가속화하는 도구임</li>\n<li>\n<strong>MotherDuck</strong>와 <strong>DuckDB Local UI</strong>에서 사용 가능하며, SQL 작성의 번거로움을 줄이기 위해 개발됨</li>\n<li>쿼리 작성 시 <strong>실...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20528",
+      "guid": "https://news.hada.io/topic?id=20528",
+      "pubDate": "2025-04-25T23:34:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
