@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-25T09:46:26+09:00",
+  "lastBuildDate": "2025-04-25T11:42:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -33956,6 +33956,71 @@
       "guid": "https://news.hada.io/topic?id=20510",
       "pubDate": "2025-04-25T09:00:34+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Geocoding API 비교: 가격, 무료 티어 및 이용 약관 등",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>지오코딩 API는 주소 ↔ 좌표 변환 기능을 제공</strong>하며, <strong>리버스 지오코딩</strong>은 주어진 좌표에 거리 주소를 할당하는 것으로 다양한 애플리케이션에 활용됨</li>\n<li>가격, 무료 사용량, 데이터 사용 조건 기준으로 7개 주요 API 서비스 비교\n<ul>\n<li>HERE, Google Maps, Azure M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20524",
+      "guid": "https://news.hada.io/topic?id=20524",
+      "pubDate": "2025-04-25T11:42:23+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "토스, 테크니컬 라이팅 가이드 공개",
+      "description": {
+        "$text": "<h2>좋은 기술 문서를 쓰는 핵심 원칙</h2>\n<h3>1. 문서 유형 정하기</h3>\n<p>문서의 목적에 따라 더 효과적으로 글을 쓰는 방법이 다름</p>\n<ul>\n<li>학습 중심 문서: 새로운 기술이나 도구를 처음 접했을 때, 흐름을 파악하는 목적</li>\n<li>문제 해결 문서: 배경 지식이 있을 때 특정한 문제를 해결하는 목적</li>\n<l",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20523",
+      "guid": "https://news.hada.io/topic?id=20523",
+      "pubDate": "2025-04-25T11:16:52+09:00",
+      "author": "raon0211",
+      "category": ""
+    },
+    {
+      "title": "AI는 접근성의 미래입니다",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;접근성(Accessibility) 분야에서 AI를 외면해서는 안 되는 이유&quot;</p>\n</blockquote>\n<ul>\n<li>AI는 이미 다양한 방식으로 <strong>접근성 향상에 기여</strong>하고 있으며, 앞으로는 <strong>기반 인프라 수준의 기술</strong>이 될 것으로 전망됨</li>\n<li>일부 전문가의 &quot;AI는 접근성",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20521",
+      "guid": "https://news.hada.io/topic?id=20521",
+      "pubDate": "2025-04-25T10:34:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Postgres에서 컬럼을 삭제하면 실제로 무슨 일이 일어나는가",
+      "description": {
+        "$text": "<ul>\n<li>PostgreSQL에서 <strong>컬럼을 DROP 해도 실제로 데이터는 삭제되지 않음</strong> — 단지 메타데이터에서 <strong>&quot;숨김 처리&quot;</strong> 됨</li>\n<li>\n<strong>DROP COLUMN 후에도 내부적으로 컬럼은 존재</strong>하기 때문에, <strong>1600개 컬럼 제한</strong>에 도달할 수 있음</li>\n<li>데이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20520",
+      "guid": "https://news.hada.io/topic?id=20520",
+      "pubDate": "2025-04-25T10:10:24+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Gruen Transfer가 인터넷을 소모하고 있습니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Gruen 전이(Gruen Transfer)</strong> 란 소비자가 <strong>매장 내 혼란스러운 구조로 인해 원래 의도를 잊고 충동 구매하게 되는 현상</strong>을 의미함</li>\n<li>이 현상은 이제 <strong>인터넷에도 확산</strong>되어, <strong>페이스북 뉴스피드, 위키피디아의 링크 루프, UX 다크 패턴</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20519",
+      "guid": "https://news.hada.io/topic?id=20519",
+      "pubDate": "2025-04-25T09:49:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
