@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T12:42:31+09:00",
+  "lastBuildDate": "2025-04-26T13:33:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34203,6 +34203,19 @@
       "guid": "https://news.hada.io/topic?id=20540",
       "pubDate": "2025-04-26T12:42:31+09:00",
       "author": "zihado",
+      "category": ""
+    },
+    {
+      "title": "위키피디아 비영리 지위, D.C. 미국 검사 의문 제기",
+      "description": {
+        "$text": "<ul>\n<li>미국 워싱턴 D.C.의 대행 검사인 Ed Martin이 Wikipedia를 운영하는 비영리 단체인 Wikimedia Foundation에 외국 행위자들이 정보를 조작하고 선전을 퍼뜨리도록 허용했다고 비난한 서신을 보냄</li>\n<li>Martin은 Wikimedia Foundation의 편집 과정, 신뢰 및 안전 조치, 외국 행위자로부터 정보를 보호하는 방...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20541",
+      "guid": "https://news.hada.io/topic?id=20541",
+      "pubDate": "2025-04-26T13:33:56+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
