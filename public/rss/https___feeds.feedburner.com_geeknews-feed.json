@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T13:33:56+09:00",
+  "lastBuildDate": "2025-04-26T15:33:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34215,6 +34215,19 @@
       "link": "https://news.hada.io/topic?id=20541",
       "guid": "https://news.hada.io/topic?id=20541",
       "pubDate": "2025-04-26T13:33:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "동적 길이 부동소수를 통한 효율적인 GPU 추론을 위한 무손실 LLM 압축",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>DFloat11</strong>은 대형 언어 모델(LLM)의 크기를 30% 줄이면서도 원본 모델과 비트 단위로 동일한 출력을 유지하는 <strong>손실 없는 압축 프레임워크</strong>임</li>\n<li>\n<strong>BFloat16 가중치 표현의 낮은 엔트로피</strong>를 활용하여 기존 저장 형식의 비효율성을 개선함</li>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20542",
+      "guid": "https://news.hada.io/topic?id=20542",
+      "pubDate": "2025-04-26T15:33:39+09:00",
       "author": "neo",
       "category": ""
     }
