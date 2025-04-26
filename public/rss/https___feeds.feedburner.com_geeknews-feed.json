@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T10:33:38+09:00",
+  "lastBuildDate": "2025-04-26T12:42:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34190,6 +34190,19 @@
       "guid": "https://news.hada.io/topic?id=20531",
       "pubDate": "2025-04-26T09:45:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Dart MCP - 재무 분석을 위한 Claude 확장 프로그램",
+      "description": {
+        "$text": "<p>DART API를 활용한 재무 분석 MCP 서버입니다.</p>\n<p>가능한 것 (O)</p>\n<ul>\n<li>주요 재무 분석</li>\n<li>상세 재무 분석</li>\n<li>기업의 사업부별 매출</li>\n<li>클로드를 이용한 시각화</li>\n<li>재무지표를 활용한 벨류에이션 (DCF 등)</li>\n</ul>\n<p>불가능한 것 (X)</p>\n<ul>\n<li>주가 및 시가총액 제공</li",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20540",
+      "guid": "https://news.hada.io/topic?id=20540",
+      "pubDate": "2025-04-26T12:42:31+09:00",
+      "author": "zihado",
       "category": ""
     }
   ]
