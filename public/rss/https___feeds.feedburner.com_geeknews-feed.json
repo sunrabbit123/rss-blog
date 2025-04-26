@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T15:33:39+09:00",
+  "lastBuildDate": "2025-04-26T18:58:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34229,6 +34229,19 @@
       "guid": "https://news.hada.io/topic?id=20542",
       "pubDate": "2025-04-26T15:33:39+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년 주목해야 할 AI 100대 기업 - CB Insights 보고서 분석",
+      "description": {
+        "$text": "<p>인공지능(Artificial Intelligence) 분야는 전례 없는 속도로 발전하고 있습니다. 2024년 초부터 지금까지 수천 개의 새로운 AI 기업이 설립되었으며, OpenAI와 Anthropic과 같은 대형 기업들이 주도하는 AI 산업 투자액은 1,700억 달러를 넘어섰습니다. 이렇게 빠르게 성장하는 시장에서 진정한 혁신 기업을 찾아내는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20543",
+      "guid": "https://news.hada.io/topic?id=20543",
+      "pubDate": "2025-04-26T18:58:11+09:00",
+      "author": "jaehong747",
       "category": ""
     }
   ]
