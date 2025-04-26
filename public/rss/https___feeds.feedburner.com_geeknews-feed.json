@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-25T23:34:06+09:00",
+  "lastBuildDate": "2025-04-26T09:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34047,6 +34047,32 @@
       "guid": "https://news.hada.io/topic?id=20528",
       "pubDate": "2025-04-25T23:34:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Colanode - 로컬퍼스트 슬랙 및 노션 대체제 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Slack 스타일 채팅</strong>과 <strong>Notion 스타일 문서화</strong>를 결합, 셀프호스팅 가능한 <strong>오픈소스 협업 플랫폼</strong>\n</li>\n<li>실시간 채팅, 리치 텍스트 페이지, 커스텀 데이터베이스, 파일 관리 기능 제공</li>\n<li>로컬 SQLite DB에 저장후 <strong>Postgres, Redis, Yjs</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20530",
+      "guid": "https://news.hada.io/topic?id=20530",
+      "pubDate": "2025-04-26T09:34:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, VS Code 포크 버전들에서 C/C++ 확장 기능 삭제",
+      "description": {
+        "$text": "<ul>\n<li>MSFT가 <strong>Cursor</strong>와 VS Codium 같은 VS Code 기반 포크 제품에서 <strong>C/C++ 확장 기능을 차단</strong>\n<ul>\n<li>\n<strong>Intellisense 자동완성</strong>, <strong>디버깅</strong> 등 개발에 필수적인 기능들이 중단될 수 있음</li>\n</ul>\n</li>\n<li>Microsoft는 오래전부터 라이선스를 통...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20529",
+      "guid": "https://news.hada.io/topic?id=20529",
+      "pubDate": "2025-04-26T08:58:12+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
