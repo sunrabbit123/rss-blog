@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T09:34:01+09:00",
+  "lastBuildDate": "2025-04-26T10:33:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34073,6 +34073,123 @@
       "guid": "https://news.hada.io/topic?id=20529",
       "pubDate": "2025-04-26T08:58:12+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "사람을 믿는 사람들에게 보내는 러브 레터",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>열정의 힘</strong>: 열정은 사람의 삶을 변화시키는 힘을 가짐. 자신을 믿고 새로운 길을 제시하는 사람들은 우리의 삶에 큰 영향을 미침.</li>\n<li>\n<strong>영감을 주는 사람들</strong>: Tina Roth Eisenberg는 그녀의 삶에 영향을 준 여러 사람들에 대해 이야기하며, 그들의 열정이 그녀의 삶을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20539",
+      "guid": "https://news.hada.io/topic?id=20539",
+      "pubDate": "2025-04-26T10:33:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kafka를 처음부터 다시 만들 수 있다면 어떨까?",
+      "description": {
+        "$text": "<ul>\n<li>KIP-1150(디스크 없는 Kafka)과 AutoMQ의 Kafka 포크 프로젝트를 통해 <strong>클라우드 최적화 Kafka</strong> 논의가 활발해짐</li>\n<li>Kafka를 다시 만든다면 기존 <strong>파티션 구조를 제거</strong>하고 <strong>키 중심 접근</strong>을 제안</li>\n<li>\n<strong>동시성 제어</strong>와 <strong>브로커...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20538",
+      "guid": "https://news.hada.io/topic?id=20538",
+      "pubDate": "2025-04-26T10:23:32+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google DeepMind, Lyria 2 음악 생성 모델 공개",
+      "description": {
+        "$text": "<ul>\n<li>딥마인드가 2023년에 공개한 <strong>Music AI Sandbox</strong>에 새로운 기능을 추가하고 더 많은 사용자에게 확대(미국)</li>\n<li>\n<strong>Lyria 2</strong> 모델을 통해 <strong>고품질 음악 생성</strong>과 <strong>Lyria RealTime</strong>을 통한 <strong>실시간 인터랙티브 음악 제작</strong> 가능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20537",
+      "guid": "https://news.hada.io/topic?id=20537",
+      "pubDate": "2025-04-26T10:03:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사고 도구로서의 Notation (1979)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>표기법(Notation)</strong> 은 사고를 도와주는 중요한 도구로, 수학과 프로그래밍 언어 모두에서 핵심적인 역할을 함</li>\n<li>\n<strong>APL 언어</strong>는 수학적 표기법의 장점을 프로그래밍 언어의 실행성과 보편성과 결합하려는 시도로 개발됨</li>\n<li>\n<strong>좋은 표기법의 특징</strong>은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20536",
+      "guid": "https://news.hada.io/topic?id=20536",
+      "pubDate": "2025-04-26T10:00:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: DOOM을 실행하는 나만의 OS 커널 개발",
+      "description": {
+        "$text": "<ul>\n<li>TacOS는 C와 어셈블리어로 작성된 자체 커널을 가진 UNIX 유사 운영체제임</li>\n<li>DOOM을 포함한 다양한 사용자 공간 프로그램을 실행할 수 있는 기능을 가짐</li>\n<li>VFS, 스케줄러, TempFS, 장치, 컨텍스트 전환, 가상 메모리 관리, 물리적 페이지 프레임 할당 등의 기능을 포함함</li>\n<li>실제 하드웨어...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20535",
+      "guid": "https://news.hada.io/topic?id=20535",
+      "pubDate": "2025-04-26T09:57:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "`x.com`의 조작된 합의(Consensus)",
+      "description": {
+        "$text": "<ul>\n<li>\n<code>X.com</code>에서는 알고리듬과 인기 계정이 콘텐츠 노출을 조용히 조작함</li>\n<li>\n<strong>소셜 증거</strong>는 실제 대중 의견이 아니라 영향력자와의 근접성으로 조작됨</li>\n<li>\n<strong>지각의 연쇄 반응</strong>을 통해 특정 서사가 점차 강화되고 확산됨</li>\n<li>과거 <strong>Astroturfin...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20534",
+      "guid": "https://news.hada.io/topic?id=20534",
+      "pubDate": "2025-04-26T09:54:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"/etc/hosts\" 파일 작성으로 인한 Substack 에디터 오류 발생",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Substack</strong> 에디터에서 특정 시스템 경로를 입력할 때 <strong>네트워크 오류</strong>가 발생함</li>\n<li>\n<strong>웹 애플리케이션 방화벽(WAF)</strong> 가 이러한 경로를 차단하는 이유는 <strong>경로 탐색 공격</strong> 및 <strong>명령어 삽입 공격</strong> 방지 때문임</li>\n<li>\n<s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20533",
+      "guid": "https://news.hada.io/topic?id=20533",
+      "pubDate": "2025-04-26T09:51:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "도장, 스테레오, 스크린 없는 2만 달러 미국산 전기 픽업트럭",
+      "description": {
+        "$text": "<ul>\n<li>Slate Truck는 2만 달러 이하의 가격으로 제공되는 미국산 전기 픽업 트럭임</li>\n<li>이 차량은 최소한의 기능을 제공하며, 개인화가 가능한 디자인을 특징으로 함</li>\n<li>제조 과정에서 페인트를 사용하지 않아 비용 절감 및 환경 보호에 기여함</li>\n<li>사용자가 직접 수리 및 업그레이드를 할 수 있도록...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20532",
+      "guid": "https://news.hada.io/topic?id=20532",
+      "pubDate": "2025-04-26T09:48:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이민 당국 회피를 도운 혐의로 체포된 판사, FBI에 의해 체포",
+      "description": {
+        "$text": "<ul>\n<li>밀워키의 판사 Hannah Dugan이 이민 당국의 체포를 피하도록 도운 혐의로 FBI에 의해 체포됨</li>\n<li>Dugan 판사는 법정에서 한 남성과 그의 변호사를 배심원 문을 통해 탈출시킨 혐의를 받음</li>\n<li>이 사건은 트럼프 행정부와 지역 당국 간의 이민 정책 충돌을 심화시킴</li>\n<li>Dugan 판사는 공공 안전을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20531",
+      "guid": "https://news.hada.io/topic?id=20531",
+      "pubDate": "2025-04-26T09:45:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
