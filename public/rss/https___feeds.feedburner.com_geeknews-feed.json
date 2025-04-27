@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-27T10:04:27+09:00",
+  "lastBuildDate": "2025-04-27T15:30:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34372,6 +34372,19 @@
       "guid": "https://news.hada.io/topic?id=20547",
       "pubDate": "2025-04-27T09:38:10+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SKT 유심 해킹 사건 쉽게 이해하기 + 공동 대응하기",
+      "description": {
+        "$text": "<p>최근 발생한 SKT 유심 해킹 사건과 관련하여, 법무법인을 통해 피해자 집단소송 및 정부 국회 대상 항의를 준비하고 있습니다. 본 항의에 관심이 있으신 분들은 상단 링크를 클릭해서 신청해주세요.</p>\n<p>약정 기간이 남아있는 경우 SKT의 통신과금 서비스 이용약관 위반을 근거로 과학기술정보통신부에 민원을 제기",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20557",
+      "guid": "https://news.hada.io/topic?id=20557",
+      "pubDate": "2025-04-27T15:30:47+09:00",
+      "author": "hophfg",
       "category": ""
     }
   ]
