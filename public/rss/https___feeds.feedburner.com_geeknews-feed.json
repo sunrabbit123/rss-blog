@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-27T15:30:47+09:00",
+  "lastBuildDate": "2025-04-27T21:16:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34385,6 +34385,32 @@
       "guid": "https://news.hada.io/topic?id=20557",
       "pubDate": "2025-04-27T15:30:47+09:00",
       "author": "hophfg",
+      "category": ""
+    },
+    {
+      "title": "React Native Expo 에서 cicd 를 극단적으로 단순화해주는 CLI, expo-release-it",
+      "description": {
+        "$text": "<p>https://github.com/mym0404/expo-release-it</p>\n<p><code>expo-release-it</code>는 EAS 없이 <strong>로컬에서 빠르게</strong> Expo 앱을 빌드, 업로드, 제출까지 자동화하는 CLI입니다.<br />\n키 관리, 메타데이터 동기화, 스토어 리뷰 요청이 간단해집니다.  <br />\n복잡한 OTA, 버전 관리, 클라우드 빌드 없이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20559",
+      "guid": "https://news.hada.io/topic?id=20559",
+      "pubDate": "2025-04-27T21:16:47+09:00",
+      "author": "mym0404",
+      "category": ""
+    },
+    {
+      "title": "당신의 전화기는 몰래 도청하지 않지만 더 불안한 진실",
+      "description": {
+        "$text": "<ul>\n<li>스마트폰이 사용자의 대화를 비밀리에 듣고 있다는 음모론이 있지만, 실제로는 <strong>데이터 수집 및 알고리즘</strong>을 통해 광고가 타겟팅됨</li>\n<li>2019년 Wandera의 실험 결과, 스마트폰이 대화를 녹음하여 광고에 활용하는 증거는 발견되지 않았음</li>\n<li>Facebook은 사용자의 대화를 듣고 있지 않...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20558",
+      "guid": "https://news.hada.io/topic?id=20558",
+      "pubDate": "2025-04-27T19:32:39+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
