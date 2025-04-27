@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-26T18:58:11+09:00",
+  "lastBuildDate": "2025-04-27T10:04:27+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34242,6 +34242,136 @@
       "guid": "https://news.hada.io/topic?id=20543",
       "pubDate": "2025-04-26T18:58:11+09:00",
       "author": "jaehong747",
+      "category": ""
+    },
+    {
+      "title": "Eurorack Knob Idea",
+      "description": {
+        "$text": "<ul>\n<li>Eurorack 모듈을 위한 혁신적인 노브 및 패치 케이블 하이브리드 설계임</li>\n<li>\n<strong>자석 인코더</strong>와 <strong>3.5mm 잭</strong>을 사용하여 새로운 방식의 노브를 구현함</li>\n<li>\n<strong>AS5600</strong> 인코더 칩을 사용하여 각도와 크기를 측정함</li>\n<li>\n<strong>TRS 플러그</strong>에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20556",
+      "guid": "https://news.hada.io/topic?id=20556",
+      "pubDate": "2025-04-27T10:04:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 내가 직접 작성한 취미 OS, 빈티지 IBM ThinkPad에서 드디어 실행",
+      "description": {
+        "$text": "HN 공개: 내가 직접 작성한 취미 OS, 빈티지 IBM ThinkPad에서 드디어 실행",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20555",
+      "guid": "https://news.hada.io/topic?id=20555",
+      "pubDate": "2025-04-27T10:01:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "우정의 침체: 잃어버린 연결의 예술",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Friendship Recession</strong>은 미국 사회에서 친구 관계가 급감하고 있는 현상을 지칭함</li>\n<li>\n<strong>문화적 변화</strong>가 주요 원인으로, 일과 가족 중심의 삶, 디지털 우정 증가 등이 복합적으로 작용함</li>\n<li>\n<strong>실제 친구 만들기</strong>는 불편함을 수용하고, 새로운 활동...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20554",
+      "guid": "https://news.hada.io/topic?id=20554",
+      "pubDate": "2025-04-27T09:58:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"당시에는 재미있어 보였던 책 'Crap Towns' 저술\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Crap Towns</strong>라는 책은 영국의 최악의 장소를 다룬 책으로, 2003년에 출판되었음</li>\n<li>이 책은 당시 영국의 사회적 문제를 유머로 풀어내며 큰 인기를 끌었음</li>\n<li>그러나 오늘날에는 이러한 책을 출판하기 어려운 사회적 분위기가 형성되었음</li>\n<li>유머에 대한 사회적 인식 변화와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20553",
+      "guid": "https://news.hada.io/topic?id=20553",
+      "pubDate": "2025-04-27T09:55:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cloth 웹 시뮬레이터",
+      "description": {
+        "$text": "Cloth 웹 시뮬레이터 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20552",
+      "guid": "https://news.hada.io/topic?id=20552",
+      "pubDate": "2025-04-27T09:52:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 전립선 문제의 종말?",
+      "description": {
+        "$text": "<ul>\n<li>전립선 질환은 매우 흔하고 심각한 문제로 미국에서는 전립선암이 40명 중 1명을 사망에 이르게 함</li>\n<li>양성 전립선 비대증(BPH)은 60세 이상의 남성 대부분에게 영향을 미치며, 배뇨 곤란을 초래하고 악성으로 변할 위험이 있음</li>\n<li>전립선이 성병에 대한 &quot;게이트키퍼&quot; 역할을 한다는 이론...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20551",
+      "guid": "https://news.hada.io/topic?id=20551",
+      "pubDate": "2025-04-27T09:49:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "React의 중요한 변화 2가지: View Transitions와 Activity",
+      "description": {
+        "$text": "<ul>\n<li>React가 새로운 실험적 기능을 공개함\n<ul>\n<li>\n<code>View Transitions</code>는 <strong>부드러운 페이지 전환 애니메이션</strong>을 쉽게 적용할 수 있게 해줌</li>\n<li>\n<code>Activity</code>는 UI를 <strong>숨기고 상태를 보존</strong>하면서 성능 최적화를 가능하게 함</li>\n</ul>\n</li>\n<li>이외에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20550",
+      "guid": "https://news.hada.io/topic?id=20550",
+      "pubDate": "2025-04-27T09:47:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "o3의 사진 위치 ​​추측은 초현실적이고 디스토피아적이며 재미남",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OpenAI의 새로운 모델 o3</strong>는 사진만 보고 촬영 장소를 놀라울 정도로 정확히 추측하는 능력을 가짐</li>\n<li>\n<strong>사진의 시각적 단서</strong>를 분석하고, 확대/크롭 작업을 통해 더 많은 디테일을 끌어내는 과정을 보여줌</li>\n<li>\n<strong>Cambria, California</strong>를 첫 번째로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20549",
+      "guid": "https://news.hada.io/topic?id=20549",
+      "pubDate": "2025-04-27T09:46:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "추방 전 연락 두절 상태로 구금된 3명의 미국 시민권자 어린이 ICE에 의해 추방",
+      "description": {
+        "$text": "<ul>\n<li>미국 시민권을 가진 세 명의 어린이가 ICE(이민세관단속국)에 의해 부모와 함께 강제 추방되었음</li>\n<li>추방 과정에서 법적 접근이 차단되고, 건강 관리가 무시되었음</li>\n<li>ACLU와 여러 인권 단체들이 ICE의 행동을 비판하며 법적 대응을 준비 중임</li>\n<li>이 사건은 ICE의 권력 남용과 인권 침해를 보...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20548",
+      "guid": "https://news.hada.io/topic?id=20548",
+      "pubDate": "2025-04-27T09:43:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Berkeley Humanoid Lite - 오픈소스 로봇",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Berkeley 휴머노이드 라이트</strong>는 접근성과 커스터마이징 가능성을 높인 <strong>오픈소스 3D 프린팅 휴머노이드 로봇</strong>\n</li>\n<li>\n<strong>3D 프린터</strong>와 <strong>일반 부품 구매</strong>만으로 제작 가능하며, 총 비용은 <strong>$5,000 이하</strong>임</li>\n<li>\n<strong>사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20547",
+      "guid": "https://news.hada.io/topic?id=20547",
+      "pubDate": "2025-04-27T09:38:10+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
