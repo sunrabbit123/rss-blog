@@ -822,6 +822,15 @@
       "pubDate": "Sat, 26 Apr 2025 14:14:22 +0900",
       "author": "pjt3591oo",
       "category": "인공지능 활용"
+    },
+    {
+      "title": "[인공지능] 인공지능이 만든 카카오 퍼블리싱 - 작업시간 10분",
+      "description": "안녕하세요 멍개입니다. 저는 개발을 업으로 일한지 10년이 되었습니다. 제가 개발하면서 가장 어려운 부분이 바로 퍼블리싱입니다. 아무래도 메인 포지션이 벡엔드이다 보니 css 다루는데 어려움이 많습니다. 하지만 요즘같이 AI가 코드를 작성하는 상황에서 AI가 어느정도 수준으로 퍼블리싱 작업을 수행하 수 있는지 테스트를 해보았습니다. https://kakao-publish-with-ai.vercel.app/ 작성된 코드는 다음과 같습니다. https://github.com/pjt3591oo/kakao-publish-with-ai 요즘 인공지능을 활용하여 이것저것 만들고 있는데 저의 목적은 AI의 활용 능력치를 올리기 위함입니다. 멍개의 AI 활용시 관점 포인트는 다음과 같습니다. 프로젝트 셋.......",
+      "link": "https://blog.naver.com/pjt3591oo/223848944910?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223848944910",
+      "pubDate": "Mon, 28 Apr 2025 17:00:18 +0900",
+      "author": "pjt3591oo",
+      "category": "인공지능 활용"
     }
   ]
 }

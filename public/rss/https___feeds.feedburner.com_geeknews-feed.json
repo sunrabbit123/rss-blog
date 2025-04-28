@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-28T11:33:38+09:00",
+  "lastBuildDate": "2025-04-28T16:32:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34593,6 +34593,19 @@
       "guid": "https://news.hada.io/topic?id=20572",
       "pubDate": "2025-04-28T10:46:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "iPhone을 벽돌로 만들 수 있는 한 줄의 코드",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>iOS의 취약점 발견</strong>: iOS의 취약점을 발견하여 간단한 코드로 iPhone을 벽돌로 만들 수 있는 방법을 설명함</li>\n<li>\n<strong>Darwin Notifications</strong>: <strong>Darwin Notifications</strong>는 Apple 운영 체제에서 프로세스 간 간단한 메시지 교환을 위한 저수준 메커니즘임</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20576",
+      "guid": "https://news.hada.io/topic?id=20576",
+      "pubDate": "2025-04-28T16:32:48+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
