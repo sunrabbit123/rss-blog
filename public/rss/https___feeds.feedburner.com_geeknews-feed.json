@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-28T16:32:48+09:00",
+  "lastBuildDate": "2025-04-28T19:45:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34606,6 +34606,19 @@
       "guid": "https://news.hada.io/topic?id=20576",
       "pubDate": "2025-04-28T16:32:48+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 구독중인 ai 플랫폼/서비스가 있으신가요?",
+      "description": {
+        "$text": "<p>요즘 Cursor, Warp, ChatGPT, Claude, Gemini advanced 등 여러 ai 서비스들이 경쟁하는 가운데, 어떠한 것들을 구독중이신가요?</p>\n<p>전 ChatGPT plus, Perplexity(skt 1년 무료) 만 사용중이며,<br />\nOpenai apikey를 통해 4.1 등을 Codex에 연결하여 사용중입니다.</p>\n<p>한달에 20달러 + 10달러(apikey) 정도",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20577",
+      "guid": "https://news.hada.io/topic?id=20577",
+      "pubDate": "2025-04-28T19:45:41+09:00",
+      "author": "yeorinhieut",
       "category": ""
     }
   ]
