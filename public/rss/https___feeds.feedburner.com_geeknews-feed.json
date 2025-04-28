@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-28T10:11:21+09:00",
+  "lastBuildDate": "2025-04-28T11:33:38+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34540,6 +34540,58 @@
       "link": "https://news.hada.io/topic?id=20562",
       "guid": "https://news.hada.io/topic?id=20562",
       "pubDate": "2025-04-28T09:23:13+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "박스 안의 인터넷",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Internet-in-a-Box</strong>는 인터넷이 없는 지역에서도 <strong>교육 자료</strong>를 제공하는 프로젝트임</li>\n<li>\n<strong>Raspberry Pi</strong>와 같은 저렴한 하드웨어로 <strong>구축 가능</strong>하며, <strong>학교, 병원, 가정</strong>에서 활용 가능함</li>\n<li>\n<strong>원격 산악 마...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20575",
+      "guid": "https://news.hada.io/topic?id=20575",
+      "pubDate": "2025-04-28T11:33:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 시대에 기술 쇠퇴를 피하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>AI 도구로 인한 생산성 증가는 개발자들의 <strong>핵심 기술 쇠퇴(skill atrophy)</strong> 위험을 초래함</li>\n<li>AI를 과도하게 의존하면 <strong>비판적 사고</strong>와 <strong>문제 해결 능력</strong>이 점점 약화됨</li>\n<li>\n<strong>디버깅</strong>, <strong>아키텍처 설계</strong>, <strong>기억...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20574",
+      "guid": "https://news.hada.io/topic?id=20574",
+      "pubDate": "2025-04-28T11:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SEO 시대의 끝? AI 에이전트를 위한 마케팅 최적화의 시작",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 에이전트</strong>가 마케팅 구매 여정의 <strong>새로운 미들맨</strong>으로 떠오르며, 기존 퍼널 구조가 해체되고 있음</li>\n<li>\n<strong>&quot;제로 클릭(Zero-click)&quot; 검색</strong>은 브랜드가 사용자와 접점 없이 AI 응답만으로 구매 결정을 유도함</li>\n<li>기업 웹사이트의 방문자 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20573",
+      "guid": "https://news.hada.io/topic?id=20573",
+      "pubDate": "2025-04-28T11:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "고객이 떠나야 성공하는 모델",
+      "description": {
+        "$text": "<ul>\n<li>전통적인 SaaS 모델은 고객 유지율, LTV, 반복 매출에 기반하지만, 일부 산업에서는 <strong>이탈(churn)이 곧 성공의 증거이자 비즈니스 모델</strong>임\n<ul>\n<li>대표 사례: <strong>데이트 앱, 결혼식·장례식 산업, 교육 플랫폼, 부동산·중고차 마켓플레이스</strong> 등</li>\n</ul>\n</li>\n<li>핵심은 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20572",
+      "guid": "https://news.hada.io/topic?id=20572",
+      "pubDate": "2025-04-28T10:46:01+09:00",
       "author": "xguru",
       "category": ""
     }
