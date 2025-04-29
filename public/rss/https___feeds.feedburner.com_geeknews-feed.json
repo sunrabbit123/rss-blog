@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-29T21:32:41+09:00",
+  "lastBuildDate": "2025-04-30T05:07:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34853,6 +34853,19 @@
       "guid": "https://news.hada.io/topic?id=20596",
       "pubDate": "2025-04-29T21:32:41+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Daytona Cloud: 90ms 미만 시작 시간을 가진 AI 에이전트용 혁신적 인프라 플랫폼 출시",
+      "description": {
+        "$text": "<p>저희 Daytona Cloud는 AI 에이전트가 인프라와 상호작용하는 방식을 혁신했습니다. 90ms 미만의 시작 시간과 원활한 Docker 통합을 제공합니다. 저희가 개발한 에이전트 네이티브 플랫폼은 상태 유지 샌드박스와 다중 지역 지원을 갖추고 있으며, AI 워크플로우를 위해 특별히 재구상되었습니다. 신규 사용자에게는 $...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20597",
+      "guid": "https://news.hada.io/topic?id=20597",
+      "pubDate": "2025-04-30T05:07:37+09:00",
+      "author": "nkkko",
       "category": ""
     }
   ]
