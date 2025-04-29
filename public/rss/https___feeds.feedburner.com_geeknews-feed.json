@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-29T10:35:28+09:00",
+  "lastBuildDate": "2025-04-29T10:41:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34774,6 +34774,45 @@
       "link": "https://news.hada.io/topic?id=20581",
       "guid": "https://news.hada.io/topic?id=20581",
       "pubDate": "2025-04-29T09:55:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스페인과 포르투갈 대규모 정전 보고",
+      "description": {
+        "$text": "<ul>\n<li>스페인과 포르투갈에서 발생한 대규모 정전으로 인해 광범위한 혼란과 여행 혼잡이 발생함</li>\n<li>스페인의 절반 정도의 전력이 복구되었으나, 정전의 원인은 아직 밝혀지지 않음</li>\n<li>스페인과 포르투갈의 주민들은 여전히 어둠 속에 있으며, 긴 밤이 예상됨</li>\n<li>프랑스와 스페인 간의 에너지 연결...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20593",
+      "guid": "https://news.hada.io/topic?id=20593",
+      "pubDate": "2025-04-29T10:41:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Rust를 떠나 Unity로: 게임 개발 방향 전환 이야기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Architect of Ruin</strong> 개발팀은 초기에는 <strong>Bevy 엔진과 Rust</strong>로 개발을 시작했지만, 실용적 문제로 인해 <strong>Unity와 C#로 전환</strong>함</li>\n<li>\n<strong>Rust와 Bevy의 장점</strong>에도 불구하고, <strong>협업</strong>, <strong>고수준 추상화 필요성</strong>, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20592",
+      "guid": "https://news.hada.io/topic?id=20592",
+      "pubDate": "2025-04-29T10:41:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ScreenRecorder - 웹 기반 무료 Screen Studio 대체제",
+      "description": {
+        "$text": "<ul>\n<li>브라우저에서 바로 <strong>화면 녹화</strong>를 할 수 있는 도구</li>\n<li>\n<strong>로그인 없이</strong> 제품 데모와 튜토리얼을 쉽게 만들 수 있는 기능을 제공</li>\n<li>\n<strong>화면 스타일링</strong>과 <strong>웹캠 효과</strong>를 통해 전문적인 비주얼을 쉽게 구현할 수 있음</li>\n<li>\n<strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20591",
+      "guid": "https://news.hada.io/topic?id=20591",
+      "pubDate": "2025-04-29T10:40:09+09:00",
       "author": "neo",
       "category": ""
     }
