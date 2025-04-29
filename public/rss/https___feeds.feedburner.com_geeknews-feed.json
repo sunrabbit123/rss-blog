@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-28T23:33:06+09:00",
+  "lastBuildDate": "2025-04-29T10:35:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34644,6 +34644,136 @@
       "link": "https://news.hada.io/topic?id=20579",
       "guid": "https://news.hada.io/topic?id=20579",
       "pubDate": "2025-04-28T23:33:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: Python을 실행하는 하드웨어 프로세서 개발",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>PyXL</strong>는 <strong>Python</strong>을 하드웨어에서 직접 실행하는 <strong>커스텀 프로세서</strong>로, <strong>인터프리터</strong>나 <strong>JIT</strong> 없이 동작함</li>\n<li>\n<strong>PyXL</strong>의 <strong>GPIO</strong> 왕복 시간은 <strong>480ns</strong>로, <strong>MicroPyth...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20590",
+      "guid": "https://news.hada.io/topic?id=20590",
+      "pubDate": "2025-04-29T10:35:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스페인과 포르투갈의 대규모 정전 사태",
+      "description": {
+        "$text": "<ul>\n<li>스페인과 포르투갈에서 발생한 대규모 정전으로 인해 혼란이 발생함</li>\n<li>스페인 총리 페드로 산체스는 국가 비상사태를 선언한 후 스페인의 절반 정도의 전력이 복구되었음을 발표함</li>\n<li>정전의 원인은 아직 밝혀지지 않았으며, 포르투갈 총리 루이스 몬테네그로는 사이버 공격의 징후가 없음을 강조...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20589",
+      "guid": "https://news.hada.io/topic?id=20589",
+      "pubDate": "2025-04-29T10:35:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQL 엔진의 구조 분석",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SQL 엔진</strong>은 데이터베이스의 논리적 계층으로, 클라이언트와 저장소 사이에서 작동함</li>\n<li>\n<strong>파싱</strong>은 SQL 쿼리를 구조화된 추상 구문 트리(AST)로 변환하는 과정이며, <strong>바인딩</strong>은 AST의 필드를 현재 데이터베이스 카탈로그의 심볼과 매칭하는 과정임</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20588",
+      "guid": "https://news.hada.io/topic?id=20588",
+      "pubDate": "2025-04-29T10:31:36+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Shardines - Rails에서 SQLite로 테넌트별 데이터베이스 관리하기",
+      "description": {
+        "$text": "<ul>\n<li>Rails에서 <strong>테넌트마다 별도 데이터베이스</strong>를 사용하는 구조를 구축하는 방법과 그 도전 과정을 설명</li>\n<li>\n<strong>ActiveRecord</strong>는 기본적으로 단일 DB 연결을 전제로 설계되어 있어, 테넌트별 연결 전환이 복잡하고 까다로움</li>\n<li>Rails 6 이상의 <strong>connected_to</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20587",
+      "guid": "https://news.hada.io/topic?id=20587",
+      "pubDate": "2025-04-29T10:31:29+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Tilt - 개발 환경을 코드로 관리하기",
+      "description": {
+        "$text": "<ul>\n<li>Kubernetes 기반 <strong>마이크로서비스 개발</strong>을 위한 무료 오픈소스 개발 환경 자동화 도구</li>\n<li>\n<strong>코드 변경 → 파일 감시 → 이미지 빌드 → 배포 갱신</strong> 흐름을 자동화하여 <code>tilt up</code> 명령으로 전체 환경을 띄울 수 있음</li>\n<li>Kubernetes를 중심으로 하지만, <s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20586",
+      "guid": "https://news.hada.io/topic?id=20586",
+      "pubDate": "2025-04-29T10:22:49+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Obsidian + Hugo + GitHub + Cloudflare로 블로그 운영 하는 법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Obsidian</strong>으로 로컬에서 글을 작성후 <strong>Hugo + Bear Blog 테마 + Cloudflare Pages</strong> 조합으로 빠르고 무료로 개인 블로그를 배포</li>\n<li>\n<strong>GitHub를 통한 버전 관리</strong>와 자동 배포로 운영이 편리함. 글을 작성하고 저장, 커밋만 하면 즉시 퍼블리시가 완료</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20585",
+      "guid": "https://news.hada.io/topic?id=20585",
+      "pubDate": "2025-04-29T10:22:41+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI가 알츠하이머병의 원인을 밝히고 새로운 치료 후보 물질을 발견하는데 도움을 주다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>UC 샌디에이고 연구팀</strong>이 <strong>AI를 활용하여 PHGDH 유전자의 새로운 역할</strong>을 규명하고, <strong>알츠하이머병의 원인</strong>으로 작용함을 확인함</li>\n<li>\n<strong>PHGDH 단백질의 비효소적 기능</strong>이 <strong>유전자 발현 조절을 방해</strong>해 질병을 유도하는 경로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20584",
+      "guid": "https://news.hada.io/topic?id=20584",
+      "pubDate": "2025-04-29T10:22:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어를 무료로 배포하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>다른 사람을 위한 무료 소프트웨어를 만들고 싶다면:\n<ul>\n<li>\n<strong>정적 HTML + JavaScript</strong>로 제공</li>\n<li>\n<strong>무료이면서 신뢰할 수 있는 웹호스팅</strong> 이용</li>\n</ul>\n</li>\n<li>\n<strong>WebAssembly</strong>와 <strong>Pyodide</strong> 덕분에:\n<ul>\n<li>\n<strong>클라이언트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20583",
+      "guid": "https://news.hada.io/topic?id=20583",
+      "pubDate": "2025-04-29T10:03:11+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "미국 박사과정 타임라인의 예기치 못한 전개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>xkcd</strong>는 <strong>로맨스, 풍자, 수학, 언어</strong>를 주제로 한 웹툰임</li>\n<li>전형적인 <strong>미국 Ph.D. 과정의 타임라인</strong>을 보여주는 듯하다가, <strong>갑작스러운 음모론적 전환</strong>이 발생함</li>\n<li>원래는 <strong>논문 제출 및 심사</strong>가 있어야 할 자리에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20582",
+      "guid": "https://news.hada.io/topic?id=20582",
+      "pubDate": "2025-04-29T09:58:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Qwen3 -  더 깊이 생각하고 더 빠르게 행동하는 차세대 언어 모델",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Qwen3</strong>는 <strong>최대 235B 파라미터</strong>를 가진 최신 대형 언어 모델로, <strong>DeepSeek-R1</strong>, <strong>Grok-3</strong>, <strong>Gemini-2.5-Pro</strong> 등과 <strong>경쟁 수준</strong>의 성능을 보여줌</li>\n<li>\n<strong>하이브리드 사고 모드</strong>(Thinking/Non-...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20581",
+      "guid": "https://news.hada.io/topic?id=20581",
+      "pubDate": "2025-04-29T09:55:48+09:00",
       "author": "neo",
       "category": ""
     }
