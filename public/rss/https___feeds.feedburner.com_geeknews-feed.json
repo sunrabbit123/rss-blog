@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-29T10:41:34+09:00",
+  "lastBuildDate": "2025-04-29T11:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34813,6 +34813,19 @@
       "link": "https://news.hada.io/topic?id=20591",
       "guid": "https://news.hada.io/topic?id=20591",
       "pubDate": "2025-04-29T10:40:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지옥 같은 부업",
+      "description": {
+        "$text": "<ul>\n<li>이 글은 필자가 첫 스타트업에서 착취당한 경험을 공유하며, 이를 통해 얻은 교훈을 설명함</li>\n<li>필자는 Fixr라는 자동차 관련 스타트업에서 CTO로 일하며 많은 어려움을 겪었음</li>\n<li>Fixr는 자동차 수리 및 서비스 연결 플랫폼으로, 필자는 앱 개발과 시장 출시를 주도했음</li>\n<li>그러나 공동 창업...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20594",
+      "guid": "https://news.hada.io/topic?id=20594",
+      "pubDate": "2025-04-29T11:33:15+09:00",
       "author": "neo",
       "category": ""
     }
