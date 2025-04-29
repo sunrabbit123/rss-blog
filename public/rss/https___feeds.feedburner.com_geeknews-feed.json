@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-29T11:33:15+09:00",
+  "lastBuildDate": "2025-04-29T13:56:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34827,6 +34827,19 @@
       "guid": "https://news.hada.io/topic?id=20594",
       "pubDate": "2025-04-29T11:33:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "커서를 제대로 사용하는 12가지 방법",
+      "description": {
+        "$text": "<ul>\n<li>커서 디자이너가 말하는 커서 사용법인데, 잘 몰랐던 내용들이 있어 공유드립니다.</li>\n</ul>\n<ol>\n<li>Cursor는 프로젝트 별로 규칙(Rules)을 세울 수 있음. Cursor &gt; Setting &gt; Cursor Settings로 접근하면 됨</li>\n<li>Cursor는 .cursurignore 기능이 있어서, 테스트 케이스 파일을 편집할 수 없게 할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20595",
+      "guid": "https://news.hada.io/topic?id=20595",
+      "pubDate": "2025-04-29T13:56:15+09:00",
+      "author": "liabilityuk0",
       "category": ""
     }
   ]
