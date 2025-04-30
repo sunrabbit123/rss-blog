@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-30T10:22:09+09:00",
+  "lastBuildDate": "2025-04-30T11:35:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -34995,6 +34995,45 @@
       "link": "https://news.hada.io/topic?id=20602",
       "guid": "https://news.hada.io/topic?id=20602",
       "pubDate": "2025-04-30T09:44:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Meta, Llama4 기반의 별도 AI 앱 출시",
+      "description": {
+        "$text": "<ul>\n<li>새로운 <strong>Meta AI 앱</strong>이 출시. WhatsApp, Instagram 등 기존 플랫폼 외에도 <strong>독립적인 AI 앱으로 경험 가능</strong>\n</li>\n<li>\n<strong>Llama 4 기반</strong>으로 더 개인화된 음성 대화와 이미지 생성, 문서 작성 지원 등 <strong>다기능 비서 역할</strong> 수행</li>\n<li>새로운 <s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20614",
+      "guid": "https://news.hada.io/topic?id=20614",
+      "pubDate": "2025-04-30T11:35:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "서버 보호를 위한 Zip Bomb 사용",
+      "description": {
+        "$text": "<ul>\n<li>웹 트래픽의 대부분은 <strong>봇</strong>에서 발생하며, 이 중 일부는 악의적인 목적으로 사용됨</li>\n<li>\n<strong>Zip Bomb</strong>은 작은 압축 파일이지만, 이를 풀면 매우 큰 파일로 확장되어 서버를 과부하 시킬 수 있음</li>\n<li>압축 기술은 웹에서 데이터를 효율적으로 전송하기 위해 사용되며, 봇...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20613",
+      "guid": "https://news.hada.io/topic?id=20613",
+      "pubDate": "2025-04-30T11:32:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자기 논쟁을 통해 사고를 심화하는 AI 기술, Chain of Recursive Thoughts",
+      "description": {
+        "$text": "<ul>\n<li>CoRT는 AI 모델이 스스로의 응답을 반복적으로 검토하고 대안을 생성하여 최적의 답변을 선택하도록 하는 알고리듬임</li>\n<li>Mistral 3.1 24B 모델에 적용했을 때, 특히 프로그래밍 작업에서 성능이 크게 향상됨</li>\n<li>AI는 초기 응답을 생성하고, 여러 번의 '생각 라운드'를 통해 대안을 평가하여 최종 응...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20612",
+      "guid": "https://news.hada.io/topic?id=20612",
+      "pubDate": "2025-04-30T10:32:59+09:00",
       "author": "neo",
       "category": ""
     }
