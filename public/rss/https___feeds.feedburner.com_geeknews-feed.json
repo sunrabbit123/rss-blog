@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-30T11:35:25+09:00",
+  "lastBuildDate": "2025-04-30T13:33:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35034,6 +35034,19 @@
       "link": "https://news.hada.io/topic?id=20612",
       "guid": "https://news.hada.io/topic?id=20612",
       "pubDate": "2025-04-30T10:32:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "85% 국내 부품 규정 덕분에 새로운 자동차 관세 면제된 Tesla 차량",
+      "description": {
+        "$text": "<ul>\n<li>Tesla만이 새로운 자동차 관세에서 면제됨</li>\n<li>85% 국내 콘텐츠 규칙 덕분에 Tesla가 면제됨</li>\n<li>웹페이지가 일시적으로 다운되었거나 새 웹 주소로 이동했을 가능성 있음</li>\n<li>다른 자동차 제조업체는 새로운 규칙에 따라 관세 부과 가능성 있음</li>\n<li>Tesla의 국내 생산 비율이 높은 것이 면...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20615",
+      "guid": "https://news.hada.io/topic?id=20615",
+      "pubDate": "2025-04-30T13:33:42+09:00",
       "author": "neo",
       "category": ""
     }
