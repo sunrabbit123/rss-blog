@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-30T13:33:42+09:00",
+  "lastBuildDate": "2025-04-30T17:32:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35047,6 +35047,19 @@
       "link": "https://news.hada.io/topic?id=20615",
       "guid": "https://news.hada.io/topic?id=20615",
       "pubDate": "2025-04-30T13:33:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Jepsen: Amazon RDS의 PostgreSQL 17.4 분석",
+      "description": {
+        "$text": "<ul>\n<li>PostgreSQL는 <strong>오픈 소스 SQL 데이터베이스</strong>로, 다양한 트랜잭션 격리 수준을 제공함</li>\n<li>Amazon RDS for PostgreSQL는 <strong>AWS에서 관리하는 PostgreSQL 클러스터 서비스</strong>로, 여러 가용 영역에 걸쳐 데이터베이스 노드를 분산하여 장애 확률을 줄임</li>\n<li>Jepsen의 테스트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20616",
+      "guid": "https://news.hada.io/topic?id=20616",
+      "pubDate": "2025-04-30T17:32:41+09:00",
       "author": "neo",
       "category": ""
     }
