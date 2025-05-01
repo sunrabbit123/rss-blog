@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-01T10:46:01+09:00",
+  "lastBuildDate": "2025-05-01T17:36:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35190,6 +35190,32 @@
       "link": "https://news.hada.io/topic?id=20621",
       "guid": "https://news.hada.io/topic?id=20621",
       "pubDate": "2025-05-01T09:42:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: LLM으로 생산성이 증가한거 같은데요. 왜 저는 여전히 바쁠까요?",
+      "description": {
+        "$text": "<p>최근 몇년에 걸쳐 LLM과 같은 AI 도구의 도입으로 개발 뿐만 아니라 전체적인 업무 처리 속도가 크게 향상되었습니다. 그러나 작업 시간이 단축된 만큼 새로운 업무가 추가되거나 기존 업무의 기대 수준이 높아지면서, 오히려 전체적인 업무량은 비슷하거나 더 늘어난 느낌을 받고 있습니다.</p>\n<p>이러한 현상이 개",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20632",
+      "guid": "https://news.hada.io/topic?id=20632",
+      "pubDate": "2025-05-01T17:36:33+09:00",
+      "author": "girr311",
+      "category": ""
+    },
+    {
+      "title": "샤오미 MiMo 추론 모델",
+      "description": {
+        "$text": "<ul>\n<li>MiMo-7B는 <strong>언어 모델의 추론 잠재력</strong>을 최대한 발휘하기 위해 개발된 모델 시리즈임</li>\n<li>\n<strong>사전 훈련</strong>과 <strong>사후 훈련</strong> 전략을 통해 수학 및 코드 추론 작업에서 뛰어난 성능을 발휘함</li>\n<li>MiMo-7B는 <strong>작은 모델</strong>임에도 불구하고 더 큰 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20631",
+      "guid": "https://news.hada.io/topic?id=20631",
+      "pubDate": "2025-05-01T17:33:24+09:00",
       "author": "neo",
       "category": ""
     }
