@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-04-30T17:32:41+09:00",
+  "lastBuildDate": "2025-05-01T10:46:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35060,6 +35060,136 @@
       "link": "https://news.hada.io/topic?id=20616",
       "guid": "https://news.hada.io/topic?id=20616",
       "pubDate": "2025-04-30T17:32:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI 이미지 생성 서비스 Civit이 검열을 강화하는 진짜 이유 - \"Visa\"",
+      "description": {
+        "$text": "<ul>\n<li>Civit의 최근 검열 강화는 <strong>비자(Visa) 카드 결제망의 정책 변화</strong>에 따른 <strong>외부적 압박 때문</strong>임</li>\n<li>Visa는 <strong>성인 이미지 AI 콘텐츠에 대해 새로운 'VAMP' 프로그램 규정</strong>을 도입했고, <strong>비준수 은행과 결제사에 거액의 벌금</strong>을 부과함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20630",
+      "guid": "https://news.hada.io/topic?id=20630",
+      "pubDate": "2025-05-01T10:46:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cursor 사용자들의 선호 언어 모델 TOP 3 및 그 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>gpt-4.1</strong>은 신중하고 충실한 조력자로, <strong>정확한 코드 이해와 보수적 접근에 강점</strong>이 있음</li>\n<li>\n<strong>gemini 2.5 pro</strong>는 <strong>넓은 컨텍스트 처리에 뛰어나고 이미지 분석 기능도 우수</strong>하지만, <strong>과잉 수정을 유발할 위험성</strong>이 있음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20629",
+      "guid": "https://news.hada.io/topic?id=20629",
+      "pubDate": "2025-05-01T10:16:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 소매업체들, 약 7주 분량의 완전 재고만 남아",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>미중 무역 전쟁의 여파로 미국 소매업체의 재고가 약 7주치만 남았다는 경고</strong>가 나옴</li>\n<li>\n<strong>로스앤젤레스 항만청장에 따르면 미국 주요 소매업체들이 중국발 배송을 중단</strong>하면서 <strong>화물 물동량이 급감</strong>하고 있음</li>\n<li>\n<strong>트럼프 행정부는 중국에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20628",
+      "guid": "https://news.hada.io/topic?id=20628",
+      "pubDate": "2025-05-01T10:00:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 경제 1분기 0.3% 수축 - 관세 앞둔 수입 급증이 주요 원인",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>2025년 1분기 미국 GDP는 연율 기준 -0.3% 감소</strong>, WSJ 전망치(+0.4%)를 하회함</li>\n<li>트럼프 대통령의 <strong>관세 정책 발표 직전 수입 급증(41.3%)</strong>, GDP 하락의 직접적 원인으로 작용함</li>\n<li>소비는 전 분기 4% → 1.8%로 <strong>급격히 둔화</strong>, 기업 투자(+9.8%)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20627",
+      "guid": "https://news.hada.io/topic?id=20627",
+      "pubDate": "2025-05-01T09:57:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPT-4o의 아첨 현상: 무엇이 있었고, 어떻게 해결 중인가",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 최근 <strong>GPT-4o의 업데이트를 롤백</strong>했으며, 사용자는 현재 더 <strong>균형 잡힌 이전 버전</strong>을 사용 중임</li>\n<li>원인은 모델이 <strong>지나치게 아첨하거나 동조하는 성향(sycophantic)</strong> 을 보였기 때문이며, 이는 <strong>불편하고 불쾌감을 주는 상호작용</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20626",
+      "guid": "https://news.hada.io/topic?id=20626",
+      "pubDate": "2025-05-01T09:54:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "투자자 없이 연간 수익 $250k 달성한 Teams 용 위키 창업 이야기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Microsoft Teams 내장 위키의 불편함</strong>을 해결한 SaaS 제품 <strong>Perfect Wiki</strong>로, <strong>투자 없이 연 매출 $250,000 달성</strong>\n</li>\n<li>창업자 Ilia는 <strong>팬데믹 시기 해고 이후</strong> Zoom 및 Teams용 앱을 시도했고, <strong>Teams 마켓플레이스의 기회</stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20625",
+      "guid": "https://news.hada.io/topic?id=20625",
+      "pubDate": "2025-05-01T09:51:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 LA 항만청, \"중국산 관세 여파로 다음 주 물동량 35% 급감\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>트럼프 대통령의 대중국 관세 강화로 인해</strong> 미국 주요 소매업체들이 <strong>중국발 수입을 중단</strong>, <strong>LA항 물동량이 다음 주 35% 감소</strong>할 전망임</li>\n<li>\n<strong>중국발 화물은 LA항의 전체 물량 중 약 45%를 차지</strong>, 일부 운송업체들은 <strong>동남아시아 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20624",
+      "guid": "https://news.hada.io/topic?id=20624",
+      "pubDate": "2025-05-01T09:48:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "왜 우리는 RGB와 HSL에서 OKLCH로 전환했을까요? (번역)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OKLCH 색상 공간</strong>은 기존의 RGB나 HSL과 달리 <strong>사람의 인식에 기반</strong>하여 더 정밀하고 예측 가능</li>\n<li>\n<strong>디자인 시스템과 접근성 향상</strong>에 적합하며, 특히 <strong>P3 같은 광색역 색상</strong> 표현에 강점을 가져 최신 디바이스와 더 잘 호환됨</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20623",
+      "guid": "https://news.hada.io/topic?id=20623",
+      "pubDate": "2025-05-01T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "핀란드, 학교에서 스마트폰 사용 금지 법안 통과",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>핀란드 의회가 초·중등학교 학생들의 스마트폰 사용을 제한하는 법안</strong>을 통과시킴</li>\n<li>\n<strong>2025년 여름 방학 이후인 8월부터 시행 예정</strong>으로, 수업 시간에는 일반적으로 스마트폰 사용이 금지됨</li>\n<li>다만, <strong>교사의 허가 하에 학습 보조나 건강 관련 사유로 예외...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20622",
+      "guid": "https://news.hada.io/topic?id=20622",
+      "pubDate": "2025-05-01T09:45:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유튜브의 누군가에게는 안경이 필요해요",
+      "description": {
+        "$text": "<ul>\n<li>유튜브, 이제는 광고와 실험적 디자인으로 사용자 경험 망치는 중</li>\n<li>작성자는 <strong>32인치 1440p 화면에서도 유튜브 홈에서 고작 5개의 영상만 볼 수 있는 UI 변화</strong>를 비판함</li>\n<li>반면 <strong>2019년 기준 유튜브에서는 광고 없이 최대 30개의 썸네일이 한눈에 보였음</strong>\n</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20621",
+      "guid": "https://news.hada.io/topic?id=20621",
+      "pubDate": "2025-05-01T09:42:22+09:00",
       "author": "neo",
       "category": ""
     }
