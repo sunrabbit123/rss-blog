@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T06:20:13+09:00",
+  "lastBuildDate": "2025-05-03T06:34:24+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35437,6 +35437,19 @@
       "link": "https://news.hada.io/topic?id=20661",
       "guid": "https://news.hada.io/topic?id=20661",
       "pubDate": "2025-05-03T06:20:13+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google은 경쟁 앱보다 사용자가 적은 신규 앱을 해치고 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Google Play의 “사용자 수가 적음” 경고</strong>는 <strong>신규 및 특화 앱</strong>에 부정적 영향을 주고 있음</li>\n<li>\n<strong>사용률이 낮더라도 기능상 충분한 앱</strong>들도 경고 대상이 되며, 이는 사용자 전환율에 악영향을 줌</li>\n<li>\n<strong>앱의 특성상 비정기적으로 사용</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20662",
+      "guid": "https://news.hada.io/topic?id=20662",
+      "pubDate": "2025-05-03T06:34:24+09:00",
       "author": "xguru",
       "category": ""
     }
