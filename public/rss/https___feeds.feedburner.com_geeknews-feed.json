@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-02T09:45:06+09:00",
+  "lastBuildDate": "2025-05-02T11:36:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35255,6 +35255,136 @@
       "link": "https://news.hada.io/topic?id=20633",
       "guid": "https://news.hada.io/topic?id=20633",
       "pubDate": "2025-05-02T09:39:03+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, 추론에 최적화한 Phi-4 발표",
+      "description": {
+        "$text": "<ul>\n<li>소형 언어 모델(SLM)의 가능성을 입증한 <strong>Phi 시리즈</strong> 공개 1주년을 맞아, <strong>추론에 최적화되고 멀티스텝 사고에 특화</strong>된 <strong>새로운 모델군을 발표</strong>함</li>\n<li>파라미터 규모가 작음에도 불구하고 <strong>대형 모델과 비견될 성능</strong>을 보임</li>\n<li>\n<str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20657",
+      "guid": "https://news.hada.io/topic?id=20657",
+      "pubDate": "2025-05-02T11:36:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "7월 1일부터 NIH 자금 지원 연구에 대한 학술 출판사의 유료 장벽 금지",
+      "description": {
+        "$text": "<ul>\n<li>NIH는 2024년 공공 접근 정책의 시행일을 앞당겨 2025년 7월 1일부터 시행할 예정임</li>\n<li>이 정책은 NIH가 지원하는 연구 결과를 대중에게 신속하게 공개하는 것을 목표로 함</li>\n<li>2008년 정책에서는 최대 12개월의 공개 지연이 허용되었으나, 2024년 개정 정책에서는 이 지연 기간이 제거됨</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20656",
+      "guid": "https://news.hada.io/topic?id=20656",
+      "pubDate": "2025-05-02T11:33:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude, 외부 도구와 연동되는 'Integrations' 기능 공개",
+      "description": {
+        "$text": "<ul>\n<li>다양한 외부 앱 및 도구와 연동 가능한 'Integrations' 기능을 출시. Jira, Zapier, Intercom 등 10개 서비스 부터 지원</li>\n<li>사용자가 Claude에 도구를 연결하면 <strong>프로젝트 상태, 업무 히스토리 등을 파악하여 복잡한 작업을 도울 수 있음</strong>\n</li>\n<li>기존에는 <strong>로컬 서버 기반 MCP...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20655",
+      "guid": "https://news.hada.io/topic?id=20655",
+      "pubDate": "2025-05-02T11:11:03+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Google Play의 앱 수가 1년새 47% 감소함",
+      "description": {
+        "$text": "<ul>\n<li>2024년 초 이후 Google Play 앱 수가 <strong>340만 개에서 약 180만 개로 47% 급감</strong>, 대규모 앱 정리에 따른 변화임</li>\n<li>같은 기간 <strong>iOS App Store는 오히려 소폭 증가</strong>했으며, 이번 감소는 Android 플랫폼 고유의 변화로 분석됨</li>\n<li>Google은 <strong>품질 기준 상향, 앱 검...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20654",
+      "guid": "https://news.hada.io/topic?id=20654",
+      "pubDate": "2025-05-02T11:05:33+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Sim Studio - 에이전트 워크플로우 구축용 오픈소스 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>에이전트 기반 워크플로우를 구축, 테스트, 최적화할 수 있는 <strong>Next.js + PostgreSQL</strong>로 구축된 오픈소스 플랫폼</li>\n<li>웹 기반 인터페이스로 구성되어 있어 <strong>비개발자도 비쥬얼하게 사용 가능</strong>\n</li>\n<li>Docker 기반 셀프 호스팅 환경을 제공, 로컬 모델 연동(Ollama 지원)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20653",
+      "guid": "https://news.hada.io/topic?id=20653",
+      "pubDate": "2025-05-02T10:36:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Qwen3를 MacBook에서 실행하여 무료 Vibe 코딩하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>MLX 라이브러리</strong>를 활용해 Mac에서 직접 실행하여, 강력한 최신 Qwen3-30B-A3B-8bit 모델을 <strong>로컬에서 서빙</strong>\n</li>\n<li>Localforge에서 이를 OpenAI API 방식으로 연동하여 <strong>에이전트 루프</strong>를 구성</li>\n<li>\n<strong>ollama 기반 보조 모델(Gemma3)을 추가 구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20652",
+      "guid": "https://news.hada.io/topic?id=20652",
+      "pubDate": "2025-05-02T10:25:18+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "왜 나는 미국 기술에서 벗어나려 하는가",
+      "description": {
+        "$text": "<p><strong>1. 트럼프와 실리콘밸리의 동맹</strong></p>\n<ul>\n<li>트럼프 2기 취임식에 실리콘밸리 억만장자들이 전면에 나섰고, 그들은 세금 회피와 규제 완화를 위해 트럼프와 손잡았다.</li>\n<li>실리콘밸리의 미래지향적 서사는 사라졌고, 플랫폼들은 자사 이익을 위해 품질과 신뢰를 희생하고 있다.</li>\n<li>미국",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20651",
+      "guid": "https://news.hada.io/topic?id=20651",
+      "pubDate": "2025-05-02T10:24:59+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "AI 모델은 목표와 정직함이 충돌할 때 거짓말을 자주 한다",
+      "description": {
+        "$text": "<p><strong>1. AI의 거짓말 경향</strong></p>\n<ul>\n<li>AI는 목표와 진실이 충돌할 때 절반 이상 확률로 거짓말을 한다는 연구 결과가 발표되었다.</li>\n<li>모델 설정값(예: temperature)에 따라 진실성이나 창의성이 달라질 수 있으며, 이는 사용 목적에 따라 조정된다.</li>\n<li>의료나 민감한 분야에서는 높은 창의",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20650",
+      "guid": "https://news.hada.io/topic?id=20650",
+      "pubDate": "2025-05-02T10:22:58+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "ProtectEU' 보안 전략: 디지털 디스토피아로 한 걸음 더",
+      "description": {
+        "$text": "<p><strong>1. 새 전략의 위험한 연속성</strong></p>\n<ul>\n<li>ProtectEU는 이전 전략의 감시 강화 기조를 유지하며, 기술 중심의 억제적 접근을 반복한다.</li>\n<li>복잡한 사회 문제를 기술로 해결하려는 ‘테크노 해결주의’는 비효율적이고 해롭다.</li>\n<li>민간 보안 산업에 예산이 집중되며, 실질적 안전을 위한",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20649",
+      "guid": "https://news.hada.io/topic?id=20649",
+      "pubDate": "2025-05-02T10:19:47+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "오웬 르 블랑: 최초의 리눅스 배포판을 만든 사람",
+      "description": {
+        "$text": "<ul>\n<li>리눅스 최초의 배포판은 1992년 Owen Le Blanc가 만든 <strong>MCC Interim Linux</strong>이며, 이는 설치 프로그램이 포함된 최초의 리눅스 배포판이다.</li>\n<li>Le Blanc는 당시 복잡한 설치 과정을 개선하고자 2장의 플로피로 설치 가능한 시스템을 만들었고, 이는 교육용으로도 활용되었다.</li>\n<li>해당...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20648",
+      "guid": "https://news.hada.io/topic?id=20648",
+      "pubDate": "2025-05-02T10:13:56+09:00",
       "author": "baeba",
       "category": ""
     }
