@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-01T17:36:33+09:00",
+  "lastBuildDate": "2025-05-02T09:45:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35217,6 +35217,45 @@
       "guid": "https://news.hada.io/topic?id=20631",
       "pubDate": "2025-05-01T17:33:24+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "앱스토어 변경 명령을 '방해'한 혐의로 애플, 형사 검찰에 회부",
+      "description": {
+        "$text": "<ul>\n<li>미국 판사가 애플이 법원의 앱스토어 변경 명령을 고의로 회피했다며 형사 검찰에 회부함.</li>\n<li>애플 재무 부사장이 위증했고, 이는 반경쟁적 수익 구조를 유지하기 위한 시도로 판단됨.</li>\n<li>애플은 외부 결제를 허용하면서도 27% 수수료를 요구해 실질적인 변화 없이 명령을 위반함.</li>\n<li>해당 사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20635",
+      "guid": "https://news.hada.io/topic?id=20635",
+      "pubDate": "2025-05-02T09:45:06+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Redis 오픈 소스 재도입",
+      "description": {
+        "$text": "<ul>\n<li>Redis는 오픈 소스로 다시 제공됨</li>\n<li>Redis는 메모리 내 데이터 구조 저장소로 널리 사용됨</li>\n<li>Redis의 오픈 소스 재도입은 개발자 커뮤니티에 긍정적인 영향을 미침</li>\n<li>Redis는 높은 성능과 확장성을 제공함</li>\n<li>Redis의 오픈 소스 버전은 다양한 사용 사례에 적합함</li>\n</ul>\n<hr /...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20634",
+      "guid": "https://news.hada.io/topic?id=20634",
+      "pubDate": "2025-05-02T09:42:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4대 주요 웹 브라우저, 곧 전체 자금의 80%를 잃는다",
+      "description": {
+        "$text": "<ul>\n<li>구글은 크롬, 파이어폭스, 사파리, 엣지 등 주요 브라우저 개발 예산의 80% 이상을 지원하고 있다.</li>\n<li>구글은 모질라에 연 4.5억 달러, 애플에 연 180억 달러를 검색 기본 설정 대가로 지급한다.</li>\n<li>마이크로소프트 엣지는 구글의 오픈소스 프로젝트인 크로미엄을 기반으로 한 브라우저다.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20633",
+      "guid": "https://news.hada.io/topic?id=20633",
+      "pubDate": "2025-05-02T09:39:03+09:00",
+      "author": "baeba",
       "category": ""
     }
   ]
