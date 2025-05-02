@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-02T14:50:01+09:00",
+  "lastBuildDate": "2025-05-02T15:32:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35398,6 +35398,19 @@
       "link": "https://news.hada.io/topic?id=20658",
       "guid": "https://news.hada.io/topic?id=20658",
       "pubDate": "2025-05-02T14:50:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "컴퓨터 간 SQLite 데이터베이스를 더 빠르게 복사하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>SQLite 데이터베이스를 컴퓨터 간에 복사하는 더 빠른 방법에 대한 설명임</li>\n<li>데이터베이스의 인덱스가 복사 속도를 느리게 하는 주요 원인임</li>\n<li>SQLite의 <code>.dump</code> 명령어를 사용하여 데이터베이스를 텍스트 파일로 덤프할 수 있음</li>\n<li>텍스트 파일은 원본 데이터베이스보다 작으며...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20659",
+      "guid": "https://news.hada.io/topic?id=20659",
+      "pubDate": "2025-05-02T15:32:46+09:00",
       "author": "neo",
       "category": ""
     }
