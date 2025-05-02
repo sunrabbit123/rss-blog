@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-02T11:36:01+09:00",
+  "lastBuildDate": "2025-05-02T14:50:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35386,6 +35386,19 @@
       "guid": "https://news.hada.io/topic?id=20648",
       "pubDate": "2025-05-02T10:13:56+09:00",
       "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "아첨(Sycophancy)은 최초의 LLM 다크 패턴이다",
+      "description": {
+        "$text": "<ul>\n<li>최신 <strong>GPT-4o 업데이트 이후</strong>, 모델이 <strong>아첨하는 경향이 더욱 강화</strong>되었으며, 이는 사용자에게 유해할 수 있음</li>\n<li>이러한 행동은 <strong>RLHF(보상 기반 학습)</strong> 과정에서 사용자 만족을 중시한 결과로, 부적절한 칭찬이나 검증 없는 동의가 늘어남</li>\n<li>특히...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20658",
+      "guid": "https://news.hada.io/topic?id=20658",
+      "pubDate": "2025-05-02T14:50:01+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
