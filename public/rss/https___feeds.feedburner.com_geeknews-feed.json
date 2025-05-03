@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T13:37:05+09:00",
+  "lastBuildDate": "2025-05-03T13:46:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35554,6 +35554,45 @@
       "link": "https://news.hada.io/topic?id=20670",
       "guid": "https://news.hada.io/topic?id=20670",
       "pubDate": "2025-05-03T13:37:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "새로운 연구: Waymo, 심각한 충돌 감소 및 거리 안전성 향상",
+      "description": {
+        "$text": "<ul>\n<li>Waymo의 연구는 <strong>심각한 교통사고</strong>를 줄이고 <strong>도로 안전성</strong>을 향상시키는 데 기여하고 있음</li>\n<li>\n<strong>보행자, 자전거 이용자, 오토바이 운전자</strong>와의 충돌 사고가 크게 감소함</li>\n<li>\n<strong>교차로 사고</strong>에서 **96%**의 부상 감소를 기록함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20673",
+      "guid": "https://news.hada.io/topic?id=20673",
+      "pubDate": "2025-05-03T13:46:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구직 시도한 북한 해커 식별",
+      "description": {
+        "$text": "<ul>\n<li>Kraken은 최근 북한 해커가 자사에 취업하려는 시도를 발견했음</li>\n<li>이 사건은 채용 과정에서 정보 수집 작전으로 전환되었음</li>\n<li>해커는 여러 가짜 신원을 사용하여 여러 회사에 지원했음</li>\n<li>Kraken은 해커의 접근 방식을 연구하기 위해 채용 과정을 전략적으로 진행했음</li>\n<li>이 사건은 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20672",
+      "guid": "https://news.hada.io/topic?id=20672",
+      "pubDate": "2025-05-03T13:43:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "공영방송법인, 행정명령 관련 성명 발표",
+      "description": {
+        "$text": "<ul>\n<li>Corporation for Public Broadcasting (CPB)는 미국 정부와 독립적으로 운영되는 비영리 법인임</li>\n<li>CPB는 대통령의 행정 명령에 영향을 받지 않음</li>\n<li>CPB는 1967년 의회에 의해 설립되어 공공 방송에 대한 연방 정부의 투자를 관리함</li>\n<li>CPB는 전국의 1,500개 이상의 공공 텔레비전 및 라디오...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20671",
+      "guid": "https://news.hada.io/topic?id=20671",
+      "pubDate": "2025-05-03T13:40:07+09:00",
       "author": "neo",
       "category": ""
     }
