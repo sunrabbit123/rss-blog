@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T16:33:59+09:00",
+  "lastBuildDate": "2025-05-03T17:56:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35607,6 +35607,19 @@
       "guid": "https://news.hada.io/topic?id=20674",
       "pubDate": "2025-05-03T16:33:59+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Free-threaded CPython aka nogil 라이브러리 호환성 체크 사이트",
+      "description": {
+        "$text": "<p>CPython 3.14부터 free-threading CPython도 GIL 버전 CPython의 싱글스레드 성능을 대부분 따라 잡은 상태라 점점 GIL이 없는 파이썬이 메인스트림에 올라갈 것으로 기대하고 있습니다.</p>\n<p>이제부터는 라이브러리 호환성이 중요해지는 시점인데요.<br />\n아직 상태 체크가 완벽하진 않지만 우선 라이브러리 별로",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20675",
+      "guid": "https://news.hada.io/topic?id=20675",
+      "pubDate": "2025-05-03T17:56:31+09:00",
+      "author": "corona10",
       "category": ""
     }
   ]
