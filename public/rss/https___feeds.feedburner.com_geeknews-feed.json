@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T13:46:08+09:00",
+  "lastBuildDate": "2025-05-03T16:33:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35593,6 +35593,19 @@
       "link": "https://news.hada.io/topic?id=20671",
       "guid": "https://news.hada.io/topic?id=20671",
       "pubDate": "2025-05-03T13:40:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: 3D 물리 기반 신시사이저 개발",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Anukari</strong>는 3D 물리 시뮬레이션을 기반으로 한 소프트웨어 신디사이저 및 이펙트 프로세서임</li>\n<li>사용자는 질량과 스프링 같은 물리적 요소를 드래그 앤 드롭하여 자신만의 3D 악기나 이펙트를 디자인할 수 있음</li>\n<li>\n<strong>MIDI</strong> 및 <strong>MPE</strong> 지원으로 다양...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20674",
+      "guid": "https://news.hada.io/topic?id=20674",
+      "pubDate": "2025-05-03T16:33:59+09:00",
       "author": "neo",
       "category": ""
     }
