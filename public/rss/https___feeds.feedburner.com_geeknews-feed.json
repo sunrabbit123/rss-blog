@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T09:46:02+09:00",
+  "lastBuildDate": "2025-05-03T11:24:35+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35516,6 +35516,32 @@
       "guid": "https://news.hada.io/topic?id=20663",
       "pubDate": "2025-05-03T09:27:15+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "지적으로 풍요로운 삶을 사는 방법",
+      "description": {
+        "$text": "<p>이 글은 지적으로 풍요로운 삶을 위한 7단계를 제시합니다.<br />\n호기심을 가지고 다양한 아이디어와 접촉해 새로운 통찰을 얻고,<br />\n만족을 통해 소비 중심적 사고에서 벗어나며, 일상의 루틴으로<br />\n꾸준한 성장을 이끕니다. 다양한 분야의 전문가와 협업하고,<br />\n자신의 지식의 한계를 받아들이며 배움을...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20669",
+      "guid": "https://news.hada.io/topic?id=20669",
+      "pubDate": "2025-05-03T11:24:35+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "개인 사이트를 TTY 스타일 인터페이스로 새롭게 디자인하다",
+      "description": {
+        "$text": "<ul>\n<li>Abdisa Dev는 개인 웹사이트를 터미널(TTY) 스타일로 새롭게 구성했습니다.</li>\n<li>방문자는 터미널 인터페이스에서 GitHub, LinkedIn, Twitter(X)로 쉽게 접근할 수 있습니다.</li>\n<li>이 디자인은 데스크톱에 최적화되어 개발자에게 익숙한 명령어 기반 경험을 제공합니다.</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20668",
+      "guid": "https://news.hada.io/topic?id=20668",
+      "pubDate": "2025-05-03T11:16:04+09:00",
+      "author": "baeba",
       "category": ""
     }
   ]
