@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T17:56:31+09:00",
+  "lastBuildDate": "2025-05-03T21:25:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35620,6 +35620,45 @@
       "guid": "https://news.hada.io/topic?id=20675",
       "pubDate": "2025-05-03T17:56:31+09:00",
       "author": "corona10",
+      "category": ""
+    },
+    {
+      "title": "Qwen-Agent: LLM 기반 애플리케이션 프레임워크",
+      "description": {
+        "$text": "<p><strong>Qwen-Agent</strong>는 Qwen의 기능(명령 수행, 도구 사용, 계획 수립, 메모리)을 활용한 LLM 애플리케이션 개발 프레임워크입니다. Browser Assistant, Code Interpreter, Custom Assistant 등의 애플리케이션을 제공하며, Qwen Chat의 백엔드 역할을 합니다.</p>\n<p><strong>주요 기능:</strong></p>\n<ul>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20679",
+      "guid": "https://news.hada.io/topic?id=20679",
+      "pubDate": "2025-05-03T21:25:06+09:00",
+      "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "호주 라디오 방송국에서 수개월 동안 AI DJ가 방송을 진행했지만 아무도 알아채지 못했습니다.",
+      "description": {
+        "$text": "<p><strong>호주 라디오 방송국 CADA</strong>가 수개월 동안 <strong>AI 생성 DJ</strong>를 사용했지만 아무도 알아채지 못했습니다. 호주 파이낸셜 리뷰와 시드니 모닝 헤럴드의 보도에 따르면, '워크데이즈 위드 Thy'라는 프로그램은 4시간 동안 힙합, R&amp;B, 팝 음악을 진행하며, DJ 'Thy'의 목소리가 AI로 생성되...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20678",
+      "guid": "https://news.hada.io/topic?id=20678",
+      "pubDate": "2025-05-03T20:51:16+09:00",
+      "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "Cloudflare가 13개의 Model Context Protocol(MCP) 서버 공개",
+      "description": {
+        "$text": "<p><strong>Cloudflare</strong>가 13개의 <strong>Model Context Protocol(MCP) 서버</strong>를 공개했습니다. 이제 Claude.ai 등 MCP 클라이언트에서 연결 가능합니다.</p>\n<p>주요 서버 기능:</p>\n<ul>\n<li>\n<strong>Documentation 서버</strong>: 최신 Cloudflare 개발자 문서 제공</li>\n<li>\n<strong>Workers Bind",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20676",
+      "guid": "https://news.hada.io/topic?id=20676",
+      "pubDate": "2025-05-03T20:42:23+09:00",
+      "author": "haebom",
       "category": ""
     }
   ]
