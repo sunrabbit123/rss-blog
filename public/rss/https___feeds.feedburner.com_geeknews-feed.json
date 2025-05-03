@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T21:25:06+09:00",
+  "lastBuildDate": "2025-05-03T22:33:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35659,6 +35659,19 @@
       "guid": "https://news.hada.io/topic?id=20676",
       "pubDate": "2025-05-03T20:42:23+09:00",
       "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "구소련의 Venus 하강 우주선 지구 재진입 임박",
+      "description": {
+        "$text": "<ul>\n<li>소련의 <strong>Cosmos 482</strong>가 지구 재진입을 앞두고 있으며, 새로운 이미지가 흥미로운 세부 사항을 제공함</li>\n<li>\n<strong>Cosmos 482</strong>는 1972년 발사된 금성 탐사선으로, 궤도를 벗어나지 못하고 지구 궤도에 남아 있음</li>\n<li>\n<strong>Venera 8</strong>와 함께 발사된 이 탐사선은 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20680",
+      "guid": "https://news.hada.io/topic?id=20680",
+      "pubDate": "2025-05-03T22:33:45+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
