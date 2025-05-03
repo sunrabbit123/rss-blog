@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T06:34:24+09:00",
+  "lastBuildDate": "2025-05-03T09:46:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35450,6 +35450,71 @@
       "link": "https://news.hada.io/topic?id=20662",
       "guid": "https://news.hada.io/topic?id=20662",
       "pubDate": "2025-05-03T06:34:24+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Meta가 첫번째 LlamaCon에서 발표한 모든 것",
+      "description": {
+        "$text": "<ul>\n<li>메타는 LlamaCon 2025에서 <strong>Llama API</strong>, <strong>보안 도구</strong>, <strong>영향력 있는 프로젝트 지원</strong>, <strong>속도 개선 협업</strong> 등을 발표함</li>\n</ul>\n<h2>Llama API (프리뷰 공개)</h2>\n<ul>\n<li>Llama 3.3 8B 모델을 기반으로 하는 <strong>모델 튜닝 및 평가 기능...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20667",
+      "guid": "https://news.hada.io/topic?id=20667",
+      "pubDate": "2025-05-03T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "지적으로 풍요로운 삶을 위한 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>철학으로의 연결</strong>: Wikipedia의 모든 문서 중 95%가 철학 페이지로 연결됨을 발견한 연구가 있음. 이는 정보의 기본 원칙을 이해하는 데 중요함.</li>\n<li>\n<strong>인식 불안</strong>: 정보 과부하로 인해 진실을 찾는 데 어려움을 겪으며, 이는 인식 불안으로 이어짐. 이는 진실에 대한 인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20666",
+      "guid": "https://news.hada.io/topic?id=20666",
+      "pubDate": "2025-05-03T09:36:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TmuxAI - Tmux 안의 AI 페어 프로그래머",
+      "description": {
+        "$text": "<ul>\n<li>tmux 세션 내에서 동작하는 <strong>지능형 터미널 AI 도우미</strong>로, <strong>tmux 창의 모든 pane을 관찰</strong>하며 사용자 입력 없이도 터미널의 컨텍스트를 읽고 명령을 제안하거나 실행할 수 있음</li>\n<li>기본적으로 OpenRouter 기반 AI 모델을 사용하지만, <strong>OpenAI, Claude, 로컬 Ollama...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20665",
+      "guid": "https://news.hada.io/topic?id=20665",
+      "pubDate": "2025-05-03T09:32:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "xAI 개발자, SpaceX·Tesla 내부 LLM 접근 가능한 API 키 깃허브에 유출",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>xAI 개발자</strong>가 깃허브에 <strong>비공개 LLM API 키를 유출</strong>하여 두 달간 누구나 내부 모델에 접근 가능했던 상황이 드러남</li>\n<li>이 키는 <strong>Grok 개발 버전, SpaceX, Tesla 데이터로 학습된 모델</strong> 포함 <strong>60개 이상 LLM</strong>에 접근 권한을 가짐</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20664",
+      "guid": "https://news.hada.io/topic?id=20664",
+      "pubDate": "2025-05-03T09:28:49+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "W3C TAG의 초안, \"제3자 쿠키는 반드시 웹에서 제거되어야 함\"",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>타사(제3자, Third Party) 쿠키는 개인의 프라이버시를 심각하게 침해하는 기술</strong>로 간주되어, 웹 플랫폼에서 제거되어야 함</li>\n<li>\n<strong>프라이버시 중심의 웹 설계 원칙</strong>에 따라 여러 브라우저는 타사 쿠키 차단을 도입했으며, 모든 브라우저가 동참해야 함</li>\n<li>기존 쿠키...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20663",
+      "guid": "https://news.hada.io/topic?id=20663",
+      "pubDate": "2025-05-03T09:27:15+09:00",
       "author": "xguru",
       "category": ""
     }
