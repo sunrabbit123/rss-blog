@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T11:24:35+09:00",
+  "lastBuildDate": "2025-05-03T13:37:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35542,6 +35542,19 @@
       "guid": "https://news.hada.io/topic?id=20668",
       "pubDate": "2025-05-03T11:16:04+09:00",
       "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "국제 노동절 행사",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>국제 노동절</strong>은 노동자와 노동 계급을 기념하는 날로, 매년 5월 1일 또는 5월 첫 번째 월요일에 전 세계적으로 기념됨</li>\n<li>1889년 파리에서 열린 국제 노동자 회의에서 8시간 노동제를 지지하는 국제 시위를 결의하며 시작됨</li>\n<li>많은 나라에서 5월 1일을 공휴일로 지정하여 다양한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20670",
+      "guid": "https://news.hada.io/topic?id=20670",
+      "pubDate": "2025-05-03T13:37:05+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
