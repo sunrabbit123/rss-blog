@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-03T22:33:45+09:00",
+  "lastBuildDate": "2025-05-04T10:00:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35671,6 +35671,136 @@
       "link": "https://news.hada.io/topic?id=20680",
       "guid": "https://news.hada.io/topic?id=20680",
       "pubDate": "2025-05-03T22:33:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "법적 PDF에 양복 입은 보라색 용 워터마크 금지",
+      "description": {
+        "$text": "<ul>\n<li>법적 문서에 거대한 보라색 용 이미지를 워터마크로 사용하는 것은 연방 법원에서 부적절한 행동으로 간주됨</li>\n<li>미시간 서부 지구의 연방 판사 Ray Kent는 이러한 행동을 유치하고 부적절하다고 판단하여 금지 명령을 내림</li>\n<li>법률 블로깅 커뮤니티에서 이 사건은 많은 주목을 받았으며, 다양한 드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20690",
+      "guid": "https://news.hada.io/topic?id=20690",
+      "pubDate": "2025-05-04T10:00:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "최소 기능 블로그 (Minimum viable blog)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Jekyll, Ghost, WordPress 없이 직접 블로그 제작</strong>한 사례임</li>\n<li>기본 요구 조건은 <strong>소유한 도메인 사용</strong>, <strong>정적 사이트 생성</strong>, <strong>SEO 준수</strong>, <strong>간편한 게시글 추가</strong> 등임</li>\n<li>핵심 구성은 <code>template.html</code>과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20689",
+      "guid": "https://news.hada.io/topic?id=20689",
+      "pubDate": "2025-05-04T09:57:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Breeze PDF - 브라우저 내에서 실행되는 무료 PDF 편집기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Breeze PDF</strong>는 강력한 무료 PDF 편집기로, 브라우저에서 오프라인으로 작동함</li>\n<li>파일이 컴퓨터를 떠나지 않아 <strong>100% 개인정보 보호</strong> 보장</li>\n<li>텍스트 추가, 이미지 삽입, 서명 추가 등 다양한 기능 제공</li>\n<li>PDF 병합, 페이지 삭제, 비밀번호 보호 등 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20688",
+      "guid": "https://news.hada.io/topic?id=20688",
+      "pubDate": "2025-05-04T09:54:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크 월츠, 정부가 Signal 메시지 보관에 사용하는 앱 실수로 공개",
+      "description": {
+        "$text": "<ul>\n<li>전 미국 국가안보보좌관 Mike Waltz가 <strong>정부 회의 중 휴대폰 화면을 통해 비공식 시그널 앱을 사용 중인 모습이 포착됨</strong>\n</li>\n<li>해당 앱은 <strong>TeleMessage</strong>라는 회사의 <strong>TM SGNL</strong>로, <strong>시그널 메시지를 보관하는 기능</strong>을 포함한 복제 앱임</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20687",
+      "guid": "https://news.hada.io/topic?id=20687",
+      "pubDate": "2025-05-04T09:51:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아일랜드 개인정보 감독기구, TikTok에 중국으로의 데이터 전송 관련 5억 3천만 유로 벌금 부과",
+      "description": {
+        "$text": "<ul>\n<li>TikTok이 유럽연합(EU) 개인정보 보호 규정을 위반하여 중국으로 데이터 전송을 한 혐의로 6억 달러의 벌금을 부과받음</li>\n<li>아일랜드 데이터 보호 위원회는 TikTok이 사용자 데이터 전송에 대해 투명하지 않았다고 지적하며 6개월 내 규정 준수를 명령함</li>\n<li>TikTok은 이 결정에 반대하며 항소할 계획...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20686",
+      "guid": "https://news.hada.io/topic?id=20686",
+      "pubDate": "2025-05-04T09:48:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Suno v4.5 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Suno v4.5</strong>는 여러 음악 장르를 제공하여 사용자가 새로운 스타일을 발견할 수 있게 함</li>\n<li>사용자는 특정 스타일을 선택하거나 무작위로 선택하여 창작할 수 있음</li>\n<li>\n<strong>Suno v4.5</strong>는 다양한 음악 장르를 포함하여 창의적인 음악 제작을 지원함</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20685",
+      "guid": "https://news.hada.io/topic?id=20685",
+      "pubDate": "2025-05-04T09:45:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "책임 추궁 감소",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>책임 회피 현상</strong>은 조직 내에서 인간의 판단이 공식적인 절차로 대체되면서 발생하는 문제임</li>\n<li>이러한 현상은 <strong>효율성</strong>과 <strong>안전성</strong>을 높일 수 있지만, <strong>책임 회피</strong>의 수단으로 사용될 수 있음</li>\n<li>\n<strong>대규모 조직</strong>뿐...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20684",
+      "guid": "https://news.hada.io/topic?id=20684",
+      "pubDate": "2025-05-04T09:42:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OSle - 부트 섹터에 들어가는 510바이트 짜리 초소형 OS",
+      "description": {
+        "$text": "<ul>\n<li>510 바이트안에 쉘, 파일 시스템, 프로세스 관리 기능을 담은 x86 어셈블리 기반 부트섹터 운영체제\n<ul>\n<li>\n<strong>real-mode</strong> 에서 작동 : x86 CPU가 부팅될때 가장 먼저 진입하는 16비트 모드. 1MB 메모리만 접근 가능하며, 보호기능이 없음</li>\n</ul>\n</li>\n<li>쉘 명령 실행, 파일 읽기/쓰기,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20683",
+      "guid": "https://news.hada.io/topic?id=20683",
+      "pubDate": "2025-05-04T09:32:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "한국인터넷진흥원(KISA), SKT 해킹 확인중 악성코드 변종들 8종 확인",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SKT 침해사고</strong> 대응 중 리눅스 시스템을 노린 <strong>BPFDoor</strong> 계열의 기존 악성코드 4종에 추가로 <strong>변종 악성코드 8종</strong>을 발견\n<ul>\n<li>지속적 침입용 백도어로 흔적이 남지 않기 때문에 더 많은 정보의 유출 가능성이 있음</li>\n</ul>\n</li>\n<li>1차에 알려진 <st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20682",
+      "guid": "https://news.hada.io/topic?id=20682",
+      "pubDate": "2025-05-04T09:16:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "프로그래밍에 언어적 사고가 수학적 사고보다 중요한가? (2020)",
+      "description": {
+        "$text": "<ul>\n<li>새로운 연구에 따르면, <strong>프로그래밍 학습</strong>에 있어 <strong>언어 능력</strong>이 <strong>수학 능력</strong>보다 더 중요함</li>\n<li>연구는 <strong>Python</strong> 학습 속도와 성과를 예측하는 데 <strong>언어 능력</strong>과 <strong>문제 해결 능력</strong>이 중요하다는 것을 보여줌...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20681",
+      "guid": "https://news.hada.io/topic?id=20681",
+      "pubDate": "2025-05-04T08:33:12+09:00",
       "author": "neo",
       "category": ""
     }
