@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-04T18:33:16+09:00",
+  "lastBuildDate": "2025-05-04T23:32:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35840,6 +35840,19 @@
       "link": "https://news.hada.io/topic?id=20693",
       "guid": "https://news.hada.io/topic?id=20693",
       "pubDate": "2025-05-04T18:33:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지난 10년간 가장 중요한 지리공간 소프트웨어로 부상한 DuckDB",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>DuckDB</strong>는 최근 10년간 가장 중요한 <strong>지리 공간 소프트웨어</strong>로 평가받음</li>\n<li>\n<strong>지리 공간 기능</strong>을 일반 데이터 도구에 통합하면 더 많은 사람들이 <strong>지리 데이터</strong>에 참여하게 됨</li>\n<li>DuckDB의 <strong>공간 확장</strong>은 지리 공간...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20694",
+      "guid": "https://news.hada.io/topic?id=20694",
+      "pubDate": "2025-05-04T23:32:43+09:00",
       "author": "neo",
       "category": ""
     }
