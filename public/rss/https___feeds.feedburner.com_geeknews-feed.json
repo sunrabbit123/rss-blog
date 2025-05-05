@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-05T21:14:40+09:00",
+  "lastBuildDate": "2025-05-06T02:07:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36049,6 +36049,19 @@
       "guid": "https://news.hada.io/topic?id=20709",
       "pubDate": "2025-05-05T21:14:40+09:00",
       "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "yc-data-script: 퍼포먼스 트러블슈팅 툴킷",
+      "description": {
+        "$text": "<p>ycrash 라는 회사에서 만든 유틸리티 cli 도구로, 16가지 기능을 내장하고 있습니다. 퍼포먼스를 분석할 때 이거 하나면 된다! 라는 홍보를 하길래 한 번 공유해봅니다. <strong>JVM 환경을 분석하는데 집중하는 툴입니다.</strong></p>\n<p>포함된 16가지의 기능은 다음과 같습니다.</p>\n<ol>\n<li>Garbage collection",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20710",
+      "guid": "https://news.hada.io/topic?id=20710",
+      "pubDate": "2025-05-06T02:07:37+09:00",
+      "author": "roxie",
       "category": ""
     }
   ]
