@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-05T18:33:07+09:00",
+  "lastBuildDate": "2025-05-05T21:14:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36036,6 +36036,19 @@
       "guid": "https://news.hada.io/topic?id=20708",
       "pubDate": "2025-05-05T18:33:07+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "바이브 코딩으로 $18,500 벌고 배운 것",
+      "description": {
+        "$text": "<h4>지극히 개인적인 사례</h4>\n<p>총 17개의 프로젝트를 시도했지만 실제로 수익을 낸 것은 단 3개뿐이었으며, 그 중 한 프로젝트가 전체 수익의 절반 이상을 차지했습니다. 가장 성공적이었던 심리 테스트 서비스는 사용자 심리를 활용한 구매 유도 전략을 사용했습니다. 기술적으로 완성도가 높은 것보다는 오히려 기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20709",
+      "guid": "https://news.hada.io/topic?id=20709",
+      "pubDate": "2025-05-05T21:14:40+09:00",
+      "author": "haebom",
       "category": ""
     }
   ]
