@@ -858,6 +858,15 @@
       "pubDate": "Thu, 01 May 2025 13:52:16 +0900",
       "author": "pjt3591oo",
       "category": "보안"
+    },
+    {
+      "title": "[langchain] 1편 - langchain 시작하기",
+      "description": "안녕하세요 멍개입니다. 이번 시간부터는 langchain을 다뤄보고자 합니다. ● langchain이 필요한 이유 ChatGPT와 같은 대규모 언어 모델(Large Language Models, LLM)이 등장하면서 우리는 이전에는 상상하기 어려웠던 놀라운 경험들을 하고 있습니다. 인간과 자연스럽게 대화하고, 글을 쓰고, 코드를 짜는 등 LLM은 다양한 분야에서 혁신적인 변화를 이끌고 있습니다. 이러한 강력한 LLM을 기반으로 더 복잡하고 유용한 애플리케이션을 만들고자 하는 요구는 당연히 커지고 있습니다. 단순한 챗봇을 넘어, 우리의 데이터를 이해하고, 다른 서비스와 연동하며, 스스로 판단하여 작업을 수행하는 인공지능 애플리케이션을 만들고자 하는 수요가 매.......",
+      "link": "https://blog.naver.com/pjt3591oo/223855896217?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223855896217",
+      "pubDate": "Mon, 05 May 2025 14:09:31 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
