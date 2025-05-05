@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-05T11:01:02+09:00",
+  "lastBuildDate": "2025-05-05T18:33:07+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36022,6 +36022,19 @@
       "link": "https://news.hada.io/topic?id=20702",
       "guid": "https://news.hada.io/topic?id=20702",
       "pubDate": "2025-05-05T09:55:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "궁수들이 Volley Fire를 사용하지 않은 이유",
+      "description": {
+        "$text": "<ul>\n<li>영화와 TV에서 흔히 볼 수 있는 <strong>화살 일제사격</strong> 장면은 실제 역사와 다름</li>\n<li>\n<strong>궁수들은 일제사격을 하지 않았음</strong>. 각자 최적의 타이밍에 화살을 발사했음</li>\n<li>\n<strong>일제사격은 주로 총기와 같은 느린 재장전 무기를 위한 전술</strong>임</li>\n<li>\n<strong>활...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20708",
+      "guid": "https://news.hada.io/topic?id=20708",
+      "pubDate": "2025-05-05T18:33:07+09:00",
       "author": "neo",
       "category": ""
     }
