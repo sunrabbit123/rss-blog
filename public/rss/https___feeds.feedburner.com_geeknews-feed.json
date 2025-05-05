@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-04T23:32:43+09:00",
+  "lastBuildDate": "2025-05-05T09:52:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35853,6 +35853,97 @@
       "link": "https://news.hada.io/topic?id=20694",
       "guid": "https://news.hada.io/topic?id=20694",
       "pubDate": "2025-05-04T23:32:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "무선 USB의 문제점",
+      "description": {
+        "$text": "<ul>\n<li>무선 USB는 한때 유망한 기술이었으나, 경쟁 표준으로 인해 시장에서 빠르게 사라짐</li>\n<li>초광대역(UWB) 기술을 기반으로 하여 높은 대역폭을 제공하는 무선 통신을 가능하게 함</li>\n<li>DS-UWB와 MB-OFDM 두 가지 상호 호환되지 않는 기술이 존재했으며, 각기 다른 기업의 지원을 받음</li>\n<li>CW-USB와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20701",
+      "guid": "https://news.hada.io/topic?id=20701",
+      "pubDate": "2025-05-05T09:52:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "3D 프린팅을 위한 디자인",
+      "description": {
+        "$text": "<ul>\n<li>3D 프린팅은 기존 제조 방식과 다른 디자인 철학이 필요함</li>\n<li>FDM/FFF 프린팅에 중점을 두며, 기계적 특성을 최적화하는 기능적 부품 설계에 집중함</li>\n<li>설계 엔지니어는 제조 공정에 맞춰 부품 기하학을 조정해야 함</li>\n<li>3D 프린터의 빠른 혁신으로 인해 설계 규칙이 변화할 수 있음</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20700",
+      "guid": "https://news.hada.io/topic?id=20700",
+      "pubDate": "2025-05-05T09:49:35+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "정액 요금 이사 서비스 연락 두절 상황",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Flat Rate Movers</strong>와의 이사 경험에서 발생한 문제를 설명함</li>\n<li>이사 과정에서 <strong>Esquire Moving Inc</strong>가 잘못된 서비스를 제공했음을 언급함</li>\n<li>\n<strong>Flat Rate</strong>의 고객 서비스 부재로 인해 보험사와 직접 연락하여 문제를 해결했음을 설명함</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20699",
+      "guid": "https://news.hada.io/topic?id=20699",
+      "pubDate": "2025-05-05T09:46:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트",
+      "description": {
+        "$text": "<ul>\n<li>코드 없이 앱을 만드는 Vibe Coding 플랫폼 'Memex'가 정식 출시 후 3일 만에 <strong>10,000개 이상의 프로젝트</strong>를 기록</li>\n<li>사용자는 <strong>AI 앱, 소상공인 도구, 모바일 앱 리팩터링, Agent 관련 MCP 서버 등</strong> 다양한 목적에 Memex를 활용하고 있음</li>\n<li>&quot;Vibe Coding&quo...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20698",
+      "guid": "https://news.hada.io/topic?id=20698",
+      "pubDate": "2025-05-05T09:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HTML만으로는 포함 기능을 구현할 수 없는 이유",
+      "description": {
+        "$text": "<ul>\n<li>HTML은 자체적으로 <strong>포함 기능</strong>을 제공하지 않음</li>\n<li>다양한 방법으로 HTML 포함 문제를 해결할 수 있음</li>\n<li>HTML은 CSS나 JavaScript처럼 <strong>다른 HTML을 가져오는 기능</strong>이 없음</li>\n<li>HTML 포함 기능이 없는 이유는 <strong>웹 성능 문제</strong>나 <strong>복잡성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20697",
+      "guid": "https://news.hada.io/topic?id=20697",
+      "pubDate": "2025-05-05T09:43:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프롬프트 읽기를 선호하는 독자",
+      "description": {
+        "$text": "<ul>\n<li>\n<p><strong>학생들이 과제에서 Euler 각을 사용하는 문제점에 대해 언급함</strong></p>\n<ul>\n<li>\n<strong>Gimbal lock</strong>: 특정 위치에서 회전이 불가능해지는 문제</li>\n<li>\n<strong>수치적 불안정성</strong>: Euler 각을 사용할 때 계산의 정밀도가 떨어질 수 있음</li>\n<li>\n<strong>비고유 좌표",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20696",
+      "guid": "https://news.hada.io/topic?id=20696",
+      "pubDate": "2025-05-05T09:40:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gorgeous-GRUB: 품격 있는 커뮤니티 제작 GRUB 테마 모음",
+      "description": {
+        "$text": "<ul>\n<li>GRUB 테마는 부트로더를 꾸미는 데 유용하며, 다양한 사이트에 흩어져 있어 찾기 어려움</li>\n<li>테마는 사용자 맞춤화가 쉬우며, 배경, 글꼴, 색상 등을 쉽게 변경 가능함</li>\n<li>GitZip, GRUB-Tweaks 등 유용한 링크를 통해 테마를 다운로드하거나 수정할 수 있음</li>\n<li>테마 설치 및 기여 방법에 대한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20695",
+      "guid": "https://news.hada.io/topic?id=20695",
+      "pubDate": "2025-05-05T08:32:55+09:00",
       "author": "neo",
       "category": ""
     }
