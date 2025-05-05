@@ -867,6 +867,15 @@
       "pubDate": "Mon, 05 May 2025 14:09:31 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langchain] 2편 - langchain 기본활용(Chains, LCEL)",
+      "description": "안녕하세요 멍개입니다. 이번 포스트는 지난 포스트에는 LangChain의 기본 구성 요소를 다뤘습니다. LangChain의 기본 요소인 Model, Promp, Output Parser을 여러 형태로 조합할 수 있는데 이를 워크플로우나 Chain이라고 합니다. 또한 Chain을 만드는 강력한 방법중 하나가 LCEL입니다. ● Chain: 워크플로우를 만들어보자 LLM은 단순하게 한 번 호출되고 끝나지 않습니다. 예를 들면 다음과 같은 시나리오가 있을 수 있습니다. 또한 이들은 순차적 또는 병렬적으로 이루어질 수 있습니다. · Chain을 만드는 방법 - 과거의 방식 먼저, 고전적으로 Chain을 만드는 방법을 다룹니다. 고전적으로 만드는 방법은 LangChain에서 제공하는 LLMChain을.......",
+      "link": "https://blog.naver.com/pjt3591oo/223855958013?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223855958013",
+      "pubDate": "Mon, 05 May 2025 15:37:05 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
