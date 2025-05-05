@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-05T09:52:36+09:00",
+  "lastBuildDate": "2025-05-05T11:01:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -35944,6 +35944,84 @@
       "link": "https://news.hada.io/topic?id=20695",
       "guid": "https://news.hada.io/topic?id=20695",
       "pubDate": "2025-05-05T08:32:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "엔지니어링의 인간적 측면 마스터하기: Apple, Palantir, Slack에서 배운 리더십 교훈",
+      "description": {
+        "$text": "<ul>\n<li>Apple의 엔지니어링 리더 <strong>Michael Lopp</strong>은 제품을 빠르게 만들 수 있는 시대일수록 <strong>사람 중심의 운영과 판단력</strong>이 중요하다고 강조\n<ul>\n<li>“누가 결정을 내리고, 그 결정을 어떻게 실행하는가?”가 진정한 엔지니어링의 본질임</li>\n<li>코드 작성 능력보다, <strong>사람 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20707",
+      "guid": "https://news.hada.io/topic?id=20707",
+      "pubDate": "2025-05-05T11:01:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Discord가 수조 개의 메시지를 인덱싱하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>Discord는 기존 Elasticsearch 기반 검색 인프라의 한계를 극복하고자 <strong>전체 구조를 Kubernetes 기반으로 재설계</strong>, 메시지 인덱싱 성능과 안정성을 획기적으로 개선</li>\n<li>기존 Redis 큐는 메시지 유실 위험이 있었으나 <strong>PubSub로 대체되며 안정적 메시지 전달 보장</strong>, 동시에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20706",
+      "guid": "https://news.hada.io/topic?id=20706",
+      "pubDate": "2025-05-05T10:31:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "10분 만에 100만 개의 PDF 생성하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>금융업계에서의 대규모 PDF 생성 요구사항</strong>을 해결하기 위해, <strong>Rust와 Typst 기반 서버리스 아키텍처</strong>를 구축한 사례</li>\n<li>AWS Lambda, SQS, S3, API Gateway를 활용하여 <strong>1,667개/초의 렌더링 목표</strong>를 설정하고, 병렬성과 캐싱 최적화를 통해 성능 향상...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20705",
+      "guid": "https://news.hada.io/topic?id=20705",
+      "pubDate": "2025-05-05T10:16:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kubetail - 실시간 Kubernetes 로깅 대시보드",
+      "description": {
+        "$text": "<ul>\n<li>브라우저/터미널에서 실시간 로그를 스트리밍하여 확인할 수 있는 Kubernetes 대시보드</li>\n<li>멀티 컨테이너 워크로드의 로그를 <strong>단일 시간순 타임라인</strong>으로 통합해 제공</li>\n<li>설치는 로컬 PC(웹 대시보드 또는 CLI) 또는 Kubernetes 클러스터 내에 배포할 수 있으며, 데이터는 외부 전송...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20704",
+      "guid": "https://news.hada.io/topic?id=20704",
+      "pubDate": "2025-05-05T10:01:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "계속 울리는 Alabama 유선전화",
+      "description": {
+        "$text": "<ul>\n<li>Auburn University의 Foy Information Desk는 70년 동안 대중의 질문에 답해온 전통이 있음</li>\n<li>학생들은 다양한 질문에 답하며, 인터넷을 사용하지 않는 사람들에게 중요한 정보원이 됨</li>\n<li>Foy 데스크의 학생들은 예의 바르고 비판적이지 않으며, 질문의 이유보다는 도움을 주는 것에 집중함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20703",
+      "guid": "https://news.hada.io/topic?id=20703",
+      "pubDate": "2025-05-05T09:58:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple Neural Engine(ANE)에서 실행되는 LLMs",
+      "description": {
+        "$text": "<ul>\n<li>ANEMLL은 대형 언어 모델(LLM)을 Apple Neural Engine(ANE)으로 포팅하는 오픈 소스 프로젝트임</li>\n<li>ANEMLL은 모델 변환부터 추론까지의 파이프라인을 제공하여, 엣지 디바이스에서의 저전력 애플리케이션을 위한 온디바이스 추론을 가능하게 함</li>\n<li>ANEMLL 0.3.0 알파 버전은 LLAMA 모델을 포함한 다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20702",
+      "guid": "https://news.hada.io/topic?id=20702",
+      "pubDate": "2025-05-05T09:55:37+09:00",
       "author": "neo",
       "category": ""
     }
