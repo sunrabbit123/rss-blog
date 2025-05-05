@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T02:07:37+09:00",
+  "lastBuildDate": "2025-05-06T05:33:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36062,6 +36062,19 @@
       "guid": "https://news.hada.io/topic?id=20710",
       "pubDate": "2025-05-06T02:07:37+09:00",
       "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 구조가 바뀝니다 (Evolving OpenAI’s Structure)",
+      "description": {
+        "$text": "<h3>1. 요약</h3>\n<ul>\n<li>\n<strong>비영리 거버넌스</strong>: OpenAI는 여전히 설립 시점의 비영리 단체가 감독·통제합니다.</li>\n<li>\n<strong>PBC 전환</strong>: 기존 영리 LLC는 동일한 미션을 가진 *공익기업(PBC)*으로 전환됩니다.</li>\n<li>\n<strong>비영리 소유권</strong>: 비영리 단체가 의결권을 유지하고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20711",
+      "guid": "https://news.hada.io/topic?id=20711",
+      "pubDate": "2025-05-06T05:33:52+09:00",
+      "author": "fortune",
       "category": ""
     }
   ]
