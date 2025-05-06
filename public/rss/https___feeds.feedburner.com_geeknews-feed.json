@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T12:33:02+09:00",
+  "lastBuildDate": "2025-05-06T15:33:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36256,6 +36256,19 @@
       "link": "https://news.hada.io/topic?id=20729",
       "guid": "https://news.hada.io/topic?id=20729",
       "pubDate": "2025-05-06T12:33:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "시스템d로 Kubernetes 대체 (2024)",
+      "description": {
+        "$text": "<ul>\n<li>Kubernetes는 자동화 기능이 뛰어나지만, 리소스 소모가 많아 개인 환경에서 사용하기 어려움</li>\n<li>Podman과 systemd를 사용하면 Kubernetes의 자동화 기능을 간단하게 구현할 수 있음</li>\n<li>Podman의 자동 업데이트 기능을 통해 컨테이너 이미지를 자동으로 갱신할 수 있음</li>\n<li>systemd와 사용자 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20730",
+      "guid": "https://news.hada.io/topic?id=20730",
+      "pubDate": "2025-05-06T15:33:49+09:00",
       "author": "neo",
       "category": ""
     }
