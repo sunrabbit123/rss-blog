@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T10:17:18+09:00",
+  "lastBuildDate": "2025-05-06T11:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36204,6 +36204,45 @@
       "link": "https://news.hada.io/topic?id=20716",
       "guid": "https://news.hada.io/topic?id=20716",
       "pubDate": "2025-05-06T09:53:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HN 공개: 약 500ms 지연 시간의 실시간 AI 음성 채팅",
+      "description": {
+        "$text": "<ul>\n<li>이 프로젝트는 AI와 자연스러운 음성 대화를 가능하게 하는 시스템임</li>\n<li>사용자는 음성으로 대화하고, AI는 실시간으로 음성 응답을 제공함</li>\n<li>저지연 상호작용을 위한 클라이언트-서버 시스템을 사용함</li>\n<li>다양한 AI 백엔드와 TTS 엔진을 선택할 수 있는 유연성을 제공함</li>\n<li>Docker를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20728",
+      "guid": "https://news.hada.io/topic?id=20728",
+      "pubDate": "2025-05-06T11:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "VectorVFS - 파일 시스템을 벡터 데이터베이스로 활용",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>VectorVFS는 파일마다 벡터 임베딩을 메타데이터로 저장</strong>하여 리눅스 파일 시스템 자체를 <strong>벡터 데이터베이스</strong>로 활용할 수 있게 해주는 파이썬 패키지</li>\n<li>\n<strong>외부 인덱스나 DB 없이</strong>, 파일 시스템의 <strong>xattrs(확장 속성)</strong> 기능을 통해 <st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20727",
+      "guid": "https://news.hada.io/topic?id=20727",
+      "pubDate": "2025-05-06T10:38:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "판사, Meta의 AI 저작권 소송을 \"다음 테일러 스위프트에 대한 문제\"라 언급",
+      "description": {
+        "$text": "<ul>\n<li>Meta가 작가들과 벌이는 <strong>AI 훈련용 불법 복제 저작물 이용</strong> 소송은, <strong>저작권법의 공정 이용(fair use)</strong> 기준을 판가름할 중대 판례가 될 가능성 있음</li>\n<li>재판부는 특히 <strong>AI 도구가 저자의 원 저작물 시장을 잠식하는지 여부</strong>에 초점을 맞추며, <strong>“...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20726",
+      "guid": "https://news.hada.io/topic?id=20726",
+      "pubDate": "2025-05-06T10:35:51+09:00",
       "author": "neo",
       "category": ""
     }
