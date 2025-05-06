@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T11:33:22+09:00",
+  "lastBuildDate": "2025-05-06T12:33:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36243,6 +36243,19 @@
       "link": "https://news.hada.io/topic?id=20726",
       "guid": "https://news.hada.io/topic?id=20726",
       "pubDate": "2025-05-06T10:35:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "학교 급식비 채무 상환 결정",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>학교 급식 부채</strong>는 <strong>어린이들에게 수치심</strong>을 주는 방식으로 <strong>재정 책임</strong>을 가르치는 <strong>비정상적인 관행</strong>임</li>\n<li>\n<strong>유타주의 학교 급식 부채</strong>는 <strong>280만 달러</strong>에 달하며, 이는 <strong>일반 가정</strong>에서 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20729",
+      "guid": "https://news.hada.io/topic?id=20729",
+      "pubDate": "2025-05-06T12:33:02+09:00",
       "author": "neo",
       "category": ""
     }
