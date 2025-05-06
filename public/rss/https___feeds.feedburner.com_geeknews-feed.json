@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T15:33:49+09:00",
+  "lastBuildDate": "2025-05-06T18:33:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36270,6 +36270,19 @@
       "guid": "https://news.hada.io/topic?id=20730",
       "pubDate": "2025-05-06T15:33:49+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "fastapi 창시자가 fastapicloud 를 시작했습니다.",
+      "description": {
+        "$text": "<p>fastapi 창시자가 <a href=\"https://fastapilabs.com/\">fastapilabs</a> 를 창업하여 <a href=\"https://fastapicloud.com/\">fastapicloud</a> 를 개발중입니다.<br />\n초기투자는 세콰이어캐피탈에서 받았습니다.</p>\n<p>FastAPI의 창시자 Sebastián Ramírez와 핵심 팀이 새롭게 선보인 FastAPI Cloud는 FastAPI 애플",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20731",
+      "guid": "https://news.hada.io/topic?id=20731",
+      "pubDate": "2025-05-06T18:33:08+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
