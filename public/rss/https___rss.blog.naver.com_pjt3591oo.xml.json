@@ -876,6 +876,15 @@
       "pubDate": "Mon, 05 May 2025 15:37:05 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langchain] 3편 - LLM 모델로는 부족하다 외부 데이터를 활용한 RAG",
+      "description": "안녕하세요 멍개입니다. 1편과 2편까지 LangChain의 핵심 요소인 Model, Prompt, Output Parser를 이용하여 워크플로우를 위한 Chain를 구축하고 이를 위해 LCEL를 다뤄보았습니다. 하지만 LLM의 한계중 하나는 LLM 모델이 학습되고 새로운 정보가 나오거나 특정 회사에 있는 문서 또는 개인 문서를 알지 못합니다. 만약 최신 정보를 참조하거나 회사의 내부 문서, 개인 노트 등을 기반으로 답변하게 할 수 있는 방법론이 RAG(Retrieval Augmented Generation)입니다. RAG는 사용자로부터 쿼리가 발생되면 쿼리를 기반으로 관련 정보를 먼저 검색합니다. 이 정보를 기반으로 LLM에게 보강하라고 요청합니다. 정리하면 RAG는 지식의 한계, 확각, 접....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MDVfMzMg/MDAxNzQ2NDM0OTI1OTY0.KlvcECWuqD2DebNIJPU7i8GvTqx5rlDUbV0PgUzcOacg.aBnoPGr2FlqFeiBk6Hkpbj9KARK9vTm5H54s0oMwpt0g.JPEG/IMG_3880.jpeg?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223856606236?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223856606236",
+      "pubDate": "Tue, 06 May 2025 10:49:51 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }

@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T05:33:52+09:00",
+  "lastBuildDate": "2025-05-06T10:17:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36075,6 +36075,136 @@
       "guid": "https://news.hada.io/topic?id=20711",
       "pubDate": "2025-05-06T05:33:52+09:00",
       "author": "fortune",
+      "category": ""
+    },
+    {
+      "title": "Low-Bit LLM을 위한 상용 DRAM에서 구현된 매트릭스-벡터 곱셈",
+      "description": {
+        "$text": "<ul>\n<li>MVDRAM은 수정되지 않은 DRAM을 사용하여 저비트 LLM 추론을 위한 GeMV 연산을 가속화하는 시스템임</li>\n<li>DRAM을 GeMV 엔진으로 활용하여 높은 처리량을 제공함</li>\n<li>기존 PUD 접근 방식의 입력 사전 배열 및 출력 비트 전환 비용을 제거함</li>\n<li>실험 결과, 저비트 LLM에서 프로세서 기반 구현보다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20725",
+      "guid": "https://news.hada.io/topic?id=20725",
+      "pubDate": "2025-05-06T10:17:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 샘플링의 모든 것: 더미를 위한 현대적 가이드",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>대형 언어 모델(LLM)의 샘플링 방식</strong>을 초보자도 이해할 수 있도록 설명한 종합 가이드</li>\n<li>\n<strong>토큰이란 무엇인지, 왜 단어 대신 사용하는지</strong>, 그리고 <strong>모델이 텍스트를 생성하는 과정</strong>이 상세하게 정리</li>\n<li>샘플링은 출력의 다양성과 자연스러움을 조...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20724",
+      "guid": "https://news.hada.io/topic?id=20724",
+      "pubDate": "2025-05-06T10:14:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Go 언어에서 Graceful Shutdown을 구현하는 실용적 패턴",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>우아한 종료(graceful shutdown)</strong> 는 애플리케이션이 종료 신호를 받은 뒤 <strong>새 요청을 막고, 현재 요청을 마치고, 리소스를 정리하는 절차</strong>로 구성</li>\n<li>Go에서는 <code>os/signal</code> 패키지를 사용해 <strong>SIGINT, SIGTERM 같은 종료 신호를 직접 처리</strong>할...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20723",
+      "guid": "https://news.hada.io/topic?id=20723",
+      "pubDate": "2025-05-06T10:11:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "경험 많은 LLM 사용자지만, 실제로는 자주 사용하지 않는 이유",
+      "description": {
+        "$text": "<ul>\n<li>저자는 <strong>10년 넘게 LLM과 텍스트 생성 기술을 연구했지만</strong>, 예상 외로 실생활에서는 LLM을 자주 사용하지 않는다고 밝힘</li>\n<li>LLM 사용 시에는 <strong>프롬프트 엔지니어링, 시스템 프롬프트 설정, 온도 조절 등 세심한 제어</strong>를 중시하며, 일반 프론트엔드 대신 API 기반 접근을 선...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20722",
+      "guid": "https://news.hada.io/topic?id=20722",
+      "pubDate": "2025-05-06T10:08:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI가 WinDBG를 만났을 때: 2025년 크래시 분석의 미래",
+      "description": {
+        "$text": "<ul>\n<li>기존 <strong>WinDBG 중심의 전통적인 크래시 분석 방식</strong>을 AI와 자연어 인터페이스로 혁신한 오픈소스 프로젝트</li>\n<li>GitHub Copilot과의 연동을 통해 <strong>단순한 대화형 질의만으로 크래시 원인 파악 및 자동 수정</strong>까지 가능함</li>\n<li>\n<strong>MCP</strong>를 통해 AI가 WinDBG 명...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20721",
+      "guid": "https://news.hada.io/topic?id=20721",
+      "pubDate": "2025-05-06T10:05:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show HN: AI 네이티브 이력서 - 나를 소개하는 MCP 서버를 만들었어요",
+      "description": {
+        "$text": "<ul>\n<li>AI 기술과 <strong>LLM 활용 경험</strong>을 살려, 자신의 경력 정보를 제공하는 <strong>AI 기반 이력서 서버</strong>를 개발함</li>\n<li>이 서버는 <strong>MCP</strong>를 통해 AI 어시스턴트가 자신의 이력서를 실시간으로 조회하거나 분석할 수 있도록 함</li>\n<li>오픈소스로 제공되어 누구나 자신의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20720",
+      "guid": "https://news.hada.io/topic?id=20720",
+      "pubDate": "2025-05-06T10:02:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CSS의 새로운 shape() 함수 활용법 요약",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>CSS <code>shape()</code> 함수</strong>가 <strong>Chromium</strong>과 <strong>WebKit</strong> 브라우저에서 지원되기 시작함</li>\n<li>기존 <code>path()</code>와 달리, <strong>더 읽기 쉬운 CSS 문법과 단위</strong>로 <strong>복잡한 도형을 정의</strong>할 수 있게 됨</li>\n<li>\n<code>cl...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20719",
+      "guid": "https://news.hada.io/topic?id=20719",
+      "pubDate": "2025-05-06T10:01:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "카메라 없이 기억을 키우는 방법 – 스냅샷 대신 추억 가꾸기",
+      "description": {
+        "$text": "<ul>\n<li>작가는 자신의 고향인 Chapel Hill에서 사진을 거의 찍지 않음</li>\n<li>작가는 사진을 찍는 것이 순간을 놓치는 것이라고 생각함</li>\n<li>아들의 출생 당시 사진을 찍으면서 순간을 놓쳤다고 느꼈음</li>\n<li>작가는 카메라를 내려놓고 친구들과의 대화에 집중하기로 결심함</li>\n<li>스마트폰 시대에 작가의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20718",
+      "guid": "https://news.hada.io/topic?id=20718",
+      "pubDate": "2025-05-06T09:59:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "다프트 펑크의 보컬 효과",
+      "description": {
+        "$text": "<ul>\n<li>Daft Punk은 다양한 <strong>보컬 효과</strong>를 사용하여 독특한 사운드를 창출함</li>\n<li>\n<strong>보코더</strong>, <strong>토크박스</strong>, <strong>하모나이저</strong> 등 다양한 장비를 사용하여 로봇 같은 보컬 효과를 만듦</li>\n<li>\n<strong>DigiTech Talker</strong>와 <strong>Sennheiser V...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20717",
+      "guid": "https://news.hada.io/topic?id=20717",
+      "pubDate": "2025-05-06T09:56:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI의 구조 발전",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 비영리 조직으로 시작하여 현재도 비영리 조직에 의해 감독되고 있음</li>\n<li>OpenAI의 수익 사업부는 공익 법인(PBC)으로 전환될 예정이며, 이는 주주와 미션 모두를 고려하는 구조임</li>\n<li>비영리 조직은 PBC의 대주주로서 더 많은 자원을 확보하여 다양한 혜택을 지원할 수 있게 됨</li>\n<li>O...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20716",
+      "guid": "https://news.hada.io/topic?id=20716",
+      "pubDate": "2025-05-06T09:53:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
