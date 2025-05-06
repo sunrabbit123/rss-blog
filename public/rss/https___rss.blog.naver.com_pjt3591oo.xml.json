@@ -903,6 +903,15 @@
       "pubDate": "Tue, 06 May 2025 20:47:53 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langchain] 6편 - 효율적인 LLM 사용전략 & 평가",
+      "description": "안녕하세요 멍개입니다. 앞서서 1편부터 5편까지 통해 LangChain의 모든 요소를 다뤄보았습니다. 이번 시간에서는 LangChain을 통해 큰 문서를 다루는 방법과 프롬프트를 통해 모델의 셩능을 향상하는 방법 그리고 LangChain으로 만든 LLM 애플리케이션을 평가하는 방법을 알아보겠습니다. ● 문서요약 전략 우리가 LLM 애플리케이션을 만들기 위해 긴 문서, 보고서, 논문, 기사 등 다양한 형태의 문서를 다루게 되는데 이때 내용을 압축하기 위해 요약을 수행합니다. 문서를 압축하는 이유는 LLM 모델의 토큰 제한이 존재하기 때문입니다. 요약을 완료하면 LLM의 context window보다 작아야합니다. ChainChain에서는 load_summarize_chain을 이.......",
+      "link": "https://blog.naver.com/pjt3591oo/223857452000?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223857452000",
+      "pubDate": "Wed, 07 May 2025 08:15:08 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
