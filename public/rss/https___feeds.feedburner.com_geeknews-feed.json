@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-06T21:24:22+09:00",
+  "lastBuildDate": "2025-05-06T22:33:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36296,6 +36296,32 @@
       "guid": "https://news.hada.io/topic?id=20732",
       "pubDate": "2025-05-06T21:24:22+09:00",
       "author": "haandol",
+      "category": ""
+    },
+    {
+      "title": "Pi-Hole의 아름다움 (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Pi-hole</strong>는 네트워크 내에서 <strong>DNS 프록시</strong> 역할을 하여 원치 않는 도메인에 대한 요청을 차단하는 소프트웨어임</li>\n<li>\n<strong>Raspberry Pi</strong>에서 실행되며, 네트워크 트래픽의 약 **66.6%**를 차단할 수 있음</li>\n<li>\n<strong>도메인 목록</strong>을 설정하여...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20734",
+      "guid": "https://news.hada.io/topic?id=20734",
+      "pubDate": "2025-05-06T22:33:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI가 Windsurf를 4조에 인수",
+      "description": {
+        "$text": "<p>OpenAI가 AI 기반 코딩 도구인 Windsurf(이전 명칭: Codeium)를 약 30억 달러(한화 약 4조 원)에 인수하기로 합의했다고 블룸버그 통신이 보도했습니다. 이 거래는 아직 최종 확정되지 않았으며, 성사될 경우 OpenAI 역사상 최대 규모의 인수가 될 전망입니다  ￼.</p>\n<p>Windsurf는 최근 General Catalyst와 Kleine",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20733",
+      "guid": "https://news.hada.io/topic?id=20733",
+      "pubDate": "2025-05-06T22:28:58+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
