@@ -894,6 +894,15 @@
       "pubDate": "Tue, 06 May 2025 12:42:44 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langchain] 5편 - 개발 생산성 및 배포",
+      "description": "안녕하세요 멍개입니다. 1편부터 4편까지는 LangChain의 기본부터 RAG, Agent 구축하는 방법을 다뤄보았습니다. 이번 편에서는 LangChain 어플리케이션 개발의 도움을 주는 LangSmith와 배포를 도와주는 LangServe를 다뤄보도록 하겠습니다. ● LangSmith LangSmith는 LangChain 어플리케이션의 개발, 디버깅, 추적, 평가 및 모니터링을 위해 설계된 플랫폼입니다. LangSmith는 복잡성, 비결정성, 가시성 부족, 디버깅 어려움, 평가 및 개선의 어려움을 해결하기 위해 사용됩니다. · LangSmith 키 발급 LangSmith를 사용하기 위해 먼저 API 키를 발급받아야 됩니다. https://smith.langchain.com/ 로그인 후 좌측의 setting에서 API키를 발급받을....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MDZfMTYw/MDAxNzQ2NTE3NzMzOTM1.hZM-Fcoqg7BfvnNmibr5ki_3-lnCwaAjIVXMxpoaDQ0g.EFsoQJuTqPYmwWBqICNf_-tSy2AKvcFfSK_fHR8uPd0g.PNG/Screenshot_2025-05-06_at_16.48.46.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223857078379?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223857078379",
+      "pubDate": "Tue, 06 May 2025 20:47:53 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
