@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T12:38:10+09:00",
+  "lastBuildDate": "2025-05-07T13:33:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36569,6 +36569,19 @@
       "guid": "https://news.hada.io/topic?id=20757",
       "pubDate": "2025-05-07T11:16:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "C++를 통해 Rust의 매력을 보여준 Matt Godbolt의 설득",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rust</strong>는 C++의 문제를 해결하기 위해 설계된 언어로, <strong>메모리 안전성</strong> 외에도 다양한 실수를 방지하는 기능을 제공함</li>\n<li>\n<strong>Matt Godbolt</strong>의 강연을 통해 <strong>Rust</strong>가 C++보다 오류를 줄이는 데 어떻게 도움이 되는지 설명함</li>\n<li>\n<stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20760",
+      "guid": "https://news.hada.io/topic?id=20760",
+      "pubDate": "2025-05-07T13:33:54+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
