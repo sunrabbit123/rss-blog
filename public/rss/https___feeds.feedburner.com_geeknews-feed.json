@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T10:21:28+09:00",
+  "lastBuildDate": "2025-05-07T10:59:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36451,6 +36451,84 @@
       "link": "https://news.hada.io/topic?id=20741",
       "guid": "https://news.hada.io/topic?id=20741",
       "pubDate": "2025-05-07T10:00:47+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "QModem 4.51 소스 코드",
+      "description": {
+        "$text": "<h4><strong>QModem 4.51 소스코드 요약 (기술/역사/구성 관점)</strong></h4>\n<h5>1. 역사적 가치와 기능적 개요</h5>\n<p>1992년경 MS-DOS에서 동작하던 통신 프로그램 소스코드.<br />\nTelix, Procomm과 경쟁했던 프로그램으로, X/Y/ZMODEM 지원, 스크립트, 터미널 에뮬레이션, 호스트 모드(BBS 기능)까지 포함.<br />...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20756",
+      "guid": "https://news.hada.io/topic?id=20756",
+      "pubDate": "2025-05-07T10:59:48+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "해답을 찾아서: 왜 HTML만으로는 include가 안 될까?",
+      "description": {
+        "$text": "<h4>📄 본문 요약</h4>\n<h5>1. HTML에서 <code>include</code>가 되지 않는 문제 제기</h5>\n<ul>\n<li>여러 HTML 페이지에 같은 헤더를 반복 삽입해야 하는 상황은 흔함.</li>\n<li>JavaScript, 서버 템플릿, SSG 등 다양한 해결 방법이 존재하지만 HTML 자체로는 불가능.</li>\n<li>\n<code>&lt;img&gt;</code>나 <code>@im...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20755",
+      "guid": "https://news.hada.io/topic?id=20755",
+      "pubDate": "2025-05-07T10:52:36+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "AI가 절약한 시간이 새로운 업무로 상쇄된다는 연구 결과",
+      "description": {
+        "$text": "<h4>전체요약</h4>\n<ul>\n<li>덴마크 노동시장에 대한 연구에 따르면, <strong>ChatGPT와 같은 생성형 AI는 아직까지 임금이나 고용에 유의미한 영향을 미치지 않음</strong>.</li>\n<li>AI는 일부 작업에서 시간을 절약했지만, <strong>오히려 새로운 업무를 만들며 생산성 향상이 상쇄됨</strong>.</li>\n<li>\n<strong>효...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20754",
+      "guid": "https://news.hada.io/topic?id=20754",
+      "pubDate": "2025-05-07T10:48:25+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "책임 회피 시스템",
+      "description": {
+        "$text": "<h4>전체 요약</h4>\n<ul>\n<li>\n<strong>책임 회피 구조(‘Accountability Sink’)는 현대 조직과 사회의 고질적인 문제</strong>이며, 개인의 판단이 아닌 절차에 따른 결정이 어떻게 참극을 유발하는지를 다양한 사례로 보여줍니다.</li>\n<li>\n<strong>형식적 절차는 효율성과 안전성을 제공하지만</strong>, 동시에 책...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20753",
+      "guid": "https://news.hada.io/topic?id=20753",
+      "pubDate": "2025-05-07T10:38:55+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "고대 이집트 이미지에서 발견된 은하수의 묘사",
+      "description": {
+        "$text": "<h4>전체 요약</h4>\n<ul>\n<li>고대 이집트 천문신 '누트(Nut)'의 묘사에서 은하수(Milky Way)의 시각적 표현이 발견되었을 가능성이 제기되었다.</li>\n<li>일부 관과 무덤 천장에는 은하수의 ‘Great Rift’를 닮은 곡선이 등장하며, 이는 누트와 은하수 사이의 상징적 연관을 시사한다.</li>\n<li>연구자는 문헌 분석뿐 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20752",
+      "guid": "https://news.hada.io/topic?id=20752",
+      "pubDate": "2025-05-07T10:32:25+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "낙관주의를 선택할 수도 있다",
+      "description": {
+        "$text": "<ol>\n<li>우리는 언제든 불평할 수 있지만, <strong>그 대신 낙관을 ‘선택’할 수도 있다</strong>. 인생의 수많은 상황 속에서 스스로를 G(Grumpy)로 만들지 말고 J(Jolly)를 선택하라는 이야기다.</li>\n<li>낙관은 <strong>현실 회피가 아니라, 삶을 능동적으로 받아들이고 해석하는 태도</strong>이며, 그 자체로 더...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20751",
+      "guid": "https://news.hada.io/topic?id=20751",
+      "pubDate": "2025-05-07T10:23:32+09:00",
       "author": "baeba",
       "category": ""
     }
