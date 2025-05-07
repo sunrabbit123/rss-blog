@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T13:33:54+09:00",
+  "lastBuildDate": "2025-05-07T15:38:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36582,6 +36582,19 @@
       "guid": "https://news.hada.io/topic?id=20760",
       "pubDate": "2025-05-07T13:33:54+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 카보스 - 복잡한 연동 없는 AI 기반 미팅 자동 기록·검색·요약 도구",
+      "description": {
+        "$text": "<p>카보스는 복잡한 연동 없이 모든 미팅 플랫폼에서 (오프라인을 포함) AI의 힘으로 미팅 내용을 자동으로 기록·검색·요약할 수 있는 서비스입니다. 미팅에 봇을 초대할 필요가 없어 간편하고 거부감 없이 이용하실 수 있어요. 실리콘 밸리 Google, LinkedIn 출신 개발자들이 모여 완성도 있게 만들었습니다!</p>\n<p><s",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20761",
+      "guid": "https://news.hada.io/topic?id=20761",
+      "pubDate": "2025-05-07T15:38:44+09:00",
+      "author": "shlee0605",
       "category": ""
     }
   ]
