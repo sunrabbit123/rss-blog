@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T10:59:48+09:00",
+  "lastBuildDate": "2025-05-07T12:38:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36530,6 +36530,45 @@
       "guid": "https://news.hada.io/topic?id=20751",
       "pubDate": "2025-05-07T10:23:32+09:00",
       "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Cursor 1년간 학생 무료",
+      "description": {
+        "$text": "Cursor 1년간 학생 무료",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20759",
+      "guid": "https://news.hada.io/topic?id=20759",
+      "pubDate": "2025-05-07T12:38:10+09:00",
+      "author": "brainer",
+      "category": ""
+    },
+    {
+      "title": "애니메이션 라이브러리 GSAP, 3.13 출시와 함께 100% 무료로 전환",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Webflow의 후원 덕분에 100% 무료화</strong>, Club GSAP 전용이던 모든 플러그인(SplitText, MorphSVG 등)까지 <strong>상업적 사용 포함 전면 무료</strong>로 전환됨</li>\n<li>모든 플러그인 및 툴셋은 <strong>GSAP GitHub</strong>, <strong>npm</strong>, <strong>공식 사이트</strong>에서 다운...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20758",
+      "guid": "https://news.hada.io/topic?id=20758",
+      "pubDate": "2025-05-07T11:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "GPT, AI가 가장 대체하기 힘든 직업 20개는 뭐야?",
+      "description": {
+        "$text": "<p>순위, 인간을 대체할 수 없는 이유, 대체불가율(향후 20‑25 년)</p>\n<ol>\n<li>\n<strong>영유아 교사 / 보육사</strong> : 실제 인간의 애착 형성·신체 돌봄·안전 보장은 사회적·법적 필수 요건 (98%)</li>\n<li>\n<strong>트라우마 전문 심리치료사</strong> : 깊은 신뢰와 체화된 공감, 삶의 경험이 중증 심리 상처",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20757",
+      "guid": "https://news.hada.io/topic?id=20757",
+      "pubDate": "2025-05-07T11:16:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
