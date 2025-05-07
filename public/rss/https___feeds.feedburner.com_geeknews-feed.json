@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T15:38:44+09:00",
+  "lastBuildDate": "2025-05-07T21:03:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36595,6 +36595,32 @@
       "guid": "https://news.hada.io/topic?id=20761",
       "pubDate": "2025-05-07T15:38:44+09:00",
       "author": "shlee0605",
+      "category": ""
+    },
+    {
+      "title": "작은 청크 RAG 검색의 정확도를 높이는 Contextual BM25F 전략",
+      "description": {
+        "$text": "<p>📌 작은 청크 RAG 검색의 정확도를 높이는 Contextual BM25F 전략</p>\n<p>RAG 시스템에서는 청크가 작을수록 BM25 알고리즘의 한계가 드러납니다. 이를 극복하기 위해 등장한 Contextual BM25F는 주변 청크의 문맥을 가중치로 반영하여 검색 정확도를 대폭 높일 수 있다고 합니다.</p>\n<p>BM25와 BM25F의 차이는 무엇",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20765",
+      "guid": "https://news.hada.io/topic?id=20765",
+      "pubDate": "2025-05-07T21:03:55+09:00",
+      "author": "hophfg1",
+      "category": ""
+    },
+    {
+      "title": "누가 휴머노이드를 만드는가?",
+      "description": {
+        "$text": "<h3>손(Hands) 분야 주요 기업</h3>\n<ul>\n<li>\n<strong>Novanta Inc. (NASDAQ: NOVT)</strong>: 다축 힘/토크 센서 및 엔드이펙터 기술 선도</li>\n<li>\n<strong>FANUC Corporation (TYO: 6954)</strong>: 6축 힘 감지 센서 전문 제조업체</li>\n<li>\n<strong>Teradyne Inc. (NASDAQ: TER)</strong>: Universal Robots 인수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20762",
+      "guid": "https://news.hada.io/topic?id=20762",
+      "pubDate": "2025-05-07T19:28:53+09:00",
+      "author": "haebom",
       "category": ""
     }
   ]
