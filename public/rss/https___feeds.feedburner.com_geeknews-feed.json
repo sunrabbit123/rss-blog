@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T21:03:55+09:00",
+  "lastBuildDate": "2025-05-07T22:33:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36621,6 +36621,32 @@
       "guid": "https://news.hada.io/topic?id=20762",
       "pubDate": "2025-05-07T19:28:53+09:00",
       "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "인도, 파키스탄 및 파키스탄령 잠무 카슈미르 내 9개 지역 공격",
+      "description": {
+        "$text": "인도, 파키스탄 및 파키스탄령 잠무 카슈미르 내 9개 지역 공격",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20767",
+      "guid": "https://news.hada.io/topic?id=20767",
+      "pubDate": "2025-05-07T22:33:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude의 시스템 프롬프트, 도구 포함 24k 토큰 초과",
+      "description": {
+        "$text": "<ul>\n<li>이 문서는 GitHub 저장소의 일부로, 시스템 프롬프트 유출과 관련된 내용을 포함하고 있음</li>\n<li>문서는 다양한 파일과 메타데이터를 포함하며, 코드, 이슈, 풀 리퀘스트, 보안 인사이트 등을 다루고 있음</li>\n<li>GitHub 페이지에서의 프롬프트 유출은 보안 및 개인정보 보호에 중요한 문제임</li>\n<li>문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20766",
+      "guid": "https://news.hada.io/topic?id=20766",
+      "pubDate": "2025-05-07T21:34:12+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
