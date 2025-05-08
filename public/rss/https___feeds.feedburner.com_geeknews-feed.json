@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-08T13:34:01+09:00",
+  "lastBuildDate": "2025-05-08T19:32:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36829,6 +36829,19 @@
       "guid": "https://news.hada.io/topic?id=20782",
       "pubDate": "2025-05-08T12:47:28+09:00",
       "author": "zihado",
+      "category": ""
+    },
+    {
+      "title": "미스트랄, 온프레미스에서 실행 가능한 엔터프라이즈 AI 어시스턴트 'Le Chat' 출하",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Le Chat Enterprise</strong>는 Mistral AI의 새로운 AI 도우미로, 기업의 AI 도전 과제를 해결하기 위해 설계되었음</li>\n<li>이 플랫폼은 <strong>도구 단편화</strong>, <strong>지식 통합의 보안 문제</strong>, <strong>모델의 경직성</strong>, <strong>느린 ROI</strong> 등의 문제를 해결함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20784",
+      "guid": "https://news.hada.io/topic?id=20784",
+      "pubDate": "2025-05-08T19:32:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
