@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-08T09:46:36+09:00",
+  "lastBuildDate": "2025-05-08T10:34:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36777,6 +36777,32 @@
       "guid": "https://news.hada.io/topic?id=20769",
       "pubDate": "2025-05-08T08:32:57+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini 2.0 플래시 프리뷰: 이미지 생성 및 편집 기능 공개",
+      "description": {
+        "$text": "<ul>\n<li>Google이 <strong>Gemini 2.0 Flash 모델을 통한 이미지 생성 기능</strong>을 개발자 프리뷰로 공개</li>\n<li>텍스트 기반 명령으로 <strong>이미지 생성, 수정, 부분 편집</strong>까지 가능하며, 시각 품질과 텍스트 렌더링도 개선됨</li>\n<li>\n<strong>제품 리스킨, SKU 생성, 실시간 공동 편집</strong> 등...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20781",
+      "guid": "https://news.hada.io/topic?id=20781",
+      "pubDate": "2025-05-08T10:34:54+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "니 적을 알라: 맥킨지 3년이 내 두 번째 스타트업에 준 교훈",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;적을 알기 위해 들어간 곳에서 배운 것들&quot;</p>\n</blockquote>\n<ul>\n<li>스타트업 창업자 Zac Townsend는 <strong>McKinsey에서 3년간 근무하며</strong> 대기업의 작동 원리를 내부에서 학습함</li>\n<li>그는 <strong>신규 사업 구축 프로젝트(Leap)</strong> 와 <strong>규제 대응 리스크 프",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20780",
+      "guid": "https://news.hada.io/topic?id=20780",
+      "pubDate": "2025-05-08T10:24:54+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
