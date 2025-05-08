@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-08T10:34:54+09:00",
+  "lastBuildDate": "2025-05-08T13:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36803,6 +36803,32 @@
       "guid": "https://news.hada.io/topic?id=20780",
       "pubDate": "2025-05-08T10:24:54+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Postgres 18 대기: 비동기 I/O로 디스크 읽기 가속화",
+      "description": {
+        "$text": "<ul>\n<li>Postgres 18은 비동기 I/O를 도입하여 클라우드 환경에서 성능을 크게 향상시킬 가능성을 제공함</li>\n<li>비동기 I/O는 읽기 작업에만 제한되며, 쓰기 작업은 여전히 동기적으로 처리됨</li>\n<li>새로운 <code>io_method</code> 설정을 통해 비동기 I/O의 메커니즘을 제어할 수 있으며, <code>worker</code>와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20783",
+      "guid": "https://news.hada.io/topic?id=20783",
+      "pubDate": "2025-05-08T13:34:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub에서 삭제된 파일을 찾아 버그바운티로 64000달러를 번 스토리",
+      "description": {
+        "$text": "<p>수만 개의 공개 GitHub 저장소를 복제하고 유출된 비밀을 스캔하는 자동화 도구를 제작<br />\n각 저장소에서 삭제된 파일을 복원하고, 연결이 끊긴 블롭(blob)을 찾고, .pack 파일을 압축 해제하여 노출된 API 키, 토큰 및 자격 증명을 검색<br />\n결국 많은 유출 사례를 보고하고 버그 바운티에서 약 64,000달러를 얻...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20782",
+      "guid": "https://news.hada.io/topic?id=20782",
+      "pubDate": "2025-05-08T12:47:28+09:00",
+      "author": "zihado",
       "category": ""
     }
   ]
