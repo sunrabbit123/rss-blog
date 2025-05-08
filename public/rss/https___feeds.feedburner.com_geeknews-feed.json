@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-07T22:33:59+09:00",
+  "lastBuildDate": "2025-05-08T09:46:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36646,6 +36646,136 @@
       "link": "https://news.hada.io/topic?id=20766",
       "guid": "https://news.hada.io/topic?id=20766",
       "pubDate": "2025-05-07T21:34:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유니티의 오픈소스 이중잣대: VLC 차단",
+      "description": {
+        "$text": "<ul>\n<li>오픈소스 <strong>VLC for Unity</strong> 통합 패키지가 <strong>Unity 스토어에서 차단</strong>됨에 따라 개발자들은 불공정한 조치라고 반발함</li>\n<li>Unity는 <strong>LGPL 라이선스를 이유로 금지했지만</strong>, 정작 Unity 자체도 LGPL 기반 라이브러리들을 사용하고 있음</li>\n<li>Unity 스토어에는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20778",
+      "guid": "https://news.hada.io/topic?id=20778",
+      "pubDate": "2025-05-08T09:46:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ty - 빠른 Python 타입 체커 및 언어 서버",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ty</strong>는 <strong>Rust</strong>로 작성된 매우 빠른 <strong>Python 타입 검사기</strong> 및 <strong>언어 서버</strong>\n</li>\n<li>아직은 <strong>프리릴리즈 소프트웨어</strong>로, <strong>프로덕션</strong>에서 사용하기에는 준비되지 않음</li>\n<li>Astral의 초고속 파이썬 Linter인 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20777",
+      "guid": "https://news.hada.io/topic?id=20777",
+      "pubDate": "2025-05-08T09:43:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CLion 비상업적 사용 무료 제공",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>CLion</strong>이 이제 비상업적 용도로 무료로 제공됨. 이는 <strong>C</strong>와 <strong>C++</strong> 작업을 더 쉽게 만들어주는 도구임</li>\n<li>이 새로운 라이선스 모델은 <strong>RustRover</strong>, <strong>Rider</strong>, <strong>WebStorm</strong>에 이어 <strong>CLion</strong>에도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20776",
+      "guid": "https://news.hada.io/topic?id=20776",
+      "pubDate": "2025-05-08T09:40:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Zed - 가장 빠른 AI 코드 에디터",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rust로 완전 재구현된 오픈소스 코드 에디터 Zed</strong>가 이제 AI 기능을 본격적으로 통합함</li>\n<li>AI 에이전트는 코드 검색부터 수정까지 수행하며, <strong>사용자의 사전 학습 없이도 작동</strong>함</li>\n<li>\n<strong>개인 정보 보호와 보안이 기본값</strong>으로 적용되며, 명시적으로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20775",
+      "guid": "https://news.hada.io/topic?id=20775",
+      "pubDate": "2025-05-08T09:37:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "갑오징어가 팔로 '대화'한다는 연구 결과",
+      "description": {
+        "$text": "<ul>\n<li>\n<p>**갑오징어는 서로 팔을 이용해 신호를 보내며 ‘대화’**함. 연구팀은 네 가지 주요 제스처(Up, Side, Roll, Crown)를 확인했고, 성체와 유체에서 유사하게 나타났음.</p>\n</li>\n<li>\n<p><strong>이러한 팔 동작은 일종의 ‘팔파 신호(arm wave signs)’로 명명</strong>되며, 시각뿐 아니라 수중 진동을 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20774",
+      "guid": "https://news.hada.io/topic?id=20774",
+      "pubDate": "2025-05-08T09:37:13+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Claude의 시스템 프롬프트",
+      "description": {
+        "$text": "<h3>** 목적**</h3>\n<ol>\n<li>\n<strong>출처 명확성과 저작권 보호 강화</strong>\n</li>\n<li>\n<strong>콘텐츠 생성 품질과 안전성 유지</strong>\n</li>\n</ol>\n<hr />\n<h3><strong>세부 구조 및 기능 요약</strong></h3>\n<h4>1. <strong>인용 처리 규칙 (<code>&lt;citation_instructions&gt;</code>)</strong></h4>\n<ul>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20773",
+      "guid": "https://news.hada.io/topic?id=20773",
+      "pubDate": "2025-05-08T09:34:15+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "PgDog - PostgreSQL를 위한 초고속 트랜잭션 풀링 및 샤딩 관리자",
+      "description": {
+        "$text": "<ul>\n<li>Rust + Tokio로 작성된 <strong>PostgreSQL 트랜잭션 풀링 + 샤딩 + 로드밸런싱</strong> 도구, <strong>수백 개의 데이터베이스와 수십만 개의 연결을 효율적으로 관리</strong>\n</li>\n<li>PgBouncer처럼 동작하면서도, <strong>쿼리 분석과 복제까지 지원</strong>하는 PostgreSQL 전문 애플리케이션 계층(OS...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20772",
+      "guid": "https://news.hada.io/topic?id=20772",
+      "pubDate": "2025-05-08T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "CLion이 비상업적 용도에 대해 무료로 제공",
+      "description": {
+        "$text": "<p><strong>● CLion이 비상업적 용도로 무료 제공됨</strong></p>\n<ul>\n<li>C/C++는 복잡하지만 JetBrains는 개발 환경을 더 쉽게 만들고자 함.</li>\n<li>이제 CLion을 비상업적 용도로 무료로 사용할 수 있음.</li>\n</ul>\n<p><strong>● 어떤 변화인가?</strong></p>\n<ul>\n<li>RustRover, Rider, WebStorm에 적용된 비",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20771",
+      "guid": "https://news.hada.io/topic?id=20771",
+      "pubDate": "2025-05-08T09:29:12+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Rybbit - 오픈 소스 구글 애널리틱스 대체제",
+      "description": {
+        "$text": "<h3>주요 기능</h3>\n<ul>\n<li>세션, 고유 사용자, 페이지뷰, 이탈률, 세션 지속 시간 등 모든 핵심 웹 분석 지표</li>\n<li>쿠키나 사용자 추적 없이 GDPR 및 CCPA 준수</li>\n<li>목표, 리텐션(retention), 사용자 여정(유저 저니), 퍼널 대시보드 커스터마이징 지원</li>\n<li>15개 이상의 차원별 고급 필터링</li>\n<li>커...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20770",
+      "guid": "https://news.hada.io/topic?id=20770",
+      "pubDate": "2025-05-08T09:25:43+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "VVVVVV 소스 코드 공개",
+      "description": {
+        "$text": "<ul>\n<li>VVVVVV는 2010년에 출시된 인디 게임으로, Terry Cavanagh가 개발하고 Magnus Pålsson이 음악을 담당한 게임임</li>\n<li>이 게임의 소스 코드는 공개되어 있으며, 개인적인 용도로 컴파일하여 사용할 수 있음</li>\n<li>게임의 업데이트와 관련된 논의는 주로 비공식 VVVVVV 디스코드의 <code>vvvvvv-code</code...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20769",
+      "guid": "https://news.hada.io/topic?id=20769",
+      "pubDate": "2025-05-08T08:32:57+09:00",
       "author": "neo",
       "category": ""
     }
