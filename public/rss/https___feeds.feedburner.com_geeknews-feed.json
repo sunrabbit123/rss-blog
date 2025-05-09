@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-09T12:08:18+09:00",
+  "lastBuildDate": "2025-05-09T13:34:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37037,6 +37037,19 @@
       "guid": "https://news.hada.io/topic?id=20799",
       "pubDate": "2025-05-09T11:33:51+09:00",
       "author": "hiddenest",
+      "category": ""
+    },
+    {
+      "title": "저장소 샘플링: 크기를 모르는 데이터에서 공정한 무작위 추출 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>저장소 샘플링</strong>은 데이터의 크기를 모를 때 공정하게 <strong>무작위 샘플</strong>을 뽑는 독특하고 효율적인 기법임</li>\n<li>전통적 방법을 사용하면 지원되지 않는 상황들을 효율적으로 해결할 수 있다는 점에서 <strong>실시간 로그 수집</strong> 등 다양한 분야에 활용됨</li>\n<li>핵심...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20803",
+      "guid": "https://news.hada.io/topic?id=20803",
+      "pubDate": "2025-05-09T13:34:09+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
