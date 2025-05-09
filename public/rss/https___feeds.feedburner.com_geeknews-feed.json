@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-08T19:32:34+09:00",
+  "lastBuildDate": "2025-05-09T10:06:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -36841,6 +36841,136 @@
       "link": "https://news.hada.io/topic?id=20784",
       "guid": "https://news.hada.io/topic?id=20784",
       "pubDate": "2025-05-08T19:32:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mycoria - 모두가 평등하게 연결되는 오픈 네트워크",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Mycoria는 초기 인터넷의 자유롭고 실험적인 정신을 계승</strong>하려는 오픈 보안 오버레이 네트워크임</li>\n<li>\n<strong>참여의 평등, 익명성, 감시 없는 암호화 통신</strong>을 핵심 철학으로 삼아 누구나 쉽게 연결 가능함</li>\n<li>기본적으로 <strong>작고 단순하게 설계</strong>되어 있으며...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20796",
+      "guid": "https://news.hada.io/topic?id=20796",
+      "pubDate": "2025-05-09T10:06:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오픈소스 개인정보 보호 웹 분석 툴 Rybbit의 중요성과 강점",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rybbit</strong>은 직관적이고 <strong>개인정보 보호</strong>에 중점을 둔 Google Analytics 대안임</li>\n<li>\n<strong>오픈소스 프로젝트</strong>로, 자유롭게 사용 및 커스터마이즈 가능함</li>\n<li>복잡하지 않고 <strong>사용자 경험이 우수</strong>하여 초보자도 쉽게 접근 가능함</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20795",
+      "guid": "https://news.hada.io/topic?id=20795",
+      "pubDate": "2025-05-09T10:03:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hako - 임베드 가능한 고성능/경량 자바스크립트 엔진",
+      "description": {
+        "$text": "<ul>\n<li>PrimJS 기반의 <strong>경량화된 JavaScript 엔진</strong>으로, <strong>WebAssembly</strong>로 컴파일되어 안전하고 이식성이 뛰어남</li>\n<li>메모리 안전성과 자바스크립트 기능 제한을 제공하는 강력한 샌드박스 구조와 ‘fail-fast’ 철학으로 보안성과 확장성 확보</li>\n<li>단일 머신에서도 수백 개의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20794",
+      "guid": "https://news.hada.io/topic?id=20794",
+      "pubDate": "2025-05-09T10:03:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Adafruit, 첫 $36,000 관세 고지서로 ‘고율 관세’ 현실화",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Adafruit는 최근 $36,126.46의 고율 관세 청구서를 수령하며 고율 수입세가 실질적 부담으로 다가오고 있음을 강조</strong>함.</li>\n<li>\n<strong>이번 제품은 공급업체의 지적재산 보호로 인해 다른 소스로 대체할 수 없고, 주문도 수개월 전 진행된 것이라 대처가 어려운 상황</strong>임.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20793",
+      "guid": "https://news.hada.io/topic?id=20793",
+      "pubDate": "2025-05-09T10:00:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "정보 밀도가 높은 UI의 우수 사례를 찾는 것이 왜 어려운가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>고정보 밀도 UI</strong>의 실제 우수 사례를 찾는 일은 쉽지 않음</li>\n<li>대부분의 검색 결과는 <strong>모호한 기사</strong>나 반복적인 내용에 머무름</li>\n<li>이미지 검색마저도 <strong>관련성 낮은 결과</strong>만 제공함</li>\n<li>최근 UI 트렌드는 <strong>여백이 많고 색상 대비가 낮은...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20792",
+      "guid": "https://news.hada.io/topic?id=20792",
+      "pubDate": "2025-05-09T09:57:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 혈액 및 혈액 제품 수출의 실상과 통계 오류 분석",
+      "description": {
+        "$text": "<ul>\n<li>미국의 <strong>혈액 및 혈액 제품 수출액 비율</strong>이 실제보다 과장되어 통용되고 있음</li>\n<li>2023년 <strong>미국 전체 상품 수출 중 혈액 관련 품목</strong>이 차지하는 비율은 약 0.69%로 분석됨</li>\n<li>기존에 인용된 Economist 기사 내 <strong>1.8% 수치의 오류 및 통계 집계 방식</strong>에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20791",
+      "guid": "https://news.hada.io/topic?id=20791",
+      "pubDate": "2025-05-09T09:54:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "교황 레오 14세 선출: 전통과 의미의 부활",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>로버트 프레보스트</strong> 추기경이 새 교황 <strong>레오 14세</strong>로 선출됨</li>\n<li>레오라는 이름은 <strong>교황 역사상 네 번째로 많이 선택된 이름</strong>임</li>\n<li>100년 만에 <strong>‘레오’라는 교황명</strong>이 부활하였음</li>\n<li>\n<strong>과거 교황 레오 13세</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20790",
+      "guid": "https://news.hada.io/topic?id=20790",
+      "pubDate": "2025-05-09T09:51:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "빌 게이츠, 향후 20년 안에 거의 모든 재산 기부 계획 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>빌 게이츠는 앞으로 20년 동안 자신의 거의 모든 재산을 Gates 재단을 통해 기부할 계획</strong>임을 발표</li>\n<li>\n<strong>Gates 재단은 창립 25주년을 맞이하여 지금까지 1,000억 달러 이상을 기부</strong>했으며, 앞으로 두 배인 <strong>2,000억 달러 이상을 기부할 예정</strong>임.</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20789",
+      "guid": "https://news.hada.io/topic?id=20789",
+      "pubDate": "2025-05-09T09:47:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DNA는 약 60~750MB 정도의 데이터일 수 있다",
+      "description": {
+        "$text": "<p><strong>On counting</strong></p>\n<ul>\n<li>인간 DNA는 약 12억 비트를 저장할 수 있으며, 이는 약 1.5GB 정도의 정보량이다.</li>\n<li>하지만 DNA는 반복되는 부분이 많고, 부모로부터 받은 염색체가 유사하기 때문에 실제 정보량은 다르게 볼 수 있다.</li>\n<li>단순한 저장 공간 개념보다 더 정교한 정보 개념이 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20788",
+      "guid": "https://news.hada.io/topic?id=20788",
+      "pubDate": "2025-05-09T09:46:30+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트",
+      "description": {
+        "$text": "<ul>\n<li>Void는 VSCode 기반의 <strong>Cursor 대체용 에디터</strong>로, 사용자의 <strong>코드베이스에 AI 에이전트를 적용</strong>하고, <strong>체크포인트와 변경 사항 시각화</strong> 기능을 제공함</li>\n<li>모든 모델을 로컬로 호스팅하거나 가져와서 사용할 수 있으며, 메시지는 직접 모델 제공자에게 전송...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20787",
+      "guid": "https://news.hada.io/topic?id=20787",
+      "pubDate": "2025-05-09T09:44:57+09:00",
       "author": "neo",
       "category": ""
     }
