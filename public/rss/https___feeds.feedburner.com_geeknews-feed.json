@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-09T13:34:09+09:00",
+  "lastBuildDate": "2025-05-09T22:39:16+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37050,6 +37050,19 @@
       "guid": "https://news.hada.io/topic?id=20803",
       "pubDate": "2025-05-09T13:34:09+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "레일스는 기술 부채가 아니에요: 과거의 발언을 철회한 Gumroad Founder",
+      "description": {
+        "$text": "<p>Gumroad는 창작자가 청중에게 직접 제품을 판매할 수 있는 전자상거래 플랫폼입니다.</p>\n<p>Gumroad의 파운더 Sahil Lavingia은 작년 9월경 &quot;레일스는 레거시이고, 레일스를 떠나간다&quot;는 <a href=\"https://news.hada.io/topic?id=17059\">글</a>을 남겨 여러 이야기들을 낳았는데요, 최근에 다시 레일스는 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20804",
+      "guid": "https://news.hada.io/topic?id=20804",
+      "pubDate": "2025-05-09T22:39:16+09:00",
+      "author": "eajrezz",
       "category": ""
     }
   ]
