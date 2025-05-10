@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-10T09:32:02+09:00",
+  "lastBuildDate": "2025-05-10T11:40:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37076,6 +37076,84 @@
       "guid": "https://news.hada.io/topic?id=20805",
       "pubDate": "2025-05-10T09:32:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "1.4GHz 대역에서 탐지된 미확인 전파 방출 현상",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>NASA의 SMAP 위성</strong>이 본래 목적 외에도 <strong>공개 ELINT(전자신호 정보)</strong> 역할을 하게 된 현상임</li>\n<li>1.4 GHz의 <strong>보호받는 주파수 대역</strong>에서 비정상적으로 높은 **밝기 온도(RFI)**가 감지됨</li>\n<li>이 현상은 <strong>주로 군사적 교란 및 전자전</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20811",
+      "guid": "https://news.hada.io/topic?id=20811",
+      "pubDate": "2025-05-10T11:40:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "NSF, 37개 부서 폐지 및 조직 대대적 개편 예고",
+      "description": {
+        "$text": "<ul>\n<li>미국 <strong>National Science Foundation(NSF)</strong> 가 37개 부서를 전격 폐지하고, 프로그램 수도 대폭 줄이는 급진적 개편을 발표함</li>\n<li>백악관 지시에 따른 예산 삭감과 인력 감축 압박이 이번 구조조정의 주요 배경임</li>\n<li>기존 국장, 부국장 등 주요 인력은 자리에서 물러나거나 타 부서로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20810",
+      "guid": "https://news.hada.io/topic?id=20810",
+      "pubDate": "2025-05-10T11:40:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LHC에서 납이 금으로 변환되는 현상 최초 검출",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ALICE 협력팀</strong>이 CERN의 <strong>LHC</strong>에서 고에너지 납 핵 충돌을 통해 납이 금으로 변환되는 과정을 정량적으로 측정함</li>\n<li>이 실험은 근접 충돌 시 강력한 <strong>전자기장</strong>에 의해 납 핵에서 <strong>양성자</strong>가 방출되어 극소량의 금 핵이 탄생함을 보여줌...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20809",
+      "guid": "https://news.hada.io/topic?id=20809",
+      "pubDate": "2025-05-10T11:40:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LegoGPT - 텍스트에서 실제로 조립 가능한 LEGO 디자인 자동 생성",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>LegoGPT</strong>는 텍스트 입력만으로 <strong>안정적이고 실제로 조립 가능한 LEGO 구조물을 생성</strong>하는 혁신적인 오픈소스 프로젝트임</li>\n<li>\n<strong>StableText2Lego</strong> 데이터셋을 구축해 47,000개 이상의 물리적으로 안정적인 LEGO 구조와 세밀한 설명을 제공함</li>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20808",
+      "guid": "https://news.hada.io/topic?id=20808",
+      "pubDate": "2025-05-10T11:38:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "좋은 애니메이션과 훌륭한 애니메이션의 차이",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>애니메이션은 UI의 품질을 좌우하는 핵심 요소</strong>로, 단순히 보기 좋음을 넘어 <strong>자연스러운 느낌과 인터랙션의 직관성</strong>을 제공함</li>\n<li>훌륭한 애니메이션을 만들기 위해서는 <strong>원점 인식, 적절한 Easing 선택, 스프링 효과 활용, 도구에 대한 깊은 이해</strong>가 필...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20807",
+      "guid": "https://news.hada.io/topic?id=20807",
+      "pubDate": "2025-05-10T10:03:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "크롬 137 부터 CSS `reading-flow` 도입 : 시각적 순서를 따르는 키보드 탐색",
+      "description": {
+        "$text": "<ul>\n<li>Chrome 137부터 새롭게 도입된 <strong>CSS <code>reading-flow</code> 및 <code>reading-order</code> 속성</strong>은 <strong>시각적 레이아웃과 키보드 포커스 순서가 불일치하는 문제</strong>를 해결함</li>\n<li>기존 flex/grid 레이아웃은 <strong>DOM 순서와 시각적 순서가 어긋날 수 있어</strong>, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20806",
+      "guid": "https://news.hada.io/topic?id=20806",
+      "pubDate": "2025-05-10T09:46:02+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
