@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-09T22:39:16+09:00",
+  "lastBuildDate": "2025-05-10T09:32:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37063,6 +37063,19 @@
       "guid": "https://news.hada.io/topic?id=20804",
       "pubDate": "2025-05-09T22:39:16+09:00",
       "author": "eajrezz",
+      "category": ""
+    },
+    {
+      "title": "nnd - 리눅스를 위한 초경량 고속 디버거",
+      "description": {
+        "$text": "<ul>\n<li>RemedyBG에서 영감을 받은 리눅스 전용의 초경량 고속 디버거, <strong>gdb나 lldb에 의존하지 않고 Rust로 직접 구현</strong>\n</li>\n<li>빠른 응답성과 TUI 기반 UI로 대용량 실행 파일(예: 2.5GB ClickHouse)도 무리 없이 다룰 수 있음\n<ul>\n<li>로딩/검색처럼 시간이 걸리는 작업도 비동기/멀티스레드로 취...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20805",
+      "guid": "https://news.hada.io/topic?id=20805",
+      "pubDate": "2025-05-10T09:32:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
