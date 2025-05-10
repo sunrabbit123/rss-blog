@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-10T23:28:44+09:00",
+  "lastBuildDate": "2025-05-11T06:17:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37271,6 +37271,19 @@
       "guid": "https://news.hada.io/topic?id=20821",
       "pubDate": "2025-05-10T23:28:44+09:00",
       "author": "ssssut",
+      "category": ""
+    },
+    {
+      "title": "Llama.cpp 이제 비전 기능 지원 (멀티모달 입력)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Llama.cpp</strong>가 이제 <strong>libmtmd</strong>를 통해 멀티모달 입력(비전 포함)을 지원함\n<ul>\n<li>llama-mtmd-cli 또는 llama-server를 통한 OpenAI 호환 <code>/chat/completions</code> API</li>\n</ul>\n</li>\n<li>Gemma 3, SmolVLM, Pixtral, Qwen 2/2.5, Mistra Small, InternVL 등 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20822",
+      "guid": "https://news.hada.io/topic?id=20822",
+      "pubDate": "2025-05-11T06:17:55+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
