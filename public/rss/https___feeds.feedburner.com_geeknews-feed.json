@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-10T12:44:48+09:00",
+  "lastBuildDate": "2025-05-10T14:13:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37193,6 +37193,19 @@
       "guid": "https://news.hada.io/topic?id=20812",
       "pubDate": "2025-05-10T12:26:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "아마존의 'Vulcan' 로봇, 이제 인간보다 빠르게 물품 적재",
+      "description": {
+        "$text": "<ul>\n<li>아마존은 신형 로봇 시스템 <strong>Vulcan</strong>을 공개하며 적재 작업에서 인간보다 <strong>평균적으로 더 빠른 성능</strong>을 달성함</li>\n<li>연간 140억 개 이상의 아이템이 수작업으로 적재되는 물류창고에서, Vulcan은 <strong>하루 20시간 기준 시간당 300개 적재</strong>를 목표로 운영됨</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20816",
+      "guid": "https://news.hada.io/topic?id=20816",
+      "pubDate": "2025-05-10T14:13:06+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
