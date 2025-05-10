@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T06:17:55+09:00",
+  "lastBuildDate": "2025-05-11T07:45:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37283,6 +37283,19 @@
       "link": "https://news.hada.io/topic?id=20822",
       "guid": "https://news.hada.io/topic?id=20822",
       "pubDate": "2025-05-11T06:17:55+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "커서 0.50 업데이트: 단순화된 요금제, 백그라운드 에이전트, 인라인 편집 개선",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>요금제가 단순화</strong>되어 요청 기반 모델로 통합되었으며, 복잡했던 프리미엄/긴 문맥 모드는 제거됨</li>\n<li>\n<strong>Max Mode</strong>가 모든 최신 모델에서 사용 가능해졌으며, 토큰 기반 과금 체계로 전환됨</li>\n<li>\n<strong>백그라운드 에이전트</strong> 기능이 프리뷰로 도입되어 병...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20823",
+      "guid": "https://news.hada.io/topic?id=20823",
+      "pubDate": "2025-05-11T07:45:04+09:00",
       "author": "xguru",
       "category": ""
     }

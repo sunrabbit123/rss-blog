@@ -912,6 +912,15 @@
       "pubDate": "Wed, 07 May 2025 08:15:08 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langgraph] 1편 - langgraph 소개 및 기본개념",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 langchain을 다뤄보았습니다. 이번 포스트부터는 langgraph를 다뤄보도록 하겠습니다. ● 선형 Chain을 넘어 복잡한 흐름을 제어하는 langgraph LangChain에서는 Prompt, Model, Output Parser와 같이 Runnable 객체를 파이프(|)를 이용하여 Chain을 구성할 수 있었습니다. 하지만 LLM 애플리케이션이 복잡해지기 시작하면 단순한 선형 연결만으로 부족한을 느끼게 됩니다. · LangGraph가 필요할까? LLM 애플리이션을 만들다보면 다음과 같은 상황이 올 수 있습니다. 첫 번째 LLM이 스스로 판단해서 다음 단계를 결정하게 만들고 싶은경우(LCEL만으로 부족할 때) 두 번째 여러 단계를 거치면서 정보(상태)를.......",
+      "link": "https://blog.naver.com/pjt3591oo/223861729229?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223861729229",
+      "pubDate": "Sun, 11 May 2025 07:55:21 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
