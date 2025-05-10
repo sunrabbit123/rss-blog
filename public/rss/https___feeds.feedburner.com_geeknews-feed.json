@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-10T11:40:53+09:00",
+  "lastBuildDate": "2025-05-10T12:44:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37153,6 +37153,45 @@
       "link": "https://news.hada.io/topic?id=20806",
       "guid": "https://news.hada.io/topic?id=20806",
       "pubDate": "2025-05-10T09:46:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, 첨단 원자력 프로젝트 3건에 투자",
+      "description": {
+        "$text": "<ul>\n<li>구글이 <strong>Elementl Power와 협력</strong>하여 최소 600MW 규모의 <strong>첨단 원자력 발전소 3곳</strong>에 투자하기로 발표함</li>\n<li>\n<strong>AI와 데이터 센터 전력 수요 급증</strong>으로 인해 기존의 탄소중립 목표에 도달하는 데 어려움을 겪고 있음</li>\n<li>구글은 2030년까지 <strong>24/...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20815",
+      "guid": "https://news.hada.io/topic?id=20815",
+      "pubDate": "2025-05-10T12:44:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로서비스는 스타트업이 감당할 수 없는 세금임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>초기 스타트업에서 코드를 성급하게 마이크로서비스로 분리하면</strong> 팀의 생산성에 심각한 <strong>저하</strong>와 복잡성 증가를 초래함</li>\n<li>\n<strong>모놀리식(단일) 아키텍처</strong>는 단순한 배포와 빠른 신규 기능 출시, 효율적인 협업을 통한 생존 최적화를 제공함</li>\n<li>\n<str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20814",
+      "guid": "https://news.hada.io/topic?id=20814",
+      "pubDate": "2025-05-10T12:41:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Wasm 2.0 공식 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Wasm 2.0 스펙</strong>이 공식적으로 발표됨</li>\n<li>Wasm Community와 Working Groups가 2022년부터 스펙을 완성했고, 주요 구현체는 이미 2.0을 지원하고 있었음</li>\n<li>2.0부터는 <strong>에버그린 모델</strong>이 도입되어, Candidate Recommendation 문서가 지속적으로 최신 상태로 갱신됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20812",
+      "guid": "https://news.hada.io/topic?id=20812",
+      "pubDate": "2025-05-10T12:26:29+09:00",
       "author": "neo",
       "category": ""
     }
