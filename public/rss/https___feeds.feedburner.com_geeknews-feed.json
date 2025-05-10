@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-10T19:35:38+09:00",
+  "lastBuildDate": "2025-05-10T23:28:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37258,6 +37258,19 @@
       "guid": "https://news.hada.io/topic?id=20819",
       "pubDate": "2025-05-10T18:35:08+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Starlink Mini로 몽골에서 디지털 보톡스 즐기기 (한국 사용기 포함)",
+      "description": {
+        "$text": "<p>5월 연휴를 맞아 몽골 여행을 계획하며 '사람 사는 곳을 벗어나면 셀룰러 데이터를 사용할 수 없다'는 정보를 확인하고 Starlink Mini를 구입해 테스트했습니다.<br />\n서울에서의 간단한 테스트부터 게르에서의 디지털 보톡스까지, IP67 방수 성능과 보조배터리로 실제 셀룰러 데이터가 터지지 않는 오지에서도 100M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20821",
+      "guid": "https://news.hada.io/topic?id=20821",
+      "pubDate": "2025-05-10T23:28:44+09:00",
+      "author": "ssssut",
       "category": ""
     }
   ]
