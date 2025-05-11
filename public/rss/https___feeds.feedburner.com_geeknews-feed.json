@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T17:24:38+09:00",
+  "lastBuildDate": "2025-05-11T21:25:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37401,6 +37401,19 @@
       "guid": "https://news.hada.io/topic?id=20832",
       "pubDate": "2025-05-11T15:04:56+09:00",
       "author": "indexerror",
+      "category": ""
+    },
+    {
+      "title": "Show GN: TopGles - AI로 10분만에 만든 한화이글스 우승 확률 계산기",
+      "description": {
+        "$text": "<p>Firebase Studio를 이용해서 10분 만에 만든 🦅한화이글스⚾ 우승 확률 및 매직넘버(?) 계산기 입니다.</p>\n<p>점심 먹으러 걸어가면서, 폰으로 Prompt 입력하고 밥 나올 때까지 기다리면서 채팅 몇번 입력하니, 대략 끝나더라고요.<br />\n실제 어떻게 입력해서 만드셨나 궁금하실 분이 있을거 같아서, Firebase Stud",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20834",
+      "guid": "https://news.hada.io/topic?id=20834",
+      "pubDate": "2025-05-11T21:25:41+09:00",
+      "author": "laeyoung",
       "category": ""
     }
   ]
