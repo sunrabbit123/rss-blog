@@ -930,6 +930,15 @@
       "pubDate": "Sun, 11 May 2025 08:39:52 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langgraph] 3편 - 순환과 에이전트 그리고 HITL",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 상태와 조건부 엣지에 대해서 다뤄보았습니다. 이번 포스트에서는 조건부 엣지를 이용하여 수환 구조를 구축하고 에이전트를 다뤄보겠습니다. ● 순환(cycle) 구조 순환 구조를 위해 조건부 엣지를 이용합니다. 순환 구조는 다음 시나리오에서 필수적입니다. 에이전트의 ReAct 루프: 생각 -> 행동 -> 관찰 -> 다시생각 -> 행동 하는 에이전트의 핵심 작동 방식을 구현합니다. 자가 수정 / 반영 (self-Correction/Reflection): LLM이 생성한 결과물을 스스로 평가하고 만족스럽지 않으면 다시 생성하거나 수정하는 과정을 반복합니다. 점진적 정보 수집: 필요한 정보가 충분히 모일 때까지 검색이.......",
+      "link": "https://blog.naver.com/pjt3591oo/223861843816?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223861843816",
+      "pubDate": "Sun, 11 May 2025 11:33:30 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
