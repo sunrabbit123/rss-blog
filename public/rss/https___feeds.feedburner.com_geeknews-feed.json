@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T21:25:41+09:00",
+  "lastBuildDate": "2025-05-11T22:34:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37414,6 +37414,19 @@
       "guid": "https://news.hada.io/topic?id=20834",
       "pubDate": "2025-05-11T21:25:41+09:00",
       "author": "laeyoung",
+      "category": ""
+    },
+    {
+      "title": "관찰을 통해 본 사람들의 행동",
+      "description": {
+        "$text": "<ul>\n<li>이 글은 <strong>사람들을 관찰</strong>하면서 느낀 <strong>내면 구조와 상호작용의 특징</strong>에 대해 다룸</li>\n<li>말투, <strong>행동, 태도, 상대와의 대화 방식</strong> 등을 통해 사람의 내면과 감정을 파악할 수 있음</li>\n<li>\n<strong>행동의 디테일</strong>로부터 자기 수용, 세상에 대한 태...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20835",
+      "guid": "https://news.hada.io/topic?id=20835",
+      "pubDate": "2025-05-11T22:34:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
