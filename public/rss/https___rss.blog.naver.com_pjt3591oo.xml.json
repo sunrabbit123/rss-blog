@@ -921,6 +921,15 @@
       "pubDate": "Sun, 11 May 2025 07:55:21 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langgraph] 2편 - 상태와 조건부 엣지",
+      "description": "안녕하세요 멍개입니다. 지난 1편에서는 LangGraph의 핵심 요소인 states, edges, nodes를 다뤄보았습니다. 이번편에서는 state와 edges를 조금 더 자세히 다뤄보겠습니다. ● LangGraph의 상태 LangGraph에서 상태 정의를 위해 TypeDict를 이용합니다. 상태를 정의하는 것은 LangGraph의 워크플로우 전체의 정보 흐름을 설계하는 과정입니다. 여기서 핵심은 agent_scratchpad입니다. 해당 상태의 타입은 Annotated[Sequence[BaseMessage], operator.add]로 정의되어있습니다. BaseMessage는 LangChain에서 HumanMessage, AIMessage 등을 의하는 메시지 객체입니다. operator.add는 해당 키에 대한 상태 업데이트가 발생할 때 기존 값과 새로운 값....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MTFfMTY5/MDAxNzQ2OTIwMTQwOTgz.P3kT0fib2U58sdhuRiO3Tw63ofuZAI8fClG1Zm496LYg.VwKw9hFfUDejiWdX5UujpDCjPiIj42lqgcI8llpOz5og.PNG/Screenshot_2025-05-11_at_08.35.16.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223861746764?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223861746764",
+      "pubDate": "Sun, 11 May 2025 08:39:52 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }

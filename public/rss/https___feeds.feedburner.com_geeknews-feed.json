@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T07:45:04+09:00",
+  "lastBuildDate": "2025-05-11T10:00:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37296,6 +37296,97 @@
       "link": "https://news.hada.io/topic?id=20823",
       "guid": "https://news.hada.io/topic?id=20823",
       "pubDate": "2025-05-11T07:45:04+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스타링크 사용자 터미널 분해",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SpaceX</strong>의 <strong>스타링크 사용자 터미널</strong>은 지구 저궤도 위성 인터넷 연결의 핵심 하드웨어임</li>\n<li>사용자 단말기를 분해해보면, <strong>무선 주파수(RF) 프런트엔드</strong>와 <strong>자체 설계 SoC</strong>가 주요 부품임</li>\n<li>펌웨어 분석 결과, 대부분의 핵심 소프...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20831",
+      "guid": "https://news.hada.io/topic?id=20831",
+      "pubDate": "2025-05-11T10:00:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gmail to SQLite",
+      "description": {
+        "$text": "<ul>\n<li>지메일에서 받은 <strong>이메일 데이터</strong>를 체계적으로 관리 및 분석하기 위해 SQLite 데이터베이스로 변환해주는 <strong>Python 기반 명령행 도구</strong>\n</li>\n<li>오픈소스 형태로 개발되어 개인이나 기업 모두 <strong>자유롭게 확장 및 맞춤화</strong> 가능함</li>\n<li>일반적인 이메일 관리에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20830",
+      "guid": "https://news.hada.io/topic?id=20830",
+      "pubDate": "2025-05-11T09:57:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "MCP를 비판적으로 살펴보기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>MCP(Model Context Protocol)</strong> 는 LLM이 외부 세계와 상호작용하도록 표준화된 연동 방식을 제공함</li>\n<li>최근 IBM의 <strong>ACP</strong>와 Google의 <strong>A2A</strong> 등 유사한 표준들이 등장하며, MCP 구현 및 관련 도구들이 빠르게 늘어남</li>\n<li>그러나 <strong>설계상 혼란,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20829",
+      "guid": "https://news.hada.io/topic?id=20829",
+      "pubDate": "2025-05-11T09:54:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "21 GB/s 속도의 AMD 9950X에서 SIMD를 활용한 CSV 파싱",
+      "description": {
+        "$text": "<ul>\n<li>최신 Sep 0.10.0 버전은 <strong>AMD 9950X</strong>에서 <strong>21 GB/s</strong>의 놀라운 CSV 파싱 속도를 달성함</li>\n<li>\n<strong>AVX-512 지원</strong> 및 마스크 레지스터 이슈 극복으로 성능이 크게 향상됨</li>\n<li>새로운 <strong>AVX-512-to-256 파서</strong>가 AVX2, 기존 AVX-512 파서를 앞지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20828",
+      "guid": "https://news.hada.io/topic?id=20828",
+      "pubDate": "2025-05-11T09:51:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "하이벡터 – 빠르고 현대적인 SVG 편집기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Hyvector</strong>는 빠르고 현대적인 SVG(Scalable Vector Graphics) 이미지를 효율적으로 편집할 수 있는 웹 기반 편집기임</li>\n<li>JavaScript 지원을 필요로 하며, 활성화해야 정상적으로 동작함</li>\n<li>복잡한 설치나 환경설정 없이 즉시 <strong>브라우저</strong>에서 접근 가능함</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20826",
+      "guid": "https://news.hada.io/topic?id=20826",
+      "pubDate": "2025-05-11T09:45:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "간단한 수학 규칙으로 만든 16x16 도트 애니메이션",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>16x16 도트 애니메이션</strong>이 <strong>간단한 수학 규칙</strong>을 통해 만들어짐</li>\n<li>각 도트의 움직임은 <strong>수학적인 공식과 연산</strong>을 기반으로 함</li>\n<li>최소한의 알고리듬과 단순한 논리로 <strong>복잡하면서 매력적인 패턴</strong> 생성이 가능함</li>\n<li>\n<strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20825",
+      "guid": "https://news.hada.io/topic?id=20825",
+      "pubDate": "2025-05-11T09:42:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Benchi - 벤치마크 자동화 도구",
+      "description": {
+        "$text": "<ul>\n<li>최소한의 설정으로도 성능 벤치마크를 실행할 수 있도록 설계된 <strong>경량 벤치마킹 프레임워크</strong>로, 어플리케이션 및 인프라 성능 측정을 단순화하기 위해 개발</li>\n<li>벤치마크 환경은 <strong>Docker Compose 구성 파일</strong>을 통해 정의되며, 컨테이너 상태 모니터링 및 결과 수집이 자동화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20824",
+      "guid": "https://news.hada.io/topic?id=20824",
+      "pubDate": "2025-05-11T09:16:02+09:00",
       "author": "xguru",
       "category": ""
     }
