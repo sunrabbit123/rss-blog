@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T10:00:47+09:00",
+  "lastBuildDate": "2025-05-11T15:04:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37388,6 +37388,19 @@
       "guid": "https://news.hada.io/topic?id=20824",
       "pubDate": "2025-05-11T09:16:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 나만 아는 자신만의 Cursor/Copilot용 프롬프트가 있나요?",
+      "description": {
+        "$text": "<p>채팅용 프롬프트, 시스템 프롬프트, cursorrules 등등...</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20832",
+      "guid": "https://news.hada.io/topic?id=20832",
+      "pubDate": "2025-05-11T15:04:56+09:00",
+      "author": "indexerror",
       "category": ""
     }
   ]

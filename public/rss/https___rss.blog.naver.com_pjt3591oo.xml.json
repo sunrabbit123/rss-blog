@@ -939,6 +939,15 @@
       "pubDate": "Sun, 11 May 2025 11:33:30 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langgraph] 4편 - checkpoint를 이용한 히스토리 관리",
+      "description": "안녕하세요 멍개입니다. 1편부터 3편동안 LangGraph의 구성요소와 LangGraph를 이용하여 Agent를 만드는 방법을 알아보았습니다. 이번 시간은 LangGraph에서 상태(기록)을 저장하고 관리하는 checkpoint에 대해서 알아보겠습니다. checkpoint의 핵심 기능은 대화 컨텍스트 유지입니다. · checkpoint 없을 때 · checkpoint 있을 때 checkpoint는 graph를 빌드할 때 checkepointer를 전달하면 됩니다. · thread_id로 관리되는 체크포인트 LangGraph에서 checkpoint는 thread_id 마다의 state를 관리합니다. 이는 get_state를 통해 읽거나 update_state를 통해 수정할 수 있습니다. · functional api 기반의 체크포인트 설정 · 체크포인트 삭제 ● 체....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MTFfMjYx/MDAxNzQ2OTQyNTc3NDUw.Sa3LixUSBZeymMp2nNk7WUtmrS6bJMoSeFDmBsllZs4g.L9xN8bNFdGp8GEQv_VY-09tWGK4GbRkEypVchLJ0z2Yg.PNG/Screenshot_2025-05-11_at_14.49.25.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223861993313?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223861993313",
+      "pubDate": "Sun, 11 May 2025 15:20:33 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
