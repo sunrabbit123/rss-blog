@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-12T12:36:49+09:00",
+  "lastBuildDate": "2025-05-12T13:52:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37570,6 +37570,19 @@
       "guid": "https://news.hada.io/topic?id=20858",
       "pubDate": "2025-05-12T12:36:49+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "저비용으로 뉴스레터를 운영하는 방법",
+      "description": {
+        "$text": "<h2>저렴한 서비스 소개</h2>\n<h3>서버: 높은 연산이 필요 없는 일반적인 처리를 하는 경우 무료로 사용 가능</h3>\n<ol>\n<li>GCP(구글 클라우드 플랫폼) VM 인스턴스</li>\n</ol>\n<ul>\n<li>프리티어 사용 시 월 1대 VM 무료 제공</li>\n<li>기본 기간 제한 없음(정책 변경 전까지 계속 사용 가능)</li>\n<li>3개의 리전에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20859",
+      "guid": "https://news.hada.io/topic?id=20859",
+      "pubDate": "2025-05-12T13:52:18+09:00",
+      "author": "seungguk",
       "category": ""
     }
   ]
