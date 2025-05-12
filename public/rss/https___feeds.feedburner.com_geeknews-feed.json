@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T00:24:28+09:00",
+  "lastBuildDate": "2025-05-13T01:58:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37609,6 +37609,19 @@
       "guid": "https://news.hada.io/topic?id=20861",
       "pubDate": "2025-05-13T00:24:28+09:00",
       "author": "bdmg114",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 바나나: 백준, 코드포스 자바스크립트/타입스크립트 프레임워크를 만들었습니다",
+      "description": {
+        "$text": "<p>안녕하세요!</p>\n<p>백준, 코드포스 등의 사이트에서 자바스크립트 및 타입스크립트로 알고리즘 문제를 풀면서 느꼈던 여러 불편함들을 해결하고자, '바나나' 라는 이름의 자바스크립트/타입스크립트 전용 오픈 소스 프레임워크 베타 버전을 출시하였습니다.</p>\n<p>React, ESLint, Next.js 등 여러 자바스크립트 및 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20862",
+      "guid": "https://news.hada.io/topic?id=20862",
+      "pubDate": "2025-05-13T01:58:54+09:00",
+      "author": "beenzinozino",
       "category": ""
     }
   ]
