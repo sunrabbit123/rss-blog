@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-12T10:50:41+09:00",
+  "lastBuildDate": "2025-05-12T12:36:49+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37556,6 +37556,19 @@
       "link": "https://news.hada.io/topic?id=20848",
       "guid": "https://news.hada.io/topic?id=20848",
       "pubDate": "2025-05-12T10:04:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자동차 회사들은 수십억 달러 규모의 소프트웨어 전쟁 중임",
+      "description": {
+        "$text": "<ul>\n<li>자동차 업계는 <strong>소프트웨어 정의 차량(SDV)</strong> 개발 경쟁에 막대한 투자를 하고 있음</li>\n<li>\n<strong>기존 완성차 업체</strong>들은 테슬라와 같은 소프트웨어 중심 아키텍처 도입에 어려움을 겪음</li>\n<li>소프트웨어 중심 자동차는 <strong>유연성, 비용 절감, 빠른 업데이트</strong> 등 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20858",
+      "guid": "https://news.hada.io/topic?id=20858",
+      "pubDate": "2025-05-12T12:36:49+09:00",
       "author": "neo",
       "category": ""
     }
