@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-11T22:34:28+09:00",
+  "lastBuildDate": "2025-05-12T10:50:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37426,6 +37426,136 @@
       "link": "https://news.hada.io/topic?id=20835",
       "guid": "https://news.hada.io/topic?id=20835",
       "pubDate": "2025-05-11T22:34:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "마이크로소프트 Teams, 곧 회의 중 화면 캡처 차단 예정",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>마이크로소프트 Teams</strong>가 곧 회의 중 <strong>화면 캡처 방지 기능</strong>을 도입할 예정임</li>\n<li>이 기능은 <strong>민감 정보</strong> 보호를 목적으로 회의 창을 검게 만들어 캡처를 차단함</li>\n<li>\n<strong>지원되지 않는 플랫폼</strong> 이용자는 음성 전용 모드로 자동 전환됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20857",
+      "guid": "https://news.hada.io/topic?id=20857",
+      "pubDate": "2025-05-12T10:50:41+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스타트업 미디어의 현재와 ‘새로운 문필 공화국’의 부활",
+      "description": {
+        "$text": "<ul>\n<li>예전에는 <strong>TechCrunch, Hacker News, Fortune Term Sheet</strong> 정도만 보면 스타트업 흐름을 파악할 수 있었지만, 기술의 보편화와 언론의 회의적 시선으로 <strong>전통 미디어와 스타트업 간의 내러티브 충돌</strong>이 생김</li>\n<li>이에 대한 반작용으로 창업자와 빌더들이 <strong>직접 서사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20856",
+      "guid": "https://news.hada.io/topic?id=20856",
+      "pubDate": "2025-05-12T10:46:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "컨테이너선이 현재 없다, 시애틀 항구 운영진 언급",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>시애틀 항구</strong>에서 컨테이너선이 현재 한 척도 없음을 언급함</li>\n<li>최근 몇 주간 <strong>화물 하락세</strong>가 미 주요 항만에 영향을 주고 있음</li>\n<li>\n<strong>관세 영향</strong>으로 수입량이 크게 감소함</li>\n<li>항만 노동자 및 연관 산업에 <strong>고용 불안정성</strong> ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20855",
+      "guid": "https://news.hada.io/topic?id=20855",
+      "pubDate": "2025-05-12T10:19:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "두 배 가격을 주어도 누구도 줄 수 없는 것을 $595에 드립니다 (1982)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Commodore 64</strong>는 동급에서 유일하게 <strong>64K 메모리</strong>와 다양한 고급 기능을 제공함</li>\n<li>경쟁사 제품에 비해 <strong>가격 대비 성능</strong>에서 압도적인 우위임</li>\n<li>\n<strong>그래픽, 사운드, 게임 기능</strong>, 그리고 다양한 소프트웨어 지원이 특징임</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20854",
+      "guid": "https://news.hada.io/topic?id=20854",
+      "pubDate": "2025-05-12T10:16:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cline이 코드 코파일럿의 판을 어떻게 바꾸었는가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cline</strong>은 기존 <strong>Cursor</strong>와는 다른 방식으로 <strong>코드 생성 도구의 활용 방식</strong>을 근본적으로 변화시킴</li>\n<li>\n<strong>LLM 기반 코드 작성</strong>에서 Cursor보다 훨씬 유연하고 강력한 퍼포먼스를 보여주며, 대규모 프로젝트에서도 <strong>끊김 없는 작업 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20853",
+      "guid": "https://news.hada.io/topic?id=20853",
+      "pubDate": "2025-05-12T10:16:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "교황 레오 14세의 추기경단 연설",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>교황 레오 14세</strong>가 추기경단에게 첫 공식 연설을 진행함</li>\n<li>\n<strong>교황 프란치스코 선종</strong>과 새로운 시대를 맞이한 <strong>교회의 회복과 희망</strong>을 강조함</li>\n<li>교황의 <strong>협력자 역할과 공동 책임감</strong>에 대해 추기경들에게 감사를 표함</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20852",
+      "guid": "https://news.hada.io/topic?id=20852",
+      "pubDate": "2025-05-12T10:13:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "2025년, 벤처캐피탈은 더 이상 아무 문제 없는 척할 수 없음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>벤처캐피탈 업계</strong>는 현재 매우 침체 상태에 있음</li>\n<li>거의 <strong>AI 분야</strong>만 활발하며, AI 내에서도 <strong>OpenAI</strong>가 유일하게 주목받음</li>\n<li>전체 시장 악화에는 <strong>트럼프 행정부의 관세 정책</strong>이 주요 원인임</li>\n<li>대부분의 투자금은 실제 수...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20851",
+      "guid": "https://news.hada.io/topic?id=20851",
+      "pubDate": "2025-05-12T10:10:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "순수 C로 네이티브 Windows Todo 앱 제작 (278 KB, 프레임워크 미사용)",
+      "description": {
+        "$text": "<ul>\n<li>이 오픈 소스 프로젝트는 <strong>C와 Win32 API</strong>만으로 제작된 경량 네이티브 Windows Todo 애플리케이션임</li>\n<li>\n<strong>프레임워크에 의존하지 않고</strong> 최소 용량(최대 26.5KB)으로 동작하며, 고급 Windows GUI와 시스템 통합을 직접 구현함</li>\n<li>\n<strong>Todo 항목 추가, 수정, 삭...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20850",
+      "guid": "https://news.hada.io/topic?id=20850",
+      "pubDate": "2025-05-12T10:07:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Linux용 C/POSIX 표준 라이브러리 구현 비교",
+      "description": {
+        "$text": "<h4>1. <strong>프로젝트 개요 및 목적</strong></h4>\n<p>Eta Labs는 리눅스용 C/POSIX 표준 라이브러리 구현체들을 기능성과 경량성(“bloat”) 중심으로 비교했다. 비교 대상은 musl, uClibc, dietlibc, glibc이며, 향후 bionic 및 BSD libc들도 추가될 예정이다.</p>\n<h4>2. <strong>메모리 사용 및 경량성 비교 (Blo",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20849",
+      "guid": "https://news.hada.io/topic?id=20849",
+      "pubDate": "2025-05-12T10:05:09+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "죽음의 순간 오류",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>죽음의 순간 오류</strong>는 죽음 직전의 후회가 인생 전체를 위한 지침이라는 <strong>오해임</strong>\n</li>\n<li>죽음의 순간에 느끼는 감정이나 생각이 <strong>대표성</strong>을 가지지 못함</li>\n<li>과거의 자신과 현재의 자신이 다름에도, 죽음의 순간의 자신이 마치 인생 전체를 통달했다고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20848",
+      "guid": "https://news.hada.io/topic?id=20848",
+      "pubDate": "2025-05-12T10:04:34+09:00",
       "author": "neo",
       "category": ""
     }
