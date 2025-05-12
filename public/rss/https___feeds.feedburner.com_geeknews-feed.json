@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-12T22:36:15+09:00",
+  "lastBuildDate": "2025-05-13T00:24:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37596,6 +37596,19 @@
       "guid": "https://news.hada.io/topic?id=20860",
       "pubDate": "2025-05-12T22:36:15+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 상남자식 마크다운 공유 웹서비스",
+      "description": {
+        "$text": "<h2>왜 MDshare인가?</h2>\n<ul>\n<li>DB따위 쓰지 않고 URL로 모든 정보를 저장하는 <strong>호방함</strong>과 안전함, 그리고 간단함</li>\n<li>마크다운은 마인크래프트 다운로드라고 생각하는 일반인들과도 마크다운 문서를 쉽게 공유 가능</li>\n<li>노션같은 대기업에게 정보를 넘길 필요 전혀 X</li>\n<li>장황한 URL...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20861",
+      "guid": "https://news.hada.io/topic?id=20861",
+      "pubDate": "2025-05-13T00:24:28+09:00",
+      "author": "bdmg114",
       "category": ""
     }
   ]
