@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T10:37:14+09:00",
+  "lastBuildDate": "2025-05-13T11:44:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37803,6 +37803,19 @@
       "link": "https://news.hada.io/topic?id=20880",
       "guid": "https://news.hada.io/topic?id=20880",
       "pubDate": "2025-05-13T10:15:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "채팅 이후의 UI: LLM 시대, 전통적 소프트웨어 UX가 무너진다",
+      "description": {
+        "$text": "<ul>\n<li>ChatGPT 이후 등장한 <strong>텍스트 기반 인터페이스</strong>는 강력하지만, 전통적인 <strong>GUI 방식보다 직관성이 낮음</strong>\n</li>\n<li>미래의 UI는 <strong>채팅 대신 ‘문맥에 맞는 조작’</strong>, <strong>지능형 검색</strong>, <strong>자동 정리</strong>, <strong>즉각적인 피드백</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20884",
+      "guid": "https://news.hada.io/topic?id=20884",
+      "pubDate": "2025-05-13T11:44:31+09:00",
       "author": "neo",
       "category": ""
     }
