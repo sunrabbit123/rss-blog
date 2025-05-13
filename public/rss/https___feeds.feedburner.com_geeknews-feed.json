@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T15:14:51+09:00",
+  "lastBuildDate": "2025-05-13T17:34:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37843,6 +37843,19 @@
       "guid": "https://news.hada.io/topic?id=20885",
       "pubDate": "2025-05-13T12:49:14+09:00",
       "author": "ng0301",
+      "category": ""
+    },
+    {
+      "title": "macOS의 권한 팝업, 믿어도 될까?",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>macOS의 TCC 권한 시스템</strong>이 허점으로 인해 사용자에게 <strong>오인 표시된 권한 요청 팝업</strong>을 띄울 수 있었음</li>\n<li>이 취약점은 <strong>CVE-2025-31250</strong>으로 등록되었으며, 사용자의 동의가 <strong>다른 앱에 적용되는 문제</strong>임</li>\n<li>악성 앱이 권한 요청...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20887",
+      "guid": "https://news.hada.io/topic?id=20887",
+      "pubDate": "2025-05-13T17:34:40+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
