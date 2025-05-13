@@ -948,6 +948,15 @@
       "pubDate": "Sun, 11 May 2025 15:20:33 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[langgraph] 5편 - LangSmith를 이용하여 디버깅하기",
+      "description": "안녕하세요 멍개입니다. 이번시간은 LangSmith를 이용하여 LangGraph 애플리케이션 개발하는 방법을 다뤄보겠습니다. LangSmith를 사용하는 방법은 LangChain에서 동일하므로 LangSmith를 셋팅하는 방법을 모른다면 이전에 작성한 블로그를 참고하는 것을 권장합니다. https://blog.naver.com/pjt3591oo/223857078379 · LangGraph 애플리키이션 코드 LangGraph를 이용하여 개발을 진행한다면 다음과 같이 graph를 구성할 수 있을겁니다. 이렇게 graph를 만들었다면 테스트를 위해 다음과 같이 코드를 작성할 수 있을겁니다. · LangSmith 연동 LangSmith는 LangGraph로 만들어진 애플리케이션과 연동하여 테스트를 할 수 있는 인터페이스를 제공합....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MTNfNDMg/MDAxNzQ3MTE5MjAwMzA1.K46aqle1ZjTGiGyJK_SfgSEUL-BBtn1_TRK1y3ku47og.Ytgl_2q7MSH8ZLDxFx_LkRPUtJ9s2IaCb7Q29EBY1_sg.PNG/Screenshot_2025-05-13_at_15.53.15.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223864327562?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223864327562",
+      "pubDate": "Tue, 13 May 2025 16:13:50 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
