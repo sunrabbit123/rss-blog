@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T01:58:54+09:00",
+  "lastBuildDate": "2025-05-13T10:13:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37622,6 +37622,136 @@
       "guid": "https://news.hada.io/topic?id=20862",
       "pubDate": "2025-05-13T01:58:54+09:00",
       "author": "beenzinozino",
+      "category": ""
+    },
+    {
+      "title": "Google’s Hybrid Approach to Research",
+      "description": {
+        "$text": "<h4>1. 서론</h4>\n<ul>\n<li>구글은 컴퓨터 과학(CS) 연구와 개발(R&amp;D)을 통합하는 하이브리드 모델을 채택하고 있으며, 이는 신속한 혁신과 실질적 사용자 혜택을 목표로 한다.</li>\n<li>전통적인 논문 중심 연구 외에도 오픈소스, 상용 시스템, 데이터 공개 등을 중요한 결과물로 간주한다.</li>\n</ul>\n<hr />\n<h4>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20879",
+      "guid": "https://news.hada.io/topic?id=20879",
+      "pubDate": "2025-05-13T10:13:03+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "지속적인 사고 기계",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>연구진은 뇌의 신경 세포가 계산에 있어 타이밍과 동기화를 활용함</strong>이 현대 AI에서 간과된 핵심임을 지적함</li>\n<li>\n<strong>Continuous Thought Machine(CTM)</strong> 구조를 도입하여 동물 뇌의 <strong>시간 기반 신경 다이나믹스</strong>를 실제 모델에 접목함</li>\n<li>\n<strong>CTM...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20878",
+      "guid": "https://news.hada.io/topic?id=20878",
+      "pubDate": "2025-05-13T10:11:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글 검색, 진짜 나빠졌을까? (사실, 복잡하다)",
+      "description": {
+        "$text": "<h4>시작: 구글은 나빠졌는가?</h4>\n<p>많은 사람들이 검색 품질이 “망가졌다”고 말하지만, 실제 사용률과 수익은 오히려 증가 중이다.<br />\n현실은 단순한 ‘좋다/나쁘다’가 아닌, 상반된 평가가 공존하는 복합적 상태다.</p>\n<hr />\n<h4>구글 검색의 균형 유지란 곡예</h4>\n<p>검색은 광고 수익, 사용자 만족, 콘텐",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20877",
+      "guid": "https://news.hada.io/topic?id=20877",
+      "pubDate": "2025-05-13T10:09:11+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "클릭 한 번으로 해지 가능한 규정, FTC 시행 연기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>미국 연방거래위원회(FTC)</strong> 가 ‘클릭 한 번 해지’ 규정의 집행을 <strong>7월 14일로 연기함</strong>\n</li>\n<li>클릭 한 번 해지(네거티브 옵션 규정)는 구독 해지 절차가 가입만큼 쉽도록 기업에게 요구함</li>\n<li>연기는 <strong>강제 이행시 발생할 부담</strong>을 재평가한 결과임...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20876",
+      "guid": "https://news.hada.io/topic?id=20876",
+      "pubDate": "2025-05-13T10:08:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "‘서둘러 짠 코드가 빚으로 돌아올 때’··· 기술 부채 해결 팁 6가지",
+      "description": {
+        "$text": "<p>완벽하지 않은 코드, 빠른 배포의 압박, 그리고 시간이 부족한 개발 환경은 기술 부채를 만든다.<br />\n이 부채는 보안 리스크, 운영 불안정, 예산 낭비로 이어질 수 있으므로 체계적 관리가 필요하다.</p>\n<hr />\n<h4>1. 기술 부채를 수치화하고 분석하라</h4>\n<p>기술 부채는 파악되지 않으면 통제도 불가능하다....</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20875",
+      "guid": "https://news.hada.io/topic?id=20875",
+      "pubDate": "2025-05-13T10:06:32+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "내 휴가를 WSC 리버스 엔지니어링으로 망친 이야기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Windows Security Center(WSC) 서비스 API</strong>를 직접 활용하여 Windows Defender를 비활성화하는 도구인 defendnot 개발 과정에 대한 경험 공유임</li>\n<li>프로젝트는 <strong>이전 no-defender</strong> 프로젝트의 기술적 한계와 법적 문제를 극복하는 과정에서 시작됨</li>\n<li>\n<strong>특...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20874",
+      "guid": "https://news.hada.io/topic?id=20874",
+      "pubDate": "2025-05-13T10:05:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "The Barbican",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>바비컨</strong>은 1965년에서 1976년 사이에 건설된 <strong>런던의 상징적인 건축 복합 단지</strong>임</li>\n<li>이 단지는 <strong>미로 형태의 독특한 설계</strong>와 다양한 생활 편의 시설을 갖추고 있음</li>\n<li>\n<strong>로마 및 중세 유적</strong> 위에 지어졌으며, 고대부터 현대까지 다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20873",
+      "guid": "https://news.hada.io/topic?id=20873",
+      "pubDate": "2025-05-13T10:02:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "분산 시스템에서 Timeouts, Retries, Idempotency 다루기",
+      "description": {
+        "$text": "<p>Sam Newman은 분산 시스템에서 꼭 이해해야 할 3가지 핵심 개념으로 <strong>Timeouts(타임아웃)</strong>, <strong>Retries(재시도)</strong>, **Idempotency(멱등성)**를 강조했다.<br />\nPaxos, Raft 같은 복잡한 분산 알고리즘보다 이 기본 개념들을 먼저 정확히 다루는 것이 중요하다고 말했다.</p>\n<hr />\n<h4>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20872",
+      "guid": "https://news.hada.io/topic?id=20872",
+      "pubDate": "2025-05-13T10:02:52+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "대규모 시스템 전환과 분리 전략 사례",
+      "description": {
+        "$text": "<h4>Key Takeaways</h4>\n<ul>\n<li>기존 시스템을 전면 교체하지 않고도 점진적 분리로 전환을 이끌어냈다.</li>\n<li>CDC 기반 실시간 데이터 시스템으로 메인프레임 직접 접근을 대체했다.</li>\n<li>REST 대신 GraphQL로 BFF 계층 다수를 제거하고 유연성과 유지보수성을 확보했다.</li>\n<li>도메인 중심 팀 구조(Team T...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20871",
+      "guid": "https://news.hada.io/topic?id=20871",
+      "pubDate": "2025-05-13T10:00:11+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "미국 저작권청, AI 기업들 저작권 침해 인정, 그리고 다음날 청장 전격 해임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>미국 저작권청</strong>이 최근 <strong>AI 기업들의 저작권 침해</strong> 사례를 공식적으로 인정함</li>\n<li>\n<strong>AI 알고리듬</strong>이 방대한 저작권 자료를 활용하며 창작자 동의 및 보상이 필요함을 지적함</li>\n<li>일부 상황에서 <strong>공정 이용(fair use) 방어</strong>가 성립하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20870",
+      "guid": "https://news.hada.io/topic?id=20870",
+      "pubDate": "2025-05-13T09:59:51+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
