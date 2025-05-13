@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T11:44:31+09:00",
+  "lastBuildDate": "2025-05-13T15:14:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37817,6 +37817,32 @@
       "guid": "https://news.hada.io/topic?id=20884",
       "pubDate": "2025-05-13T11:44:31+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DeerFlow- 커뮤니티 중심의 Deep Research 프레임워크",
+      "description": {
+        "$text": "<p>DeerFlow  - ByteDance에서 공개한 오픈소스 딥 리서치 프레임워크</p>\n<p>LLM(대형 언어 모델)과 웹 검색, 크롤링, Python 코드 실행 등 다양한 도구를 결합해 자동화된 리서치와 코드 분석을 수행할 수 있음</p>\n<p>주요 특징</p>\n<ul>\n<li>멀티 에이전트 구조로 각 역할(플래너, 리서처, 리포터 등)이 분리</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20886",
+      "guid": "https://news.hada.io/topic?id=20886",
+      "pubDate": "2025-05-13T15:14:51+09:00",
+      "author": "unqocn",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 방치되는 토이플젝들 어떻게 하시나요?",
+      "description": {
+        "$text": "<p>요즘 AI가 워낙 파워풀하다보니, 예전같으면 주단위 작업할 토이프로젝트가 반나절만에 끝나고는 합니다.</p>\n<p>그러다보니 아이디어가 산출물로 나오기까지는 하는데<br />\n결국엔 방치가 되더라구요.<br />\n(토이플젝 레포만 100여개...)</p>\n<p>유틸도 이것저것 만들고, 서비스도 만드는데 결국에 잊혀지거나 안쓰",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20885",
+      "guid": "https://news.hada.io/topic?id=20885",
+      "pubDate": "2025-05-13T12:49:14+09:00",
+      "author": "ng0301",
       "category": ""
     }
   ]
