@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-14T10:24:17+09:00",
+  "lastBuildDate": "2025-05-14T12:00:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37985,6 +37985,32 @@
       "link": "https://news.hada.io/topic?id=20888",
       "guid": "https://news.hada.io/topic?id=20888",
       "pubDate": "2025-05-14T09:41:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Figma가 Config 2025에서 발표한 모든 것들",
+      "description": {
+        "$text": "<ul>\n<li>피그마가 이제 <strong>디자인 도구를 넘어, 웹 제작, 협업, AI 기반 코드 생성</strong>까지 하나의 플랫폼 안에서 모두 가능하게 함</li>\n<li>\n<strong>Figma Draw</strong> – 나만의 스타일을 그리다\n<ul>\n<li>새로운 브러시, 채우기, 곡선 텍스트, 그래인 효과 등으로 <strong>벡터 편집이 더욱 자유로워짐...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20899",
+      "guid": "https://news.hada.io/topic?id=20899",
+      "pubDate": "2025-05-14T12:00:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "구글이 자체 DeX를 개발 중임: Android 데스크톱 모드 첫 공개",
+      "description": {
+        "$text": "<ul>\n<li>구글이 <strong>삼성 DeX</strong>와 유사한 데스크톱 모드를 Android에 도입 준비중</li>\n<li>\n<strong>태스크바, 여러 앱의 자유 형태 창, 외부 디스플레이 지원</strong>을 포함</li>\n<li>첫 도입은 Android 16 정식 버전이 아닌 분기별 업데이트나 Android 17에서 가능성 높음</li>\n<li>\n<strong>데스크톱 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20898",
+      "guid": "https://news.hada.io/topic?id=20898",
+      "pubDate": "2025-05-14T10:34:27+09:00",
       "author": "xguru",
       "category": ""
     }
