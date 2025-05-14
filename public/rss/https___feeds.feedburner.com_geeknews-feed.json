@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-13T17:34:40+09:00",
+  "lastBuildDate": "2025-05-14T10:24:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -37856,6 +37856,136 @@
       "guid": "https://news.hada.io/topic?id=20887",
       "pubDate": "2025-05-13T17:34:40+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HealthBench – AI 시스템과 인간 건강을 위한 평가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>HealthBench</strong>는 AI 시스템 및 인간 건강 관련 평가를 목표로 함</li>\n<li>다양한 분야의 <strong>의료진 전문가</strong>들이 프로젝트에 기여함</li>\n<li>전문성과 경험을 갖춘 많은 <strong>의사, 연구자, 임상의</strong>가 참여함</li>\n<li>이 리스트에 이름이 포함되어 있다고 해서 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20897",
+      "guid": "https://news.hada.io/topic?id=20897",
+      "pubDate": "2025-05-14T10:24:17+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "자신만의 Siri를 클라우드 없이 로컬 및 온디바이스로 구축하기",
+      "description": {
+        "$text": "<ul>\n<li>LLM API와 클라우드에 의존하지 않고, <strong>온디바이스에서 실행되는 개인 음성 비서</strong>를 직접 만드는 방법</li>\n<li>이 비서는 <strong>자연어를 이해하고</strong>, <strong>개인 함수 호출을 수행하며</strong>, <strong>오직 로컬에서 작동</strong>하므로 <strong>완전한 프라이버시 보장</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20896",
+      "guid": "https://news.hada.io/topic?id=20896",
+      "pubDate": "2025-05-14T10:17:09+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "브랜치 특권 주입: 브랜치 예측기 경쟁 상태 악용",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>브랜치 예측기</strong>의 경쟁 상태로 인해 <strong>Intel CPU</strong>에서 새로운 보안 취약점인 Branch Privilege Injection이 발견됨</li>\n<li>이 공격은 <strong>비동기적 업데이트</strong>와 보안 도메인 간의 불충분한 동기화로 인해 가능해짐</li>\n<li>\n<strong>eIBRS</strong>와 <strong>I...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20895",
+      "guid": "https://news.hada.io/topic?id=20895",
+      "pubDate": "2025-05-14T10:01:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모두가 좋아하지만 아무도 사지 않는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>제품 연옥(Product Purgatory)</strong>\n<ul>\n<li>제품을 소개하면 많은 사람들이 <strong>칭찬은 하지만 구매를 미루는 말</strong>을 함</li>\n<li>창업자는 이런 긍정적인 피드백을 실제 제품 검증으로 착각하는 경우가 많음</li>\n<li>하지만 실제로 고객이 진심으로 좋아하더라도, <strong>결국 구...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20894",
+      "guid": "https://news.hada.io/topic?id=20894",
+      "pubDate": "2025-05-14T10:01:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "GNU Screen에서 발견된 여러 보안 문제",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GNU Screen 5.0.0</strong> 및 setuid-root 설치에서 심각한 보안 취약점이 발견됨</li>\n<li>\n<strong>로컬 루트 권한 상승, TTY 하이재킹, 세계 쓰기 가능한 PTY 생성</strong> 등이 주요 이슈임</li>\n<li>다수의 <strong>Linux 및 UNIX 배포판</strong>이 일부 또는 전부 영향을 받음</li>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20893",
+      "guid": "https://news.hada.io/topic?id=20893",
+      "pubDate": "2025-05-14T09:58:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플의 FastVLM - 비전 언어 모델을 위한 효율적인 비전 인코딩",
+      "description": {
+        "$text": "<ul>\n<li>애플이 CVPR 2025에 발표한 &quot;FastVLM: Efficient Vision Encoding for Vision Language Models&quot;의 공식 Repo</li>\n<li>FastViTHD는 <strong>토큰 수 감소와 고해상도 이미지의 인코딩 시간 단축</strong> 성능을 보임</li>\n<li>가장 작은 모델은 <strong>LLaVA-OneVision-0.5B</strong>보다 85배 빠른...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20892",
+      "guid": "https://news.hada.io/topic?id=20892",
+      "pubDate": "2025-05-14T09:55:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "첫 100명의 사용자를 어떻게 확보했나요?",
+      "description": {
+        "$text": "<ul>\n<li>월 50달러의 가격 플랜인 B2C AI SaaS를 구축중</li>\n<li>처음 100명의 사용자를 확보하고 그 후 500명의 사용자를 확보하려면 어떻게 해야 할까요?</li>\n<li>현재 하고 있는 작업\n<ul>\n<li>파워 유저에게 콜드 아웃리치하여 제휴사로 전환</li>\n<li>타겟 ICP 커뮤니티를 보유한 개인에게 콜드 아웃리치</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20891",
+      "guid": "https://news.hada.io/topic?id=20891",
+      "pubDate": "2025-05-14T09:52:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소프트웨어 최적화가 우선이라면, 더 많은 세상이 구형 하드웨어로 운영될 수 있음",
+      "description": {
+        "$text": "<ul>\n<li>많은 사람들이 상상하는 것보다 더 많은 시스템이 <strong>구형 하드웨어</strong>에서 충분히 동작 가능함</li>\n<li>진정한 <strong>소프트웨어 최적화</strong>가 이루어진다면 이러한 효율성 달성 가능성 높음</li>\n<li>\n<strong>희소한 컴퓨팅 자원</strong>의 시장 가격 신호가 소프트웨어 효율에 대한 동...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20890",
+      "guid": "https://news.hada.io/topic?id=20890",
+      "pubDate": "2025-05-14T09:49:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mozilla Firefox 코드 저장소, Mercurial에서 GitHub로 이전",
+      "description": {
+        "$text": "<ul>\n<li>Firefox는 최근 <strong>주 저장소를 Mercurial에서 GitHub로 이전</strong>함</li>\n<li>\n<strong>버그 추적은 Bugzilla</strong>, <strong>코드 리뷰는 Phabricator</strong>, <strong>CI는 Taskcluster</strong>를 계속 사용하고 있음</li>\n<li>현재는 <strong>GitHub가 중심 저장소이지만 Mercurial 서버는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20889",
+      "guid": "https://news.hada.io/topic?id=20889",
+      "pubDate": "2025-05-14T09:46:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ophiuchi - 도커를 사용하는 로컬 HTTPS 프록시 서버 매니저",
+      "description": {
+        "$text": "<ul>\n<li>개발자가 손쉽게 로컬 환경에서 <strong>HTTPS(SSL) 프록시 서버</strong>를 쉽고 빠르게 구성하도록 돕는 <strong>데스크톱 기반 매니저</strong> 오픈소스\n<ul>\n<li>서버 설정을 자동으로 구성해주며, 수동 포트 포워딩 등 불필요</li>\n</ul>\n</li>\n<li>\n<strong>도커</strong> 기반으로 작동하여, 설치와 관...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20888",
+      "guid": "https://news.hada.io/topic?id=20888",
+      "pubDate": "2025-05-14T09:41:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
