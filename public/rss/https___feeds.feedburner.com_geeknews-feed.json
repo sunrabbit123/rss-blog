@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-14T13:37:18+09:00",
+  "lastBuildDate": "2025-05-14T18:15:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38025,6 +38025,19 @@
       "guid": "https://news.hada.io/topic?id=20900",
       "pubDate": "2025-05-14T13:37:18+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "\"Flutter 배우기\" 개발 가이드를 만들며",
+      "description": {
+        "$text": "<p>회사에서 기존 네이티브 앱 서비스를 Flutter로 전환하면서 고민했거나 사용했던 내용들을 바탕으로 Flutter 개발에 필요한 내용들을 담아두었습니다.</p>\n<p>Flutter 개발에 여러 선택지가 있지만 저와 저희 팀 동료분들이 직접 고민하고 선택한 기술들을 위주로 남겨두었습니다.</p>\n<p>원래 팀에서 핸드북으로 사용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20901",
+      "guid": "https://news.hada.io/topic?id=20901",
+      "pubDate": "2025-05-14T18:15:50+09:00",
+      "author": "changjoopark",
       "category": ""
     }
   ]
