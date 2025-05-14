@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-14T12:00:02+09:00",
+  "lastBuildDate": "2025-05-14T13:37:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38012,6 +38012,19 @@
       "guid": "https://news.hada.io/topic?id=20898",
       "pubDate": "2025-05-14T10:34:27+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "대이동은 이미 본격적으로 시작되었다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI의 급격한 발전</strong>으로 인해 오랜 기간 경력과 기술을 쌓아온 소프트웨어 엔지니어도 실직하고 생계에 어려움을 겪음</li>\n<li>\n<strong>수백 번의 이력서 제출</strong>과 다양한 부업, 일용직 시도에도 불구하고 안정적인 일자리 확보에 실패</li>\n<li>혁신적인 기술 학습, <strong>YouTube...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20900",
+      "guid": "https://news.hada.io/topic?id=20900",
+      "pubDate": "2025-05-14T13:37:18+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
