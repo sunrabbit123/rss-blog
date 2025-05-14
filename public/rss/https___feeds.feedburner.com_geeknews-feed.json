@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-14T19:44:11+09:00",
+  "lastBuildDate": "2025-05-14T23:36:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38038,6 +38038,19 @@
       "guid": "https://news.hada.io/topic?id=20901",
       "pubDate": "2025-05-14T18:15:50+09:00",
       "author": "changjoopark",
+      "category": ""
+    },
+    {
+      "title": "러스트의 학습 곡선 평탄화",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>러스트 학습은 기존 언어와 전혀 다른 사고방식</strong>과 새로운 개념을 받아들이는 것이 필수임</li>\n<li>\n<strong>컴파일러와 borrow checker를 협력자로 인식</strong>하고 오류 메시지, 힌트, 도구의 지시를 적극적으로 활용하는 태도 필요성</li>\n<li>\n<strong>초기에는 각종 실수와 낮은 생산...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20903",
+      "guid": "https://news.hada.io/topic?id=20903",
+      "pubDate": "2025-05-14T23:36:40+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
