@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-14T23:36:40+09:00",
+  "lastBuildDate": "2025-05-15T09:41:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38051,6 +38051,58 @@
       "guid": "https://news.hada.io/topic?id=20903",
       "pubDate": "2025-05-14T23:36:40+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "xtool - Xcode 없이 iOS 앱을 빌드하고 배포하는 도구",
+      "description": {
+        "$text": "<ul>\n<li>크로스 플랫폼 Xcode 대체 도구로, SwiftPM 기반 프로젝트를 <strong>Linux, Windows(WSL), macOS 어디서든 빌드</strong>하고 디바이스에 .ipa로 배포 가능</li>\n<li>Xcode가 필요한 작업을 단순화하고 자동화함으로써 <strong>CI/CD 환경</strong>에서 유용(iOS 배포 자동화를 위해 8년동안 작업한 결과물임)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20907",
+      "guid": "https://news.hada.io/topic?id=20907",
+      "pubDate": "2025-05-15T09:41:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Critical CSS 생성기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Critical CSS</strong>는 페이지의 <strong>&quot;처음에 보이는 영역(above the fold)&quot;을 렌더링하는 데 필요한 최소한의 CSS</strong>만 추출한 것으로, 이를 HTML에 인라인하면 <strong>FCP(First Contentful Paint)</strong> 등 Core Web Vitals가 개선됨</li>\n<li>HTML의 <code>&lt;head&gt...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20906",
+      "guid": "https://news.hada.io/topic?id=20906",
+      "pubDate": "2025-05-15T09:24:43+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Shortest - AI 기반 자연어 E2E 테스트 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>자연어로 작성된 테스트 케이스를 AI가 실행하는 E2E 테스트 프레임워크</li>\n<li>Anthropic Claude API 기반의 AI 테스트 실행 기능을 제공하며, <strong>Playwright와 결합</strong>해 웹 테스트 자동화 환경의 혁신을 목표로 함</li>\n<li>GitHub 통합 및 2FA 로그인 시나리오 지원, Mailosaur 이메일 검증 지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20905",
+      "guid": "https://news.hada.io/topic?id=20905",
+      "pubDate": "2025-05-15T09:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AlphaEvolve: AI의 재귀적 자기 개선 가능성을 시사",
+      "description": {
+        "$text": "<p>구글 딥마인드의 AlphaEvolve는 AI가 스스로 더 발전된 AI를 설계할 수 있는 재귀적 자기 개선의 가능성을 보여주는 중요한 사례입니다.<br />\n이 시스템은 강력한 AI 모델인 Gemini를 활용하여 새로운 알고리즘이라는 '아이디어'를 창의적으로 생성하고, 이를 자동화된 평가 시스템과 진화적 프레임워크를 통해 반복...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20904",
+      "guid": "https://news.hada.io/topic?id=20904",
+      "pubDate": "2025-05-15T08:50:47+09:00",
+      "author": "pjy6076",
       "category": ""
     }
   ]
