@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-15T17:47:04+09:00",
+  "lastBuildDate": "2025-05-15T21:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38259,6 +38259,19 @@
       "guid": "https://news.hada.io/topic?id=20919",
       "pubDate": "2025-05-15T17:47:04+09:00",
       "author": "lunamoth",
+      "category": ""
+    },
+    {
+      "title": "존재하지 말았어야 할 서버",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>IT 시스템 부재</strong>와 잘못된 관리로 인해 한 가족 기업이 큰 위기를 겪음</li>\n<li>\n<strong>중앙화된 서버 및 네트워크 시스템</strong>이 도입되면서 내부 통제와 <strong>데이터 관리 효율성</strong>이 향상됨</li>\n<li>일부 직원, 특히 <strong>전임 사장 측근</strong>, 새로운 시스템에 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20920",
+      "guid": "https://news.hada.io/topic?id=20920",
+      "pubDate": "2025-05-15T21:34:04+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
