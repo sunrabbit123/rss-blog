@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-15T10:21:02+09:00",
+  "lastBuildDate": "2025-05-15T14:56:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38233,6 +38233,19 @@
       "guid": "https://news.hada.io/topic?id=20908",
       "pubDate": "2025-05-15T09:52:33+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Carousel: 엑셀을 위한 Cursor",
+      "description": {
+        "$text": "<ul>\n<li>Carousel은 YC 24년도 겨울 배치 회사인 Carousel에서 제작한 엑셀용 Cursor (AI Assistant)</li>\n<li>마이크로소프트 코파일럿보다 월등히 좋은 성능을 보이며, 실무에서 사용 가능한 수준의 DCF 모델 등을 AI의 힘만으로 제작 가능</li>\n<li>단순한 채팅 이외에도 외부 파일 첨부를 통한 RAG, 복잡한 엑셀 함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20918",
+      "guid": "https://news.hada.io/topic?id=20918",
+      "pubDate": "2025-05-15T14:56:23+09:00",
+      "author": "duckduckhero",
       "category": ""
     }
   ]
