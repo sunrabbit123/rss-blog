@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-15T14:56:23+09:00",
+  "lastBuildDate": "2025-05-15T17:47:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38246,6 +38246,19 @@
       "guid": "https://news.hada.io/topic?id=20918",
       "pubDate": "2025-05-15T14:56:23+09:00",
       "author": "duckduckhero",
+      "category": ""
+    },
+    {
+      "title": "Show GN: LunaTools - 구글 크롬 확장 프로그램 (마우스 제스처, 페이지 키보드 이동, 탭 중복 제거, 탭 정렬, 창...",
+      "description": {
+        "$text": "<p>개발자도 아니고, 프로그래밍도 전혀 모릅니다만 AI 챗봇 (주로 제미나이 , 클로드 조금) 이용해서 바이브 코딩으로 구글 크롬 확장 프로그램 만들어봤습니다.</p>\n<p>기존에 쓰던 확장 프로그램들 프롬프트로 요청해서 통합해서 제작하고, 유저스크립트도  제 나름의 아이디어로 제작하고 합쳐봤습니다. 어제는 기존",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20919",
+      "guid": "https://news.hada.io/topic?id=20919",
+      "pubDate": "2025-05-15T17:47:04+09:00",
+      "author": "lunamoth",
       "category": ""
     }
   ]
