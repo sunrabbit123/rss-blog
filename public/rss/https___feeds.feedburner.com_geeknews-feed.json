@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-15T21:34:04+09:00",
+  "lastBuildDate": "2025-05-15T22:34:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38271,6 +38271,19 @@
       "link": "https://news.hada.io/topic?id=20920",
       "guid": "https://news.hada.io/topic?id=20920",
       "pubDate": "2025-05-15T21:34:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인터넷 유물",
+      "description": {
+        "$text": "<ul>\n<li>이 문서는 <strong>해커 집단</strong>에서 유래된 특유의 용어와 문화적 맥락을 설명함</li>\n<li>\n<strong>주요 해커 용어</strong>의 정의와 사용례, 그리고 유래에 관한 일화 설명을 포함함</li>\n<li>일부 용어는 <strong>유머, 냉소, 풍자적 표현</strong>을 내포하여 해커 특유의 가치관 반영함</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20921",
+      "guid": "https://news.hada.io/topic?id=20921",
+      "pubDate": "2025-05-15T22:34:22+09:00",
       "author": "neo",
       "category": ""
     }
