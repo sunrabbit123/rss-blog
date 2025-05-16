@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-16T12:11:53+09:00",
+  "lastBuildDate": "2025-05-16T13:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38440,6 +38440,32 @@
       "link": "https://news.hada.io/topic?id=20938",
       "guid": "https://news.hada.io/topic?id=20938",
       "pubDate": "2025-05-16T11:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "애플이 웹 결제를 허용했지만, 전환율은 떨어질 수도 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>애플이 웹 결제를 허용</strong>하면서 개발자들은 IAP 수수료를 피할 수 있게 되었지만, 웹결제 도입시 <strong>전환율은 오히려 낮아질 수 있음</strong>\n</li>\n<li>RevenueCat은 5,600명의 사용자를 대상으로 <strong>IAP와 웹 결제 흐름을 비교하는 대규모 실험</strong>을 진행함\n<ul>\n<li>4개의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20941",
+      "guid": "https://news.hada.io/topic?id=20941",
+      "pubDate": "2025-05-16T13:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Hyper - 웹 표준 중심의 React 대체제",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>HTML, CSS, JavaScript 웹 표준 중심의 UI 언어</strong>로, 기존 프레임워크보다 간결하고 확장 가능한 인터페이스 구성을 지향</li>\n<li>리액트와 달리 <strong>로직과 스타일을 분리</strong>하며, CSS-in-JS 대신 외부 디자인 시스템 파일을 활용하는 방식으로 유지보수 용이성 확보</li>\n<li>\n<s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20940",
+      "guid": "https://news.hada.io/topic?id=20940",
+      "pubDate": "2025-05-16T13:15:42+09:00",
       "author": "xguru",
       "category": ""
     }
