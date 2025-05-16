@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-15T22:34:22+09:00",
+  "lastBuildDate": "2025-05-16T10:35:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38284,6 +38284,136 @@
       "link": "https://news.hada.io/topic?id=20921",
       "guid": "https://news.hada.io/topic?id=20921",
       "pubDate": "2025-05-15T22:34:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "코인베이스, 해커가 직원 매수해 고객 데이터 탈취 후 2,000만 달러 몸값 요구",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>코인베이스</strong>가 해커 집단에 의해 <strong>직원 매수 및 고객 데이터 유출</strong> 피해 발생</li>\n<li>해커들은 <strong>고객 정보</strong>를 탈취한 뒤, <strong>2,000만 달러</strong> 몸값을 요구함</li>\n<li>내부 직원이 해커와 협력하는 유례없는 <strong>보안 위협</strong>이 확인됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20937",
+      "guid": "https://news.hada.io/topic?id=20937",
+      "pubDate": "2025-05-16T10:35:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kagi Search의 과제형 면접에서 탈락한 경험",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>소프트웨어 개발자 면접</strong>에서 제출받는 &quot;take-home assignment&quot;의 비효율성과 <strong>지원자 시간 낭비</strong> 문제를 강조함</li>\n<li>Kagi Search 지원 과정에서 <strong>과도하게 광범위하고 모호한 과제 요구사항</strong>을 경험함</li>\n<li>제안한 구체적 실행계획에 대해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20936",
+      "guid": "https://news.hada.io/topic?id=20936",
+      "pubDate": "2025-05-16T10:14:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "회의실 예약을 이용한 악의적인 준수",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Larry Page</strong>가 CEO가 된 후, Google은 성장통과 업무 효율 저하 문제를 경험함</li>\n<li>그는 <strong>불필요한 프로젝트 폐기</strong>와 함께, 회의 문화 개선을 위해 새로운 지침을 도입함</li>\n<li>대표적으로 <strong>회의 시간 50분 제한</strong> 등의 정책이 생겼지만 현실에서는 잘 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20935",
+      "guid": "https://news.hada.io/topic?id=20935",
+      "pubDate": "2025-05-16T10:11:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스마트워치를 만드는 방법: 칩 선정",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Core Time 2</strong>용 칩으로 <strong>SiFli</strong>의 SF32LB52J을 선택함</li>\n<li>스마트워치 설계에서 <strong>가장 중요한 결정</strong> 중 하나가 바로 칩 선정임</li>\n<li>\n<strong>소프트웨어 호환성</strong>과 전력 소비, 단가 등이 칩 선정에 큰 영향을 미침</li>\n<li>SiFli 칩은 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20934",
+      "guid": "https://news.hada.io/topic?id=20934",
+      "pubDate": "2025-05-16T10:08:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "나는 NumPy가 싫어요",
+      "description": {
+        "$text": "<ul>\n<li>필자는 <strong>NumPy</strong>에 대한 불만을 주제로 여러 예시와 함께 문제점을 설명함</li>\n<li>간단한 배열 연산은 <strong>NumPy</strong>로 쉽지만, 차원이 늘어나면 복잡성과 혼란이 급격히 증가함</li>\n<li>\n<strong>브로드캐스팅</strong>과 고급 인덱싱 등 NumPy의 설계는 명확성과 추상화 측면에서 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20933",
+      "guid": "https://news.hada.io/topic?id=20933",
+      "pubDate": "2025-05-16T10:05:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "“AI-퍼스트” 시대, 콘텐츠 디자이너는 무엇을 준비해야 하나",
+      "description": {
+        "$text": "<ul>\n<li>Shopify와 Duolingo가 잇달아 <strong>“AI-퍼스트” 조직 전략을 선언</strong>, 콘텐츠 디자인도 이에 대비가 필요함</li>\n<li>단순한 도구 활용을 넘어서 <strong>시스템 구축과 품질 유지 역량</strong>이 콘텐츠 디자이너의 핵심 역할로 부상함</li>\n<li>AI 환경에서는 <strong>모듈화된 콘텐츠 구조, AI ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20932",
+      "guid": "https://news.hada.io/topic?id=20932",
+      "pubDate": "2025-05-16T10:04:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "멀티턴 대화에서 LLM의 한계",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>LLM</strong>이 여러 번의 대화(멀티턴)에서 <strong>혼란을 겪는 문제</strong>에 대한 연구 내용임</li>\n<li>반복된 상호작용 중에 <strong>이전 맥락 기억</strong> 및 반응 일관성 유지에 어려움이 있음</li>\n<li>이러한 현상은 <strong>대화 길이 증가</strong>와 함께 성능 저하로 이어짐</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20931",
+      "guid": "https://news.hada.io/topic?id=20931",
+      "pubDate": "2025-05-16T10:02:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Databricks가 서버리스 Postgres 전문 기업 Neon을 인수",
+      "description": {
+        "$text": "<ul>\n<li>Databricks는 개발자 중심의 <strong>서버리스 Postgres</strong>를 제공하는 Neon을 인수하기로 합의</li>\n<li>Neon은 <strong>스토리지와 컴퓨트 분리 구조</strong>를 통해 개발자와 AI 시스템에 최적화된 서버리스 데이터베이스 플랫폼을 제공</li>\n<li>Neon의 도입으로 AI 에이전트가 생성하는 데이터베이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20930",
+      "guid": "https://news.hada.io/topic?id=20930",
+      "pubDate": "2025-05-16T09:59:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플 앱스토어, 외부 결제 사용하는 앱에 \"크리티컬 경고\" 메시지 보이기 시작",
+      "description": {
+        "$text": "<ul>\n<li>애플이 <strong>외부 결제 시스템</strong>을 사용하는 앱에 대해 강력한 경고 메시지를 도입</li>\n<li>이 경고는 <strong>앱의 이름, 아이콘 위</strong>에 빨간색 ⚠️  아이콘과 함께 최대 다섯 줄로 표시됨</li>\n<li>EU에서는 미국과 달리 <strong>IAP 없이 외부 결제만으로 운영 가능</strong>함</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20929",
+      "guid": "https://news.hada.io/topic?id=20929",
+      "pubDate": "2025-05-16T09:58:05+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "맞춤형 유전자 편집 치료로 치유된 첫 번째 아기",
+      "description": {
+        "$text": "<ul>\n<li>미국에서 <strong>맞춤형 유전자 편집 치료</strong>로 생명을 구한 첫 아기 사례가 보고됨</li>\n<li>KJ라는 아기는 <strong>극히 드문 유전 질환</strong>으로 생후 일주일 만에 진단을 받음</li>\n<li>일반적으로 이 질환은 <strong>생존률이 매우 낮고 심각한 후유증</strong>을 동반함</li>\n<li>담당 의사팀...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20928",
+      "guid": "https://news.hada.io/topic?id=20928",
+      "pubDate": "2025-05-16T09:56:08+09:00",
       "author": "neo",
       "category": ""
     }
