@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-16T17:56:56+09:00",
+  "lastBuildDate": "2025-05-16T18:33:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38493,6 +38493,19 @@
       "guid": "https://news.hada.io/topic?id=20942",
       "pubDate": "2025-05-16T15:28:50+09:00",
       "author": "jacde",
+      "category": ""
+    },
+    {
+      "title": "3개의 명령어로 윤년 여부를 확인하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>3개의 CPU 명령어만으로 윤년을 판별하는 함수</strong>를 구현함</li>\n<li>이 방법은 <strong>비트 연산과 곱셈을 이용하여 전통적 분기 없이 동작함</strong>\n</li>\n<li>Z3와 같은 <strong>SMT Solver로 매직 상수를 찾아낸 과정</strong>이 설명됨</li>\n<li>이 방식은 <strong>0~102499년 범위에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20945",
+      "guid": "https://news.hada.io/topic?id=20945",
+      "pubDate": "2025-05-16T18:33:59+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
