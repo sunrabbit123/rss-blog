@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-17T23:34:09+09:00",
+  "lastBuildDate": "2025-05-18T00:40:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38662,6 +38662,19 @@
       "guid": "https://news.hada.io/topic?id=20959",
       "pubDate": "2025-05-17T23:34:09+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TSBOARD 안드로이드 앱, Sensta - 커뮤니티 전용 인스타그램을 만들어보자",
+      "description": {
+        "$text": "<p>약 1년 전에 타입스크립트로 제작한 <a href=\"https://tsboard.dev\">TSBOARD</a>를 이 곳 긱뉴스에 처음으로 소개 했었습니다.<br />\n그 때 TSBOARD를 커뮤니티 빌더이자 게시판이라고 소개 했었죠.</p>\n<blockquote>\n<p><a href=\"https://news.hada.io/topic?id=14914\">TSBOARD 긱뉴스 소개글</a></p>\n</blockquote>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20960",
+      "guid": "https://news.hada.io/topic?id=20960",
+      "pubDate": "2025-05-18T00:40:45+09:00",
+      "author": "tsboard",
       "category": ""
     }
   ]
