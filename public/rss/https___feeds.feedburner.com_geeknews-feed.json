@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-18T04:01:13+09:00",
+  "lastBuildDate": "2025-05-18T07:27:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38675,6 +38675,19 @@
       "guid": "https://news.hada.io/topic?id=20960",
       "pubDate": "2025-05-18T00:40:45+09:00",
       "author": "tsboard",
+      "category": ""
+    },
+    {
+      "title": "JavaScript의 새로운 슈퍼파워: 명시적 리소스 관리",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>명시적 리소스 관리</strong> 제안은 파일 핸들, 네트워크 연결 등 리소스의 라이프사이클을 명확하게 제어함</li>\n<li>\n<code>using</code> 및 <code>await using</code> 선언과 <strong><a href=\"\">Symbol.dispose</a>, <a href=\"\">Symbol.asyncDispose</a></strong> 심볼 도입으로 자동 정리 메커니...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20962",
+      "guid": "https://news.hada.io/topic?id=20962",
+      "pubDate": "2025-05-18T07:27:29+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
