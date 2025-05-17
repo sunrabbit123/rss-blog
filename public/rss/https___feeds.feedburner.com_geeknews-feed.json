@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-17T20:35:23+09:00",
+  "lastBuildDate": "2025-05-17T23:34:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38649,6 +38649,19 @@
       "guid": "https://news.hada.io/topic?id=20958",
       "pubDate": "2025-05-17T20:35:23+09:00",
       "author": "letaem77a",
+      "category": ""
+    },
+    {
+      "title": "MIT, arXiv에 AI와 과학적 발견에 관한 논문 철회를 요청함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>MIT</strong>는 AI와 과학적 발견에 관한 미공개 논문의 <strong>연구 신뢰도</strong>에 문제가 있다고 판단함</li>\n<li>내부 <strong>비공개 조사</strong> 결과, 논문의 데이터와 내용의 진실성에 확신이 없어 공식 철회를 요청함</li>\n<li>논문 <strong>저자는 더 이상 MIT 소속이 아니며</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20959",
+      "guid": "https://news.hada.io/topic?id=20959",
+      "pubDate": "2025-05-17T23:34:09+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
