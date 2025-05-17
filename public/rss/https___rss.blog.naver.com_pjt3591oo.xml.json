@@ -957,6 +957,15 @@
       "pubDate": "Tue, 13 May 2025 16:13:50 +0900",
       "author": "pjt3591oo",
       "category": "Python"
+    },
+    {
+      "title": "[Crawler] 네이버 블로그 크롤러",
+      "description": "안녕하세요 멍개입니다. · 게시글 목록 저장 게시글 목록을 가져온 후 blog-rag-data/post_list.json으로 저장합니다. · 포스트 데이터 가져오기 앞에서 저장한 blog-rag-data/post_list.json을 읽어서 각각의 포스트 정보를 가져옵니다. html에서 id가 post-view[blog_id]로 지정된 dom의 텍스트를 가져옵니다.",
+      "link": "https://blog.naver.com/pjt3591oo/223868646194?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223868646194",
+      "pubDate": "Sat, 17 May 2025 13:50:00 +0900",
+      "author": "pjt3591oo",
+      "category": "cralwer"
     }
   ]
 }
