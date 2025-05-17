@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-17T10:33:57+09:00",
+  "lastBuildDate": "2025-05-17T20:35:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38636,6 +38636,19 @@
       "guid": "https://news.hada.io/topic?id=20948",
       "pubDate": "2025-05-17T09:31:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: LLMLingua-2의 TypeScript 구현체",
+      "description": {
+        "$text": "<blockquote>\n<p>마이크로소프트에서 개발한 &quot;LLM 기반 범용 프롬프트 압축기&quot; LLMLingua를, 더 다양한 환경에서 사용할 수 있도록, 파이썬에서 타입스크립트로 포팅하는 오픈소스 프로젝트.</p>\n</blockquote>\n<h3>LLMLingua란?</h3>\n<ul>\n<li>\n<a href=\"https://news.hada.io/topic?id=12470\">GeekNews: &qu",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20958",
+      "guid": "https://news.hada.io/topic?id=20958",
+      "pubDate": "2025-05-17T20:35:23+09:00",
+      "author": "letaem77a",
       "category": ""
     }
   ]
