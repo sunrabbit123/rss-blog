@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-18T07:32:14+09:00",
+  "lastBuildDate": "2025-05-18T11:34:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38713,6 +38713,84 @@
       "link": "https://news.hada.io/topic?id=20963",
       "guid": "https://news.hada.io/topic?id=20963",
       "pubDate": "2025-05-18T07:29:10+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "스위스의 새로운 감시 법안으로 Proton이 스위스 철수를 위협함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Proton CEO</strong>가 논란이 되는 감시 법안 통과 시 스위스 철수를 공식적으로 언급함</li>\n<li>개정안은 <strong>VPN 및 메신저 서비스에 사용자 정보 식별 및 보관 의무</strong>를 확대 적용하는 내용임</li>\n<li>이 법으로 인해 <strong>스위스 개인정보 보호 및 온라인 익명성</strong>이 위험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20970",
+      "guid": "https://news.hada.io/topic?id=20970",
+      "pubDate": "2025-05-18T11:34:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "KVSplit - 애플 실리콘에서 2-3배 더 긴 컨텍스트 실행",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>KVSplit</strong>은 애플 실리콘에서 <strong>대형 LLM</strong>과 긴 컨텍스트 윈도우를 실행할 수 있게 하는 오픈소스 프로젝트임</li>\n<li>\n<strong>키와 값의 분리된 정밀도 할당</strong>을 통해 <strong>최대 72% 메모리 감소</strong>와 품질 저하 1% 미만을 달성함</li>\n<li>\n<strong>M1/M2/M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20969",
+      "guid": "https://news.hada.io/topic?id=20969",
+      "pubDate": "2025-05-18T09:49:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Sci-Net",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Sci-Net</strong>은 사용자가 논문을 요청하고 업로드할 수 있도록 지원하는 새로운 플랫폼임</li>\n<li>기존의 자동화된 <strong>Sci-Hub</strong> 방식과 달리, 사용자 참여와 분산형 토큰 보상을 통해 논문 공유를 촉진함</li>\n<li>플랫폼 내에서 요청된 논문이 업로드되면 모든 사용자가 <strong>무...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20968",
+      "guid": "https://news.hada.io/topic?id=20968",
+      "pubDate": "2025-05-18T09:46:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Moody’s, 미국의 트리플A 신용등급 박탈하고 Aa1로 한 단계 하향",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Moody’s가 미국의 신용등급을 AAA에서 Aa1로 한 단계 하향</strong> 조정함</li>\n<li>이는 <strong>국가 부채 증가와 재정 적자 확대</strong>에 대한 우려에 따른 결정임</li>\n<li>\n<strong>2035년까지 GDP 대비 재정 적자가 9%에 이를 것</strong>으로 전망되며, 이는 금리 상승과 복지 지출 증가,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20967",
+      "guid": "https://news.hada.io/topic?id=20967",
+      "pubDate": "2025-05-18T09:43:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "If를 위로, For를 아래로 옮기기",
+      "description": {
+        "$text": "<ul>\n<li>함수 내부의 <strong>if 문</strong>을 호출부로 올리면 코드의 <strong>복잡성 감소</strong>에 도움을 줌</li>\n<li>\n<strong>조건 검사</strong> 및 분기 처리를 한 곳에서 집중하면 중복 및 불필요한 분기 확인을 쉽게 할 수 있음</li>\n<li>\n<strong>enum 분해 리팩토링</strong>을 사용해 동일한 조건이 코...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20966",
+      "guid": "https://news.hada.io/topic?id=20966",
+      "pubDate": "2025-05-18T09:40:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Obelisk - WASM기반의 결정론적 워크플로우 엔진",
+      "description": {
+        "$text": "<ul>\n<li>WASM 컴포넌트 모델을 활용한 <strong>결정론적(Deterministic) 워크플로 엔진</strong>으로, 재실행 가능한 워크플로/자동 재시도/에러 복구 기능 제공</li>\n<li>GitHub Webhook, Turso DB, OpenAI, WASI 기반 HTTP 요청 등과의 연동을 통해 <strong>복잡한 백그라운드 작업을 안정적으로 처리할 수 있음</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20965",
+      "guid": "https://news.hada.io/topic?id=20965",
+      "pubDate": "2025-05-18T09:31:02+09:00",
       "author": "xguru",
       "category": ""
     }
