@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-18T11:34:13+09:00",
+  "lastBuildDate": "2025-05-18T22:33:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -38792,6 +38792,32 @@
       "guid": "https://news.hada.io/topic?id=20965",
       "pubDate": "2025-05-18T09:31:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미스티컬",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>미스티컬</strong>은 마법진 형태로 PostScript 프로그램을 시각화하는 독특한 방식임</li>\n<li>프로그래밍 구조를 <strong>고리(ring)</strong> 형태로 표현하며, 실행 배열, 비실행 배열, 딕셔너리 등 다양한 타입이 있음</li>\n<li>\n<strong>시길(sigil)</strong> 이라는 특수 심볼을 통해 명령어나...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20972",
+      "guid": "https://news.hada.io/topic?id=20972",
+      "pubDate": "2025-05-18T22:33:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "O2 VoLTE: 통화 한 번으로 모든 고객의 위치 추적 가능",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>O2 UK</strong>의 VoLTE(4G Calling) 서비스에서 <strong>통화 상대방의 위치 정보</strong>와 단말 식별자가 송신되는 현상 발견</li>\n<li>IMS 신호 메시지에 <strong>IMSI, IMEI, Cell ID 등 민감 정보</strong>가 포함되어 외부에서 쉽게 수신 가능함</li>\n<li>공개 크라우드소싱 데이터(cellmappe...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20971",
+      "guid": "https://news.hada.io/topic?id=20971",
+      "pubDate": "2025-05-18T21:33:46+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
