@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-19T21:34:17+09:00",
+  "lastBuildDate": "2025-05-19T22:33:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39077,6 +39077,19 @@
       "link": "https://news.hada.io/topic?id=20993",
       "guid": "https://news.hada.io/topic?id=20993",
       "pubDate": "2025-05-19T21:34:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "반복 간격 기반 암기 시스템 (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>반복 간격 기반 암기 시스템</strong>은 정보를 효과적으로 장기 기억에 저장하는 기법임</li>\n<li>이 시스템은 정보를 <strong>점점 더 긴 간격</strong>을 두고 복습하여 <strong>망각을 줄이는</strong> 원리임</li>\n<li>\n<strong>카드</strong>, <strong>플래시카드</strong> 방식으로 많이 활용되...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20994",
+      "guid": "https://news.hada.io/topic?id=20994",
+      "pubDate": "2025-05-19T22:33:37+09:00",
       "author": "neo",
       "category": ""
     }
