@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-19T13:33:45+09:00",
+  "lastBuildDate": "2025-05-19T21:34:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39065,6 +39065,19 @@
       "guid": "https://news.hada.io/topic?id=20991",
       "pubDate": "2025-05-19T12:27:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "부유한 사람들이 사는 것, 평범한 사람들이 모르는 것들은 무엇인가요? (2015)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>부유한 사람들</strong>이 구매하는 특별한 <strong>상품과 서비스</strong>에 대한 이야기임</li>\n<li>평범한 사람들이 <strong>접하기 어려운 고급 옵션이나 경험</strong>을 탐구함</li>\n<li>\n<strong>프라이버시, 시간 절약, 독점적 네트워크</strong>와 같은 무형적 가치에 투자함</li>\n<li>개인...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20993",
+      "guid": "https://news.hada.io/topic?id=20993",
+      "pubDate": "2025-05-19T21:34:17+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
