@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-19T11:42:02+09:00",
+  "lastBuildDate": "2025-05-19T13:33:45+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39039,6 +39039,32 @@
       "guid": "https://news.hada.io/topic?id=20982",
       "pubDate": "2025-05-19T10:03:23+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "$30 홈브루 자동 블라인드 오프너",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>블라인드를 자동으로 여닫는</strong> 간단하고 저렴한 장치를 <strong>여유 부품</strong>과 3D 프린터로 주말에 제작함</li>\n<li>이 장치는 <strong>아주 천천히</strong> (그리고 거의 <strong>소음 없이</strong>) 블라인드를 여는 데 중점을 둠</li>\n<li>주요 구성 요소로 <strong>실리콘 모터 마...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20992",
+      "guid": "https://news.hada.io/topic?id=20992",
+      "pubDate": "2025-05-19T13:33:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SKT 민관합동 조사단, 침해사고 2차 조사결과 발표",
+      "description": {
+        "$text": "<ul>\n<li>SKT의 리눅스 서버 약 3만여대 조사, 감염서버 총 23대, 악성코드 총 25종(BPFDoor계열 24종 + 웹셸 1종) 확인</li>\n<li>유출된 유심정보 규모가 <strong>9.82GB</strong>이며, 가입자 식별키(IMSI) 기준 <strong>26,957,749건</strong>\n</li>\n<li>정밀 분석한 15대 서버중 2대는 통합고객인증 서버와 연동되는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20991",
+      "guid": "https://news.hada.io/topic?id=20991",
+      "pubDate": "2025-05-19T12:27:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
