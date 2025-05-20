@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-19T22:33:37+09:00",
+  "lastBuildDate": "2025-05-20T09:41:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39090,6 +39090,71 @@
       "link": "https://news.hada.io/topic?id=20994",
       "guid": "https://news.hada.io/topic?id=20994",
       "pubDate": "2025-05-19T22:33:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Exa - 임베딩 기반 검색 엔진",
+      "description": {
+        "$text": "<blockquote>\n<p>&quot;The web as a database&quot;</p>\n</blockquote>\n<ul>\n<li>키워드 기반 검색의 한계를 넘기 위한 임베딩 기반 검색 엔진으로 사용자의 <strong>의도에 정확히 맞는 결과만 반환</strong>\n</li>\n<li>검색어 의미에 따라 <strong>웹 전체에서 벡터 임베딩 검색 → LLM 기반 검증 → 정제된 결과 제공",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20999",
+      "guid": "https://news.hada.io/topic?id=20999",
+      "pubDate": "2025-05-20T09:41:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MS의 공식 터미널용 에디터 - Microsoft Edit",
+      "description": {
+        "$text": "<p>일전에 MS Terminal 개발자 중 하나가</p>\n<p>Terminal에서 사용될 에디터에 관한 후보군을 설문 한 적이 있는데</p>\n<p>https://github.com/microsoft/terminal/discussions/16440</p>\n<p>Rust로 아예 새로 만들어서 이번 MS Build 행사에서 공개</p>\n<p>https://devblogs.microsoft.com/commandline/edit-is-now-op",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20998",
+      "guid": "https://news.hada.io/topic?id=20998",
+      "pubDate": "2025-05-20T09:25:21+09:00",
+      "author": "lazytoinit",
+      "category": ""
+    },
+    {
+      "title": "ls-lint - 디렉토리와 파일 이름을 위한 초고속 린터",
+      "description": {
+        "$text": "<ul>\n<li>파일과 폴더 이름이 사전에 정의한 네이밍 규칙을 따르고 있는지 검사하는 <strong>경량형 초고속 린터</strong>\n<ul>\n<li>수천 개 파일과 디렉토리를 <strong>밀리초</strong> 단위로 검사하는 성능으로 대형 프로젝트에도 적용 가능</li>\n</ul>\n</li>\n<li>\n<code>.ls-lint.yml</code> 파일 하나로 규칙을 설정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20997",
+      "guid": "https://news.hada.io/topic?id=20997",
+      "pubDate": "2025-05-20T09:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "당신의 '화목한' 팀이 실패하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>심리적 안전</strong>은 갈등 회피가 아니라, 아이디어 도전을 통해 팀을 더 강하게 만드는 환경에서 나옴</li>\n<li>팀원 모두가 <strong>겉으로 조용한 회의와 무난한 분위기</strong>를 보인다고 해서 효과적인 팀이라는 의미가 아님</li>\n<li>\n<strong>생산적인 불일치</strong>가 가능한 팀은 문제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20996",
+      "guid": "https://news.hada.io/topic?id=20996",
+      "pubDate": "2025-05-20T09:16:52+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "철보다 강한 목재를 대량생산하려는 InventWood",
+      "description": {
+        "$text": "<ul>\n<li>메릴랜드의 연구실에서 <strong>철보다 강한 목재</strong> 기술이 개발됨</li>\n<li>이 기술은 <strong>InventWood</strong>가 상용화를 추진하여 올여름 첫 Superwood 배치 생산 예정임</li>\n<li>Superwood는 <strong>셀룰로오스</strong>를 강화하며, 강도와 내구성 측면에서 혁신적 특성 가짐</li>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=20995",
+      "guid": "https://news.hada.io/topic?id=20995",
+      "pubDate": "2025-05-20T08:34:57+09:00",
       "author": "neo",
       "category": ""
     }
