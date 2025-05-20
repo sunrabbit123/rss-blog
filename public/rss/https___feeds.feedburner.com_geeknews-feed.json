@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-20T17:48:11+09:00",
+  "lastBuildDate": "2025-05-20T21:40:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39312,6 +39312,32 @@
       "guid": "https://news.hada.io/topic?id=21015",
       "pubDate": "2025-05-20T17:48:11+09:00",
       "author": "qnth159",
+      "category": ""
+    },
+    {
+      "title": "지금이 Free Threading Python에 기여하기 좋은 시점입니다",
+      "description": {
+        "$text": "<h3>지금이 Free Threading Python에 기여하기 좋은 시점입니다</h3>\n<p>파이콘 US 2025 에서 현재까지 파악한 Free Threading Python에 대해서 간단하게 정리해보고 기여에 대해서 정리해보겠습니다.</p>\n<h3>Free Threading Python이란?</h3>\n<p>Free Threading Python은 파이썬의 GIL(Global Interpreter Lock)을 제거",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21017",
+      "guid": "https://news.hada.io/topic?id=21017",
+      "pubDate": "2025-05-20T21:40:22+09:00",
+      "author": "darjeeling",
+      "category": ""
+    },
+    {
+      "title": "게임 이론을 애니메이션 만화 게임으로 설명함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>게임 이론</strong>을 이해하기 쉽게 애니메이션 만화 게임으로 설명함</li>\n<li>\n<strong>신뢰와 협력</strong>의 작동 원리를 시뮬레이션과 시각적 모델로 표현함</li>\n<li>주요 예시로 <strong>반복적 죄수의 딜레마</strong> 등 다양한 전략 비교를 보여줌</li>\n<li>각 전략 간 상호작용을 통해 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21016",
+      "guid": "https://news.hada.io/topic?id=21016",
+      "pubDate": "2025-05-20T21:33:52+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
