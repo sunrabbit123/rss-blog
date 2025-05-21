@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-21T11:33:02+09:00",
+  "lastBuildDate": "2025-05-21T20:33:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39494,6 +39494,19 @@
       "guid": "https://news.hada.io/topic?id=21028",
       "pubDate": "2025-05-21T11:16:17+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Gemma 3n 프리뷰: 모바일 우선 AI",
+      "description": {
+        "$text": "<ul>\n<li>Google이 <strong>Gemma 3n</strong>을 공개하며, 모바일 디바이스에서 강력하고 효율적인 AI 경험을 제공함</li>\n<li>Gemma 3n은 <strong>개인정보 보호</strong>와 오프라인 실행에 초점을 맞추고, 텍스트, 오디오, 이미지, 영상 등 <strong>다중 모달 처리</strong>를 지원함</li>\n<li>새로운 <strong>Per-L...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21030",
+      "guid": "https://news.hada.io/topic?id=21030",
+      "pubDate": "2025-05-21T20:33:44+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
