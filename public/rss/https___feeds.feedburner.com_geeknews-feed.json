@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-21T10:21:56+09:00",
+  "lastBuildDate": "2025-05-21T11:33:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39467,6 +39467,32 @@
       "link": "https://news.hada.io/topic?id=21019",
       "guid": "https://news.hada.io/topic?id=21019",
       "pubDate": "2025-05-21T09:37:30+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "구글 I/O 2025에서 발표한 모든 것",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>기존 Assistant를 대체하는 Gemini 기반 음성·카메라·웹 통합 에이전트</strong> 기능인 <strong>Gemini Live</strong>를 선보였으며, Gmail에는 <strong>개인 스타일을 반영한 AI 답장 기능</strong>이 도입됨</li>\n<li>개발자용 <strong>Jules 비동기 코딩 에이전트</strong> 및 창작 도구인 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21029",
+      "guid": "https://news.hada.io/topic?id=21029",
+      "pubDate": "2025-05-21T11:33:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI Codex 실사용 리뷰",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI Codex는 <strong>GitHub 연동 기반의 멀티태스킹 코드 에이전트</strong>로, 자연어를 통해 여러 작업을 병렬로 지시할 수 있는 인터페이스를 제공함</li>\n<li>사용자는 <strong>하루치 작업을 빠르게 쏟아붓고 자동으로 브랜치 생성 및 PR 오픈</strong>까지 맡길 수 있으며, <strong>모바일에서도 활용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21028",
+      "guid": "https://news.hada.io/topic?id=21028",
+      "pubDate": "2025-05-21T11:16:17+09:00",
       "author": "xguru",
       "category": ""
     }
