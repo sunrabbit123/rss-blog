@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-21T20:33:44+09:00",
+  "lastBuildDate": "2025-05-22T06:50:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39507,6 +39507,19 @@
       "guid": "https://news.hada.io/topic?id=21030",
       "pubDate": "2025-05-21T20:33:44+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Python PEP, 태어나 세계로 퍼진 ‘○EP’ 이야기",
+      "description": {
+        "$text": "<h3></h3>\n<p><em>— Hugo van Kemenade 블로그 「<strong>PEPs &amp; Co.</strong>」 (2025-05-14) 요약</em>  <a href=\"https://hugovk.dev/blog/2025/peps-and-co/\">oai_citation:0‡Hugo van Kemenade</a></p>\n<h4>한눈에 보는 키포인트</h4>\n<ol>\n<li>\n<p><strong>PEP의 탄생 배경</strong></p>\n<ul>\n<li>1990년대 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21031",
+      "guid": "https://news.hada.io/topic?id=21031",
+      "pubDate": "2025-05-22T06:50:41+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
