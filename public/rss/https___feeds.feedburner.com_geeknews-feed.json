@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-21T02:00:12+09:00",
+  "lastBuildDate": "2025-05-21T10:21:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39351,6 +39351,123 @@
       "guid": "https://news.hada.io/topic?id=21018",
       "pubDate": "2025-05-21T02:00:12+09:00",
       "author": "cometkim",
+      "category": ""
+    },
+    {
+      "title": "Deno의 침체에 대한 소문은 크게 과장된 것입니다",
+      "description": {
+        "$text": "<ul>\n<li>최근 Deno Deploy, KV, Fresh, 전반적인 회사 및 프로젝트 <strong>모멘텀</strong>에 대한 비판과 우려가 등장함</li>\n<li>비판 중 일부는 타당하고, 자체적으로 진행상황을 <strong>충분히 공개하지 않아</strong> 혼란을 키우기도 했으나, 이 소문 및 비판 중 많은 부분은 근거 없는 <strong>추측이나 사실과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21027",
+      "guid": "https://news.hada.io/topic?id=21027",
+      "pubDate": "2025-05-21T10:21:56+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "딥러닝은 응용 위상수학임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>딥러닝</strong>은 데이터를 의미 있는 방식으로 변형하는 <strong>위상수학적 변환</strong>의 연속으로 이해할 수 있음</li>\n<li>\n<strong>신경망</strong>은 고차원 공간에서 데이터를 변형해, 원래는 분리할 수 없던 데이터를 구분 가능하게 만드는 <strong>토폴로지 생성기</strong>로 작동함</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21026",
+      "guid": "https://news.hada.io/topic?id=21026",
+      "pubDate": "2025-05-21T10:08:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "저는 과학을 위한 AI의 과장된 광고에 속았습니다. 이게 제가 배운것들 입니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>플라즈마 물리학 연구에서 AI 활용</strong>에 대한 기대와는 달리, 실제 적용 결과는 <strong>과장된 성과 및 한계</strong> 중심임</li>\n<li>AI를 이용한 PDE(편미분방정식) 풀이 방식(PINN 등)은 <strong>신뢰성과 성능</strong> 면에서 기존 수치적 방법보다 확실한 우위 제공 미비함</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21025",
+      "guid": "https://news.hada.io/topic?id=21025",
+      "pubDate": "2025-05-21T10:05:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, Veo 3와 Imagen 4, 그리고 영화 제작을 위한 새로운 도구 Flow 공개",
+      "description": {
+        "$text": "<ul>\n<li>Google DeepMind가 <strong>Veo 3</strong>와 <strong>Imagen 4</strong>, <strong>Flow</strong>를 공개하며 영상·이미지·영화 제작 도구를 혁신적으로 확장함</li>\n<li>Veo 3는 <strong>오디오 포함 동영상 생성</strong>, <strong>실제 물리 반영</strong>, <strong>입술 동기화</strong> 등의 성능을 제공함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21024",
+      "guid": "https://news.hada.io/topic?id=21024",
+      "pubDate": "2025-05-21T10:02:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Deno의 웹 프레임워크 Fresh 2 업데이트",
+      "description": {
+        "$text": "<ul>\n<li>Fresh 2는 아직 정식 릴리스되지 않았지만, <strong>Deno 공식 웹사이트와 Deno Deploy에서 이미 운영 중</strong>임</li>\n<li>Fresh 1.0은 <strong>최신 웹 기술을 활용한 간단한 웹사이트 구축</strong>을 목표로 시작되었고, 빠르게 인기를 얻음</li>\n<li>이후 기능 추가 및 복잡해진 사용 요구로 인해 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21023",
+      "guid": "https://news.hada.io/topic?id=21023",
+      "pubDate": "2025-05-21T10:02:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "핀란드, 철도 네트워크를 국제 표준 궤간으로 전환 발표",
+      "description": {
+        "$text": "<ul>\n<li>핀란드 정부가 <strong>유럽 표준 궤간(1,435mm)</strong> 으로 철도 궤간 변경을 추진할 계획임</li>\n<li>주요 목적은 <strong>군사 이동성, 공급망 안전성, 국경 간 연결성</strong> 등 강화임</li>\n<li>유럽연합의 <strong>TEN-T 규정</strong>에 따라 전환 계획 수립 의무가 부과됨</li>\n<li>전체 사업비 중...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21022",
+      "guid": "https://news.hada.io/topic?id=21022",
+      "pubDate": "2025-05-21T09:59:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "게임 엔진 없이 비디오 게임 개발하기 (2025)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>상용 게임 엔진</strong> 없이도 충분히 쉽고 재미있게 게임 개발을 할 수 있음</li>\n<li>대형 엔진의 대부분 기능이 필요 없고, 직접 도구를 작성하면 <strong>유연성과 개발 효율성</strong>이 커짐</li>\n<li>\n<strong>현대 C# 및 오픈소스 라이브러리</strong>를 활용하면 팀 규모와 관계없이 충분...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21021",
+      "guid": "https://news.hada.io/topic?id=21021",
+      "pubDate": "2025-05-21T09:56:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DDoSecrets, TeleMessage 해킹한 410GB 힙 덤프 데이터 공개",
+      "description": {
+        "$text": "<ul>\n<li>해커 집단 <strong>DDoSecrets</strong>가 이스라엘 기업 TeleMessage에서 해킹한 <strong>410GB의 힙 덤프</strong> 데이터를 공개함</li>\n<li>TeleMessage는 <strong>Signal, WhatsApp, Telegram, WeChat</strong>의 수정 버전을 개발하여 메시지 보관 서비스를 제공함</li>\n<li>해당 데이터에는 <strong>평문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21020",
+      "guid": "https://news.hada.io/topic?id=21020",
+      "pubDate": "2025-05-21T09:53:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "next-yak - Next.js용 러스트 기반 Zero-runtime CSS-in-JS",
+      "description": {
+        "$text": "<ul>\n<li>Next.js 프로젝트에서 사용할 수 있는 <strong>Zero-runtime CSS-in-JS 오픈소스</strong> 라이브러리</li>\n<li>Rust 기반으로 개발되어 빌드 타임에 CSS를 추출하므로 <strong>런타임 JS 오버헤드가 없으며</strong> 빠른 성능을 자랑</li>\n<li>\n<strong>경량 런타임</strong> 구조로, CSSOM이 아닌 클래스만 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21019",
+      "guid": "https://news.hada.io/topic?id=21019",
+      "pubDate": "2025-05-21T09:37:30+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
