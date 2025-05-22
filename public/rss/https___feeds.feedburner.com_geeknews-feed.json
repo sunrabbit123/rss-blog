@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-22T10:17:04+09:00",
+  "lastBuildDate": "2025-05-22T11:18:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39597,6 +39597,97 @@
       "link": "https://news.hada.io/topic?id=21032",
       "guid": "https://news.hada.io/topic?id=21032",
       "pubDate": "2025-05-22T08:33:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google AI Ultra",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Google AI Ultra</strong>는 Google의 최신 AI 모델과 프리미엄 기능에 <strong>최고 수준의 접근 권한</strong>과 사용 한도를 제공하는 구독 서비스임</li>\n<li>\n<strong>Gemini, Flow, Whisk, NotebookLM</strong> 등 다양한 도구의 향상된 기능과 최상위 이용량이 포함됨</li>\n<li>Gmail, Docs, C...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21044",
+      "guid": "https://news.hada.io/topic?id=21044",
+      "pubDate": "2025-05-22T11:18:11+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "미국은 왜 항상 무역적자를 기록하는가?",
+      "description": {
+        "$text": "<ul>\n<li>미국의 <strong>무역적자 원인</strong>은 수출이 수입을 따라잡지 못하는 것 외에도 <strong>국내 저축 부족</strong>이라는 거시경제적 현상 때문임</li>\n<li>국내 저축이 투자지출보다 적어 <strong>해외자금 유입</strong>을 통해 투자가 이루어지는 구조임</li>\n<li>무역정책이 수출과 수입에는 영향을 주...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21043",
+      "guid": "https://news.hada.io/topic?id=21043",
+      "pubDate": "2025-05-22T11:00:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이모지 문제 (2022)",
+      "description": {
+        "$text": "<ul>\n<li>인터넷에서 유명해진 <strong>이모지 수학 문제</strong>는 함정 요소 때문에 다양한 답이 발생하는 특징을 가짐</li>\n<li>\n<strong>수학 커뮤니티</strong>에서는 이런 문제에 대한 대안으로 진짜로 어려운 문제를 만들고자 했음</li>\n<li>해당 포스팅에서는 <strong>피타고라스 삼중항</strong>을 찾는 방법과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21042",
+      "guid": "https://news.hada.io/topic?id=21042",
+      "pubDate": "2025-05-22T10:57:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "웹에서 실행되는 게임 메이커 90s.dev 공개",
+      "description": {
+        "$text": "<ul>\n<li>90s.dev은 <strong>웹 기반</strong>에서 동작하는 새로운 게임 메이커 API로, 90년대 스타일의 GUI 앱 제작 경험을 제공함</li>\n<li>이 플랫폼은 <strong>직접적인 게임 엔진이나 게임 메이커</strong>가 아니라, 게임, 게임 엔진, 게임 제작 도구를 만들기 위한 API를 제공함</li>\n<li>\n<strong>HTML Canvas ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21041",
+      "guid": "https://news.hada.io/topic?id=21041",
+      "pubDate": "2025-05-22T10:54:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Devstral - Mistral의 에이전틱 LLM",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Devstral</strong>은 소프트웨어 엔지니어링 작업을 위한 <strong>에이전틱 LLM</strong>으로, Mistral AI와 All Hands AI의 협업으로 개발됨</li>\n<li>SWE-Bench Verified 벤치마크에서 <strong>기존 오픈소스 모델 대비 6% 이상 높은 46.8% 성능</strong>을 달성함</li>\n<li>\n<strong>경쟁 모델(Dee...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21040",
+      "guid": "https://news.hada.io/topic?id=21040",
+      "pubDate": "2025-05-22T10:51:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "기본적으로 Signal은 Recall 기능을 지원하지 않음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Signal Desktop</strong>는 Windows 11에서 <strong>&quot;스크린 보안&quot;</strong> 기능을 기본 활성화하여, Microsoft Recall 등이 Signal 채팅 화면을 캡처하지 못하게 설정함</li>\n<li>\n<strong>Recall</strong>은 사용자의 모든 작업을 <strong>주기적으로 스크린샷</strong>으로 저장해 검색...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21039",
+      "guid": "https://news.hada.io/topic?id=21039",
+      "pubDate": "2025-05-22T10:48:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, Jony Ive의 AI 하드웨어 스타트업 'io'를 65억 달러에 인수",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI는 조니 아이브가 공동 창업한 AI 기기 스타트업 <strong>‘io’를 약 65억 달러 규모의 주식 거래로 인수</strong>\n</li>\n<li>이 거래는 OpenAI 최대 규모의 인수로, <strong>아이브와 애플 출신 디자이너들의 팀을 확보</strong>하고 <strong>AI 하드웨어 개발 전담 유닛을 신설</strong>함</li>\n<li>아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21038",
+      "guid": "https://news.hada.io/topic?id=21038",
+      "pubDate": "2025-05-22T10:45:10+09:00",
       "author": "neo",
       "category": ""
     }
