@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-22T11:35:40+09:00",
+  "lastBuildDate": "2025-05-22T17:34:05+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39702,6 +39702,19 @@
       "guid": "https://news.hada.io/topic?id=21045",
       "pubDate": "2025-05-22T11:35:40+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Embedo - 단어 방정식 퍼즐게임",
+      "description": {
+        "$text": "<p>Embedo는 A + B - C = ? 에 해당하는 단어를 맞추는 게임이고 지난 문제들도 풀어볼 수 있습니다. wordle처럼 하루에 하나씩 출제되고요. 제출한 단어의 의미가 정답과 얼마나 가까운지 볼 수 있습니다.</p>\n<p>오늘의 문제는 이것인데요. 답을 스포하지 말아주세요.  🙇🏻<br />\npasta + noodle − lasagna = ?</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21046",
+      "guid": "https://news.hada.io/topic?id=21046",
+      "pubDate": "2025-05-22T17:34:05+09:00",
+      "author": "sungchi",
       "category": ""
     }
   ]
