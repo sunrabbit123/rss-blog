@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-22T11:18:11+09:00",
+  "lastBuildDate": "2025-05-22T11:35:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39689,6 +39689,19 @@
       "guid": "https://news.hada.io/topic?id=21038",
       "pubDate": "2025-05-22T10:45:10+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Fortnite, 5년 만에 미국 iOS 앱스토어 복귀",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Epic Games는 미국 iOS 앱스토어에 포트나이트를 다시 출시</strong>했으며, <strong>5년 전 삭제된 이후 처음으로 복귀</strong>함</li>\n<li>2020년 Epic이 <strong>애플의 인앱결제 우회 결제 시스템</strong>을 도입한 이후 양사 간 <strong>긴 법정 싸움이 시작</strong>되었음</li>\n<li>최근 판사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21045",
+      "guid": "https://news.hada.io/topic?id=21045",
+      "pubDate": "2025-05-22T11:35:40+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
