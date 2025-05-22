@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-22T17:34:05+09:00",
+  "lastBuildDate": "2025-05-23T00:51:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39715,6 +39715,19 @@
       "guid": "https://news.hada.io/topic?id=21046",
       "pubDate": "2025-05-22T17:34:05+09:00",
       "author": "sungchi",
+      "category": ""
+    },
+    {
+      "title": "[2023] PyO3 로 파이썬 100배 빠르게 만들기",
+      "description": {
+        "$text": "<p>최근 free-threading Python 공부하면서 PyO3 에 관심이 생겨서 2년된 글이지만 올려봅니다.</p>\n<h2>Making Python 100× Faster with &lt;100 Lines of Rust – 요약</h2>\n<h3>배경</h3>\n<ul>\n<li>사내 3-D 처리 파이프라인의 핵심 Python 라이브러리가 동시 사용자 증가로 병목을 일으킴.</li>\n<li>전체를 Rust로 재",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21047",
+      "guid": "https://news.hada.io/topic?id=21047",
+      "pubDate": "2025-05-23T00:51:22+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
