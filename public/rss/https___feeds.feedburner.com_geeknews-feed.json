@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-22T06:50:41+09:00",
+  "lastBuildDate": "2025-05-22T10:17:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39520,6 +39520,84 @@
       "guid": "https://news.hada.io/topic?id=21031",
       "pubDate": "2025-05-22T06:50:41+09:00",
       "author": "darjeeling",
+      "category": ""
+    },
+    {
+      "title": "AI가 Microsoft 개발자들을 미치게 만드는 걸 보는 게 새로운 취미가 되었어요",
+      "description": {
+        "$text": "<ul>\n<li>GitHub과 Microsoft가 <strong>GitHub Copilot Agent의 퍼블릭 프리뷰</strong>를 발표하면서, .NET Runtime 저장소에 실제로 이 에이전트가 <strong>PR을 자동 생성</strong>하는 테스트가 진행됨</li>\n<li>그러나 이 PR들은 <strong>부실하거나 불필요한 수정</strong>을 포함하고 있어 리뷰어들이 곤욕을 치...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21037",
+      "guid": "https://news.hada.io/topic?id=21037",
+      "pubDate": "2025-05-22T10:17:04+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "UUIDv7이 PostgreSQL 18에 도입됩니다",
+      "description": {
+        "$text": "<ul>\n<li>PostgreSQL 18에서는 <strong>UUIDv7을 기본 지원</strong>하며, <strong>정렬 가능하고 인덱스 친화적인 고유 식별자</strong>를 제공</li>\n<li>UUIDv7은 기존 UUID의 <strong>분산 환경에서의 고유성과 보안성</strong>은 유지하면서, <strong>btree 인덱스에 유리한 시간 기반 정렬 구조</strong>를 채택함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21036",
+      "guid": "https://news.hada.io/topic?id=21036",
+      "pubDate": "2025-05-22T10:04:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "머티리얼 디자인의 확장 : Material 3 Expressive",
+      "description": {
+        "$text": "<ul>\n<li>구글이 디자인 시스템 Material 3를 대대적으로 업데이트 함</li>\n<li>Material 3 Expressive는 <strong>감성적으로 강렬한 UX</strong>를 구축하기 위해 새로운 기능과 신규 컴포넌트, 그리고 디자인 전략을 추가\n<ul>\n<li>새 시스템인 “M4”가 아니며, 기존 M3를 폐기하는 것도 아님</li>\n</ul>\n</li>\n<li>2...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21035",
+      "guid": "https://news.hada.io/topic?id=21035",
+      "pubDate": "2025-05-22T09:41:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "AI의 에너지 발자국에 숨겨진 이야기",
+      "description": {
+        "$text": "<ul>\n<li>AI 쿼리 하나당 에너지 사용량은 미미해 보이지만, 전 세계적으로 수십억 건의 요청이 쌓이며 <strong>에너지망에 실질적인 영향을 미치는 수준</strong>임</li>\n<li>주요 AI 회사들은 <strong>수십조 원 규모의 데이터 센터와 전력 인프라 투자를 가속화</strong>하고 있으며, 일부는 <strong>원자력 발전소 건...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21034",
+      "guid": "https://news.hada.io/topic?id=21034",
+      "pubDate": "2025-05-22T09:31:39+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "ANSIS - 터미널/CI/크롬에서 사용 가능한 ANSI 컬러 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>기존의 <code>chalk</code>, <code>picocolors</code>, <code>colorette</code> 등을 대체(API 호환)할 수 있는 초소형 고성능 <strong>ANSI 스타일링 라이브러리</strong>\n</li>\n<li>ESM 및 CJS 모두 지원, Next.js, Deno, Bun 등 최신 환경과도 호환</li>\n<li>환경 감지 및 자동 fallback 지원: truecolor →...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21033",
+      "guid": "https://news.hada.io/topic?id=21033",
+      "pubDate": "2025-05-22T09:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Litestream이 이제 빠른 시점 복구가 가능해집니다",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Litestream</strong>은 <strong>SQLite</strong> 기반의 전체 스택 애플리케이션을 안전하게 <strong>객체 저장소</strong>에 백업하며, 이번에 가장 큰 기능 변경이 이루어짐</li>\n<li>기존 구조보다 효율적인 <strong>LTX 파일 포맷과 컴팩션</strong> 기법을 적용해 빠르고 효율적인 시점 복구가 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21032",
+      "guid": "https://news.hada.io/topic?id=21032",
+      "pubDate": "2025-05-22T08:33:11+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
