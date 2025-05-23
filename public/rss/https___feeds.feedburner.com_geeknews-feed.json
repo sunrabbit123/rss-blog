@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-23T10:41:02+09:00",
+  "lastBuildDate": "2025-05-23T13:21:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39871,6 +39871,32 @@
       "guid": "https://news.hada.io/topic?id=21064",
       "pubDate": "2025-05-23T10:41:02+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "유발 하라리가 말하는 사람들이 진실에 관심이 없는 이유",
+      "description": {
+        "$text": "<h2>유발 하라리가 말하는 사람들이 진실에 관심이 없는 이유는?</h2>\n<p>대부분의 정보는 진실이 아니며, 진실은 비싸고 복잡하며 때로는 불편하기 때문입니다</p>\n<hr />\n<h3>💡 정보와 진실의 차이는 무엇인가?</h3>\n<p>정보는 현실을 상징하기보다 여러 사람이나 사물을 네트워크로 연결하는 것</p>\n<p>진실은 전 세",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21066",
+      "guid": "https://news.hada.io/topic?id=21066",
+      "pubDate": "2025-05-23T13:21:02+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "바이브코딩 실패담 EP.01",
+      "description": {
+        "$text": "<p>바이브 코딩에 대한 성공 신화만 너무 퍼지는 것 같아 개인적으로 겪은 실패 사례도 공유 드려 보려 합니다. LLM이 대중화 되면서 개인적으로 열심히 준비한 교육자료, 문서들이 소위 말하는 '딸깍'으로 정리 되는거 같아서, 만들어 보았던 PDF 보안 서비스 입니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21065",
+      "guid": "https://news.hada.io/topic?id=21065",
+      "pubDate": "2025-05-23T12:22:05+09:00",
+      "author": "haebom",
       "category": ""
     }
   ]
