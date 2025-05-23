@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-23T10:23:01+09:00",
+  "lastBuildDate": "2025-05-23T10:41:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39857,6 +39857,19 @@
       "link": "https://news.hada.io/topic?id=21054",
       "guid": "https://news.hada.io/topic?id=21054",
       "pubDate": "2025-05-23T10:01:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "On-Call/대기 근무 직원에게 어떤 보상을 해야 할까?",
+      "description": {
+        "$text": "<ul>\n<li>직원의 <strong>온콜 업무에 대한 보상 방식</strong>은 공정성, 투명성, 동기부여의 균형이 중요함</li>\n<li>주요 보상 방식으로는 <strong>자발적 참여, 정액 보상, 시간 기반 보상, 사건 해결 기반 보상</strong>이 있으며, 각각 장단점이 존재함</li>\n<li>\n<strong>시간 기반 보상</strong>이 가장 공정하지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21064",
+      "guid": "https://news.hada.io/topic?id=21064",
+      "pubDate": "2025-05-23T10:41:02+09:00",
       "author": "neo",
       "category": ""
     }
