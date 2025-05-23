@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-23T00:51:22+09:00",
+  "lastBuildDate": "2025-05-23T10:23:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39728,6 +39728,136 @@
       "guid": "https://news.hada.io/topic?id=21047",
       "pubDate": "2025-05-23T00:51:22+09:00",
       "author": "darjeeling",
+      "category": ""
+    },
+    {
+      "title": "마이크로서비스를 위한 Chaos 엔지니어링",
+      "description": {
+        "$text": "<ul>\n<li>마이크로서비스와 클라우드 환경에서 <strong>장애는 피할 수 없기 때문에</strong>, Chaos Engineering을 통해 사전에 시스템 회복력을 강화해야 함</li>\n<li>Chaos Toolkit과 Chaos Monkey는 각각 <strong>범용성</strong>과 <strong>Java(Spring Boot)</strong> 특화 환경에서 강력한 장애 테스트 도구로 활...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21063",
+      "guid": "https://news.hada.io/topic?id=21063",
+      "pubDate": "2025-05-23T10:23:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애니메이션으로 보는 소인수분해 (2012)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>소인수분해</strong> 과정을 <strong>애니메이션</strong>으로 시각화한 프로젝트임</li>\n<li>자연수의 <strong>소인수분해 원리</strong>를 쉽게 이해할 수 있는 <strong>비주얼화 도구</strong>임</li>\n<li>\n<strong>패턴</strong>이나 <strong>덩어리 구조</strong>가 명확히 드러나, 교육적 참고 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21062",
+      "guid": "https://news.hada.io/topic?id=21062",
+      "pubDate": "2025-05-23T10:22:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "협업 텍스트 편집: CRDT나 OT 없이 구현하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>협업 텍스트 편집 문제를 해결하는 새로운 접근법</strong> 소개, 복잡한 알고리듬 없이도 실현 가능함</li>\n<li>기존 <strong>CRDT 및 OT 방식의 복잡성과 제약</strong>을 피하고, 간단한 ID 기반 삽입 방식 사용</li>\n<li>이 방식은 <strong>서버가 '무엇을 어디에 삽입할지'를 직접 지정받아 처리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21061",
+      "guid": "https://news.hada.io/topic?id=21061",
+      "pubDate": "2025-05-23T10:19:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 함수 호출은 확장되지 않는다; 코드 오케스트레이션이 더 간단하고 효과적임",
+      "description": {
+        "$text": "<ul>\n<li>LLM이 툴 호출 결과 전체를 처리하는 방식은 느리고 비용이 크며 확장에 불리함</li>\n<li>대신, <strong>출력 스키마 기반으로 구조화된 데이터를 코드로 처리</strong>하도록 LLM이 오케스트레이션하게 하는 방식을 제안</li>\n<li>이 접근은 <strong>코드를 통한 함수 체이닝과 변수 기반 메모리 관리로 대량 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21060",
+      "guid": "https://news.hada.io/topic?id=21060",
+      "pubDate": "2025-05-23T10:16:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "12년간 내 벽에 걸려 있던 그 프랙탈",
+      "description": {
+        "$text": "<ul>\n<li>중학생 시절 필자의 낙서에서 출발한 <strong>프랙탈 도형(“wallflower”)</strong> 은 일반적인 방법과는 다른 방식으로 생성된 독특한 구조임</li>\n<li>이 프랙탈의 생성 과정에서 <strong>L-시스템</strong>과 <strong>행렬 기반 위치 인코딩</strong>을 통해 수학적으로 그 특징을 설명할 수 있음을 탐구함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21059",
+      "guid": "https://news.hada.io/topic?id=21059",
+      "pubDate": "2025-05-23T10:13:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "플래닛폴",
+      "description": {
+        "$text": "<ul>\n<li>본 프로젝트는 <strong>Sid Meier’s Alpha Centauri</strong>의 가상 행성 Chiron의 지도를 정교하게 재현한 작업임</li>\n<li>\n<strong>실제 게임 데이터</strong>(고도, 강수량, 지형 등)를 활용해 기존 저해상도 맵을 새로운 고해상도, 유기적 형태로 재구성함</li>\n<li>다양한 <strong>지도 투영법</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21058",
+      "guid": "https://news.hada.io/topic?id=21058",
+      "pubDate": "2025-05-23T10:10:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "과학적 “단위”로서의 데시벨",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>데시벨(dB)</strong> 은 실제 단위가 아니며, 크기의 변화량을 나타내는 <strong>지표</strong> 개념임</li>\n<li>\n<strong>벨(bel)</strong> 은 10배 변화에 해당하는 지수적 프리픽스로 시작했으나, 전력 공식의 비직관적인 적용으로 인해 혼란이 발생함</li>\n<li>\n<strong>벨</strong>은 너무 커서 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21057",
+      "guid": "https://news.hada.io/topic?id=21057",
+      "pubDate": "2025-05-23T10:07:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "트럼프 행정부, 하버드의 국제 유학생 등록 ​​중단 선언",
+      "description": {
+        "$text": "<ul>\n<li>트럼프 행정부가 <strong>하버드 대학교</strong>의 국제학생 등록 자격을 중단한다고 발표하여, 학교 전체 학생의 약 <strong>4분의 1</strong>에 영향을 미칠 것으로 예상</li>\n<li>이는 <strong>대학을 대통령의 정책 기조에 따르게 하려는 압박</strong>의 일환으로 해석되며, <strong>국토안보부의 자료 요...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21056",
+      "guid": "https://news.hada.io/topic?id=21056",
+      "pubDate": "2025-05-23T10:04:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사실 Electron은 생각보다 괜찮아요",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Electron</strong>은 단순히 느리고 비효율적이라는 오해를 받지만, 실제로는 효율적이고 강력한 도구임</li>\n<li>\n<strong>RAM 사용량</strong>과 <strong>스토리지 크기</strong> 문제는 현대 앱 전반의 경향일 뿐, Electron만의 문제가 아님</li>\n<li>스트리밍 서비스처럼 <strong>웹 기술 기반</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21055",
+      "guid": "https://news.hada.io/topic?id=21055",
+      "pubDate": "2025-05-23T10:03:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mozilla, 7월 8일 Pocket 서비스 종료",
+      "description": {
+        "$text": "<ul>\n<li>Mozilla가 <strong>Pocket 서비스를 2025년 7월 8일</strong>에 공식적으로 종료할 예정임</li>\n<li>종료일 이후 <strong>앱과 확장 프로그램 사용이 불가</strong>하며, 10월 8일까지 저장한 데이터의 <strong>내보내기만 지원</strong>함</li>\n<li>\n<strong>Pocket Premium 구독자</strong>는 사용 기간에 따...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21054",
+      "guid": "https://news.hada.io/topic?id=21054",
+      "pubDate": "2025-05-23T10:01:38+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
