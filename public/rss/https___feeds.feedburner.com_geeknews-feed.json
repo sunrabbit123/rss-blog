@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-23T20:33:13+09:00",
+  "lastBuildDate": "2025-05-23T22:32:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39936,6 +39936,19 @@
       "guid": "https://news.hada.io/topic?id=21068",
       "pubDate": "2025-05-23T19:45:40+09:00",
       "author": "sunrabbit",
+      "category": ""
+    },
+    {
+      "title": "바이낸스 최초이자 유일한 한국인 엔지니어의 수습 회고",
+      "description": {
+        "$text": "<h2>일의 경험</h2>\n<ul>\n<li>업계 1위 회사에 입사해 한국인 엔지니어로는 처음이자 유일한 구성원</li>\n<li>다른 글로벌 기업 제안을 포기하고 이곳을 선택한 건 규모와 네임밸류</li>\n<li>하지만 예상치 못한 건 6~12개월에 이르는 혹독한 수습 기간(통과율 50% 미만),</li>\n<li>‘하드코어’를 중시하는 조직 문화...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21070",
+      "guid": "https://news.hada.io/topic?id=21070",
+      "pubDate": "2025-05-23T22:32:29+09:00",
+      "author": "stareta1202",
       "category": ""
     }
   ]
