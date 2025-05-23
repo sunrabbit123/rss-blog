@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-23T13:21:02+09:00",
+  "lastBuildDate": "2025-05-23T18:33:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39897,6 +39897,19 @@
       "guid": "https://news.hada.io/topic?id=21065",
       "pubDate": "2025-05-23T12:22:05+09:00",
       "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "rav1d 비디오 디코더 성능 개선",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 작성된 <strong>rav1d</strong> AV1 디코더가 C 기반 dav1d에 비해 약 9% 느린 점을 발견함</li>\n<li>\n<strong>버퍼 초기화 최적화</strong>와 구조체 비교 로직 개선으로 개별적으로 각각 1.5%, 0.7%의 속도 향상 효과를 확인함</li>\n<li>프로파일링 도구 <strong>samply</strong>를 활용해 두 버전의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21067",
+      "guid": "https://news.hada.io/topic?id=21067",
+      "pubDate": "2025-05-23T18:33:25+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
