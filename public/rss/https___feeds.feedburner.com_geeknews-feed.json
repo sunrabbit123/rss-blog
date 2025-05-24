@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-24T00:47:06+09:00",
+  "lastBuildDate": "2025-05-24T10:08:58+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -39949,6 +39949,110 @@
       "guid": "https://news.hada.io/topic?id=21070",
       "pubDate": "2025-05-23T22:32:29+09:00",
       "author": "stareta1202",
+      "category": ""
+    },
+    {
+      "title": "Linux/Android 성능분석 솔루션 - Guider 3.9.9 릴리즈!",
+      "description": {
+        "$text": "<p>드디어 5년 만의 메이저 업데이트, Guider 3.9.9가 릴리즈되었습니다!<br />\n게다가 올해는 Guider가 개발된 지 10년째 되는 해이기도 합니다.</p>\n<p>단순한 리눅스 성능 모니터링 도구로 시작한 Guider는<br />\n지금은 항상 켜져 있는 실시간 성능 진단 서비스 플랫폼으로 발전했고, 수많은 양산 제품에서 실제 사용",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21080",
+      "guid": "https://news.hada.io/topic?id=21080",
+      "pubDate": "2025-05-24T10:08:58+09:00",
+      "author": "iipeace",
+      "category": ""
+    },
+    {
+      "title": "내가 직접 만든 오디오 플레이어",
+      "description": {
+        "$text": "<ul>\n<li>2025년에도 <strong>iPhone에서 MP3 음악을 자유롭게 재생하는 것에는 제한</strong>이 많음</li>\n<li>\n<strong>Apple 및 써드파티 앱</strong>은 대부분 유료 서비스이거나 사용자 편의성이 부족함</li>\n<li>직접 만든 앱은 <strong>풀텍스트 검색</strong>, <strong>iCloud 지원</strong>, <strong>로컬 우선...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21079",
+      "guid": "https://news.hada.io/topic?id=21079",
+      "pubDate": "2025-05-24T09:53:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지구에는 서로 반대쪽에 두 개의 만조 융기(High-tide bulges)가 존재하는가?",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>지구의 만조</strong>는 보통 지구의 서로 반대 방향에 두 개의 <strong>융기(불지)</strong> 가 있다고 알려짐</li>\n<li>이는 <strong>달의 인력과 원심력</strong>에 의해 설명되는 현상임</li>\n<li>한 쪽의 융기는 <strong>달의 인력</strong>에 의해, 반대편 융기는 <strong>원심력</strong>에 의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21078",
+      "guid": "https://news.hada.io/topic?id=21078",
+      "pubDate": "2025-05-24T09:50:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "당신의 사람들을 찾으세요",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Y Combinator 공동창업자 Jessica Livingston</strong>의 2025년 Bucknell 대학 졸업식 연설 요약</li>\n<li>인생의 레일이 끝나는 시점에서 <strong>스스로 방향을 설정하고 야망을 키우는 법</strong>에 대해 이야기함</li>\n<li>처음부터 야망 있는 계획을 가진 사람은 드물며, <strong>&quot;무계획...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21077",
+      "guid": "https://news.hada.io/topic?id=21077",
+      "pubDate": "2025-05-24T09:47:49+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "게임을 넘어 현실까지 배우는 AI: 존 카맥의 현실 기반 강화학습 도전",
+      "description": {
+        "$text": "<ul>\n<li>John Carmack의 &quot;Upper Bound 2025 발표&quot;의 준비노트 요약 및 슬라이드</li>\n<li>\n<strong>존 카맥</strong>은 Id Software, Oculus, Keen Technologies 등을 거친 후 현재는 <strong>강화학습 기반 AGI 연구에 집중</strong>하고 있음</li>\n<li>\n<strong>LLM을 지양하고</strong>, 동물처럼 환경과 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21076",
+      "guid": "https://news.hada.io/topic?id=21076",
+      "pubDate": "2025-05-24T09:44:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, VS Code용 PostgreSQL IDE 확장의 공개 프리뷰 발표",
+      "description": {
+        "$text": "<ul>\n<li>이 확장은 <strong>AI 기반 IntelliSense</strong>와 ‘@pgsql’ GitHub Copilot 에이전트로 쿼리 작성 및 데이터베이스 관리를 간소화함</li>\n<li>\n<strong>Entra ID 인증</strong>, Azure Database for PostgreSQL 연동 등으로 통합된 보안 및 클라우드 배포 관리 지원</li>\n<li>\n<strong>스키마 시각화</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21075",
+      "guid": "https://news.hada.io/topic?id=21075",
+      "pubDate": "2025-05-24T09:41:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Crosspost - 여러 SNS에 동시에 게시하는 오픈소스 도구",
+      "description": {
+        "$text": "<ul>\n<li>Twitter, Mastodon, Bluesky, LinkedIn, Discord, Telegram, Dev.to 등 <strong>여러 소셜 플랫폼에 동시에 게시</strong>할 수 있는 오픈소스</li>\n<li>\n<strong>CLI와 API 모두 지원</strong>하여 수동/자동화된 환경에서도 쉽게 통합 가능</li>\n<li>\n<strong>MCP 서버로도 동작</strong>하여 Claude Desktop...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21074",
+      "guid": "https://news.hada.io/topic?id=21074",
+      "pubDate": "2025-05-24T09:41:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Flatpak의 미래",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Flatpak</strong>은 현재 <strong>개발자와 사용자에게 인기</strong>를 얻고 있지만, 프로젝트 자체의 <strong>개발 정체</strong> 문제가 대두됨</li>\n<li>핵심 개발자의 이탈과 <strong>병목 현상</strong>으로 신규 기능 반영 및 코드 리뷰가 <strong>지연</strong>되는 상황임</li>\n<li>\n<strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21072",
+      "guid": "https://news.hada.io/topic?id=21072",
+      "pubDate": "2025-05-24T08:35:06+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
