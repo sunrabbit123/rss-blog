@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-24T10:08:58+09:00",
+  "lastBuildDate": "2025-05-24T10:37:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40053,6 +40053,19 @@
       "guid": "https://news.hada.io/topic?id=21072",
       "pubDate": "2025-05-24T08:35:06+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI: PostgreSQL를 다음 단계로 확장하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OpenAI</strong>는 <strong>PostgreSQL</strong>의 단일 데이터베이스 구조에서 대규모 읽기 트래픽을 효과적으로 처리하는 방법을 PGConf.dev 2025에서 공유함</li>\n<li>\n<strong>쓰기 병목</strong> 문제를 해결하기 위해 <strong>쓰기 분산, 쿼리 최적화, 스키마 관리</strong> 등 다양한 접근 방식...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21081",
+      "guid": "https://news.hada.io/topic?id=21081",
+      "pubDate": "2025-05-24T10:37:54+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
