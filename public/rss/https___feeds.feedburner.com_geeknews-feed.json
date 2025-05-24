@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-24T17:34:20+09:00",
+  "lastBuildDate": "2025-05-24T19:30:08+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40092,6 +40092,32 @@
       "guid": "https://news.hada.io/topic?id=21083",
       "pubDate": "2025-05-24T17:34:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 나와 가장 가까운 후보는?",
+      "description": {
+        "$text": "<p>안녕하세요! 처음 글을 써봅니다.</p>\n<p>고등학생인 제 동생은 이번에 선거권이 생겨 첫 투표를 하게 되었습니다.<br />\n설레어하며 누굴 뽑아야 할지 고민하더라구요.<br />\n그래서 동생을 위해 (만드는 김에 모두가 보면 좋은) 공약 매칭 서비스를 만들었습니다.</p>\n<p>‘나와 가장 가까운 후보는? 공약을 선택하",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21085",
+      "guid": "https://news.hada.io/topic?id=21085",
+      "pubDate": "2025-05-24T19:30:08+09:00",
+      "author": "heyei124",
+      "category": ""
+    },
+    {
+      "title": "Jetbrains 가 공개한 kotlin 공식 lsp",
+      "description": {
+        "$text": "<p>Jetbrains 가 코틀린 language server 를 공개했습니다.<br />\n기존에 open source 생태계에 충분한 코틀린 lsp 가 없던만큼 생태계에 아주 반가운 소식이네요.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21084",
+      "guid": "https://news.hada.io/topic?id=21084",
+      "pubDate": "2025-05-24T19:12:33+09:00",
+      "author": "bbulbum",
       "category": ""
     }
   ]
