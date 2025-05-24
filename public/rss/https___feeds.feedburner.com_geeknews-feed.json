@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-24T10:37:54+09:00",
+  "lastBuildDate": "2025-05-24T16:35:36+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40066,6 +40066,19 @@
       "guid": "https://news.hada.io/topic?id=21081",
       "pubDate": "2025-05-24T10:37:54+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HTTPS 사이트에 더 이상 구식 인증서를 사용하지 않는 이유",
+      "description": {
+        "$text": "<ul>\n<li>사이트 운영자가 <strong>HTTPS 구식 인증서</strong>를 더 이상 사용하지 않는 이유에 대해 설명함</li>\n<li>구식 인증서로 인한 <strong>보안 위험</strong>과 현대적 인증 방식의 중요성 언급함</li>\n<li>최신 브라우저와 시스템에서 <strong>신뢰성 문제</strong>가 발생함</li>\n<li>사이트의 <strong>접근...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21082",
+      "guid": "https://news.hada.io/topic?id=21082",
+      "pubDate": "2025-05-24T16:35:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
