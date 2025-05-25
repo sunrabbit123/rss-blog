@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-25T01:07:42+09:00",
+  "lastBuildDate": "2025-05-25T10:07:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40131,6 +40131,136 @@
       "guid": "https://news.hada.io/topic?id=21086",
       "pubDate": "2025-05-25T01:07:42+09:00",
       "author": "mugglim",
+      "category": ""
+    },
+    {
+      "title": "너는 작은 회사야, 이제 그에 맞게 행동해",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>작은 회사</strong>들이 자신을 대기업처럼 보이려 하면 오히려 핵심 고객을 놓치는 현상 발생</li>\n<li>실제로 <strong>초기 고객층</strong>인 Early Adopter는 신생기업의 인간적인 모습, 직접적인 소통, 빠른 피드백을 선호함</li>\n<li>대기업을 겨냥한 <strong>전형적인 마케팅 문구</strong>와 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21097",
+      "guid": "https://news.hada.io/topic?id=21097",
+      "pubDate": "2025-05-25T10:07:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "예멘 국영 항공사에서 비행하며 살아남은 경험",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>예멘 국영 항공사</strong>의 외국인 조종사 계약 경험을 바탕으로 예멘에서의 근무 및 생활 실상에 대한 <strong>심층적인 내용</strong>을 담음</li>\n<li>계약 절차는 <strong>비정상적으로 간소</strong>하고, 구체적 서면 계약이나 주요 안내 없이 훈련 및 근무가 시작됨</li>\n<li>\n<strong>근무지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21096",
+      "guid": "https://news.hada.io/topic?id=21096",
+      "pubDate": "2025-05-25T10:04:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "타이레놀 약물의 간 독성 감소와 효능 향상",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Chloe Yehwon Lee</strong>는 <strong>타이레놀</strong>의 간 독성을 낮추고 효능을 높이는 방법 연구 수행</li>\n<li>그녀는 <strong>바이올린</strong> 분야에서 뛰어난 수상 경력이 있으며, 다양한 <strong>오케스트라</strong>와 활동 경험 보유</li>\n<li>\n<strong>바이올린 교육</strong>을 통해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21095",
+      "guid": "https://news.hada.io/topic?id=21095",
+      "pubDate": "2025-05-25T10:01:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Web 2.0 2.0의 도래: MCP",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Model Context Protocol(MCP)</strong> 이 빠르게 채택되며 새로운 <strong>개방형 표준</strong>으로 부상함</li>\n<li>MCP의 핵심 가치는 완벽함이 아닌 <strong>개방성과 상호운용성</strong>에 있음</li>\n<li>Web 2.0의 진정한 의미는 <strong>폐쇄적 플랫폼</strong>이 아니라, 오픈 API와 데이터...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21094",
+      "guid": "https://news.hada.io/topic?id=21094",
+      "pubDate": "2025-05-25T09:58:26+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "레거시 다이얼 전화기를 리눅스 입력장치로 만드는 커널 드라이버",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rotary Phone Dial Linux Kernel Driver</strong>는 오래된 다이얼식 전화기를 리눅스의 <strong>evdev 입력 장치</strong>로 변환해주는 커널 모듈임</li>\n<li>해당 프로젝트는 단순한 예제 드라이버와 가상머신 기반 개발 환경을 제공해 <strong>교육 및 테스트 목적</strong>으로도 매우 유용함</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21093",
+      "guid": "https://news.hada.io/topic?id=21093",
+      "pubDate": "2025-05-25T09:55:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "알제브라적 이펙트가 필요한 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>알제브라적 이펙트</strong>(effect handlers)는 다양한 언어 기능(예외 처리, 제너레이터, 코루틴 등)을 라이브러리 수준에서 구현할 수 있게 해주는 <strong>유연한 제어 흐름 도구</strong>임</li>\n<li>함수형 프로그래밍에서 흔한 <strong>컨텍스트 관리, 의존성 주입, 글로발 상태 대체 등</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21092",
+      "guid": "https://news.hada.io/topic?id=21092",
+      "pubDate": "2025-05-25T09:52:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "코파일럿 망상",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 코딩 도구</strong>가 실제로 개발 생산성을 높여준다는 믿음은 오해임</li>\n<li>이러한 도구는 <strong>프로그래밍의 즐거움</strong>과 인간의 깊은 이해력을 훼손함</li>\n<li>AI가 반복적인 코드 생성에는 쓸모가 있으나 <strong>맥락과 성능, nuance</strong>에는 약점이 있음</li>\n<li>지나친...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21091",
+      "guid": "https://news.hada.io/topic?id=21091",
+      "pubDate": "2025-05-25T09:49:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "리눅스 SMB 구현에서 o3를 활용해 원격 0-day를 발견함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OpenAI o3 모델</strong>을 활용해 리눅스 커널의 SMB 구현에서 <strong>원격 0-day 취약점</strong>(CVE-2025-37899)을 발견한 경험을 공유함</li>\n<li>ksmbd의 코드에 대해 <strong>LLM 분석 능력</strong>을 벤치마킹하는 과정에서, 기존에 수동으로 찾은 취약점을 기준으로 LLM의 성능을 비교 실험...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21090",
+      "guid": "https://news.hada.io/topic?id=21090",
+      "pubDate": "2025-05-25T09:46:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TypeScript Native 프리뷰 공개",
+      "description": {
+        "$text": "<ul>\n<li>타입스크립트 컴파일러를 Go 기반 네이티브로 포팅하는 프로젝트 Corsa의 ‘tsgo’ 프리뷰가 npm으로 공개됨</li>\n<li>3월에 이슈가 되었던 <a href=\"https://news.hada.io/topic?id=19695\">10배 더 빠른 TypeScript</a> 관련 후속 발표</li>\n<li>기존 <code>tsc</code> 대비 <strong>10배 이상의 속도 향상</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21089",
+      "guid": "https://news.hada.io/topic?id=21089",
+      "pubDate": "2025-05-25T09:42:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft, VSCode용 GithHub Copilot Chat 확장을 오픈소스로 공개할 것",
+      "description": {
+        "$text": "<ul>\n<li>&quot;VS Code = 오픈 소스 AI 코드 에디터&quot;</li>\n<li>VS Code 팀이 <strong>GitHub Copilot Chat 확장을 오픈소스화</strong>하며 AI 코드 편집기의 새로운 시대를 선언함</li>\n<li>이는 <strong>VS Code를 오픈 소스 기반의 AI 코드 에디터로 발전시키기 위한 자연스러운 진화</strong>로, 이후 기능을 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21088",
+      "guid": "https://news.hada.io/topic?id=21088",
+      "pubDate": "2025-05-25T09:21:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
