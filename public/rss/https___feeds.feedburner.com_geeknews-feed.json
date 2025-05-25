@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-25T11:34:54+09:00",
+  "lastBuildDate": "2025-05-25T13:38:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40261,6 +40261,32 @@
       "guid": "https://news.hada.io/topic?id=21088",
       "pubDate": "2025-05-25T09:21:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "좋은 글쓰기",
+      "description": {
+        "$text": "<ul>\n<li>글쓰기가 &quot;좋음&quot;에는 <strong>문장 흐름</strong>과 <strong>올바른 아이디어</strong>라는 두 가지 측면이 존재함</li>\n<li>\n<strong>문장 소리</strong>가 좋은 글은 올바른 내용을 담고 있을 가능성이 높음</li>\n<li>\n<strong>문장 구조를 조정</strong>하는 과정이 아이디어의 발전에도 긍정적 영...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21101",
+      "guid": "https://news.hada.io/topic?id=21101",
+      "pubDate": "2025-05-25T13:38:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국에서의 국경 문제로 인해 과학 콘퍼런스가 해외로 이동함",
+      "description": {
+        "$text": "<ul>\n<li>최근 <strong>미국 이민 정책 강화</strong> 및 국경 관리 문제로 인해, 주요 과학 및 학술 콘퍼런스들이 미국 외 국가로 <strong>이동 또는 취소 결정</strong> 추세임</li>\n<li>이러한 변화로 인해 <strong>국제 연구자들</strong>의 참석이 제한되어, 콘퍼런스 주최 측이 <strong>캐나다 등 다른 국가</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21100",
+      "guid": "https://news.hada.io/topic?id=21100",
+      "pubDate": "2025-05-25T13:35:20+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
