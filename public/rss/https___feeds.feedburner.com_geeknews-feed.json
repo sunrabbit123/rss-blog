@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-25T13:38:21+09:00",
+  "lastBuildDate": "2025-05-25T18:06:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40287,6 +40287,19 @@
       "guid": "https://news.hada.io/topic?id=21100",
       "pubDate": "2025-05-25T13:35:20+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: vite-plugin-dts-build, 고성능 타입생성 vite plugin",
+      "description": {
+        "$text": "<p>기존에 <a href=\"https://www.npmjs.com/package/vite-plugin-dts\">vite-plugin-dts</a>라는 플러그인이 있었으나 커다란 패키지나 모노레포에서 성능상 문제가 있어 직접 만들었습니다.</p>\n<p><strong>왜 빠른가요?</strong></p>\n<ol>\n<li>tsc –build 처럼 증분빌드</li>\n<li>분리된 워커에서 병렬 실행</li>\n<li>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21102",
+      "guid": "https://news.hada.io/topic?id=21102",
+      "pubDate": "2025-05-25T18:06:01+09:00",
+      "author": "alstjr7375",
       "category": ""
     }
   ]
