@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-25T22:33:33+09:00",
+  "lastBuildDate": "2025-05-26T10:47:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40313,6 +40313,136 @@
       "guid": "https://news.hada.io/topic?id=21103",
       "pubDate": "2025-05-25T22:33:33+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이제 AI로 실현 가능한 스타트업 아이디어들 [유튜브]",
+      "description": {
+        "$text": "<ul>\n<li>YC의 파트너들과 CEO Garry Tan이 요즘 LLM들 때문에 가능해진 <strong>새로운 아이디어들</strong>과 이에 맞는 <strong>스타트업의 제품 전략</strong>에 대해 얘기하는 영상</li>\n<li>\n<strong>AI 도입으로 인해 불가능했던 아이디어들이 실현 가능</strong>해졌으며, 특히 <strong>리크루팅, 교육, 에이전트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21114",
+      "guid": "https://news.hada.io/topic?id=21114",
+      "pubDate": "2025-05-26T10:47:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI와 Exploit 개발의 미래: 자동화는 우리의 역할을 어떻게 바꿀 것인가 [유튜브]",
+      "description": {
+        "$text": "<ul>\n<li>미국 국방고등연구계획국(DARPA)의 AI 및 사이버 보안 기술 자문인 Perri Adams 의 OffensiveCon 컨퍼런스 키노트</li>\n<li>\n<strong>AI는 익스플로잇 개발</strong> 및 취약점 자동화 분야에 점차 더 많이 적용되고 있음</li>\n<li>실제 OpenSSH <strong>pre-auth 더블 프리</strong> 취약점 사례를 분석하며 A...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21113",
+      "guid": "https://news.hada.io/topic?id=21113",
+      "pubDate": "2025-05-26T10:32:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "gail - AI 기반 GitHub 이슈 자동 라벨링 도구",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI LLM을 활용하여 GitHub 프로젝트의 이슈를 분석하여 <strong>자동으로 적절한 라벨을 부여</strong>하는 도구</li>\n<li>사용자가 제공한 <strong>라벨 목록 파일을 기반</strong>으로 작동하며, 특정 저장소의 이슈들을 읽고 적합한 라벨을 선택</li>\n<li>\n<code>gpt-4o-mini</code>를 기본 모델로 사용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21112",
+      "guid": "https://news.hada.io/topic?id=21112",
+      "pubDate": "2025-05-26T10:17:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "바퀴를 다시 발명하라 - Reinvent the Wheel",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>&quot;바퀴를 다시 발명하지 말라&quot;</strong> 는 조언은 창의성과 탐구심을 억누르는 부정적 영향을 줌</li>\n<li>새로운 바퀴, 즉 <strong>기존 도구나 기술을 재창조</strong>하는 과정에서 깊은 이해와 배움을 얻음</li>\n<li>단순하거나 익숙해 보이는 <strong>기초 구성 요소</strong>도 실제로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21111",
+      "guid": "https://news.hada.io/topic?id=21111",
+      "pubDate": "2025-05-26T10:02:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "홍콩의 유명한 대나무 비계, 아직 남아 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>홍콩</strong>의 <strong>대나무 비계</strong> 전통이 도심에서 여전히 유지되고 있음</li>\n<li>\n<strong>Daisy Pak</strong>은 몇 안 되는 여성 대나무 비계 작업자로서, <strong>고대 중국 기술</strong>을 현대에 계승하고 있음</li>\n<li>힘든 성장 과정과 <strong>중독·채무</strong>를 딛고 202...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21110",
+      "guid": "https://news.hada.io/topic?id=21110",
+      "pubDate": "2025-05-26T09:57:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "제논 데스 플래시: 카메라가 Raspberry Pi 2를 거의 망가뜨릴 뻔한 사건",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Raspberry Pi 2</strong>가 카메라의 <strong>제논 플래시</strong>에 노출될 때마다 전원이 꺼지는 이상 현상 발견임</li>\n<li>이 현상의 원인은 <strong>WL-CSP 패키징</strong>을 사용한 전력 조정 칩(U16)에서 빛 유입 시 발생하는 포토일렉트릭 효과임</li>\n<li>커뮤니티의 실험 결과, <strong>L...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21109",
+      "guid": "https://news.hada.io/topic?id=21109",
+      "pubDate": "2025-05-26T09:54:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Lottie는 애니메이션 벡터 그래픽스를 위한 오픈 포맷임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Lottie</strong>는 벡터 그래픽 애니메이션을 위한 <strong>오픈 파일 포맷</strong>으로, Adobe After Effects에서 만든 애니메이션을 웹과 모바일에서 쉽게 재생할 수 있게 해줌</li>\n<li>애니메이션은 <strong>JSON 포맷</strong>으로 저장되어, <strong>키프레임, 이징 커브, 레이어 정보</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21108",
+      "guid": "https://news.hada.io/topic?id=21108",
+      "pubDate": "2025-05-26T09:51:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "덴마크, 정년 70세로 상향 결정",
+      "description": {
+        "$text": "<ul>\n<li>덴마크가 <strong>2040년까지 정년을 70세로 상향</strong>하는 법안을 의회에서 통과시켰음</li>\n<li>정년 기준은 <strong>기대수명</strong>에 연동되어 <strong>5년마다 조정</strong>하는 체계임</li>\n<li>새로운 제도는 <strong>1970년 12월 31일 이후 출생자</strong>에게 적용될 예정임</li>\n<li>\n<stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21107",
+      "guid": "https://news.hada.io/topic?id=21107",
+      "pubDate": "2025-05-26T09:48:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Claude 4 시스템 카드",
+      "description": {
+        "$text": "<ul>\n<li>Anthropic가 공개한 <strong>Claude Opus 4와 Claude Sonnet 4의 시스템 카드</strong>는 120페이지 분량으로, 모델의 <strong>학습 데이터, 보안 위협, 에이전시 행동</strong> 등에 대해 상세히 설명함</li>\n<li>두 모델 모두 <strong>프롬프트 인젝션 공격</strong> 취약성, 긴 사고 과정 요약 방식, 그리고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21106",
+      "guid": "https://news.hada.io/topic?id=21106",
+      "pubDate": "2025-05-26T09:45:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "동일 프롬프트로 바이브 코딩 에이전트 4종 비교해보기 (Lovable, Gemini, Rork, Flowith)",
+      "description": {
+        "$text": "<p>새로 접한 서비스들을 테스트해볼 겸, 서로 다른 강점을 지닌 4가지 에이전트로 바이브 코딩을 해봄. (예전에 <a href=\"https://www.stdy.blog/comparison-of-6-ai-prototyping-tools/\">AI 프로토타이핑 서비스(v0, Lovable, Replit, Bolt, Tempo, Mocha)들을 딥리서치 + 각각 써보면서 비교</a>한 적 있었는데, 이번...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21105",
+      "guid": "https://news.hada.io/topic?id=21105",
+      "pubDate": "2025-05-26T09:17:45+09:00",
+      "author": "spilist2",
       "category": ""
     }
   ]
