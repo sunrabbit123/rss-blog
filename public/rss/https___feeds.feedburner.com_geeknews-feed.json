@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-26T10:47:01+09:00",
+  "lastBuildDate": "2025-05-26T11:38:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40443,6 +40443,32 @@
       "guid": "https://news.hada.io/topic?id=21105",
       "pubDate": "2025-05-26T09:17:45+09:00",
       "author": "spilist2",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 현재 어떤 작업을 하고 계신가요?",
+      "description": {
+        "$text": "<p>해커뉴스 구독중<br />\n아래 질문이 있어서 올립니다.</p>\n<p>https://news.ycombinator.com/item?id=44090387</p>\n<p>답변들 중에 YC 파운더 중에 한명이 남긴 댓글을 보고<br />\n링크를 타고 들어가서 글을 읽는중 도움될 만한 글들을 다시 요약해서<br />\n올립니다.</p>\n<p>뉴스로 올릴지, ASK로 올릴지 고민하다가",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21116",
+      "guid": "https://news.hada.io/topic?id=21116",
+      "pubDate": "2025-05-26T11:38:46+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "AI 시대의 새로운 개발자 패턴들",
+      "description": {
+        "$text": "<ul>\n<li>AI를 단순한 도구가 아닌 <strong>기반 기술</strong>로 다루는 개발 문화가 형성되고 있음</li>\n<li>기존의 버전 관리, 대시보드, 템플릿, 문서화, 시크릿 관리 방식등이 AI 시대에 맞춰 변화 중\n<ul>\n<li>Git은 더 이상 코드의 라인별 변경보다는 <strong>프롬프트와 테스트 결과 중심의 상태 관리 방식</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21115",
+      "guid": "https://news.hada.io/topic?id=21115",
+      "pubDate": "2025-05-26T11:03:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
