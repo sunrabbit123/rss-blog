@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-26T11:38:46+09:00",
+  "lastBuildDate": "2025-05-26T13:34:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40469,6 +40469,45 @@
       "guid": "https://news.hada.io/topic?id=21115",
       "pubDate": "2025-05-26T11:03:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "오픈 소스 소사이어티 유니버시티 – 컴퓨터 과학 자율학습 무료 로드맵",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OSSU 커리큘럼</strong>은 전 세계 유수 대학의 온라인 자료를 통해 <strong>컴퓨터 과학의 완전한 교육 과정</strong>을 무료로 제공함</li>\n<li>입문, 핵심, 고급, 파이널 프로젝트로 대학 학사 수준의 컴퓨터 과학 커리큘럼 구조를 재현함</li>\n<li>모든 강의와 과제는 <strong>무료</strong> 또는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21120",
+      "guid": "https://news.hada.io/topic?id=21120",
+      "pubDate": "2025-05-26T13:34:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cursor 사용 방법 (+ 최고의 팁) [번역글]",
+      "description": {
+        "$text": "<ul>\n<li>최근 많은 개발자들이 Cursor의 <strong>에이전트 입력창</strong>만으로 대부분의 코딩을 진행하며, 본인도 80%를 이렇게 처리함</li>\n<li>\n<strong>YOLO 모드 활용</strong>: 빌드나 테스트가 통과할 때까지 AI가 자동으로 반복 수정함</li>\n<li>\n<strong>복잡한 작업 다루기</strong>: TDD 기반 프롬프트를 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21118",
+      "guid": "https://news.hada.io/topic?id=21118",
+      "pubDate": "2025-05-26T13:26:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "아마존에서 일부 개발자들이 자신의 일이 창고 노동과 비슷해졌다고 말함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>인공지능 확산</strong>으로 인해 일부 개발자들은 <strong>업무의 변화</strong>를 경험함</li>\n<li>아마존 등 대기업에서는 <strong>코딩 작업의 단순화 및 속도 증가</strong>가 나타남</li>\n<li>소프트웨어 엔지니어는 <strong>업무의 질 저하와 반복성 증가</strong>에 우려를 표출함</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21117",
+      "guid": "https://news.hada.io/topic?id=21117",
+      "pubDate": "2025-05-26T12:35:22+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
