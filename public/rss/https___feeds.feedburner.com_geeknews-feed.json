@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-27T16:33:33+09:00",
+  "lastBuildDate": "2025-05-27T23:36:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40690,6 +40690,19 @@
       "guid": "https://news.hada.io/topic?id=21143",
       "pubDate": "2025-05-27T16:04:59+09:00",
       "author": "tuenkle",
+      "category": ""
+    },
+    {
+      "title": "AI 숙제 머신 시대의 교육 도전기",
+      "description": {
+        "$text": "<ul>\n<li>최근 <strong>AI 숙제 머신</strong>으로 인한 교육계의 도전이 증가함</li>\n<li>학생들은 <strong>ChatGPT 같은 생성형 AI</strong>를 사용해 과제 부정행위에 쉽게 접근함</li>\n<li>교육자들은 AI 활용이 실제 <strong>학습과 사고 과정 단절</strong>로 이어질 수 있음에 우려를 표함</li>\n<li>학교 현장에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21145",
+      "guid": "https://news.hada.io/topic?id=21145",
+      "pubDate": "2025-05-27T23:36:03+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
