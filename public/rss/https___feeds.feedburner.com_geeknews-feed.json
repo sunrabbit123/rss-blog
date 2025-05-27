@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-26T20:35:24+09:00",
+  "lastBuildDate": "2025-05-27T10:33:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40520,6 +40520,136 @@
       "link": "https://news.hada.io/topic?id=21123",
       "guid": "https://news.hada.io/topic?id=21123",
       "pubDate": "2025-05-26T19:34:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "타월에 싸인 부엉이들",
+      "description": {
+        "$text": "<ul>\n<li>야생 동물 재활 전문가들은 <strong>부엉이</strong>를 다루기 위해 종종 <strong>천으로 감쌈</strong>\n</li>\n<li>이러한 방식 덕분에 부엉이들이 <strong>진정한 상태</strong> 유지</li>\n<li>감싸지 않으면 부엉이들이 날개를 퍼덕이는 상황 발생</li>\n<li>부엉이를 치료, 급식, 혹은 계량할 때 <strong>타월...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21138",
+      "guid": "https://news.hada.io/topic?id=21138",
+      "pubDate": "2025-05-27T10:33:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub Issues는 거의 최고의 노트북임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GitHub Issues</strong>는 무료이면서 공개/비공개 노트 및 협업을 위한 강력한 도구임</li>\n<li>\n<strong>Markdown 지원</strong>과 코드 하이라이팅, 이미지·비디오 드래그 앤 드롭, 인터링킹 기능 등으로 탁월한 노트 작성 경험 제공임</li>\n<li>강력한 <strong>검색 기능</strong>과 API를 통한 자...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21137",
+      "guid": "https://news.hada.io/topic?id=21137",
+      "pubDate": "2025-05-27T10:15:00+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "코딩 LLM에서 가치를 얻는 데 어려움을 겪는 사람 있나요?",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>코딩 LLM</strong>을 활용해서 명확한 <strong>가치 창출</strong>에 어려움을 겪는 개발자들이 존재함</li>\n<li>일부 사용자는 LLM의 <strong>출력 품질</strong>에 만족하지 못함</li>\n<li>\n<strong>구체적인 요구 사항</strong>이나 복잡한 문제에서는 LLM이 기대에 미치지 못하는 경향 발생함</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21136",
+      "guid": "https://news.hada.io/topic?id=21136",
+      "pubDate": "2025-05-27T10:11:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "성숙도 프레임워크 - GTM 전략의 숨은 보석",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>성숙도 프레임워크</strong>는 팀이 단순 기능 중심 판매에서 벗어나 <strong>비즈니스 가치 중심</strong> 판매로 전환함에 강력한 도구임</li>\n<li>이 프레임워크는 <strong>고객 여정의 단계</strong>를 명확히 정의하여, 기업이 현재 상태 평가 및 향후 전략을 수립하는 데 도움을 줌</li>\n<li>실...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21135",
+      "guid": "https://news.hada.io/topic?id=21135",
+      "pubDate": "2025-05-27T10:11:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "독일 레스토랑 관련 도메인의 5.7%를 Lieferando.de가 확보함",
+      "description": {
+        "$text": "<ul>\n<li>독일 내 <strong>레스토랑 관련 .de 도메인</strong> 약 31,000개 중, <strong>5.7%가 Lieferando.de 소유</strong>임</li>\n<li>분석 결과, <strong>20,000개 활성 도메인</strong> 중 상당수에 주목할 만한 <strong>소유 집중 현상</strong>이 나타남</li>\n<li>\n<strong>코로나19 이전부터 최근까지 Lieferand...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21134",
+      "guid": "https://news.hada.io/topic?id=21134",
+      "pubDate": "2025-05-27T10:08:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Outspeed: 저렴하고 현실적인 실시간 음성 플랫폼",
+      "description": {
+        "$text": "<ul>\n<li>WebRTC 관련 경험 없이도 실시간 음성 서비스를 만들기 위한 SDK 제공</li>\n<li>시간당 $1 수준의 매우 저렴한 요금</li>\n<li>Orpheus+Llama4 기반으로 동작</li>\n<li>OpenAI API와 호환</li>\n</ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21133",
+      "guid": "https://news.hada.io/topic?id=21133",
+      "pubDate": "2025-05-27T10:08:14+09:00",
+      "author": "jayhanx",
+      "category": ""
+    },
+    {
+      "title": "공기 중에서 수동적으로 물을 추출할 수 있는 신소재 개발",
+      "description": {
+        "$text": "<ul>\n<li>펜실베이니아 대학교 연구팀이 <strong>외부 에너지 없이 수동적으로 공기 중의 물을 추출</strong>할 수 있는 신개념 소재를 발견함</li>\n<li>이 소재는 <strong>친수성 나노기공과 소수성 중합체</strong>가 독특하게 결합된 구조로, 기공 내에서 공기 중 수분을 포획하고 표면으로 방출 가능함</li>\n<li>\n<s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21132",
+      "guid": "https://news.hada.io/topic?id=21132",
+      "pubDate": "2025-05-27T10:05:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "CSS Minecraft",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>CSS만을 이용해</strong> 구현된 <strong>완전한 Minecraft 클론</strong>임</li>\n<li>\n<strong>JavaScript 사용 없이</strong>, 순수 HTML과 CSS만으로 모든 기능 설계됨</li>\n<li>CSS의 <strong><code>:has()</code> 의사 클래스</strong>를 활용해 상호작용 처리 진행됨</li>\n<li>최신 브라우저(Ch...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21131",
+      "guid": "https://news.hada.io/topic?id=21131",
+      "pubDate": "2025-05-27T10:02:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Duolingo CEO가 AI 우선 정책 발언을 번복하려 했으나 실패함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Duolingo</strong> CEO인 Luis von Ahn이 <strong>AI 중심 경영</strong> 발언에 대한 비난이 커지자 발언을 번복하려 시도함</li>\n<li>하지만 주요 <strong>입장 번복</strong>은 이루어지지 않았으며, 사용자들의 불만만 더욱 커짐</li>\n<li>회사의 <strong>PR팀</strong>조차도 AI로 대체될 수 있다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21130",
+      "guid": "https://news.hada.io/topic?id=21130",
+      "pubDate": "2025-05-27T09:59:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Hacker News가 이제 Common Lisp 위에서 구동됨",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Hacker News</strong>는 기존에는 Arc라는 <strong>Lisp 계열 언어</strong>로 구현되었으나 최근 몇 달간 <strong>SBCL(Common Lisp)</strong> 로 전환됨</li>\n<li>이번 전환의 주요 목적은 <strong>성능 향상</strong>과 멀티코어 지원 가능성 확보임</li>\n<li>Arc-to-JS 변환기인 <strong>Lilt</st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21129",
+      "guid": "https://news.hada.io/topic?id=21129",
+      "pubDate": "2025-05-27T09:56:50+09:00",
       "author": "neo",
       "category": ""
     }

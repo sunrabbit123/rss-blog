@@ -984,6 +984,15 @@
       "pubDate": "Fri, 23 May 2025 15:51:12 +0900",
       "author": "pjt3591oo",
       "category": "인공지능 활용"
+    },
+    {
+      "title": "[인공지능] google a2a SDK",
+      "description": "안녕하세요 멍개입니다. 지난 시간에 구글이 공개한 a2a 프로토콜을 다뤄보았습니다. https://blog.naver.com/pjt3591oo/223839552262 https://blog.naver.com/pjt3591oo/223840293717 https://blog.naver.com/pjt3591oo/223841062597 이때는 SDK가 아닌 샘플 코드를 기반으로 테스트를 수행해보았습니다. https://github.com/google/a2a-python 참고로 여기서 진행한 a2a-sdk의 최신 버전은 0.2.4 입니다. 0.2.4 브랜치와 메인 브랜치의 샘플 코드는 조금 다른 모습을 보입니다. 또한 a2a-sdk는 앞의 샘플 코드에서 제공한 코드가 SDK 형태로 발전된것이기 때문에 크드 구조는 거의 동일합니다. ● hello world 가장 먼저, 심플한 형태의 a2a 서....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA1MjVfMjg3/MDAxNzQ4MTY1MzU3NTk2.pleFH_juoyMYNyXvZyvOWDiswxzXV-FpeuIEYEM1pQQg.wCGf6xPY12xDfA5b86qG4EmtmdWwevCdHzuJO888asMg.PNG/Screenshot_2025-05-25_at_18.29.13.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223879123930?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223879123930",
+      "pubDate": "Tue, 27 May 2025 08:38:06 +0900",
+      "author": "pjt3591oo",
+      "category": "Python"
     }
   ]
 }
