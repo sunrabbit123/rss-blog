@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-27T10:33:15+09:00",
+  "lastBuildDate": "2025-05-27T11:54:29+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40651,6 +40651,19 @@
       "guid": "https://news.hada.io/topic?id=21129",
       "pubDate": "2025-05-27T09:56:50+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: is-an.ai - AI 프로젝트를 위한 무료 서브도메인 서비스",
+      "description": {
+        "$text": "<p>AI 연구자와 개발자, 그리고 그냥 소소한 서비스들을 위한 서브도메인 제공 서비스 &quot;is-an.ai&quot;를 소개합니다.</p>\n<h3>소개</h3>\n<ul>\n<li>is-a.dev의 AI 프로젝트 버전으로, cool-project.is-an.ai 같은 서브도메인을 무료로 제공합니다.</li>\n<li>GitHub이나 DNS 지식 없이도 쉽게 사용 가능해요.\n<ul>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21139",
+      "guid": "https://news.hada.io/topic?id=21139",
+      "pubDate": "2025-05-27T11:54:29+09:00",
+      "author": "dohyun682",
       "category": ""
     }
   ]
