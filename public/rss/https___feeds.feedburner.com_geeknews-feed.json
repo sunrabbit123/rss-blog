@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-28T17:34:09+09:00",
+  "lastBuildDate": "2025-05-28T21:34:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40819,6 +40819,19 @@
       "link": "https://news.hada.io/topic?id=21155",
       "guid": "https://news.hada.io/topic?id=21155",
       "pubDate": "2025-05-28T17:34:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "파이썬의 두 신규 Rust 기반 타입 체커 Pyrefly와 Ty 비교",
+      "description": {
+        "$text": "<ul>\n<li>최근 <strong>Meta의 Pyrefly</strong>와 <strong>Astral의 Ty</strong> 두 Rust 기반 파이썬 타입 체커가 공개되며, 기존 mypy와 pyright 대비 <strong>압도적 성능</strong>과 <strong>새로운 타이핑 패러다임</strong>을 보여줌</li>\n<li>Pyrefly는 <strong>적극적 타입 추론</strong> 및 오픈소스를 지향하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21156",
+      "guid": "https://news.hada.io/topic?id=21156",
+      "pubDate": "2025-05-28T21:34:28+09:00",
       "author": "neo",
       "category": ""
     }
