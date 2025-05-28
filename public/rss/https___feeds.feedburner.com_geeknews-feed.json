@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-28T11:00:01+09:00",
+  "lastBuildDate": "2025-05-28T12:33:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40794,6 +40794,19 @@
       "guid": "https://news.hada.io/topic?id=21151",
       "pubDate": "2025-05-28T10:42:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "게으른 테트리스",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Lazy Tetris</strong>는 기존 테트리스와 달리 사용자가 직접 조각을 굴릴 필요 없는 <strong>자동 진행</strong> 게임임</li>\n<li>사용자는 <strong>한 번의 클릭</strong>만으로 게임을 시작할 수 있음</li>\n<li>알고리듬이 최적의 위치를 찾아 <strong>자동으로 조각을 배치</strong>함</li>\n<li>사...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21153",
+      "guid": "https://news.hada.io/topic?id=21153",
+      "pubDate": "2025-05-28T12:33:28+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
