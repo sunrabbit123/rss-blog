@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-28T13:57:13+09:00",
+  "lastBuildDate": "2025-05-28T17:34:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40806,6 +40806,19 @@
       "link": "https://news.hada.io/topic?id=21153",
       "guid": "https://news.hada.io/topic?id=21153",
       "pubDate": "2025-05-28T12:33:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내 LLM CLI 도구가 이제 Python 코드나 플러그인에서 툴을 실행할 수 있음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>LLM 0.26</strong>에서는 다양한 <strong>툴 실행 기능</strong>이 추가되어, OpenAI, Anthropic, Gemini, Ollama 등 여러 LLM 모델이 Python 함수나 플러그인으로 구현된 도구를 활용할 수 있음</li>\n<li>명령줄이나 Python API에서 <strong>툴을 직접 설치하거나 함수로 전달</strong>할 수 있어 확...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21155",
+      "guid": "https://news.hada.io/topic?id=21155",
+      "pubDate": "2025-05-28T17:34:09+09:00",
       "author": "neo",
       "category": ""
     }
