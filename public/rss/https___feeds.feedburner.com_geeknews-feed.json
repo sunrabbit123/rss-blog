@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-27T23:36:03+09:00",
+  "lastBuildDate": "2025-05-28T09:48:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40702,6 +40702,71 @@
       "link": "https://news.hada.io/topic?id=21145",
       "guid": "https://news.hada.io/topic?id=21145",
       "pubDate": "2025-05-27T23:36:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "개발자 퇴보라는 신화",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>새로운 기술</strong>이 등장할 때마다 개발자 대체에 대한 과장이 반복적으로 등장함</li>\n<li>\n<strong>NoCode, 클라우드, AI 보조 개발</strong> 등의 혁신은 실제로 개발자 감축이 아닌 전문화·고도화와 같은 새로운 역할을 만듦</li>\n<li>\n<strong>AI 기반 코드 생성</strong> 역시 시스템 설계 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21150",
+      "guid": "https://news.hada.io/topic?id=21150",
+      "pubDate": "2025-05-28T09:48:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "신호등을 이용해 더 성공적으로 사냥하는 매 이야기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cooper’s hawk</strong>가 도심에서 <strong>신호등 신호</strong>와 자동차 행렬을 이용해 사냥 성공률을 높인 사례가 관찰됨</li>\n<li>매는 신호등의 <strong>음향 신호</strong>가 울려 적색 신호가 길어질 때 자동차 행렬이 길어지는 점을 이용해 은폐 효과를 얻음</li>\n<li>\n<strong>연구자 Dr ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21149",
+      "guid": "https://news.hada.io/topic?id=21149",
+      "pubDate": "2025-05-28T09:45:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Bloom 필터를 이용한 무손실 비디오 압축",
+      "description": {
+        "$text": "<ul>\n<li>이 오픈 소스 프로젝트는 <strong>Bloom 필터</strong>를 활용하여 무손실 비디오 압축을 실현함</li>\n<li>\n<strong>Rational Bloom Filter</strong> 개념을 도입해 기존 Bloom 필터의 한계를 극복하고 효율적 압축 가능성을 탐색함</li>\n<li>\n<strong>일반적인 코덱</strong>들과는 달리, 모든 데이터를 완벽하...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21148",
+      "guid": "https://news.hada.io/topic?id=21148",
+      "pubDate": "2025-05-28T09:42:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스퀘어 이론",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>온라인 크로스워드 커뮤니티</strong>에서 다양한 연관 단어 쌍들이 교차하면서 '스퀘어 이론'이 탄생함</li>\n<li>스퀘어 이론은 <strong>두 쌍의 동의어 또는 연결된 개념이</strong>, 조합되면 전혀 다른 새로운 문구나 의미적 연결을 만들어냄</li>\n<li>개념은 <strong>크로스워드 퍼즐, 브랜드 네...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21147",
+      "guid": "https://news.hada.io/topic?id=21147",
+      "pubDate": "2025-05-28T09:39:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub MCP 악용: MCP를 통한 비공개 저장소 접근",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GitHub MCP 통합</strong>에 심각한 <strong>취약점</strong>이 발견되어, 공격자가 악의적인 GitHub Issue를 통해 사용자의 에이전트를 조작하고 비공개 저장소 데이터를 유출할 수 있음</li>\n<li>이 취약점은 <strong>Toxic Agent Flow</strong>라는 새로운 유형으로, 에이전트가 악성 프롬프트에 의...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21146",
+      "guid": "https://news.hada.io/topic?id=21146",
+      "pubDate": "2025-05-28T08:34:16+09:00",
       "author": "neo",
       "category": ""
     }
