@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-28T09:48:31+09:00",
+  "lastBuildDate": "2025-05-28T11:00:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40768,6 +40768,32 @@
       "guid": "https://news.hada.io/topic?id=21146",
       "pubDate": "2025-05-28T08:34:16+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub의 엔지니어링 시스템 성공 플레이북",
+      "description": {
+        "$text": "<ul>\n<li>엔지니어링 성공을 위해서는 <strong>품질(Quality), 속도(Velocity), 개발자 만족도(Happiness)</strong> 세 영역이 조화를 이루는 것이 중요함</li>\n<li>\n<strong>ESSP(Engineering System Success Playbook)</strong> 는 이를 통합적으로 개선하여 <strong>비즈니스 성과를 극대화</strong> 하기 위한 3단계...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21152",
+      "guid": "https://news.hada.io/topic?id=21152",
+      "pubDate": "2025-05-28T11:00:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Fx 36.0 - 커맨드라인 JSON 뷰어 & 프로세싱 도구",
+      "description": {
+        "$text": "<ul>\n<li>터미널에서 <strong>JSON을 시각적으로 탐색</strong>할 수 있는 <strong>인터랙티브 TUI 도구</strong>\n</li>\n<li>Go 언어로 작성된 <strong>단일 실행 파일</strong>로 배포되어 설치와 실행이 간편</li>\n<li>\n<strong>JavaScript 문법을 사용해 JSON을 처리</strong>할 수 있어 별도 DSL 학습이 필요 없음...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21151",
+      "guid": "https://news.hada.io/topic?id=21151",
+      "pubDate": "2025-05-28T10:42:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
