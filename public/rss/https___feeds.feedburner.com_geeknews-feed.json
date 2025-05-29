@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-29T13:36:12+09:00",
+  "lastBuildDate": "2025-05-29T13:57:52+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41054,6 +41054,32 @@
       "guid": "https://news.hada.io/topic?id=21172",
       "pubDate": "2025-05-29T12:33:27+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "UI의 미래는 다채롭고 입체적인 형태임",
+      "description": {
+        "$text": "<ul>\n<li>최근 <strong>Airbnb의 리디자인</strong>에서 볼 수 있듯이, <strong>플랫 디자인 시대가 지나가고</strong> 새로운 <strong>입체적이고 다채로운 디자인</strong> 흐름이 등장함</li>\n<li>기존의 <strong>스큐어모피즘</strong>과 플랫 디자인을 넘어선 새로운 접근을 위해 <strong>Diamorph</strong>(다이아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21176",
+      "guid": "https://news.hada.io/topic?id=21176",
+      "pubDate": "2025-05-29T13:57:52+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "PgDog - 별도 확장없이 Postgres를 샤딩할수 있는 도구",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 개발된 PostgreSQL용 트랜잭션 풀러 및 논리 복제 관리자로, <strong>수평적 확장</strong>과 샤딩 자동화 기능 제공</li>\n<li>익스텐션 없이 <strong>간편하게 PostgreSQL 데이터베이스를 샤딩</strong> 가능, 수백 개 데이터베이스와 수십만 연결 관리에 최적화됨</li>\n<li>\n<strong>애플리케이션 계층...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21175",
+      "guid": "https://news.hada.io/topic?id=21175",
+      "pubDate": "2025-05-29T13:45:52+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
