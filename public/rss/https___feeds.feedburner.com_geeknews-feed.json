@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-28T21:34:28+09:00",
+  "lastBuildDate": "2025-05-29T10:09:09+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40833,6 +40833,136 @@
       "guid": "https://news.hada.io/topic?id=21156",
       "pubDate": "2025-05-28T21:34:28+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI: 가속된 무능력",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>소프트웨어 엔지니어링</strong>에서 LLM에 대한 과도한 의존은 무능력함을 빠르게 촉진함</li>\n<li>LLM은 <strong>비판적 사고</strong>와 문제 해결 능력을 대체할 수 없는 한계가 존재함</li>\n<li>LLM의 사용은 <strong>잘못된 출력, 입력 오류, 코드 품질 저하, 개발자 능력 저하, 창작의 즐거움 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21167",
+      "guid": "https://news.hada.io/topic?id=21167",
+      "pubDate": "2025-05-29T10:09:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Mullvad Leta",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Mullvad Leta</strong>는 오픈 소스 네트워크 분석 도구로, <strong>네트워크 트래픽</strong> 분석 및 모니터링 기능 제공</li>\n<li>\n<strong>패킷 캡처</strong> 및 실시간 추적을 포함해 다양한 네트워크 정보를 직관적으로 시각화함</li>\n<li>\n<strong>프라이버시</strong>와 <strong>보안</stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21165",
+      "guid": "https://news.hada.io/topic?id=21165",
+      "pubDate": "2025-05-29T10:06:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "중국의 ‘훔친 아이폰 빌딩’ 내부 들여다 보기",
+      "description": {
+        "$text": "<ul>\n<li>런던이나 뉴욕에서 <strong>도난당한 아이폰</strong>들이 홍콩을 거쳐 <strong>중국 선전의 화창베이</strong>로 흘러들어가 거래되고 있음</li>\n<li>이 중에서도 <strong>Feiyang Times 빌딩</strong>은 ‘훔친 아이폰 빌딩’으로 불리며, <strong>미국·유럽산 중고 아이폰</strong>의 주요 유통처로 지목됨...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21164",
+      "guid": "https://news.hada.io/topic?id=21164",
+      "pubDate": "2025-05-29T10:06:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "BGP 처리 버그로 인해 인터넷 라우팅 불안정성 발생",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>BGP 메시지 처리 버그</strong>로 인해 2025년 5월 20일 대규모 라우팅 불안정성 및 일부 네트워크의 인터넷 연결 단절 현상 발생</li>\n<li>문제의 원인은 <strong>잘못된 BGP Prefix-SID Attribute</strong>였으며, 주요 BGP 구현체(특히 JunOS와 Arista EOS)에서 예외적 반응 유발</li>\n<li>\n<stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21163",
+      "guid": "https://news.hada.io/topic?id=21163",
+      "pubDate": "2025-05-29T10:03:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "개발자로서 가장 중요한 도구는 펜과 노트북임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>개발 업무의 핵심 도구</strong>로 펜과 노트북을 강조함</li>\n<li>컴퓨터 앞에서는 창의적 사고가 제한되어 <strong>노트 작성 및 그림 그리기</strong>를 통해 아이디어와 문제를 정리함</li>\n<li>손으로 <strong>글을 쓰거나 스케치하는 과정</strong>이 추상적인 생각을 구체적으로 다듬는 데 도움...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21162",
+      "guid": "https://news.hada.io/topic?id=21162",
+      "pubDate": "2025-05-29T10:00:03+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "맥 Electron 앱을 Rust로 다시 작성함",
+      "description": {
+        "$text": "<ul>\n<li>개발자가 기존 <strong>Mac용 Electron 앱</strong>을 <strong>Rust</strong>로 다시 작성함</li>\n<li>주요 기능은 <strong>파일명</strong>뿐만 아니라 <strong>파일 내용까지 인식하는 스마트 검색</strong> 임</li>\n<li>\n<strong>무제한 파일 인덱싱</strong> 지원으로 중요한 문서 관리 용이함</li>\n<li>무...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21161",
+      "guid": "https://news.hada.io/topic?id=21161",
+      "pubDate": "2025-05-29T09:57:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "로컬 LLM 성능을 적응형 추론으로 향상시키는 AutoThink 소개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AutoThink</strong>는 로컬 환경에서 <strong>대형 언어 모델(LLM)</strong> 의 성능을 <strong>적응형 추론</strong> 기술로 향상시킬 수 있음</li>\n<li>이 프로젝트는 GPU 자원이 제한된 환경에서도 <strong>고성능 LLM 활용</strong>을 지원함</li>\n<li>기존 LLM 운용 대비 <strong>속도 및 응답 품...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21160",
+      "guid": "https://news.hada.io/topic?id=21160",
+      "pubDate": "2025-05-29T09:54:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "신경 안 쓰는 시대",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Chicago Sun-Times</strong>와 <strong>Philadelphia Inquirer</strong>가 인공지능 챗봇이 만든 허구의 보충판을 아무 검증 없이 출판한 사건이 발생함</li>\n<li>이 사건은 미디어, 제작자, 비즈니스, 독자 등 <strong>모두가 신경쓰지 않는 태도</strong>를 드러낸 대표적 예시임</li>\n<li>\n<strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21159",
+      "guid": "https://news.hada.io/topic?id=21159",
+      "pubDate": "2025-05-29T09:50:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Morphik - 오픈소스 AI 네이티브 지식 베이스",
+      "description": {
+        "$text": "<ul>\n<li>이미지, PDF, 영상 등 <strong>멀티모달 데이터를 통합 검색 및 관리</strong>할 수 있게 해주는 오픈소스 도구\n<ul>\n<li>기존 RAG 방식보다 <strong>기술적이고 시각적인 문서</strong> 처리에 최적화</li>\n</ul>\n</li>\n<li>\n<strong>ColPali</strong> 임베딩을 활용해 페이지 전체를 이미지처럼 처리, 레이아...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21158",
+      "guid": "https://news.hada.io/topic?id=21158",
+      "pubDate": "2025-05-29T09:46:28+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SKT 유심 “재설정” 분석 – 무엇이 바뀌는가, 그리고 정말로 교체와 동일한가",
+      "description": {
+        "$text": "<p>🔍 유심 재설정의 개요</p>\n<pre><code>도입 배경: SK텔레콤은 최근 발생한 해킹 사태로 인해 유심 정보 유출이 우려되자, 물리적인 유심 교체 없이도 일부 정보를 변경하여 보안을 강화하는 '유심 재설정' 기능을 도입했습니다.  \n기능 설명: '유심 재설정'은 유심 내부의 사용자 식별 및 인증 정보를 새로운 값으로",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21157",
+      "guid": "https://news.hada.io/topic?id=21157",
+      "pubDate": "2025-05-29T09:26:03+09:00",
+      "author": "youknowone",
       "category": ""
     }
   ]
