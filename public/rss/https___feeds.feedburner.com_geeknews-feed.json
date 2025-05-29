@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-29T10:34:04+09:00",
+  "lastBuildDate": "2025-05-29T13:36:12+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41014,6 +41014,45 @@
       "link": "https://news.hada.io/topic?id=21168",
       "guid": "https://news.hada.io/topic?id=21168",
       "pubDate": "2025-05-29T10:12:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsoft가 Windows Update를 모든 서드파티 앱에 개방하기 시작함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Microsoft가</strong> Windows Update를 <strong>서드파티 앱 업데이트</strong>에도 적용할 수 있도록 개방하기 시작함</li>\n<li>신규 <strong>Windows Update 오케스트레이션 플랫폼</strong>을 통해 모든 앱과 드라이버의 업데이트가 가능해질 예정임</li>\n<li>개발자는 <strong>업데이트 일정 관리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21174",
+      "guid": "https://news.hada.io/topic?id=21174",
+      "pubDate": "2025-05-29T13:36:12+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "6개월간 Corne 키보드를 써보고 느낀 점",
+      "description": {
+        "$text": "<ul>\n<li>텐키리스(TKL) 키보드에서 출발해 Poker 61, Tada68 등 여러 키보드를 거쳐 <strong>46키 분리형 키보드인 Corne</strong>으로 전환</li>\n<li>Corne는 <strong>적응 곡선이 높지만</strong>, 몇 주 안에 타이핑 속도가 회복되고, <strong>커스터마이징을 통해 업무에 적합한 레이아웃</strong>을 구현할 수 있었...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21173",
+      "guid": "https://news.hada.io/topic?id=21173",
+      "pubDate": "2025-05-29T13:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "와플 하우스의 중단 요청(영업정지 요구) 받기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>허리케인 Helene</strong>으로 인해 플로리다 대학 수업이 휴강된 시점에서, 필자는 <strong>Waffle House 홈페이지 역공학 작업</strong>을 진행함</li>\n<li>\n<strong>Waffle House Index</strong>라는 비공식적 자연재해 지표의 현실화와 데이터 실시간 지도로 구현함</li>\n<li>Python과 Next.js, R...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21172",
+      "guid": "https://news.hada.io/topic?id=21172",
+      "pubDate": "2025-05-29T12:33:27+09:00",
       "author": "neo",
       "category": ""
     }
