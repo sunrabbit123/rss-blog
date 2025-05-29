@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-29T13:57:52+09:00",
+  "lastBuildDate": "2025-05-29T18:11:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41080,6 +41080,32 @@
       "guid": "https://news.hada.io/topic?id=21175",
       "pubDate": "2025-05-29T13:45:52+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "MCP를 통한 지식 그래프와 LLM 연동",
+      "description": {
+        "$text": "<h3>LLM 한계를 넘는 기술 조합 : 지식 그래프 × MCP × 에이전트</h3>\n<p>대형 언어 모델(LLM)은 강력하지만, 최신 정보나 도메인 특화 지식에는 약합니다.<br />\n이를 보완하기 위해 <strong>검색 증강 생성(RAG)</strong>, <strong>에이전트</strong>, 그리고 최근 급부상하는 <strong>MCP(Model Context Protocol)</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21178",
+      "guid": "https://news.hada.io/topic?id=21178",
+      "pubDate": "2025-05-29T18:11:01+09:00",
+      "author": "leesk",
+      "category": ""
+    },
+    {
+      "title": "일본우편 '디지털 주소' 시스템 도입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>일본우편</strong>이 7자리 문·숫자 조합으로 <strong>실제 주소</strong>를 연결하는 '디지털 주소' 시스템을 도입함</li>\n<li>온라인 쇼핑몰 등에서 이 <strong>디지털 주소</strong>를 입력하면 사용자의 주소가 자동으로 확인되는 방식임</li>\n<li>사용자는 Yu ID 멤버십 서비스에 등록하면 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21177",
+      "guid": "https://news.hada.io/topic?id=21177",
+      "pubDate": "2025-05-29T17:40:29+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
