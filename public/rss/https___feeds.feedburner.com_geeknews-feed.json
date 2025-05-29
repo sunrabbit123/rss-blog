@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-29T10:09:09+09:00",
+  "lastBuildDate": "2025-05-29T10:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -40963,6 +40963,58 @@
       "guid": "https://news.hada.io/topic?id=21157",
       "pubDate": "2025-05-29T09:26:03+09:00",
       "author": "youknowone",
+      "category": ""
+    },
+    {
+      "title": "Deepseek R1-0528 릴리즈",
+      "description": {
+        "$text": "<ul>\n<li>Deepseek R1-0528은 <strong>최신 LLM</strong>으로 공개됨</li>\n<li>이 모델은 <strong>오픈소스</strong>로 제공되어 접근성과 활용성 증대임</li>\n<li>다양한 <strong>자연어 처리 및 생성 작업</strong>에서 강력한 성능을 보임</li>\n<li>\n<strong>더 빠르고 효율적인 아키텍처</strong>를 통해 연구 및 실...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21171",
+      "guid": "https://news.hada.io/topic?id=21171",
+      "pubDate": "2025-05-29T10:34:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "JavaScript의 간략한 역사",
+      "description": {
+        "$text": "<ul>\n<li>올해 자바스크립트 30주년을 맞아서 Deno가 그동안의 역사를 간략히 요약</li>\n<li>자바스크립트는 <strong>10일 만에 개발된 스크립트 언어</strong>에서 시작해, 현재 <strong>세계에서 가장 인기 있는 언어</strong>로 자리잡음</li>\n<li>JavaScript가 어떻게 발전해 왔고 앞으로 어디로 향하는지 보여주는 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21170",
+      "guid": "https://news.hada.io/topic?id=21170",
+      "pubDate": "2025-05-29T10:25:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "xAI, Telegram에 Grok 챗봇 통합을 위해 4150억원 지불하는 계약 진행중",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Telegram</strong>이 <strong>xAI</strong>와의 파트너십을 통해 챗봇 <strong>Grok</strong>을 플랫폼 내에 통합하는 계약이 진행중</li>\n<li>xAI는 <strong>3억 달러</strong>를 현금 및 주식으로 텔레그램에 지급</li>\n<li>텔레그램은 앱 내에서 xAI 구독이 발생할 경우 <strong>수익의 50%</stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21169",
+      "guid": "https://news.hada.io/topic?id=21169",
+      "pubDate": "2025-05-29T10:15:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DuckLake - 통합 데이터 레이크 및 카탈로그 포맷",
+      "description": {
+        "$text": "<ul>\n<li>데이터 레이크와 <strong>카탈로그 포맷</strong>을 통합한 새로운 솔루션</li>\n<li>Parquet 파일과 SQL 데이터베이스를 기반으로 동작하며, <strong>전통적인 레이크하우스보다 간결한 데이터 레이크 구현</strong>을 가능하게 함</li>\n<li>\n<strong>PostgreSQL, SQLite, MySQL, DuckDB</strong> 등 여러 데이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21168",
+      "guid": "https://news.hada.io/topic?id=21168",
+      "pubDate": "2025-05-29T10:12:10+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
