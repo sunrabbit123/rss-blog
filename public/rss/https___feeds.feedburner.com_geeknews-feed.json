@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-29T23:34:18+09:00",
+  "lastBuildDate": "2025-05-30T09:55:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41118,6 +41118,123 @@
       "link": "https://news.hada.io/topic?id=21179",
       "guid": "https://news.hada.io/topic?id=21179",
       "pubDate": "2025-05-29T23:34:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인간 개발자가 LLM보다 여전히 더 뛰어난 이유",
+      "description": {
+        "$text": "<ul>\n<li>글 작성자는 <strong>AI와 LLM</strong>을 자주 활용하지만, <strong>현시점에서 인간의 문제 해결 능력</strong>이 LLM보다 훨씬 앞섬</li>\n<li>\n<strong>Redis 벡터 세트</strong>에서 발생한 복잡한 버그 수정 과정에서 LLM의 한계를 직접 경험함</li>\n<li>LLM이 제안하는 <strong>알고리듬</strong>은 표준...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21189",
+      "guid": "https://news.hada.io/topic?id=21189",
+      "pubDate": "2025-05-30T09:55:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Compiler Explorer와 영원히 지속되는 URL의 약속",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Compiler Explorer</strong>는 초기에는 모든 상태를 <strong>URL에 직접 저장</strong>하는 방식을 사용했음</li>\n<li>URL이 너무 길어져 <strong>Google의 goo.gl 단축 URL 서비스</strong>를 도입했고, 이 구조는 여러 번의 리디렉션을 거치는 복잡함을 유발했음</li>\n<li>2018년부터 URL 길이 제한...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21188",
+      "guid": "https://news.hada.io/topic?id=21188",
+      "pubDate": "2025-05-30T09:52:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "90년대 웹 디자인의 구루들: Zeldman, Siegel, Nielsen",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Flash</strong>와 <strong>CSS</strong>의 등장 이후, 1997년대에 웹 디자인 분야에 세 가지 핵심 철학이 생겨남</li>\n<li>\n<strong>David Siegel</strong>은 “해킹”을 통한 시각적 미학, <strong>Jakob Nielsen</strong>은 단순성과 접근성, <strong>Jeffrey Zeldman</strong>은 디자인과 <strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21187",
+      "guid": "https://news.hada.io/topic?id=21187",
+      "pubDate": "2025-05-30T09:49:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "WeatherStar 4000+: 웨더 채널 시뮬레이터",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>WeatherStar 4000+</strong> 는 <strong>The Weather Channel</strong>의 옛날 기상 정보 방송을 웹에서 재현하는 오픈 소스 시뮬레이터임</li>\n<li>유저는 실제 위치를 입력해 과거 TV의 지역 기상 정보 서비스를 <strong>실시간</strong>으로 체험 가능함</li>\n<li>인터페이스는 실제 <strong>Weath...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21186",
+      "guid": "https://news.hada.io/topic?id=21186",
+      "pubDate": "2025-05-30T09:46:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 무역법원이 트럼프 관세를 불법으로 판결",
+      "description": {
+        "$text": "<ul>\n<li>미국 무역법원이 <strong>트럼프 행정부</strong> 시절 도입된 <strong>글로벌 관세</strong>가 불법임을 판결함</li>\n<li>재판부는 해당 관세가 <strong>미 무역법</strong>을 위반했다고 판단함</li>\n<li>이번 결정으로 <strong>관세 부과</strong>의 합법성에 대한 논란이 재점화됨</li>\n<li>일부 업계는 관...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21185",
+      "guid": "https://news.hada.io/topic?id=21185",
+      "pubDate": "2025-05-30T09:43:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google 검색의 AI 환경에서 콘텐츠 성과를 높이는 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Google의 AI Overviews 및 AI Mode</strong>에 대응하려면 방문자 중심의 <strong>독창적이고 유용한 콘텐츠</strong>를 제작하는 것이 핵심</li>\n<li>AI 검색은 <strong>더 구체적이고 복합적인 질문</strong>에 대응하므로, <strong>차별화된 정보와 우수한 사용자 경험</strong>을 제공하는 페이지...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21184",
+      "guid": "https://news.hada.io/topic?id=21184",
+      "pubDate": "2025-05-30T09:41:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Astra - 가볍고 빠른 JavaScript-To-EXE 컴파일러",
+      "description": {
+        "$text": "<ul>\n<li>JavaScript/TypeScript 기반 애플리케이션을 <strong>단일 실행 파일(.exe)로 컴파일</strong>하는 경량 도구\n<ul>\n<li>특히 CLI 도구나 서버 앱(Express, Fastify 등)을 타겟으로 함 (<strong>Electron 대체용이 아님</strong>)</li>\n</ul>\n</li>\n<li>기존 <code>pkg</code>, <code>nexe</code>와 완전히 다른...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21182",
+      "guid": "https://news.hada.io/topic?id=21182",
+      "pubDate": "2025-05-30T09:21:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "HuggingFace LeRobot Hackathon",
+      "description": {
+        "$text": "<p>허깅페이스 르로봇 해커톤이 서울에서도 열립니다</p>\n<p>(https://lerobot.sudormrf.run)</p>\n<p>참여 원하시는 분들은 ⬆️링크 들어가시면 됩니다<br />\n(위 링크는 호스트들이 작성하는 서울 해커톤 안내 페이지 입니다)</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21181",
+      "guid": "https://news.hada.io/topic?id=21181",
+      "pubDate": "2025-05-30T08:51:50+09:00",
+      "author": "lonzino",
+      "category": ""
+    },
+    {
+      "title": "내가 만든 사이트가 못생긴 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>나만의 창작물</strong>임을 강조하며 웹사이트의 디자인이 전문가 수준이 아님을 인정함</li>\n<li>웹사이트를 자신이 만들었기 때문에 <strong>개성</strong>과 <strong>주체성</strong>이 중요함을 설명함</li>\n<li>\n<strong>CSS 규칙</strong>과 소소한 변주를 활용해 &quot;중고서점&quot; 같은 느...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21180",
+      "guid": "https://news.hada.io/topic?id=21180",
+      "pubDate": "2025-05-30T08:34:06+09:00",
       "author": "neo",
       "category": ""
     }
