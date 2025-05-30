@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-30T14:19:51+09:00",
+  "lastBuildDate": "2025-05-30T17:33:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41275,6 +41275,19 @@
       "guid": "https://news.hada.io/topic?id=21193",
       "pubDate": "2025-05-30T14:19:51+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "FLUX.1 Kontext - 텍스트와 이미지를 결합한 실시간 생성·편집 AI 모델",
+      "description": {
+        "$text": "<ul>\n<li>Black Forest Labs의 <strong>FLUX.1 Kontext</strong>는 <strong>텍스트와 이미지를 동시에 입력</strong>해 맥락을 이해하고, 기존 이미지의 특징과 스타일을 유지하며 <strong>즉시 수정·생성이 가능한</strong> 최신 생성형 AI 모델</li>\n<li>기존 텍스트-이미지 생성 알고리듬 대비, <strong>문자·객체 일...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21194",
+      "guid": "https://news.hada.io/topic?id=21194",
+      "pubDate": "2025-05-30T17:33:50+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
