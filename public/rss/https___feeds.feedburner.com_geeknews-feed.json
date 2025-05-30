@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-30T19:51:28+09:00",
+  "lastBuildDate": "2025-05-30T22:33:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41301,6 +41301,19 @@
       "guid": "https://news.hada.io/topic?id=21195",
       "pubDate": "2025-05-30T19:51:28+09:00",
       "author": "pswdev",
+      "category": ""
+    },
+    {
+      "title": "모던 커맨드 라인 핸드북 작성",
+      "description": {
+        "$text": "<ul>\n<li>이 <strong>핸드북</strong>은 현대적인 Unix/Linux 커맨드 라인 사용법을 쉽게 설명함</li>\n<li>두꺼운 <strong>매뉴얼</strong>이나 복잡한 문서 없이 빠르게 주요 개념과 명령어를 익힐 수 있음</li>\n<li>\n<strong>터미널</strong>, 쉘, CLI 애플리케이션, 쉘 스크립팅까지 통합적으로 학습 가능함</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21196",
+      "guid": "https://news.hada.io/topic?id=21196",
+      "pubDate": "2025-05-30T22:33:48+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
