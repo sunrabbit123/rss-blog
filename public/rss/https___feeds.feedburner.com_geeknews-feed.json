@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-30T17:33:50+09:00",
+  "lastBuildDate": "2025-05-30T19:51:28+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41288,6 +41288,19 @@
       "guid": "https://news.hada.io/topic?id=21194",
       "pubDate": "2025-05-30T17:33:50+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Arc 멤버들에게 보내는 편지",
+      "description": {
+        "$text": "<h2>Arc 멤버들에게</h2>\n<ul>\n<li>The Browser Company는 Arc에 올인했다가 갑자기 Dia라는 새로운 것을 만들기 시작함</li>\n<li>겉보기에는 갑작스러워 보일 수 있음. Arc는 추진력이 있었고, 많은 사람들이 좋아했음. 그러나 내부에서는 결정이 보기보다 느리고 신중했음.</li>\n<li>왜 이 회사를 시작했는지, Arc에서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21195",
+      "guid": "https://news.hada.io/topic?id=21195",
+      "pubDate": "2025-05-30T19:51:28+09:00",
+      "author": "pswdev",
       "category": ""
     }
   ]
