@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-30T11:49:11+09:00",
+  "lastBuildDate": "2025-05-30T14:19:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41262,6 +41262,19 @@
       "guid": "https://news.hada.io/topic?id=21190",
       "pubDate": "2025-05-30T10:36:04+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "비즈니스 바보의 시대",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>경영진</strong>과 관리자들이 실제로 <strong>일의 본질</strong>을 이해하지 못한 채 겉치레와 상징적 행위에 집중하고 있음</li>\n<li>이 현상은 <strong>주주가치 극대화</strong>라는 신자유주의적 인센티브에서 비롯된 결과로, 기업과 사회 전반의 <strong>질적 하락</strong>을 초래함</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21193",
+      "guid": "https://news.hada.io/topic?id=21193",
+      "pubDate": "2025-05-30T14:19:51+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
