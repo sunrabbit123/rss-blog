@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-30T09:55:59+09:00",
+  "lastBuildDate": "2025-05-30T11:02:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41235,6 +41235,32 @@
       "link": "https://news.hada.io/topic?id=21180",
       "guid": "https://news.hada.io/topic?id=21180",
       "pubDate": "2025-05-30T08:34:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cap - 경량 PoW 기반 CAPTCHA 대체용 오픈소스",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SHA-256 Proof-Of-Work</strong>를 기반으로 하여, 기존 CAPTCHA보다 <strong>빠르고</strong> <strong>프라이버시 친화적</strong>이며, <strong>통합이 매우 간단</strong>한 오픈소스 CAPTCHA 대체제</li>\n<li>\n<strong>hCaptcha</strong> 대비 250배 작고, 프라이버시를 중시하며 <strong>사용자 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21191",
+      "guid": "https://news.hada.io/topic?id=21191",
+      "pubDate": "2025-05-30T11:02:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "C# 파일을 dotnet run app.cs로 직접 실행하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>.NET 10 Preview 4</strong> 버전에서는 <code>dotnet run app.cs</code> 명령어로 <strong>C# 파일을 직접 실행</strong>할 수 있음</li>\n<li>이제 <strong>별도의 프로젝트 파일 없이</strong> 빠르게 스크립트 실행, 실험, 테스트 코드 작성이 가능해짐</li>\n<li>\n<strong>NuGet 패키지 참조, SDK와...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21190",
+      "guid": "https://news.hada.io/topic?id=21190",
+      "pubDate": "2025-05-30T10:36:04+09:00",
       "author": "neo",
       "category": ""
     }
