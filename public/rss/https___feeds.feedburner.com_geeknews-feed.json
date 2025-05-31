@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-31T10:11:01+09:00",
+  "lastBuildDate": "2025-05-31T11:03:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41443,6 +41443,32 @@
       "link": "https://news.hada.io/topic?id=21200",
       "guid": "https://news.hada.io/topic?id=21200",
       "pubDate": "2025-05-31T09:50:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "화이트칼라 직종 대량 해고는 AI 과장 분위기의 일부임",
+      "description": {
+        "$text": "<ul>\n<li>최근 <strong>화이트칼라 해고</strong>가 증가함</li>\n<li>많은 기업들이 <strong>AI 발전</strong>을 이유로 인력 감축을 설명함</li>\n<li>실제로 해고 원인은 비용 절감과 구조조정임</li>\n<li>AI가 실제로 대체한 직무는 많지 않음</li>\n<li>AI 과장이 기업 전략의 일부로 활용되는 현상임</li>\n</ul>\n<hr ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21211",
+      "guid": "https://news.hada.io/topic?id=21211",
+      "pubDate": "2025-05-31T11:03:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "악기 내부에서 촬영한 사진들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Charles Brooks</strong>는 <strong>악기 내부</strong>를 촬영하는 독특한 사진 작업을 진행함</li>\n<li>\n<strong>Laowa 프로브 렌즈</strong>와 <strong>포커스 스태킹 기법</strong>을 이용해 섬세하고 복잡한 촬영 과정을 거침</li>\n<li>바이올린 등 소구경 악기 내부 촬영을 위해 <strong>의료용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21210",
+      "guid": "https://news.hada.io/topic?id=21210",
+      "pubDate": "2025-05-31T11:00:38+09:00",
       "author": "neo",
       "category": ""
     }
