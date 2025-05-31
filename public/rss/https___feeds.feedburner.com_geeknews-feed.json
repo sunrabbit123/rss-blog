@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-31T11:03:40+09:00",
+  "lastBuildDate": "2025-05-31T12:34:53+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41469,6 +41469,19 @@
       "link": "https://news.hada.io/topic?id=21210",
       "guid": "https://news.hada.io/topic?id=21210",
       "pubDate": "2025-05-31T11:00:38+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Microsandbox: 컨테이너처럼 느껴지고 동작하는 가상 머신",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>microsandbox</strong>는 신뢰할 수 없는 사용자 및 AI 코드 실행을 안전하게 <strong>가상 머신 수준의 격리</strong>로 제공함</li>\n<li>\n<strong>초고속 부팅(200ms 이하), OCI 컨테이너 호환성, 자체 호스팅</strong> 등 기존 VM·컨테이너의 단점을 극복함</li>\n<li>다양한 프로그래밍 언어용 <st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21212",
+      "guid": "https://news.hada.io/topic?id=21212",
+      "pubDate": "2025-05-31T12:34:53+09:00",
       "author": "neo",
       "category": ""
     }
