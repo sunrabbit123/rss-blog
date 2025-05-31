@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-31T21:21:31+09:00",
+  "lastBuildDate": "2025-05-31T21:33:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41496,6 +41496,19 @@
       "guid": "https://news.hada.io/topic?id=21213",
       "pubDate": "2025-05-31T16:05:15+09:00",
       "author": "ohyecloudy",
+      "category": ""
+    },
+    {
+      "title": "우리가 아직 공개할 생각이 없었던 놀라울 정도로 빠른 AI 생성 커널들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI가 생성한 CUDA-C 커널</strong>들이 <strong>PyTorch의 전문가 최적화 커널</strong>과 비슷하거나 더 나은 성능을 보임</li>\n<li>\n<strong>Conv2D</strong>, <strong>LayerNorm</strong> 등에서 PyTorch 대비 최대 <strong>~179.9%</strong> 에서 <strong>484.4%</strong> 까지 성능 향상 확인</l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21215",
+      "guid": "https://news.hada.io/topic?id=21215",
+      "pubDate": "2025-05-31T21:33:47+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
