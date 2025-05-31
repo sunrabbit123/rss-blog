@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-31T12:34:53+09:00",
+  "lastBuildDate": "2025-05-31T16:05:15+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41483,6 +41483,19 @@
       "guid": "https://news.hada.io/topic?id=21212",
       "pubDate": "2025-05-31T12:34:53+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "노안 때문에 업무용 안경으로 구매한 자이스 오피스 렌즈 사용 후기",
+      "description": {
+        "$text": "<ul>\n<li>노안으로 도수를 한 단계 낮춘 단초점 렌즈를 사용</li>\n<li>다시 조금씩 불편해져서 기능성 렌즈를 시도함\n<ul>\n<li>책이 선명하게 보이는 영역이 좁음</li>\n<li>4~5줄 정도</li>\n</ul>\n</li>\n<li>오피스 렌즈를 맞춤\n<ul>\n<li>다초점렌즈와 다르게 원거리가 없음</li>\n<li>중거리와 근거리 초점만 있어서 모니...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21213",
+      "guid": "https://news.hada.io/topic?id=21213",
+      "pubDate": "2025-05-31T16:05:15+09:00",
+      "author": "ohyecloudy",
       "category": ""
     }
   ]
