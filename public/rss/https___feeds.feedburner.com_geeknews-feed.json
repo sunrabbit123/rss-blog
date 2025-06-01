@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-01T12:54:47+09:00",
+  "lastBuildDate": "2025-06-01T21:33:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41599,6 +41599,19 @@
       "link": "https://news.hada.io/topic?id=21222",
       "guid": "https://news.hada.io/topic?id=21222",
       "pubDate": "2025-06-01T12:54:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Analysis I의 Lean 컴패니언",
+      "description": {
+        "$text": "<ul>\n<li>테렌스 타오가 집필한 <strong>실해석학 교재 Analysis I</strong>의 핵심 내용을 <strong>Lean</strong> 증명 보조기로 옮긴 프로젝트임</li>\n<li>이 프로젝트는 <strong>기본 수 체계의 구성</strong>과 증명 논리 등, 엄밀성을 강조하는 원서의 목표와 잘 맞는 구조를 가짐</li>\n<li>Mathlib 표준 라이브러리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21223",
+      "guid": "https://news.hada.io/topic?id=21223",
+      "pubDate": "2025-06-01T21:33:26+09:00",
       "author": "neo",
       "category": ""
     }
