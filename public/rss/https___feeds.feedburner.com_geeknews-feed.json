@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-05-31T21:33:47+09:00",
+  "lastBuildDate": "2025-06-01T10:11:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41508,6 +41508,32 @@
       "link": "https://news.hada.io/topic?id=21215",
       "guid": "https://news.hada.io/topic?id=21215",
       "pubDate": "2025-05-31T21:33:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "jjui - Jujutsu 버전관리 시스템용 TUI",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Jujutsu(jj)</strong> 는 현대적 워크플로우를 지향하는 분산 버전관리 시스템으로, 최근 개발자/오픈소스 커뮤니티에서 빠르게 성장 중</li>\n<li>jjui는 기존 <strong>Git TUI</strong>(예: Lazygit)처럼 <strong>직관적인 커밋 트리 탐색, rebase, squash, diff, 북마크 등</strong>을 jj 환경에서도...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21217",
+      "guid": "https://news.hada.io/topic?id=21217",
+      "pubDate": "2025-06-01T10:11:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Angular v20 발표",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>리액티비티(reactivity)</strong> 관련 주요 API를 안정화하며, <strong>Zoneless</strong> 기능을 개발자 프리뷰로 공개함</li>\n<li>\n<strong>Chrome DevTools</strong>와의 통합 등으로 <strong>디버깅 경험</strong>과 개발 효율성을 크게 향상시킴</li>\n<li>\n<strong>GenAI</strong> 개발 지원, ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21216",
+      "guid": "https://news.hada.io/topic?id=21216",
+      "pubDate": "2025-06-01T09:31:01+09:00",
       "author": "neo",
       "category": ""
     }
