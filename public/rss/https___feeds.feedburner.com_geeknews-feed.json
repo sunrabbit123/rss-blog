@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-01T12:51:46+09:00",
+  "lastBuildDate": "2025-06-01T12:54:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41586,6 +41586,19 @@
       "link": "https://news.hada.io/topic?id=21218",
       "guid": "https://news.hada.io/topic?id=21218",
       "pubDate": "2025-06-01T12:42:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "AI가 스스로 코드를 리라이트하며 자신을 개선하는 Darwin Gödel Machine",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Darwin Gödel Machine(DGM)</strong> 은 AI가 스스로 코드 전체를 수정해 지속적으로 <strong>성능 개선</strong>을 추진하는 시스템임</li>\n<li>기존 <strong>Gödel Machine</strong> 개념이 수학적 증명 기반의 자기개선에 머무른 반면 DGM은 <strong>진화적 오픈엔디드 알고리듬</strong>을 적용해...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21222",
+      "guid": "https://news.hada.io/topic?id=21222",
+      "pubDate": "2025-06-01T12:54:47+09:00",
       "author": "neo",
       "category": ""
     }
