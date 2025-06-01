@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-01T10:11:01+09:00",
+  "lastBuildDate": "2025-06-01T12:51:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41534,6 +41534,58 @@
       "link": "https://news.hada.io/topic?id=21216",
       "guid": "https://news.hada.io/topic?id=21216",
       "pubDate": "2025-06-01T09:31:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "소비자용 하드웨어에서 사용할 수 있는 최고의 LLM은 무엇인가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>소비자용 하드웨어</strong>에서 실행할 수 있는 <strong>LLM(대형 언어 모델)</strong> 선택에 대한 커뮤니티 질문임</li>\n<li>최신 LLM들이 점점 더 <strong>큰 연산 자원</strong>을 요구함에 따라, 많은 사용자가 효율적이고 가벼운 모델을 찾는 상황임</li>\n<li>\n<strong>LLama</strong>, <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21221",
+      "guid": "https://news.hada.io/topic?id=21221",
+      "pubDate": "2025-06-01T12:51:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Buttplug MCP",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Buttplug MCP</strong>는 Buttplug.io 생태계 내 성인용 디바이스를 <strong>대형 언어 모델(LLM)</strong> 기반 프로그램과 연동하는 <strong>MCP 서버</strong>임</li>\n<li>사용자는 <strong>Claude Desktop</strong> 등 LLM 툴을 통해 디바이스 정보를 조회하거나 진동, 배터리 상태, 신호 세기 등...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21220",
+      "guid": "https://news.hada.io/topic?id=21220",
+      "pubDate": "2025-06-01T12:48:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Valkey 1주년: Redis의 커뮤니티 포크",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Valkey</strong>는 Redis의 오픈소스 분리 이후 만들어진 <strong>커뮤니티 주도 포크</strong>임</li>\n<li>지난 1년간 Valkey는 활발한 기능 추가와 성능 개선으로 <strong>빠른 성장세</strong>를 보임</li>\n<li>여러 기술 기업이 <strong>Valkey 프로젝트 개발과 운영에 직접 참여</strong>함</li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21219",
+      "guid": "https://news.hada.io/topic?id=21219",
+      "pubDate": "2025-06-01T12:45:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "실리콘밸리에 대형 전자제품 소매점이 다시 등장: Micro Center 오픈",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Micro Center</strong>가 <strong>실리콘밸리</strong>에 신규 매장 오픈 소식 공개</li>\n<li>고객을 위해 <strong>Member Pricing</strong> 제도를 2026년까지 무료로 제공함</li>\n<li>가입 및 적립 절차는 간단하며 <strong>신용카드 불필요</strong>\n</li>\n<li>\n<strong>멤버 전용 할인가</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21218",
+      "guid": "https://news.hada.io/topic?id=21218",
+      "pubDate": "2025-06-01T12:42:43+09:00",
       "author": "neo",
       "category": ""
     }
