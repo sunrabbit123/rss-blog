@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-02T22:29:55+09:00",
+  "lastBuildDate": "2025-06-02T23:33:46+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41834,6 +41834,19 @@
       "guid": "https://news.hada.io/topic?id=21250",
       "pubDate": "2025-06-02T22:29:55+09:00",
       "author": "prunusnira",
+      "category": ""
+    },
+    {
+      "title": "의자를 만들었음",
+      "description": {
+        "$text": "<ul>\n<li>저자는 <strong>간단한 설계</strong>로 직접 의자를 제작함</li>\n<li>한 개의 8피트 2&quot;x12&quot; 재목과 <strong>기초적인 절단 작업</strong>만을 사용함</li>\n<li>전문 공구 없이 <strong>원형톱과 멀티툴</strong>만으로 제작을 완료함</li>\n<li>완성된 의자는 <strong>실용성과 만족감</strong>을 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21251",
+      "guid": "https://news.hada.io/topic?id=21251",
+      "pubDate": "2025-06-02T23:33:46+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
