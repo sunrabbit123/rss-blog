@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-02T12:33:33+09:00",
+  "lastBuildDate": "2025-06-02T19:13:10+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41781,6 +41781,19 @@
       "link": "https://news.hada.io/topic?id=21243",
       "guid": "https://news.hada.io/topic?id=21243",
       "pubDate": "2025-06-02T12:33:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "50대 1인 개발자 살아남기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>개인사업자</strong>로 창립 2주년, 1인 개발자 독립 5주년을 맞이해 살아남으며 느낀 점을 정리</li>\n</ul>\n<h2>1. 성실</h2>\n<ul>\n<li>재택 개발자에게 가장 중요한 자질은 <strong>성실함</strong>\n</li>\n<li>클라이언트에게 신뢰를 주는 유일한 방법은 <strong>약속된 결과물과 일정 준수</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21244",
+      "guid": "https://news.hada.io/topic?id=21244",
+      "pubDate": "2025-06-02T17:37:42+09:00",
       "author": "neo",
       "category": ""
     }
