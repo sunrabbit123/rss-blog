@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-02T10:38:52+09:00",
+  "lastBuildDate": "2025-06-02T11:31:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41743,6 +41743,32 @@
       "guid": "https://news.hada.io/topic?id=21231",
       "pubDate": "2025-06-02T10:11:01+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Figma, 공식으로 한국어 지원 시작",
+      "description": {
+        "$text": "<ul>\n<li>4/15에 한국어 버전 오픈베타 시작 하고 1.5개월만</li>\n<li>일본어, 스페인어에 이은 세 번째 언어 현지화(4번째는 포르투갈어)</li>\n<li>\n<strong>전체 제품 번역, 한국 문화에 맞춘 UI, 한국어 사용자 전용 지원</strong>이 포함</li>\n<li>KOSPI 200 기업 중 약 3분의 1이 Figma를 사용하며, 최근 1년간 한국...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21242",
+      "guid": "https://news.hada.io/topic?id=21242",
+      "pubDate": "2025-06-02T11:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Mary Meeker의 Trends Report - \"AI\"",
+      "description": {
+        "$text": "<ul>\n<li>5년만에 나온 메리 미커의 트렌드 리포트. 이번엔 <strong>AI</strong>가 중심. 총 340페이지</li>\n<li>\n<strong>AI 사용과 확산 속도</strong>가 인터넷보다 훨씬 빠르며, <strong>기계가 인간을 앞지르는 시점</strong>이 도래하고 있음</li>\n<li>\n<strong>글로벌 인터넷 인프라</strong>(55억명 사용), 30년...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21241",
+      "guid": "https://news.hada.io/topic?id=21241",
+      "pubDate": "2025-06-02T11:11:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
