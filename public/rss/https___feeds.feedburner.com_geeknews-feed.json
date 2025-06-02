@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-02T11:31:01+09:00",
+  "lastBuildDate": "2025-06-02T12:33:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41769,6 +41769,19 @@
       "guid": "https://news.hada.io/topic?id=21241",
       "pubDate": "2025-06-02T11:11:02+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "사무라이 잭의 비주얼 세계",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>사무라이 잭</strong>은 대사보다 <strong>시각적 스토리텔링</strong>에 집중하며 기존 애니메이션과 차별성 창출</li>\n<li>\n<strong>Genndy Tartakovsky</strong>와 아트 디렉터 <strong>Scott Wills</strong>의 협업으로 독특한 <strong>배경화와 분위기</strong> 구현</li>\n<li>\n<strong>한국의 R...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21243",
+      "guid": "https://news.hada.io/topic?id=21243",
+      "pubDate": "2025-06-02T12:33:33+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
