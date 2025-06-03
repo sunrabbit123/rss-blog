@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-03T11:02:02+09:00",
+  "lastBuildDate": "2025-06-03T18:45:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41990,6 +41990,32 @@
       "guid": "https://news.hada.io/topic?id=21253",
       "pubDate": "2025-06-03T09:49:26+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Ask GN: 신규 입사자를 위한 가이드북이나 문서를 추천해주세요",
+      "description": {
+        "$text": "<p>개발팀에 신규 입사자분들이 들어올 예정인데, 어떤 식으로 온보딩 프로세스를 만들어야 할 지 조금 막막한 상태입니다. 혹시 이런 내용을 다루는 책이나, 블로그 글이나, 문서가 있을까요?</p>\n<p>각 기업 별로 뭔가 아티클 하나씩은 만들어뒀을 줄 알았는데, 생각보다 찾기가 힘드네요 🥲</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21264",
+      "guid": "https://news.hada.io/topic?id=21264",
+      "pubDate": "2025-06-03T18:45:01+09:00",
+      "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 루비 lang 과 관련 된 아티클과 유튜브를 요약, 번역해서 아카이브 합니다.",
+      "description": {
+        "$text": "<p>한글로 된 루비, 레일즈 관련 아티클이나 유튜브가 많지 않기에 영어로 된 것들을 구글 gemini 를 이용해서 요약, 번역해 아카이브 하는 사이트를 만들었습니다.</p>\n<p>루비온레일즈 8.0 을 베이스로 postgresql 데이터베이스를 씁니다. 오늘 pg 의 전문검색을 이용해 검색 기능을 추가했는데 아주 잘 동작한 김에 이",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21263",
+      "guid": "https://news.hada.io/topic?id=21263",
+      "pubDate": "2025-06-03T18:22:21+09:00",
+      "author": "stadia",
       "category": ""
     }
   ]
