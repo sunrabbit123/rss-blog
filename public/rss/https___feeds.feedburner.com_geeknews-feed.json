@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-02T23:33:46+09:00",
+  "lastBuildDate": "2025-06-03T08:33:18+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -41846,6 +41846,19 @@
       "link": "https://news.hada.io/topic?id=21251",
       "guid": "https://news.hada.io/topic?id=21251",
       "pubDate": "2025-06-02T23:33:46+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LibriVox",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>LibriVox 커뮤니티</strong>는 무료 공개 도메인 오디오북과 함께 다양한 <strong>팟캐스트</strong> 에피소드를 제공함</li>\n<li>최근 몇 개월간 진행된 팟캐스트는 커뮤니티 내 주요 <strong>프로젝트 소식</strong>, 공개 도메인 작품 소개, 그리고 <strong>아카이브 탐구</strong>를 포함함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21252",
+      "guid": "https://news.hada.io/topic?id=21252",
+      "pubDate": "2025-06-03T08:33:18+09:00",
       "author": "neo",
       "category": ""
     }
