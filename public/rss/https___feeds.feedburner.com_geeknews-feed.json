@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-04T10:04:21+09:00",
+  "lastBuildDate": "2025-06-04T10:34:11+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42093,6 +42093,71 @@
       "link": "https://news.hada.io/topic?id=21265",
       "guid": "https://news.hada.io/topic?id=21265",
       "pubDate": "2025-06-04T08:33:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "딥러닝은 주목받지만, 딥팩트체킹은 외면받음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>딥러닝 기반 논문</strong>은 혁신적으로 보이고 높은 평가를 받음</li>\n<li>\n<strong>사실 검증과 오류 지적</strong>은 논문 인용이나 조회 수에서 제대로 보상받지 못함</li>\n<li>실험적으로 뛰어난 것처럼 보인 AI 모델도 실제로는 <strong>수백 건의 잘못된 예측</strong>을 포함함</li>\n<li>\n<s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21275",
+      "guid": "https://news.hada.io/topic?id=21275",
+      "pubDate": "2025-06-04T10:34:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "안드로이드에서 localhost를 통한 은밀한 웹-앱 추적",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Meta</strong>와 <strong>Yandex</strong>가 안드로이드에서 <strong>새로운 웹-앱 추적 기법</strong>을 사용함</li>\n<li>\n<strong>Facebook</strong>·** Instagram** 등 주요 앱이 <strong>로컬고정 포트</strong>를 통해 브라우저 정보와 쿠키 수신함</li>\n<li>\n<strong>브라우저 내 자바스크립트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21274",
+      "guid": "https://news.hada.io/topic?id=21274",
+      "pubDate": "2025-06-04T10:16:27+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인공지능은 인문학을 더 중요하게 만들지만, 동시에 훨씬 더 이상하게 만듦",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>생성형 인공지능</strong>의 부상으로 인해 인문학의 중요성이 증가함과 동시에 인문학의 본질 자체가 더 복잡하고 낯설게 변화함</li>\n<li>\n<strong>인문학적 지식과 역량</strong>이 인공지능 연구와 활용에서 중요한 역할을 차지하게 됨</li>\n<li>비전문가도 인공지능 도구를 활용해 <strong>교육용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21273",
+      "guid": "https://news.hada.io/topic?id=21273",
+      "pubDate": "2025-06-04T10:13:25+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "모든 혈액형에 호환 가능한 일본 인공혈액 개발",
+      "description": {
+        "$text": "<ul>\n<li>일본 연구진이 <strong>모든 혈액형 환자에게 사용할 수 있는 인공혈액</strong>을 개발함</li>\n<li>\n<strong>적혈구 속 헤모글로빈</strong>을 추출하여 인공혈구로 만들어졌으며, 혈액형 검사 없이 사용 가능함</li>\n<li>\n<strong>인공혈액</strong>은 상온 2년, 냉장 5년까지 보관 가능하며, 기존 적혈구보다...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21272",
+      "guid": "https://news.hada.io/topic?id=21272",
+      "pubDate": "2025-06-04T10:10:24+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "오류 처리를 위한 구문적 지원(또는 미지원)에 대하여",
+      "description": {
+        "$text": "<ul>\n<li>Go 언어에서 <strong>오류 처리의 장황함</strong>이 오랫동안 사용자 불만의 상위에 해당함</li>\n<li>다양한 <strong>구문 개선 제안(예: check/handle, try, ? 연산자 등)</strong> 이 논의 및 실험되었으나, 커뮤니티의 충분한 합의 없이 모두 기각됨</li>\n<li>언어 변화가 미치는 <strong>코드, 도구, 문서...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21271",
+      "guid": "https://news.hada.io/topic?id=21271",
+      "pubDate": "2025-06-04T10:07:23+09:00",
       "author": "neo",
       "category": ""
     }
