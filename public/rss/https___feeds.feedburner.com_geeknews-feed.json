@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-03T18:45:01+09:00",
+  "lastBuildDate": "2025-06-04T10:04:21+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42016,6 +42016,84 @@
       "guid": "https://news.hada.io/topic?id=21263",
       "pubDate": "2025-06-03T18:22:21+09:00",
       "author": "stadia",
+      "category": ""
+    },
+    {
+      "title": "Builder.ai 붕괴: 15억 달러 'AI' 스타트업, 실제로는 인도인들이 봇 행세 드러남",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Builder.ai</strong>가 15억 달러의 가치로 평가받았으나, 실제로는 <strong>인간 개발자</strong>가 AI로 위장해 운영됐음</li>\n<li>\n<strong>Microsoft</strong> 등 대형 투자사가 4억 5천만 달러 이상을 투자했으나 <strong>부정확한 매출 보고와 내부 구조 개편</strong>이 이어짐</li>\n<li>최근 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21270",
+      "guid": "https://news.hada.io/topic?id=21270",
+      "pubDate": "2025-06-04T10:04:21+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "러시아의 재밍을 이겨낸 우크라이나의 킬러 드론",
+      "description": {
+        "$text": "<ul>\n<li>우크라이나는 <strong>AI 기반 자율항법 시스템</strong>을 적용하여 러시아군의 <strong>전자전(재밍, 스푸핑) 방해에도 표적 공격을 성공</strong>함</li>\n<li>에스토니아 스타트업 KrattWorks 등은 <strong>뉴럴 네트워크 기반 광학 항법</strong> 등 최신 기술로 드론의 독립 작전 능력 강화</li>\n<li>\n<st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21269",
+      "guid": "https://news.hada.io/topic?id=21269",
+      "pubDate": "2025-06-04T10:01:20+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "EU 집행위원회, 대규모 감시 제안서 작성자 공개 거부",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>EU 집행위원회</strong>가 <strong>아동 성착취물 차단법(CSA 규제안)</strong> 의 작성자 정보 공개를 거부함</li>\n<li>해당 법안은 <strong>채팅 플랫폼 메시지 감시</strong>를 통해 불법 콘텐츠를 탐지할 수 있도록 하는 내용을 포함함</li>\n<li>내부 저자 정보 공개 요청에 대해 <strong>위원회는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21268",
+      "guid": "https://news.hada.io/topic?id=21268",
+      "pubDate": "2025-06-04T09:58:19+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Quarkdown: 현대적인 Markdown 기반 조판 시스템",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Quarkdown</strong>은 <strong>Markdown</strong>의 단순성과 함수, 스크립팅 확장 기능을 결합해, 책, 프레젠테이션 등 다양한 <strong>출력물 생성</strong>을 지원함</li>\n<li>\n<strong>Turing-complete한 확장</strong>을 통해 조건문, 반복문, 레이아웃 함수를 제공하고, 자신만의 함수와 변수를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21267",
+      "guid": "https://news.hada.io/topic?id=21267",
+      "pubDate": "2025-06-04T09:55:18+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LiveStore - 반응형 SQLite 와 내장 동기화 엔진을 사용하는 상태 관리 솔루션",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>동기화 로직 개발</strong>에 대한 부담없이, 고성능 애플리케이션 개발이 가능하도록 설계된 <strong>상태 관리 데이터 계층</strong>\n</li>\n<li>반응형(reactive) <strong>SQLite</strong>와 내장 동기화 엔진을 사용하는 것이 특징</li>\n<li>\n<strong>로컬 우선(Local-first)</strong> 으로 오프라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21266",
+      "guid": "https://news.hada.io/topic?id=21266",
+      "pubDate": "2025-06-04T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "매달 하나씩 말도 안 되는 웹 프로젝트를 만드는 이야기",
+      "description": {
+        "$text": "<ul>\n<li>개발자가 매달 <strong>기발하고 비상식적인 웹 프로젝트</strong>를 제작하는 시도임</li>\n<li>각 프로젝트는 <strong>유머러스하고 실험적인 아이디어</strong>에 기반하여 일상적인 문제나 상황을 독특하게 해석함</li>\n<li>전통적인 <strong>eCommerce, 게임, 인공지능, 소셜 서비스 등 다양한 웹 분야</st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21265",
+      "guid": "https://news.hada.io/topic?id=21265",
+      "pubDate": "2025-06-04T08:33:17+09:00",
+      "author": "neo",
       "category": ""
     }
   ]

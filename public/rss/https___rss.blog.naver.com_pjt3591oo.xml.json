@@ -1002,6 +1002,15 @@
       "pubDate": "Thu, 29 May 2025 13:17:04 +0900",
       "author": "pjt3591oo",
       "category": "DB"
+    },
+    {
+      "title": "[서버] 포스트맨(postman)을 활용하여 mcp server 테스트하기",
+      "description": "안녕하세요 멍개입니다. 이번 시간은 서버를 테스트할 수 있는 도구인 포스트맨(postman)에 추가된 mcp server 테스트 기능을 다뤄보겠습니다. 본 글을 이해하기 위해서는 MCP가 무엇인지 알아야 합니다. https://blog.naver.com/pjt3591oo/223824144846 https://blog.naver.com/pjt3591oo/223830623105 · mcp 서버 준비 먼저, 샘플 mcp 서버 코드를 다운받습니다. 해당 저장소에는 stdio와 sse 방식의 mcp 서버가 준비되어 있습니다. stdio: server.mjs sse: server.remote.mjs · postman으로 stdio 방식의 mcp 서버 테스트 아래처럼 STDIO를 선택 후, 실행 mcp 서버의 실행 명령어를 입력하여 Run 버튼을 눌러줍니다. 정상적으로 연결이 된다면....... <img src=\"https://blogthumb.pstatic.net/MjAyNTA2MDRfMjUz/MDAxNzQ4OTk1NzQwMDQ0.5BNqHiYonhmKi2aAGCjs9u1j1s46j4f2elgtWm2SixMg.JdVNY7yxspYAfBMvZvdEUB3uWO8XXaIoSyR3vnTw1Bwg.PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-06-04_09.08.44.png?type=s3\" />",
+      "link": "https://blog.naver.com/pjt3591oo/223887952860?fromRss=true&trackingCode=rss",
+      "guid": "https://blog.naver.com/pjt3591oo/223887952860",
+      "pubDate": "Wed, 04 Jun 2025 09:14:04 +0900",
+      "author": "pjt3591oo",
+      "category": "서버"
     }
   ]
 }
