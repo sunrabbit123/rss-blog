@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-04T10:34:11+09:00",
+  "lastBuildDate": "2025-06-04T11:26:06+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42159,6 +42159,19 @@
       "guid": "https://news.hada.io/topic?id=21271",
       "pubDate": "2025-06-04T10:07:23+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DuckDB를 활용한 데이터 과학: 복잡한 파일 환경 길들이기",
+      "description": {
+        "$text": "<p>PyCon US 2025 발표내용입니다.</p>\n<h3>DuckDB를 활용한 데이터 과학: 복잡한 파일 환경 길들이기 - Alex Monahan</h3>\n<p>Alex Monahan의 발표 영상에서는 오픈소스 분석 데이터베이스 라이브러리인 DuckDB가 데이터 과학자들이 다양하고 정돈되지 않은 데이터 파일을 관리하고 분석하는 데 어떻게 도움을 줄 수 있",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21276",
+      "guid": "https://news.hada.io/topic?id=21276",
+      "pubDate": "2025-06-04T11:26:06+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
