@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T12:03:55+09:00",
+  "lastBuildDate": "2025-06-05T13:09:51+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42328,6 +42328,19 @@
       "guid": "https://news.hada.io/topic?id=21295",
       "pubDate": "2025-06-05T10:56:49+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Antropic, 회로 추적 도구 오픈소스화",
+      "description": {
+        "$text": "<p>일반적으로 심층 신경망은 내부 작동 원리를 이해하기 어려워 블랙박스로 취급되는데 Antropic의 <a href=\"https://www.anthropic.com/research/tracing-thoughts-language-model\">LLM 사고 추적</a> 코드가 오픈소스로 공개되어 공유해봅니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21298",
+      "guid": "https://news.hada.io/topic?id=21298",
+      "pubDate": "2025-06-05T13:09:51+09:00",
+      "author": "pompydev",
       "category": ""
     }
   ]
