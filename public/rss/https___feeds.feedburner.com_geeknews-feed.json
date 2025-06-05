@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T15:39:04+09:00",
+  "lastBuildDate": "2025-06-05T18:35:17+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42366,6 +42366,19 @@
       "link": "https://news.hada.io/topic?id=21299",
       "guid": "https://news.hada.io/topic?id=21299",
       "pubDate": "2025-06-05T15:34:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cursor 1.0",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cursor 1.0</strong>은 BugBot 코드 리뷰, 메모리 기능, 빠른 MCP 설치, Jupyter 지원, Background Agent 전체 공개 등 주요 업데이트를 포함함</li>\n<li>\n<strong>BugBot</strong>이 자동으로 PR을 검사해 버그를 찾아주고, Cursor에서 즉시 수정 가능함</li>\n<li>이제 <strong>Background Agent</st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21301",
+      "guid": "https://news.hada.io/topic?id=21301",
+      "pubDate": "2025-06-05T18:35:17+09:00",
       "author": "neo",
       "category": ""
     }
