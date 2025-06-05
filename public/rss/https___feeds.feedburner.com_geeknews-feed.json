@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T10:33:55+09:00",
+  "lastBuildDate": "2025-06-05T11:06:03+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42314,6 +42314,19 @@
       "link": "https://news.hada.io/topic?id=21285",
       "guid": "https://news.hada.io/topic?id=21285",
       "pubDate": "2025-06-05T09:33:42+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Cloud Run GPU, 이제 공식 지원 - 모두를 위한 AI 워크로드 실행을 더 쉽게 만듦",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Cloud Run</strong>에서 GPU가 공식적으로 지원(GA)됨에 따라, <strong>AI 워크로드 실행</strong>이 더욱 용이해짐</li>\n<li>\n<strong>Cloud Run jobs</strong>에서도 GPU 사용이 가능해지며, <strong>배치 처리</strong> 및 비동기 작업에 새로운 가능성을 제공</li>\n<li>이미지 처리, 자연어 분석,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21295",
+      "guid": "https://news.hada.io/topic?id=21295",
+      "pubDate": "2025-06-05T10:56:49+09:00",
       "author": "xguru",
       "category": ""
     }
