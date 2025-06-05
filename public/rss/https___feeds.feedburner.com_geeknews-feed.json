@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-04T22:35:29+09:00",
+  "lastBuildDate": "2025-06-05T10:33:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42185,6 +42185,136 @@
       "guid": "https://news.hada.io/topic?id=21277",
       "pubDate": "2025-06-04T18:41:27+09:00",
       "author": "regentag",
+      "category": ""
+    },
+    {
+      "title": "호주에서 앵무새가 음수대를 작동하는 법을 터득함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>황관앵무새</strong>가 호주 시드니에서 인간용 음수대를 작동하는 방법을 터득함</li>\n<li>이 행동은 <strong>서부 시드니</strong>의 일부 개체군 사이에서 전파되고 있어 <strong>지역적 문화 전통</strong>으로 간주됨</li>\n<li>개체마다 약간의 방식 차이는 있지만, 공통적으로 <strong>발과 부리...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21294",
+      "guid": "https://news.hada.io/topic?id=21294",
+      "pubDate": "2025-06-05T10:33:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, 모든 ChatGPT 로그를 저장하라는 법원 명령에 강력 반발",
+      "description": {
+        "$text": "<ul>\n<li>법원 명령으로 인해 <strong>OpenAI</strong>가 삭제된 대화 포함, 모든 <strong>ChatGPT 사용자 로그</strong>를 보관해야 하며, OpenAI는 이 조치가 <strong>심각한 프라이버시 침해</strong>라고 반박함</li>\n<li>해당 명령은 <strong>저작권 소송</strong> 중 증거 보전을 요구한 뉴스사들의 주장에 따라 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21293",
+      "guid": "https://news.hada.io/topic?id=21293",
+      "pubDate": "2025-06-05T10:11:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "워싱턴주, 수리할 권리 법제화",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>워싱턴주</strong>에서 <strong>수리할 권리 법안</strong>이 통과되어 법으로 확정됨</li>\n<li>해당 법은 <strong>전자제품, 가전제품, 휠체어</strong> 사용자들이 필요한 도구, 부품, 정보를 이용해 직접 수리할 수 있는 권리 보장 내용 포함</li>\n<li>Google, Microsoft 등 <strong>제조사와 환경...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21292",
+      "guid": "https://news.hada.io/topic?id=21292",
+      "pubDate": "2025-06-05T10:08:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "DiffX – 차세대 확장 가능한 Diff 포맷",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>기존 Unified Diff 포맷</strong>은 개발 환경의 요구사항을 충분히 반영하지 못하는 한계점 존재</li>\n<li>\n<strong>DiffX</strong>는 기존 형식과 <strong>완벽하게 호환되며</strong>, 미래를 고려한 구조와 메타데이터 확장성 제공</li>\n<li>여러 <strong>커밋 정보</strong>와 <strong>바이너리 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21291",
+      "guid": "https://news.hada.io/topic?id=21291",
+      "pubDate": "2025-06-05T10:05:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 IRS의 Direct File, GitHub에 코드 공개",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>IRS</strong>가 <strong>Direct File의 상당수 소스 코드</strong>를 GitHub에 오픈소스로 공개함</li>\n<li>미국 정부 저작물로서 <strong>공개 도메인</strong>에 속하고, 누구나 코드 검토 가능함</li>\n<li>이번 공개는 <strong>SHARE IT Act</strong> 이행의 일환으로, 법정 기한보다 3주 앞서 발표...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21290",
+      "guid": "https://news.hada.io/topic?id=21290",
+      "pubDate": "2025-06-05T10:02:53+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 BEAM(Erlang VM) 책을 쓴 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Klarna</strong>의 핵심 시스템을 유지하며 겪은 실전 경험에서 15밀리초의 <strong>BEAM 중단</strong>이 대규모 결제 장애와 긴급 대응을 불러옴</li>\n<li>BEAM에 대한 신뢰할 수 있는 <strong>레퍼런스를 만들고자</strong> 10년에 걸쳐 책을 집필함</li>\n<li>집필 과정에서 <strong>출판사 변경...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21289",
+      "guid": "https://news.hada.io/topic?id=21289",
+      "pubDate": "2025-06-05T09:59:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FFmpeg이 WebRTC 지원을 병합함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>FFmpeg가 WebRTC 지원</strong>을 공식적으로 병합함</li>\n<li>웹사이트 보호를 위해 <strong>Anubis Proof-of-Work</strong> 시스템이 적용됨</li>\n<li>대규모 <strong>AI 크롤링</strong>으로 인한 서버 과부하 문제 대응 목적임</li>\n<li>\n<strong>Proof-of-Work</strong> 방식은 일반 사용자의 부...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21288",
+      "guid": "https://news.hada.io/topic?id=21288",
+      "pubDate": "2025-06-05T09:56:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Merlin Bird ID",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Merlin Bird ID</strong>는 조류 인식과 탐색에 특화된 도구임</li>\n<li>사용자들이 <strong>조류 사진이나 소리</strong>를 통해 빠르게 종을 식별할 수 있게 함</li>\n<li>\n<strong>일반인과 전문가</strong> 모두가 쉽게 활용할 수 있는 사용자 친화성 제공임</li>\n<li>AI 기반 조류 인식 기능으로 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21287",
+      "guid": "https://news.hada.io/topic?id=21287",
+      "pubDate": "2025-06-05T09:53:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "프로그래머를 위한 프롬프트 엔지니어링 플레이북",
+      "description": {
+        "$text": "<h4>1. 서론: 프롬프트가 개발 생산성을 좌우한다</h4>\n<ul>\n<li>AI 코딩 도우미의 성능은 프롬프트 품질에 달려 있다. 명확한 요청은 정교한 코드를, 모호한 질문은 쓸모없는 출력을 낳는다.</li>\n<li>프롬프트 작성법은 이제 개발자에게 필수 역량이며, 이는 개발 파트너를 훈련시키는 작업과 같다.</li>\n<li>이 글은 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21286",
+      "guid": "https://news.hada.io/topic?id=21286",
+      "pubDate": "2025-06-05T09:39:57+09:00",
+      "author": "baeba",
+      "category": ""
+    },
+    {
+      "title": "전산학은 실업률이 가장 높은 전공 중 하나임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>전산(Computer Science, 컴퓨터 과학)</strong> 전공은 미국 대학생·졸업생 인기 전공이지만, 최근 <strong>실업률이 6.1%로 최상위권</strong>에 위치함</li>\n<li>최근 <strong>빅테크 기업들의 대규모 구조조정</strong>과 채용 축소로 인해 전공의 취업 매력도가 감소함</li>\n<li>현장의 <strong>기...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21285",
+      "guid": "https://news.hada.io/topic?id=21285",
+      "pubDate": "2025-06-05T09:33:42+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
