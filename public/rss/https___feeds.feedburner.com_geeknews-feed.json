@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T18:35:17+09:00",
+  "lastBuildDate": "2025-06-05T21:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42379,6 +42379,19 @@
       "link": "https://news.hada.io/topic?id=21301",
       "guid": "https://news.hada.io/topic?id=21301",
       "pubDate": "2025-06-05T18:35:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "테슬라, 사고 데이터의 공개 차단을 요청함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Tesla</strong>가 자사의 <strong>사고 데이터</strong>가 대중에 공개되는 것을 막기 위해 법적 조치를 취함</li>\n<li>이 데이터는 <strong>일부 교통사고 사건</strong>에서 중요한 증거로 활용됨</li>\n<li>Tesla는 해당 데이터의 <strong>오해 소지 및 오용 가능성</strong>을 우려함</li>\n<li>규제...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21302",
+      "guid": "https://news.hada.io/topic?id=21302",
+      "pubDate": "2025-06-05T21:34:01+09:00",
       "author": "neo",
       "category": ""
     }
