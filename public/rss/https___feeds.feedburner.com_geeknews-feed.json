@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T13:09:51+09:00",
+  "lastBuildDate": "2025-06-05T15:39:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42341,6 +42341,32 @@
       "guid": "https://news.hada.io/topic?id=21298",
       "pubDate": "2025-06-05T13:09:51+09:00",
       "author": "pompydev",
+      "category": ""
+    },
+    {
+      "title": "바이브 코딩 삽질기 EP.02 (feat. 수익화)",
+      "description": {
+        "$text": "<p>바이브 코딩 수익 공유했다가 익명 신고당함. 알고 보니 Stripe Atlas는 한국 거주자에게 엄청난 법적 부담을 안겨주는데 모르고 했다가 피곤해지는 상황 발생...</p>\n<h3>Stripe Atlas가 한국 거주자에게 위험한 이유</h3>\n<h4>몰랐던 법적 의무사항들</h4>\n<ul>\n<li>\n<strong>외국환거래법</strong>: 외국환은행 통",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21300",
+      "guid": "https://news.hada.io/topic?id=21300",
+      "pubDate": "2025-06-05T15:39:04+09:00",
+      "author": "haebom",
+      "category": ""
+    },
+    {
+      "title": "사용자가 자신의 로컬 네트워크에 접근하는 사이트를 제한하는 제안",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Chrome Secure Web and Network 팀</strong>이 로컬 네트워크 접근을 사용자 동의에 기반해 제어하는 새로운 권한 시스템을 제안함</li>\n<li>\n<strong>공개 웹사이트</strong>가 사용자의 로컬 네트워크에 무단 접근하거나 취약한 장치를 공격할 수 있는 문제를 해결하려는 목적임</li>\n<li>기존 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21299",
+      "guid": "https://news.hada.io/topic?id=21299",
+      "pubDate": "2025-06-05T15:34:52+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
