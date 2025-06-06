@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-06T11:33:30+09:00",
+  "lastBuildDate": "2025-06-06T15:42:54+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42497,6 +42497,19 @@
       "guid": "https://news.hada.io/topic?id=21310",
       "pubDate": "2025-06-06T11:33:30+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Jupyter Notebook에서 확장 가능한 시스템으로의 전환 가이드",
+      "description": {
+        "$text": "<p>PyCon US 2025 발표내용입니다.</p>\n<h2>Jupyter Notebook에서 확장 가능한 시스템으로의 전환 가이드</h2>\n<p>Jupyter Notebook은 데이터 탐색, 시각화, 교육 등 대화형 분석에 매우 유용한 도구입니다. 하지만 프로덕션 환경에 코드를 배포하고, 재사용성과 자동화, 견고성이 중요해지는 시점에는 노트북의 한계가 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21311",
+      "guid": "https://news.hada.io/topic?id=21311",
+      "pubDate": "2025-06-06T15:42:54+09:00",
+      "author": "darjeeling",
       "category": ""
     }
   ]
