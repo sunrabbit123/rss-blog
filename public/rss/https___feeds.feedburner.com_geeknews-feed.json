@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-05T21:34:01+09:00",
+  "lastBuildDate": "2025-06-06T09:51:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42392,6 +42392,84 @@
       "link": "https://news.hada.io/topic?id=21302",
       "guid": "https://news.hada.io/topic?id=21302",
       "pubDate": "2025-06-05T21:34:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "팀이 너무 커졌을 때",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>전문가 중심의 대형 팀</strong>은 내부 의존성, 전달 오류, 병목, 책임 분산 등으로 인해 <strong>생산성과 협업 효율이 급격히 저하</strong>됨</li>\n<li>\n<strong>일일 스탠드업 미팅</strong>에서 대부분의 내용이 불필요하거나 지루해지는 등, <strong>팀 규모 증가와 전문화</strong>가 소통 단...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21308",
+      "guid": "https://news.hada.io/topic?id=21308",
+      "pubDate": "2025-06-06T09:51:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "iPhone 15 Pro의 Depth Map",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>iPhone 15 Pro</strong>는 <strong>깊이 맵</strong>을 포함하는 HEIC 포맷의 이미지를 기본적으로 저장함</li>\n<li>HEIC 파일에는 <strong>여러 이미지와 방대한 메타데이터</strong>가 함께 저장되며, JPEG 선택 시에는 깊이 맵, HDR 등이 포함되지 않음</li>\n<li>오픈 소스 프로젝트 <strong>HEIC ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21307",
+      "guid": "https://news.hada.io/topic?id=21307",
+      "pubDate": "2025-06-06T09:45:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "죽음의 뉴트가 처한 불가능한 딜레마",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rough-Skinned Newt(Taricha granulosa)</strong> 는 세계에서 가장 독성이 강한 뉴트 종으로, 미국 <strong>퍼시픽 노스웨스트</strong> 지역에 서식함</li>\n<li>이 뉴트와 <strong>garter snake(Thamnophis sirtalis)</strong> 사이에는 독성을 둘러싼 진화적 <strong>군비 경쟁</strong>이 존재함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21306",
+      "guid": "https://news.hada.io/topic?id=21306",
+      "pubDate": "2025-06-06T09:42:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글, 안드로이드 사이드로딩 제한",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>구글</strong>이 최근 <strong>안드로이드 앱 사이드로딩</strong>에 새로운 제한을 도입함</li>\n<li>싱가포르에서의 <strong>파일 매니저 및 브라우저</strong>를 통한 일부 앱 설치 차단 시범 시행 중임</li>\n<li>이 정책은 <strong>보안 강화</strong> 목적이지만, 동시에 사용자 자유와 혁신을 위...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21305",
+      "guid": "https://news.hada.io/topic?id=21305",
+      "pubDate": "2025-06-06T09:39:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SQLite-JS - SQLite에 JavaScript 기능을 추가해주는 확장",
+      "description": {
+        "$text": "<ul>\n<li>SQLite DB에서 <strong>JavaScript</strong>로 사용자 정의 함수, 집계, 윈도우 함수, 정렬 방식(collation)등을 구현할 수 있는 확장 도구\n<ul>\n<li>SQL로 표현하기 어려운 로직도 <strong>JavaScript 코드로 직접 등록·실행</strong>할 수 있음</li>\n</ul>\n</li>\n<li>기존 SQL의 한계를 넘어, <strong>텍스트...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21304",
+      "guid": "https://news.hada.io/topic?id=21304",
+      "pubDate": "2025-06-06T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "프로그래머를 위한 프롬프트 엔지니어링 플레이북",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 코딩 도우미</strong>는 개발자의 생산성을 높여주지만, 그 결과물의 품질은 <strong>프롬프트 엔지니어링</strong>에 크게 달려있음</li>\n<li>효과적인 결과를 얻으려면 <strong>풍부한 맥락, 구체적 목표, 예시, 역할 부여, 반복적 개선</strong> 등의 규칙을 지켜야 함</li>\n<li>\n<strong>디버깅...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21303",
+      "guid": "https://news.hada.io/topic?id=21303",
+      "pubDate": "2025-06-06T08:34:41+09:00",
       "author": "neo",
       "category": ""
     }
