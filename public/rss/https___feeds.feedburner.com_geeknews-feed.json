@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-06T09:51:01+09:00",
+  "lastBuildDate": "2025-06-06T11:14:02+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42470,6 +42470,19 @@
       "link": "https://news.hada.io/topic?id=21303",
       "guid": "https://news.hada.io/topic?id=21303",
       "pubDate": "2025-06-06T08:34:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Physicality: UI의 새로운 시대",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>iOS의 대규모 UI 리디자인</strong> 루머가 확산되며, VisionOS를 포함한 Apple 전 플랫폼에 <strong>‘Physicality(물질감)’</strong> 중심의 인터페이스 변화가 예고됨</li>\n<li>iOS 디자인 역사는 <strong>Shaded Age(스큐어모픽)</strong>, <strong>Flat Age(플랫)</strong>, 그리고 최근의 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21309",
+      "guid": "https://news.hada.io/topic?id=21309",
+      "pubDate": "2025-06-06T11:14:02+09:00",
       "author": "neo",
       "category": ""
     }
