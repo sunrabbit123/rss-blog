@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T16:33:22+09:00",
+  "lastBuildDate": "2025-06-07T18:33:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42717,6 +42717,19 @@
       "link": "https://news.hada.io/topic?id=21331",
       "guid": "https://news.hada.io/topic?id=21331",
       "pubDate": "2025-06-07T16:33:22+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "항공 분야에 대해 프로그래머들이 믿는 잘못된 상식들",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>항공 데이터</strong>는 복잡하고 비표준적인 특성이 많음</li>\n<li>\n<strong>항공편, 공항, 네비게이션, 트랜스폰더 정보</strong> 등에 대해 개발자가 흔히 잘못된 가정을 함</li>\n<li>실제 <strong>비행 추적 시스템</strong>은 다양한 예외 상황과 데이터 이상현상에 유연하게 대응해야 함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21332",
+      "guid": "https://news.hada.io/topic?id=21332",
+      "pubDate": "2025-06-07T18:33:39+09:00",
       "author": "neo",
       "category": ""
     }
