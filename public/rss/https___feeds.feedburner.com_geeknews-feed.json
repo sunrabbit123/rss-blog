@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T18:33:39+09:00",
+  "lastBuildDate": "2025-06-07T23:34:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42730,6 +42730,19 @@
       "link": "https://news.hada.io/topic?id=21332",
       "guid": "https://news.hada.io/topic?id=21332",
       "pubDate": "2025-06-07T18:33:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "생각의 환상: 추론 LLM의 한계 이해하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>대형 추론 모델</strong>(Large Reasoning Models, LRMs)은 복잡한 문제 해결에서 일정 수준의 성능 향상을 보였으나, <strong>근본적 한계 및 확장성 문제</strong>가 명확하게 드러남</li>\n<li>LRMs는 <strong>문제 난이도가 높아질수록 추론 과정이 급격히 붕괴</strong>되는 현상을 보이며, 분석 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21333",
+      "guid": "https://news.hada.io/topic?id=21333",
+      "pubDate": "2025-06-07T23:34:26+09:00",
       "author": "neo",
       "category": ""
     }
