@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T14:25:59+09:00",
+  "lastBuildDate": "2025-06-07T15:38:44+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42679,6 +42679,32 @@
       "guid": "https://news.hada.io/topic?id=21328",
       "pubDate": "2025-06-07T14:25:59+09:00",
       "author": "yeorinhieut",
+      "category": ""
+    },
+    {
+      "title": "FreeBSD 개발에 대한 1년 간의 후원",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Amazon</strong>의 후원을 받아 1년 동안 <strong>FreeBSD 릴리스 엔지니어링</strong>과 FreeBSD/EC2 개발을 진행함</li>\n<li>\n<strong>릴리스 관리</strong>와 EC2 관련 개선을 병행하며 월 평균 50시간의 작업 시간을 투입함</li>\n<li>\n<strong>Graviton 인스턴스 전원 관리</strong>, <strong>핫플...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21330",
+      "guid": "https://news.hada.io/topic?id=21330",
+      "pubDate": "2025-06-07T15:38:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "플라스틱 대체 '투명 종이' 개발",
+      "description": {
+        "$text": "<ul>\n<li>일본의 <strong>JAMSTEC 연구진</strong>이 플라스틱 대체용 <strong>투명 종이</strong>를 새롭게 개발함</li>\n<li>셀룰로오스를 기반으로 제작되어, <strong>생분해</strong> 가능하며 미생물에 의해 물과 이산화탄소로 분해됨</li>\n<li>이 소재는 <strong>내구성</strong>이 높아 컵, 빨대 등 다양한 용기로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21329",
+      "guid": "https://news.hada.io/topic?id=21329",
+      "pubDate": "2025-06-07T15:35:43+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
