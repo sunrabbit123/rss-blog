@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T15:38:44+09:00",
+  "lastBuildDate": "2025-06-07T16:33:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42704,6 +42704,19 @@
       "link": "https://news.hada.io/topic?id=21329",
       "guid": "https://news.hada.io/topic?id=21329",
       "pubDate": "2025-06-07T15:35:43+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "4-7-8 호흡법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>4-7-8 호흡법</strong>은 4초간 들이마시고, 7초간 멈추며, 8초간 내쉬는 패턴 사용</li>\n<li>이 호흡법은 Dr. Andrew Weil에 의해 <strong>개발</strong>된 점이 특징임</li>\n<li>반복적인 적용으로 <strong>불안 완화, 스트레스 관리, 수면 개선</strong> 효과 제공</li>\n<li>\n<strong>신체의 자연스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21331",
+      "guid": "https://news.hada.io/topic?id=21331",
+      "pubDate": "2025-06-07T16:33:22+09:00",
       "author": "neo",
       "category": ""
     }
