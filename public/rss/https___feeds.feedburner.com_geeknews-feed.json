@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T10:28:42+09:00",
+  "lastBuildDate": "2025-06-07T11:04:40+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42640,6 +42640,19 @@
       "guid": "https://news.hada.io/topic?id=21316",
       "pubDate": "2025-06-07T10:01:29+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Windows Notepad(메모장)에 텍스트 서식 지정 및 Markdown 지원 추가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Microsoft</strong>가 <strong>Windows Notepad</strong>에 텍스트 서식 지정과 <strong>Markdown</strong> 기능을 도입함</li>\n<li>최신 Canary 및 Dev Channel 테스터를 대상으로 <strong>굵게, 기울임, 하이퍼링크</strong> 등 새로운 서식 툴바 제공</li>\n<li>사용자들은 <strong>Markdown 스타일...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21326",
+      "guid": "https://news.hada.io/topic?id=21326",
+      "pubDate": "2025-06-07T11:04:40+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
