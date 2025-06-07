@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-06T23:24:47+09:00",
+  "lastBuildDate": "2025-06-07T10:28:42+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42510,6 +42510,136 @@
       "guid": "https://news.hada.io/topic?id=21311",
       "pubDate": "2025-06-06T15:42:54+09:00",
       "author": "darjeeling",
+      "category": ""
+    },
+    {
+      "title": "Jepsen: TigerBeetle 0.16.11",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>TigerBeetle</strong>는 <strong>이중 입출금 회계 처리</strong>에 특화된 OLTP 데이터베이스로, <strong>안전성과 빠른 처리 속도</strong>를 목표로 개발됨</li>\n<li>\n<strong>Viewstamped Replication</strong> 합의 프로토콜과 <strong>strong serializability</strong> 기준을 지원하며, <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21325",
+      "guid": "https://news.hada.io/topic?id=21325",
+      "pubDate": "2025-06-07T10:28:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "트위터의 새로운 암호화 DM은 이전 것보다 더 낫지 않음",
+      "description": {
+        "$text": "<ul>\n<li>트위터가 <strong>새로운 암호화 DM(Direct Message)</strong> 기능을 도입했음</li>\n<li>해당 기능이 기대와 달리 <strong>이전 DM과 비교해 보안 강화 효과</strong>가 크지 않음</li>\n<li>\n<strong>메시지 전송 시 암호화</strong>를 제공하지만 취약점이 존재함</li>\n<li>사용자의 <strong>프라이버시 보호...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21324",
+      "guid": "https://news.hada.io/topic?id=21324",
+      "pubDate": "2025-06-07T10:25:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "이틀 간의 빈 스토어에서",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Amazing Binz</strong>는 주로 <strong>대형 유통사 재고 및 반품 상품</strong>으로 진열된 파격가 소매점 형태임</li>\n<li>소비자, 리셀러, 이웃 모두가 <strong>저렴한 가격과 소비 과잉의 상징적 공간</strong>이라는 점에서 엇갈린 반응을 보임</li>\n<li>\n<strong>반품·역물류 산업의 성장</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21323",
+      "guid": "https://news.hada.io/topic?id=21323",
+      "pubDate": "2025-06-07T10:22:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "ClickStack – ClickHouse와 HyperDX로 만든 오픈소스 Datadog 대안",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>ClickStack</strong>는 ClickHouse와 HyperDX 기반의 오픈소스 <strong>관측 플랫폼</strong>으로, 로그, 메트릭, 트레이스, 세션 리플레이를 한 곳에서 통합적으로 처리함</li>\n<li>기존 ClickHouse <strong>스키마 위에서 빠르게 검색</strong> 및 시각화 기능을 지원하며, 어떤 스키마든 추가 작업...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21322",
+      "guid": "https://news.hada.io/topic?id=21322",
+      "pubDate": "2025-06-07T10:19:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Eleven v3 — 가장 표현력이 뛰어난 텍스트-음성 변환 모델",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Eleven v3 (Alpha)</strong> 는 <strong>감정과 음성 효과까지 정밀하게 제어</strong> 가능한, 역대 가장 <strong>표현력이 풍부한 텍스트-음성 변환(TTS) 모델</strong>임</li>\n<li>\n<strong>오디오 태그</strong>를 활용해 감정, 말투, 방향성, 효과음 등 다양한 <strong>음성 요소를 자유롭게 조합...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21321",
+      "guid": "https://news.hada.io/topic?id=21321",
+      "pubDate": "2025-06-07T10:16:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "나는 내 삶을 기억하지 못하지만 괜찮음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Aphantasia</strong>와 SDAM(심각한 자서전적 기억 결핍)에 대해 설명하며, 필자는 <strong>과거 경험을 머릿속 이미지나 감각으로 떠올리지 못함</strong>\n</li>\n<li>구체적인 <strong>삶의 에피소드나 장면을 회상하는 데 큰 어려움</strong>이 있으나, 전반적인 삶의 정보와 사실은 <strong>논리적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21320",
+      "guid": "https://news.hada.io/topic?id=21320",
+      "pubDate": "2025-06-07T10:13:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitLab 저장소 백업 시간을 48시간에서 41분으로 단축한 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GitLab</strong>은 대용량 저장소 백업 시 오래 걸리는 문제를 발견하고 개선 작업을 수행함</li>\n<li>핵심 원인은 15년 된 Git 함수의 <strong>O(N²) 복잡도</strong>였으며, 알고리듬 최적화를 통해 성능을 대폭 향상시킴</li>\n<li>최적화 결과, 가장 큰 저장소의 <strong>백업 시간이 48시간에서 4...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21319",
+      "guid": "https://news.hada.io/topic?id=21319",
+      "pubDate": "2025-06-07T10:10:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple Notes에 Markdown 내보내기 기능 추가 예정, 이에 대한 마크다운 개발자의 의견",
+      "description": {
+        "$text": "<ul>\n<li>애플이 WWDC에서 <strong>Apple Notes</strong>에 <strong>Markdown 내보내기</strong> 기능을 공개하고 도입 예정이라고 알려짐</li>\n<li>Markdown 포맷을 만든 저자(존 그루버)가 이에 대한 생각을 정리</li>\n<li>기존에는 일부 서드파티 앱에서 지원했던 기능으로, <strong>기술 사용자 커뮤니티</strong>에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21318",
+      "guid": "https://news.hada.io/topic?id=21318",
+      "pubDate": "2025-06-07T10:07:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Gemini-2.5-pro-preview-06-05",
+      "description": {
+        "$text": "<ul>\n<li>정식 출시전에 최신 <strong>Gemini 2.5 Pro</strong>의 미리보기 버전이 이용 가능해짐</li>\n<li>LMArena, WebDevArena 등 주요 평가에서 기존 모델 대비 <strong>24~35점 Elo 상승</strong>\n</li>\n<li>\n<strong>코딩, 과학, 수학, 멀티모달 이해, 장문 컨텍스트 처리 등 주요 벤치마크에서 최상위 성능</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21317",
+      "guid": "https://news.hada.io/topic?id=21317",
+      "pubDate": "2025-06-07T10:04:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "메타는 침해적인 AI Discover 피드를 즉시 중단하라",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Meta</strong>가 AI 채팅에서 생성된 <strong>개인적 대화 내용을 사용자 동의 없이 Discover 피드에 공개함</strong>으로써 사생활 침해 우려가 확산됨</li>\n<li>Mozilla 커뮤니티는 <strong>Discover 피드 중단</strong>, <strong>기본적인 AI 대화 비공개</strong> 설정, <strong>이용자 동의 기반...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21316",
+      "guid": "https://news.hada.io/topic?id=21316",
+      "pubDate": "2025-06-07T10:01:29+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
