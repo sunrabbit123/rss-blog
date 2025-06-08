@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T18:34:04+09:00",
+  "lastBuildDate": "2025-06-08T20:34:48+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42912,6 +42912,19 @@
       "link": "https://news.hada.io/topic?id=21347",
       "guid": "https://news.hada.io/topic?id=21347",
       "pubDate": "2025-06-08T18:34:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자체 호스팅과 기술 독립: 직접 만드는 기쁨",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>기술 독립</strong>과 <strong>자체 호스팅</strong>의 즐거움에 대한 경험과 중요성 강조</li>\n<li>\n<strong>도메인 소유</strong>와 <strong>블로그 자립 운영</strong>이 장기적으로 커리어와 자기 성장에 큰 이점임을 설명함</li>\n<li>\n<strong>개방형 오픈소스 생태계</strong>에서 자신의 지식과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21348",
+      "guid": "https://news.hada.io/topic?id=21348",
+      "pubDate": "2025-06-08T20:34:48+09:00",
       "author": "neo",
       "category": ""
     }
