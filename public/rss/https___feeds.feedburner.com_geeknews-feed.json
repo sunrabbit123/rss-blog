@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T15:33:34+09:00",
+  "lastBuildDate": "2025-06-08T18:34:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42899,6 +42899,19 @@
       "link": "https://news.hada.io/topic?id=21346",
       "guid": "https://news.hada.io/topic?id=21346",
       "pubDate": "2025-06-08T15:33:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple Computer에 합류한 이야기 (2018)",
+      "description": {
+        "$text": "<ul>\n<li>40년 전 <strong>Apple Computer</strong>에 합류한 경험을 회상함</li>\n<li>\n<strong>Steve Jobs</strong>의 설득과 비전이 큰 인생의 전환점이 됨</li>\n<li>\n<strong>UCSD Pascal System</strong> 도입, QuickDraw, Lisa Window Manager 등 혁신적 소프트웨어 개발에 기여했음</li>\n<li>\n<strong>MacPaint</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21347",
+      "guid": "https://news.hada.io/topic?id=21347",
+      "pubDate": "2025-06-08T18:34:04+09:00",
       "author": "neo",
       "category": ""
     }
