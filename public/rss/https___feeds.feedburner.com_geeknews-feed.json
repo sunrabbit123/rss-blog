@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T13:40:25+09:00",
+  "lastBuildDate": "2025-06-08T15:33:34+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42887,6 +42887,19 @@
       "guid": "https://news.hada.io/topic?id=21344",
       "pubDate": "2025-06-08T13:40:25+09:00",
       "author": "ohyecloudy",
+      "category": ""
+    },
+    {
+      "title": "홍콩 정글에서 텐트 생활 실험기",
+      "description": {
+        "$text": "<ul>\n<li>한 개발자가 <strong>홍콩 외곽 정글</strong>에서 한 달 동안 <strong>텐트 생활 실험</strong>을 진행함</li>\n<li>이 실험의 주요 목적은 <strong>집 없는 삶과 최소한의 생활비 경험</strong>임</li>\n<li>\n<strong>생활비 절약</strong>, 자연에서의 생활, 그리고 사회적 고립 등의 경험을 상세하게 기록함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21346",
+      "guid": "https://news.hada.io/topic?id=21346",
+      "pubDate": "2025-06-08T15:33:34+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
