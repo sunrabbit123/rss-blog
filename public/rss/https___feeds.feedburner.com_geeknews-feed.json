@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T09:57:57+09:00",
+  "lastBuildDate": "2025-06-08T12:38:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42822,6 +42822,58 @@
       "guid": "https://news.hada.io/topic?id=21334",
       "pubDate": "2025-06-08T09:11:01+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "저수준 최적화와 Zig",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>저수준 최적화</strong>는 Zig 언어에서 손쉽게 구현할 수 있음</li>\n<li>\n<strong>컴파일러</strong>가 대부분 상황에서 최적화를 잘 수행하지만, 때로는 프로그래머의 의도를 명확히 전달해야 더 나은 성능을 얻을 수 있음</li>\n<li>Zig는 <strong>컴파일 타임 실행(comptime)</strong> 기능으로 고...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21343",
+      "guid": "https://news.hada.io/topic?id=21343",
+      "pubDate": "2025-06-08T12:38:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사진을 Atkinson 디더링으로 변환",
+      "description": {
+        "$text": "<ul>\n<li>이 프로젝트는 <strong>고전적인 Macintosh 1-bit 필터</strong>인 Atkinson Dithering을 웹에서 구현함</li>\n<li>입력 이미지를 <strong>50% 회색과 비교하여 흑백으로 변환</strong>하고, 차이를 이웃 픽셀로 분배함</li>\n<li>\n<strong>Canvas, Drag &amp; Drop, WebWorkers, FileReader</strong>와 같은 최신...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21342",
+      "guid": "https://news.hada.io/topic?id=21342",
+      "pubDate": "2025-06-08T12:35:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Rolldown-Vite 발표 — Rust 기반 초고속 번들러의 Vite 공식 도입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rolldown</strong>은 Rust로 개발된 차세대 번들러로, <strong>Vite의 기본 번들러가 될 예정</strong>이며, 현재 <code>rolldown-vite</code> 패키지로 미리 체험 가능</li>\n<li>\n<strong>기존 Vite와 완전 호환</strong>을 목표로 개발 중이며, 대규모 프로젝트에서 <strong>3~16배 빌드 속도 개선,...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21341",
+      "guid": "https://news.hada.io/topic?id=21341",
+      "pubDate": "2025-06-08T10:31:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "내가 구글에 영혼을 팔았던 시절의 디스토피아 이야기",
+      "description": {
+        "$text": "<ul>\n<li>저자는 <strong>구글(브라질)에서의 근무 경험</strong>을 통해 이상적인 기술 기업의 이미지와 실제 내부 현실 사이의 큰 <strong>괴리</strong>를 발견했음</li>\n<li>내부적으로 <strong>'20% 자율 시간'</strong> 등 복지를 약속받았지만, 대부분의 직원은 현실적으로 이를 누릴 수 없는 <strong>과중한 업무...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21340",
+      "guid": "https://news.hada.io/topic?id=21340",
+      "pubDate": "2025-06-08T10:00:58+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
