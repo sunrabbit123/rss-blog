@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-07T23:34:26+09:00",
+  "lastBuildDate": "2025-06-08T09:57:57+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42744,6 +42744,84 @@
       "guid": "https://news.hada.io/topic?id=21333",
       "pubDate": "2025-06-07T23:34:26+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Odyc.js – 내러티브 게임을 위한 작은 JavaScript 라이브러리",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Odyc.js</strong>는 내러티브 게임 개발에 최적화된 <strong>경량 자바스크립트 라이브러리</strong>임</li>\n<li>프로그래밍 경험이 부족한 사용자도 <strong>비디오 게임 제작</strong>이 가능함</li>\n<li>\n<strong>간단한 코드 구조</strong>를 통해 빠르게 게임 구현 경험을 얻을 수 있음</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21339",
+      "guid": "https://news.hada.io/topic?id=21339",
+      "pubDate": "2025-06-08T09:57:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "워싱턴 포스트의 개인정보 보호 팁: Chrome 사용 중단 및 Meta, Yandex 앱 삭제 권고",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>워싱턴 포스트</strong> 기술 칼럼니스트가 <strong>Meta</strong>와 <strong>Yandex</strong>가 Android의 보안 보호 기능을 우회해 <strong>수개월간 사용자 데이터를 수집</strong>한 사실을 보도함</li>\n<li>어떤 <strong>설정도 데이터 수집을 막을 수 없었다는 점</strong>이 연구진에 의해 밝혀...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21338",
+      "guid": "https://news.hada.io/topic?id=21338",
+      "pubDate": "2025-06-08T09:54:55+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "웹 개발 마조히스트를 위한 안내서",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>C/C++ 코드를 웹 브라우저 환경으로 이식</strong>하는 과정을 상세하게 소개함</li>\n<li>\n<strong>Emscripten과 WebAssembly(WASM)</strong> 을 활용하여 네이티브에 가까운 성능을 웹에서 구현함</li>\n<li>\n<strong>프론트엔드의 최소한의 JavaScript/HTML 지식</strong>만으로 복잡한 C 코드 베이스...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21337",
+      "guid": "https://news.hada.io/topic?id=21337",
+      "pubDate": "2025-06-08T09:51:54+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미루기를 극복하는 방법",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>미국의 대학 혁신 인큐베이터</strong>는 1970년대에 시작되어 창업 생태계의 중요한 기반이 됨</li>\n<li>Carnegie Mellon University의 <strong>Center for Entrepreneurial Development</strong>는 학생 창업과 혁신 교육의 초석 역할을 함</li>\n<li>\n<strong>National Science Foundation(NSF)</st...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21336",
+      "guid": "https://news.hada.io/topic?id=21336",
+      "pubDate": "2025-06-08T09:48:52+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "빌 앳킨슨이 별세함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Bill Atkinson</strong>이 2025년 6월 5일 <strong>췌장암</strong>으로 별세함</li>\n<li>그는 <strong>Apple 및 컴퓨터 역사</strong>에서 매우 중요한 인물임</li>\n<li>\n<strong>QuickDraw, MacPaint, HyperCard</strong> 등 혁신적이고 영향력 있는 소프트웨어 개발로 기억됨</li>\n<li>그의 <stron...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21335",
+      "guid": "https://news.hada.io/topic?id=21335",
+      "pubDate": "2025-06-08T09:45:51+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Agno - 멀티 에이전트 시스템 개발을 위한 고성능 프레임워크",
+      "description": {
+        "$text": "<ul>\n<li>메모리, 지식, 추론 기능을 갖춘 <strong>멀티 에이전트 시스템</strong> 개발을 위한 풀스택 프레임워크</li>\n<li>5단계 에이전틱 시스템(툴&amp;명령/지식 저장소/메모리와 추론/에이전트 팀/에이전트 워크플로우)을 지원</li>\n<li>코드 몇 줄로 <strong>재무 정보 분석</strong>, <strong>웹 검색</strong> ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21334",
+      "guid": "https://news.hada.io/topic?id=21334",
+      "pubDate": "2025-06-08T09:11:01+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
