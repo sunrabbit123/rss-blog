@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T12:38:30+09:00",
+  "lastBuildDate": "2025-06-08T13:40:25+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42874,6 +42874,19 @@
       "guid": "https://news.hada.io/topic?id=21340",
       "pubDate": "2025-06-08T10:00:58+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "The Power of Composition (Scott Wlaschin) 보고 느낀 점 - 합성하려다보니 Currying과 Monad",
+      "description": {
+        "$text": "<ul>\n<li>재사용 방법의 하나인 합성은 타입과 함수\n<ul>\n<li>타입은 AND 또는 OR로 합성</li>\n</ul>\n</li>\n<li>input 개수와 output 개수가 같을 때는 함수 합성이 쉽다\n<ul>\n<li>함수의 output을 다음 함수의 input으로 넘기면 끝</li>\n<li>개수가 다를 때 이걸 해결할 방법이 필요</li>\n</ul>\n</li>\n<li>input 개수가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21344",
+      "guid": "https://news.hada.io/topic?id=21344",
+      "pubDate": "2025-06-08T13:40:25+09:00",
+      "author": "ohyecloudy",
       "category": ""
     }
   ]
