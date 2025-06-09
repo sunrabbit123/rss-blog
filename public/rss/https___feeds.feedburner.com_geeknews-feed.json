@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-09T14:34:14+09:00",
+  "lastBuildDate": "2025-06-09T16:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43081,6 +43081,19 @@
       "link": "https://news.hada.io/topic?id=21360",
       "guid": "https://news.hada.io/topic?id=21360",
       "pubDate": "2025-06-09T14:34:14+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "안드로이드에서 CDC 이더넷을 사용할 수 없는 이유 (2023)",
+      "description": {
+        "$text": "<ul>\n<li>안드로이드의 <strong>EthernetTracker 서비스</strong>는 이름이 ethX인 네트워크 인터페이스만 인식함</li>\n<li>Linux의 CDC 이더넷 드라이버는 인터페이스 이름을 <strong>usbX로 생성</strong>함</li>\n<li>이로 인해, 표준 CDC 이더넷 장치는 안드로이드에서 <strong>자동으로 활성화되지 않음</strong>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21361",
+      "guid": "https://news.hada.io/topic?id=21361",
+      "pubDate": "2025-06-09T16:33:23+09:00",
       "author": "neo",
       "category": ""
     }
