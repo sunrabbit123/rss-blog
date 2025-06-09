@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-09T10:08:04+09:00",
+  "lastBuildDate": "2025-06-09T11:16:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43029,6 +43029,19 @@
       "link": "https://news.hada.io/topic?id=21349",
       "guid": "https://news.hada.io/topic?id=21349",
       "pubDate": "2025-06-09T09:46:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "피벗 포인트 - 내 강점과 약점이 전략이 되는 순간",
+      "description": {
+        "$text": "<ul>\n<li>&quot;Pivot Points는 '제약'도 아니고, '약점'도 아니고, 심지어 '강점'도 아님. 같은 현실을 다루지만 더 건설적이고 유용함&quot;</li>\n<li>본질적으로 피벗 포인트는 <strong>평가 없이 ‘있는 그대로의 사실’로 인정</strong>하고, 개인/조직의 전략을 이 기반 위에서 세우는 것이 중요함</li>\n<li>자신과...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21357",
+      "guid": "https://news.hada.io/topic?id=21357",
+      "pubDate": "2025-06-09T11:16:01+09:00",
       "author": "xguru",
       "category": ""
     }
