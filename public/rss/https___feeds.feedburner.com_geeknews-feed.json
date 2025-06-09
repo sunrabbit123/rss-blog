@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-09T13:43:16+09:00",
+  "lastBuildDate": "2025-06-09T14:34:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43068,6 +43068,19 @@
       "link": "https://news.hada.io/topic?id=21358",
       "guid": "https://news.hada.io/topic?id=21358",
       "pubDate": "2025-06-09T13:34:06+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "독재자를 위한 슈퍼컴퓨터 구축이 민주주의에 반드시 좋은 것은 아님",
+      "description": {
+        "$text": "<ul>\n<li>OpenAI가 최근 <strong>UAE와 대규모 AI 데이터 센터</strong> 구축 파트너십을 발표함</li>\n<li>이 파트너십은 <strong>“민주적 가치에 뿌리를 두었다”</strong> 고 하지만, UAE는 대표적인 비민주적 국가임</li>\n<li>Freedom House 등은 UAE의 <strong>시민 자유 및 정치권 억압</strong>을 강조함</li>\n<l...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21360",
+      "guid": "https://news.hada.io/topic?id=21360",
+      "pubDate": "2025-06-09T14:34:14+09:00",
       "author": "neo",
       "category": ""
     }
