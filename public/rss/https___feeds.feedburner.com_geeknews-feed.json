@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-08T20:34:48+09:00",
+  "lastBuildDate": "2025-06-09T10:08:04+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -42926,6 +42926,110 @@
       "guid": "https://news.hada.io/topic?id=21348",
       "pubDate": "2025-06-08T20:34:48+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FAIR 패키지 매니저: 분산형 WordPress 인프라",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>WordPress</strong> 생태계의 <strong>중앙집중화 문제</strong>와 불투명한 거버넌스가 지적됨</li>\n<li>그 결과, 개방적이고 <strong>분산형 인프라</strong>를 목표로 한 <strong>FAIR 프로젝트</strong>가 시작됨</li>\n<li>FAIR는 <strong>독립적 거버넌스</strong> 하에 작동하는 새로운 <strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21356",
+      "guid": "https://news.hada.io/topic?id=21356",
+      "pubDate": "2025-06-09T10:08:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "래디언트 AI는 대체 무엇이었나",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Oblivion</strong>의 리마스터 출시로 19년 전의 <strong>래디언트 AI</strong> 기술이 다시 화제가 됨</li>\n<li>Bethesda는 해당 AI가 <strong>NPC</strong>의 자율적인 행동과 현실감 있는 스케줄을 제공한다고 약속했으나, 실제로는 구현이 제한적이었음</li>\n<li>사전 공개, E3 데모, 팬 인터뷰 등...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21355",
+      "guid": "https://news.hada.io/topic?id=21355",
+      "pubDate": "2025-06-09T10:05:02+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cloudflare의 AI가 작성한 OAuth 라이브러리 살펴보기",
+      "description": {
+        "$text": "<ul>\n<li>Cloudflare는 <strong>Anthropic의 Claude LLM</strong>을 활용해 새로운 OAuth 라이브러리를 개발함</li>\n<li>라이브러리의 코드 구조는 깔끔하지만 <strong>테스트와 보안 검증</strong> 측면에서 많은 아쉬움이 존재함</li>\n<li>CORS와 일부 인증 규격 구현에서 <strong>비표준적 또는 위험한 선택</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21354",
+      "guid": "https://news.hada.io/topic?id=21354",
+      "pubDate": "2025-06-09T10:02:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Nix에서 Railpack으로 전환하는 이유",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Railway</strong>는 기존 Nixpacks 대신 새로운 빌드 시스템인 <strong>Railpack</strong>을 출시함</li>\n<li>Railpack은 <strong>버전 관리의 세분화</strong>, 더 작은 이미지 크기, 향상된 캐싱 등에서 기존 Nixpacks보다 우수한 기능을 제공함</li>\n<li>Nixpacks의 <strong>커밋 기반 버전 관리 방...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21353",
+      "guid": "https://news.hada.io/topic?id=21353",
+      "pubDate": "2025-06-09T09:58:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "클로드로 실제 코드를 배포하며 느낀 실전 노트",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 도구인 Claude</strong>를 실제 서비스에 적용하며, 개발 생산성 10배 향상 효과의 <strong>현실적 달성 방법</strong>과 적용 노하우를 정리함</li>\n<li>'Vibe-coding'이란 기존 코딩 방식을 넘어 <strong>AI와 협업/편집자 역할 전환</strong>을 중심으로 세 가지 개발 모드를 구조화해 현업 적용...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21352",
+      "guid": "https://news.hada.io/topic?id=21352",
+      "pubDate": "2025-06-09T09:55:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "머스크-트럼프 갈등, SpaceX 계약 해지 위협으로 번지다",
+      "description": {
+        "$text": "<ul>\n<li>트럼프 대통령과 <strong>일론 머스크 간의 공개 갈등</strong>이 SpaceX의 연방정부 계약 해지 위협까지 번지며 우려를 낳음</li>\n<li>트럼프가 <strong>머스크의 정부 보조금 및 계약 중단을 언급</strong>하자, 머스크는 SpaceX의 Dragon 우주선을 즉시 퇴역시키겠다고 맞대응함</li>\n<li>미 정부와 NASA, 국...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21351",
+      "guid": "https://news.hada.io/topic?id=21351",
+      "pubDate": "2025-06-09T09:52:57+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지난 6개월간 LLM의 변화, 펠리컨이 자전거 타는 모습으로 설명하기",
+      "description": {
+        "$text": "<ul>\n<li>최근 6개월간 <strong>30개 이상의 주요 LLM 모델</strong>이 등장하며 AI 업계의 혁신 속도가 더욱 빨라졌음</li>\n<li>전통적인 벤치마크와 리더보드에 대한 신뢰가 낮아져, 직접 SVG 코드로 '자전거 타는 펠리컨'을 그려보게 하는 독자적 테스트로 모델을 비교함</li>\n<li>Meta, DeepSeek, Anthropic, OpenAI...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21350",
+      "guid": "https://news.hada.io/topic?id=21350",
+      "pubDate": "2025-06-09T09:49:56+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Beachpatrol - 브라우저의 일상 업무를 자동화하는 CLI 허브",
+      "description": {
+        "$text": "<ul>\n<li>일반 웹 브라우저를 <strong>CLI 기반 자동화 브라우저</strong>로 대체할 수 있게 해주는 오픈소스\n<ul>\n<li>이메일·은행·SNS 자동 체크, 파일 자동 다운로드, 텍스트 추출 및 저장</li>\n<li>폼 자동 입력, 사이트 맞춤 메시지 수집, Bash·Python 스크립트 연동</li>\n<li>\n<strong>일상적인 웹 브라우징 환경 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21349",
+      "guid": "https://news.hada.io/topic?id=21349",
+      "pubDate": "2025-06-09T09:46:02+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
