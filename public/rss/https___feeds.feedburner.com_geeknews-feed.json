@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-09T16:33:23+09:00",
+  "lastBuildDate": "2025-06-09T22:34:47+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43094,6 +43094,19 @@
       "link": "https://news.hada.io/topic?id=21361",
       "guid": "https://news.hada.io/topic?id=21361",
       "pubDate": "2025-06-09T16:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "디버그 모드에서 자체 호스팅 x86 백엔드가 기본값으로 설정됨",
+      "description": {
+        "$text": "<ul>\n<li>이제 x86_64 타겟 시, <strong>Zig의 자체 x86 백엔드</strong>가 디버그 모드에서 기본값으로 적용됨</li>\n<li>기존 LLVM 기반보다 더 많은 <strong>동작 테스트 통과</strong>와 빠른 컴파일 속도 달성함</li>\n<li>자체 백엔드 도입으로 Zig의 <strong>컴파일 시간 대폭 단축</strong> 및 일부 작업의 효율성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21362",
+      "guid": "https://news.hada.io/topic?id=21362",
+      "pubDate": "2025-06-09T22:34:47+09:00",
       "author": "neo",
       "category": ""
     }
