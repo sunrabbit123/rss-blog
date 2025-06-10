@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T10:28:50+09:00",
+  "lastBuildDate": "2025-06-10T11:42:31+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43302,6 +43302,32 @@
       "link": "https://news.hada.io/topic?id=21369",
       "guid": "https://news.hada.io/topic?id=21369",
       "pubDate": "2025-06-10T10:01:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플 WWDC 2025 키노트 주요 내용 정리",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Apple Intelligence</strong>와 온디바이스 생성형 모델, 개인정보 보호에 기반한 새로운 인공지능 경험 및 API 공개</li>\n<li>\n<strong>Liquid Glass</strong>로 전체 소프트웨어 디자인 리뉴얼: 통일된 디자인 언어, 모든 플랫폼(모바일·데스크톱·공간컴퓨터)에서 일관성 강화</li>\n<li>\n<strong>iO...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21380",
+      "guid": "https://news.hada.io/topic?id=21380",
+      "pubDate": "2025-06-10T11:42:31+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "CDC 백신 자문위원회 전원 해임한 RFK Jr.",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Robert F. Kennedy Jr.</strong> 는 미국 CDC 백신 자문위원회(ACIP) 17명 전원을 해임하고, 직접 위원 선임 방침을 발표함</li>\n<li>주요 <strong>의사 및 공중보건 단체</strong>들은 이번 해임 조치에 대해 전문성 및 공정성 훼손을 우려하는 비판을 제기함</li>\n<li>ACIP는 기존에 <strong>백신 권...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21379",
+      "guid": "https://news.hada.io/topic?id=21379",
+      "pubDate": "2025-06-10T11:35:58+09:00",
       "author": "neo",
       "category": ""
     }
