@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T19:37:43+09:00",
+  "lastBuildDate": "2025-06-11T07:13:19+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43355,6 +43355,19 @@
       "guid": "https://news.hada.io/topic?id=21384",
       "pubDate": "2025-06-10T19:37:43+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OpenAI, o3 가격 80% 인하 & o3-pro 출시",
+      "description": {
+        "$text": "<ol>\n<li>\n<p>OpenAI가 추론 스택 최적화를 통해 o3 모델 가격을 80% 인하하여, 입력 토큰 100만 개당 $2, 출력 토큰 100만 개당 $8로 조정했습니다.</p>\n</li>\n<li>\n<p>o3 모델은 코딩, 함수 호출, 명령 수행 작업에 추천되며, GPT-4.1과 같은 가격이면서 GPT-4o보다는 더 저렴합니다.</p>\n</li>\n<li>\n<p>더 높은 수준의",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21385",
+      "guid": "https://news.hada.io/topic?id=21385",
+      "pubDate": "2025-06-11T07:13:19+09:00",
+      "author": "fortune",
       "category": ""
     }
   ]
