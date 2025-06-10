@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T11:42:31+09:00",
+  "lastBuildDate": "2025-06-10T15:34:59+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43328,6 +43328,19 @@
       "link": "https://news.hada.io/topic?id=21379",
       "guid": "https://news.hada.io/topic?id=21379",
       "pubDate": "2025-06-10T11:35:58+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LA 시위 대응 위해 해병대 투입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>해병대</strong> 약 700명이 최근 LA 시위에 대응하기 위해 <strong>캘리포니아</strong> 기지에서 출동 준비 중임</li>\n<li>이들은 <strong>트럼프 대통령</strong>이 주지사나 시장 동의 없이 수천 명의 <strong>국방경비대</strong>를 배치한 뒤 합류함</li>\n<li>해병대 임무는 <strong>구체적으로...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21381",
+      "guid": "https://news.hada.io/topic?id=21381",
+      "pubDate": "2025-06-10T15:34:59+09:00",
       "author": "neo",
       "category": ""
     }
