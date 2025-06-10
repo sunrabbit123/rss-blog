@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T03:48:07+09:00",
+  "lastBuildDate": "2025-06-10T09:51:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43108,6 +43108,71 @@
       "guid": "https://news.hada.io/topic?id=21362",
       "pubDate": "2025-06-09T22:34:47+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 지원 프로그래밍의 시대, 현재 Swift는 생산성이 떨어짐",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Swift 6</strong>와 최신 iOS 앱 개발에서는 <strong>LLM 기반 툴</strong>의 활용도가 현저히 낮아, 안드로이드(Kotlin, Compose, Cursor 활용) 대비 <strong>생산성 격차</strong>가 크게 벌어짐</li>\n<li>Android 팀은 최신 기능을 오래된 OS까지 지원하며 빠른 개발이 가능하지만, iOS 팀은 최신 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21368",
+      "guid": "https://news.hada.io/topic?id=21368",
+      "pubDate": "2025-06-10T09:51:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Cursor의 LLM 클라이언트 리버스 엔지니어링",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>TensorZero</strong>를 활용해 Cursor의 <strong>LLM API 호출</strong>과 내부 동작 흐름을 관찰하고 제어하는 방법에 대한 경험 공유임</li>\n<li>\n<strong>오픈소스 프록시 게이트웨이</strong>를 통한 Cursor 요청 조작 및 <strong>프롬프트/모델 최적화</strong> 기술 적용 경험 설명임</li>\n<li>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21367",
+      "guid": "https://news.hada.io/topic?id=21367",
+      "pubDate": "2025-06-10T09:44:25+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "SaaS는 브랜딩만 바뀐 \"벤더 락인\" 이에요",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SaaS 연동</strong>은 개발자가 제품에만 집중할 수 있게 해준다고 하지만, 실제로는 매번 <strong>숨겨진 5가지 비용(세금)</strong> 이 존재함</li>\n<li>도입 전 <strong>발견, 가입, 통합, 로컬 개발, 운영</strong> 각각의 단계에서 시간, 복잡성, 정신적 부담이 지속적으로 발생</li>\n<li>SaaS가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21366",
+      "guid": "https://news.hada.io/topic?id=21366",
+      "pubDate": "2025-06-10T09:32:46+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OnLook - 디자이너를 위한 Cursor",
+      "description": {
+        "$text": "<ul>\n<li>웹에서 사이트, 프로토타입, 디자인을 실시간 코드와 함께 만들 수 있는 오픈소스 <strong>비주얼 바이브코딩 에디터</strong>\n</li>\n<li>\n<strong>Next.js + TailwindCSS</strong> 기반, 브라우저에서 실시간 미리보기 및 직접 DOM을 수정 가능</li>\n<li>Bolt, Lovable, V0, Replit Agent, Figma Make, Webflo...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21365",
+      "guid": "https://news.hada.io/topic?id=21365",
+      "pubDate": "2025-06-10T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Ask HN: CUDA를 전문가 레벨로 배우려면 어떻게 해야하나요?",
+      "description": {
+        "$text": "<ul>\n<li>CUDA 프로그래밍을 배우기 위해 어떤 책/과정/프로젝트를 수강해야 할지 궁금 (일하고자 하는 많은 회사들이 CUDA경험을 요구하기 때문)</li>\n</ul>\n<h2>HN의 답변들 정리</h2>\n<ul>\n<li>\n<p><strong>학습 자료와 첫걸음</strong></p>\n<ul>\n<li>\n<strong>NVIDIA 공식 CUDA Programming Guide</strong>와 <a hre",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21364",
+      "guid": "https://news.hada.io/topic?id=21364",
+      "pubDate": "2025-06-10T09:30:25+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
