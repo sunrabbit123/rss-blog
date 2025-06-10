@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T18:25:19+09:00",
+  "lastBuildDate": "2025-06-10T19:37:43+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43341,6 +43341,19 @@
       "link": "https://news.hada.io/topic?id=21381",
       "guid": "https://news.hada.io/topic?id=21381",
       "pubDate": "2025-06-10T15:34:59+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "슬라이 스톤 별세",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>슬라이 스톤</strong>은 혁신적인 <strong>펑크 밴드 Sly and the Family Stone</strong>의 리더로, 82세의 나이로 타계함</li>\n<li>그는 음악적 <strong>유산</strong>과 장르 융합을 통해 대중음악에 큰 영향을 미친 인물임</li>\n<li>밴드는 <strong>미국 대형 밴드 최초의 인종 통합 구성</strong>...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21384",
+      "guid": "https://news.hada.io/topic?id=21384",
+      "pubDate": "2025-06-10T19:37:43+09:00",
       "author": "neo",
       "category": ""
     }
