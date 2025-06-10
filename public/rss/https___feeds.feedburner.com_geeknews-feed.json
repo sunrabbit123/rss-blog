@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-10T09:51:01+09:00",
+  "lastBuildDate": "2025-06-10T10:28:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43173,6 +43173,136 @@
       "guid": "https://news.hada.io/topic?id=21364",
       "pubDate": "2025-06-10T09:30:25+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "macOS에서 Linux 컨테이너를 실행할 수 있는 Swift 패키지",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Containerization</strong>은 macOS에서 <strong>Linux 컨테이너</strong>를 실행할 수 있게 해주는 Swift 기반 오픈소스 도구임</li>\n<li>Apple Silicon 기반 Mac에서 작동하며, <strong>Virtualization.framework</strong>를 활용하여 가벼운 가상 머신 안에 각 컨테이너를 격리 실행함</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21378",
+      "guid": "https://news.hada.io/topic?id=21378",
+      "pubDate": "2025-06-10T10:28:50+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사람들이 AI가 어떻게 동작하는지 이해하지 못할 때 어떤 일이 일어나는가",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>기계 왕국</strong>이라는 개념은 19세기부터 기술 발전의 영향에 대한 두려움을 보여줌</li>\n<li>최근 책들은 <strong>대형 언어 모델</strong> 개발 과정의 인력과 진실을 심층적으로 분석함</li>\n<li>\n<strong>OpenAI와 ChatGPT</strong>와 같은 인공지능의 현실은 많은 홍보와는 다르게 과장된 부...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21377",
+      "guid": "https://news.hada.io/topic?id=21377",
+      "pubDate": "2025-06-10T10:25:48+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLMs는 저렴함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Large Language Models(LLMs)</strong> 의 운영 비용이 생각보다 <strong>저렴함</strong>\n</li>\n<li>초기 생성형 AI 열풍 당시에는 추론 비용이 높았으나, <strong>지난 2년간 비용이 1000배 가까이 감소함</strong>\n</li>\n<li>\n<strong>웹 검색 API</strong>와 비교해볼 때 LLM 사용이 훨씬 저렴하거...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21376",
+      "guid": "https://news.hada.io/topic?id=21376",
+      "pubDate": "2025-06-10T10:22:47+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Shawn Mendes 찾기 (2019)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>유명 인사</strong>의 <strong>정치적 입장</strong>이 사회에 미치는 영향에 대한 분석임</li>\n<li>Shawn Mendes가 Kuril Islands 영토 문제에 대해 <strong>공개적으로 언급하지 않은 점</strong>에 착안하여 그의 노래 가사에서 <strong>간접적인 메시지</strong>를 찾으려는 시도임</li>\n<li>Mend...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21375",
+      "guid": "https://news.hada.io/topic?id=21375",
+      "pubDate": "2025-06-10T10:19:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "FSE가 FBI를 만남",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>FSE(Freespeech Extremist)</strong> 서버가 미 연방수사국(** FBI**)의 데이터 수집 대상이 된 경험을 공유함</li>\n<li>FBI는 <strong>사설 업체(SocialGist 등)</strong> 에 비용을 지불해 각종 포럼, 페디버스 데이터를 대규모로 스크랩하여, <strong>내용 분석</strong>과 키워드 기반 분류, 감성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21374",
+      "guid": "https://news.hada.io/topic?id=21374",
+      "pubDate": "2025-06-10T10:16:44+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, 모든 플랫폼에 통합된 유니버설 디자인 도입",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>애플</strong>이 모든 주요 플랫폼에 적용되는 <strong>새로운 소프트웨어 디자인</strong>을 발표함</li>\n<li>\n<strong>Liquid Glass</strong>라는 투명하고 반응형 신소재를 도입하여, 각 플랫폼에서 더 생동감 있고 집중도 높은 사용자 경험을 제공함</li>\n<li>새로운 디자인은 <strong>iOS 26, iP...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21373",
+      "guid": "https://news.hada.io/topic?id=21373",
+      "pubDate": "2025-06-10T10:13:42+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "구글 사용자 전화번호 무차별 대입 공격(Bruteforcing the phone number of any Google user)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>구글 계정 찾기</strong> 폼을 우회하여 특정 사용자 이름과 연결된 전화번호가 존재하는지 확인 가능함</li>\n<li>\n<strong>자바스크립트 비활성화</strong> 환경에서도 봇가드(BotGuard) 토큰을 의도적으로 삽입하여, IP 제한을 우회하는 공격 방식 구현 가능함</li>\n<li>네덜란드 등 일부 국가에서는...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21372",
+      "guid": "https://news.hada.io/topic?id=21372",
+      "pubDate": "2025-06-10T10:10:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "애플, Foundation Models 및 컨테이너화 프레임워크 등 신규 개발자 도구 발표",
+      "description": {
+        "$text": "<ul>\n<li>애플이 <strong>Foundation Models 프레임워크</strong>와 <strong>컨테이너화 프레임워크</strong> 등 개발자를 위한 새로운 기술과 도구를 선보임</li>\n<li>온디바이스 Apple Intelligence 모델과 <strong>Xcode 26의 대형 언어 모델 통합</strong>으로 앱 개발의 생산성과 지능화가 대폭 강화됨</li>\n<li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21371",
+      "guid": "https://news.hada.io/topic?id=21371",
+      "pubDate": "2025-06-10T10:07:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Kagi 사용자 5만 명 돌파",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Kagi</strong> 사용자가 5만 명을 돌파함</li>\n<li>5월 27일부터 6월 10일까지 회원 수가 <strong>1,116명 증가</strong> 추세임</li>\n<li>서비스는 <strong>회원 수 마일스톤</strong>마다 특별 기념 이벤트를 진행함</li>\n<li>이번 Kagi 서프라이즈는 구체적인 내용이 <strong>비공개</strong>로 유...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21370",
+      "guid": "https://news.hada.io/topic?id=21370",
+      "pubDate": "2025-06-10T10:04:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 소프트웨어 개발 비용에 대한 세금 공제 복원을 위한 협조 요청 (Section 174)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Section 174</strong>가 변경되면서 미국 내 소프트웨어 개발 비용이 즉시 <strong>세금 공제 불가</strong> 상황 발생</li>\n<li>이에 따라 많은 <strong>스타트업</strong>과 중소기업이 추가 세금 부담을 겪음</li>\n<li>본 게시글은 <strong>개발자 및 업계 관계자</strong>들이 의원에게 연락하여 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21369",
+      "guid": "https://news.hada.io/topic?id=21369",
+      "pubDate": "2025-06-10T10:01:36+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
