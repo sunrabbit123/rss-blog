@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T07:13:19+09:00",
+  "lastBuildDate": "2025-06-11T09:32:37+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43368,6 +43368,45 @@
       "guid": "https://news.hada.io/topic?id=21385",
       "pubDate": "2025-06-11T07:13:19+09:00",
       "author": "fortune",
+      "category": ""
+    },
+    {
+      "title": "Go는 에이전트 개발에 적합한 언어입니다",
+      "description": {
+        "$text": "<ul>\n<li>최근 AI <strong>에이전트</strong>의 도입이 증가하면서, <strong>Go 언어</strong> 기반의 하이브리드 스택 활용이 늘어나는 추세임</li>\n<li>에이전트는 <strong>긴 실행 시간</strong>과 <strong>높은 비용</strong>, 그리고 <strong>입출력 대기</strong>가 잦은 특성을 가짐</li>\n<li>Go는 <strong>경량 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21388",
+      "guid": "https://news.hada.io/topic?id=21388",
+      "pubDate": "2025-06-11T09:32:37+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Yes24, 랜섬웨어로 인한 장애로 2일째 서비스 불가",
+      "description": {
+        "$text": "<ul>\n<li>현재 접속 오류는 랜섬웨어로 인한 장애로 인해 6월 9일 월요일 새벽 4시경부터 발생하였으며, 복구 작업 중</li>\n<li>내부 조사 결과 개인정보 유출 정황은 확인되지 않았음</li>\n<li>장애로 인해 각종 불편함을 겪으신 전회원에 대해 구체적 보상안을 마련 중</li>\n<li>빠른 서비스 복구와 함께 전체 공지 및...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21387",
+      "guid": "https://news.hada.io/topic?id=21387",
+      "pubDate": "2025-06-11T09:23:49+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Munal OS - WASM 샌드박싱이 적용된 그래픽 기반 실험용 운영체제",
+      "description": {
+        "$text": "<ul>\n<li>Rust로 완전히 구현되어 있으며, <strong>unikernel 설계</strong>와 <strong>WASM 기반 샌드박싱 보안 모델</strong>을 사용하는 그래픽 기반 실험용 운영체제</li>\n<li>EFI 바이너리에 커널, WASM 엔진, 모든 앱이 내장되어 <strong>최소화된 구조와 독특한 시스템 호출 인터페이스</strong>를 제공</li>\n<li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21386",
+      "guid": "https://news.hada.io/topic?id=21386",
+      "pubDate": "2025-06-11T08:34:16+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
