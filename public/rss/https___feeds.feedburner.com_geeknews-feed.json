@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T12:51:22+09:00",
+  "lastBuildDate": "2025-06-11T15:39:26+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43498,6 +43498,19 @@
       "guid": "https://news.hada.io/topic?id=21395",
       "pubDate": "2025-06-11T12:33:47+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "LLM 프롬프트를 공유할 수 있는 서비스를 만들어봤습니다.",
+      "description": {
+        "$text": "<p>LLM 서비스를 사용하면서 프롬프트를 잘 쓰는 방법을 찾기가 힘들었습니다.<br />\n인터넷에 공개되어 있는 프롬프트 예시도 찾아봤지만 간단한 상황에서 적용할 수 있는 프롬프트가 많았습니다.</p>\n<p>프롬프트 작성에 대해서 자신만의 노하우를 공유할 수 있는 방법이 없을까 자주 생각했습니다.</p>\n<p>프롬프트를",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21397",
+      "guid": "https://news.hada.io/topic?id=21397",
+      "pubDate": "2025-06-11T15:39:26+09:00",
+      "author": "austin",
       "category": ""
     }
   ]
