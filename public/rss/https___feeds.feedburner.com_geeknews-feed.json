@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T18:45:12+09:00",
+  "lastBuildDate": "2025-06-11T23:34:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43524,6 +43524,19 @@
       "guid": "https://news.hada.io/topic?id=21398",
       "pubDate": "2025-06-11T18:45:12+09:00",
       "author": "lunastev",
+      "category": ""
+    },
+    {
+      "title": "AI로 오염되지 않은 콘텐츠를 위한 Low-background Steel",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Low-background Steel</strong> 사이트는 <strong>AI 생성 콘텐츠로 오염되지 않은 자료</strong>를 모으는 역할을 함</li>\n<li>이 프로젝트는 <strong>2022년 대규모 AI 콘텐츠 확산</strong> 이전에 생성된 텍스트, 이미지, 비디오 자료에 초점을 맞춤</li>\n<li>Wikipedia, Arctic Code Vault, Proj...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21399",
+      "guid": "https://news.hada.io/topic?id=21399",
+      "pubDate": "2025-06-11T23:34:56+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
