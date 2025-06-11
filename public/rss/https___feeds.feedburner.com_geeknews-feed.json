@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T09:51:02+09:00",
+  "lastBuildDate": "2025-06-11T11:33:41+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43472,6 +43472,19 @@
       "guid": "https://news.hada.io/topic?id=21389",
       "pubDate": "2025-06-11T09:36:38+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "OpenAI가 o3 가격을 80% 인하함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OpenAI</strong>가 <strong>o3 모델</strong>의 가격을 80% 인하함</li>\n<li>이번 가격 인하로 인해 <strong>스타트업</strong>과 IT 업계에서 o3 활용 비용 부담이 크게 줄어듦</li>\n<li>\n<strong>AI 서비스</strong> 개발자들에게 보다 경제적인 선택지 제공함</li>\n<li>\n<strong>시장 경쟁</strong...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21394",
+      "guid": "https://news.hada.io/topic?id=21394",
+      "pubDate": "2025-06-11T11:33:41+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
