@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T11:33:41+09:00",
+  "lastBuildDate": "2025-06-11T12:51:22+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43484,6 +43484,19 @@
       "link": "https://news.hada.io/topic?id=21394",
       "guid": "https://news.hada.io/topic?id=21394",
       "pubDate": "2025-06-11T11:33:41+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Vassar Robotics (YC X25): 새로운 기술을 학습하는 219달러 로봇 팔 출시",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Vassar Robotics</strong>는 219달러에 구매할 수 있는 <strong>저가형 로봇 팔</strong>을 출시함</li>\n<li>이 로봇 팔은 <strong>머신러닝</strong>을 활용해 다양한 동작과 작업을 새롭게 학습할 수 있음</li>\n<li>저렴한 가격과 높은 확장성으로 <strong>개발자, 교육기관, 스타트업</strong>에 이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21395",
+      "guid": "https://news.hada.io/topic?id=21395",
+      "pubDate": "2025-06-11T12:33:47+09:00",
       "author": "neo",
       "category": ""
     }
