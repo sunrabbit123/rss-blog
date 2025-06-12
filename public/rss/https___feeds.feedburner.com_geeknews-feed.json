@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-12T10:51:01+09:00",
+  "lastBuildDate": "2025-06-12T13:34:14+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43705,6 +43705,19 @@
       "link": "https://news.hada.io/topic?id=21404",
       "guid": "https://news.hada.io/topic?id=21404",
       "pubDate": "2025-06-12T09:50:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Chatterbox TTS",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Chatterbox</strong>는 Resemble AI가 공개한 <strong>최신 오픈소스 TTS(음성 합성)</strong> 모델임</li>\n<li>경쟁사인 ElevenLabs와 비교 평가에서 <strong>지속적으로 선호 결과</strong>를 보임</li>\n<li>\n<strong>감정 과장 제어</strong> 등 독자적인 기능을 탑재해 다양한 음성 표현 가능함...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21414",
+      "guid": "https://news.hada.io/topic?id=21414",
+      "pubDate": "2025-06-12T13:34:14+09:00",
       "author": "neo",
       "category": ""
     }
