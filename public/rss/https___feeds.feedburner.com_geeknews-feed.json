@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-12T13:34:14+09:00",
+  "lastBuildDate": "2025-06-13T03:52:55+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43719,6 +43719,19 @@
       "guid": "https://news.hada.io/topic?id=21414",
       "pubDate": "2025-06-12T13:34:14+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "인터넷 다운",
+      "description": {
+        "$text": "<p>자세한 건 모르겠는데, 대략 30분 전부터 전세계적으로 인터넷이 크게 다운된 것으로 보입니다. 영향 받은 것으로 보이는 곳은:</p>\n<ul>\n<li>클라우드 플레어</li>\n<li>AWS</li>\n<li>Openrouter</li>\n<li>Firebase</li>\n<li>Google</li>\n<li>기타 등등...</li>\n</ul>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21415",
+      "guid": "https://news.hada.io/topic?id=21415",
+      "pubDate": "2025-06-13T03:52:55+09:00",
+      "author": "preeded",
       "category": ""
     }
   ]
