@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-11T23:34:56+09:00",
+  "lastBuildDate": "2025-06-12T09:18:30+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43537,6 +43537,45 @@
       "guid": "https://news.hada.io/topic?id=21399",
       "pubDate": "2025-06-11T23:34:56+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Rust에 10년간 베팅한 이야기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Rust</strong> 도입 초기엔 <strong>버전 호환성</strong> 문제와 빌드/컴파일 지연 등 다양한 불편함을 경험함</li>\n<li>Rust 생태계는 뛰어난 <strong>프로그래밍 취향과 커뮤니티</strong>를 바탕으로, 꾸준한 성장과 높은 신뢰도를 쌓음</li>\n<li>여러 핵심 라이브러리, 툴, 표준 라이브러리의 개...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21401",
+      "guid": "https://news.hada.io/topic?id=21401",
+      "pubDate": "2025-06-12T09:18:30+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "3D 프린터로 제작한 VTOL 드론",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>3D 프린터로 만든 VTOL 드론</strong>을 90일 만에 개발함</li>\n<li>한 번 충전으로 <strong>3시간 비행</strong> 및 최대 130마일 거리 비행이 가능함</li>\n<li>\n<strong>새로운 제조 방식</strong>과 자체적인 CAD, 에어로다이내믹 모델링 능력 향상 경험임</li>\n<li>다양한 <strong>설계, 부품 선정...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21400",
+      "guid": "https://news.hada.io/topic?id=21400",
+      "pubDate": "2025-06-12T08:33:45+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 드롭다운에서 Korea를 바로 찾아드리는 크롬 익스텐션을 만들어봤어요.",
+      "description": {
+        "$text": "<p>외국 사이트에서 회원가입할 때<br />\n국가를 선택하는 드롭다운에서 한국 표시를 찾기 어려운 경험이 있어서 만들어 봤어요.</p>\n<p>South Korea인 경우도 있고, Korea South, 또는 Republic of Korea 등 다양한 선택지가 있어서 한 번에 찾기 어렵다는 문제를 해결하고자 만들게 되었습니다.</p>\n<p>Cursor로 크롬 ",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21396",
+      "guid": "https://news.hada.io/topic?id=21396",
+      "pubDate": "2025-06-11T12:51:22+09:00",
+      "author": "newbiedev",
       "category": ""
     }
   ]
