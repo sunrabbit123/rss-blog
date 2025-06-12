@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-12T09:18:30+09:00",
+  "lastBuildDate": "2025-06-12T10:51:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43576,6 +43576,136 @@
       "guid": "https://news.hada.io/topic?id=21396",
       "pubDate": "2025-06-11T12:51:22+09:00",
       "author": "newbiedev",
+      "category": ""
+    },
+    {
+      "title": "React와 Next.js를 위한 완벽한 Cursor AI 설정법 [번역글]",
+      "description": {
+        "$text": "<ul>\n<li>React, Next.js, Tailwind CSS 작업에 최적화된 Cursor AI 설정에 초점을 맞추지만, 대부분의 설정은 어떤 기술 스택에도 적용할 수 있음</li>\n<li>Cursor AI 설정 조정하기\n<ul>\n<li>설정 + 규칙 (Settings + Rules)</li>\n<li>노트패드(Notepads)</li>\n<li>ESLint 추가</li>\n<li>Visual Editor CLI 사용</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21413",
+      "guid": "https://news.hada.io/topic?id=21413",
+      "pubDate": "2025-06-12T10:51:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Left-Pad (2024)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>left-pad 사건</strong>은 오픈소스 커뮤니티와 NPM, 그리고 기업 간의 <strong>규칙과 가치 충돌</strong>을 보여주는 대표적 사례임</li>\n<li>패키지 삭제 결정은 <strong>논리나 분노, 탐욕이 아닌</strong> 진심과 내적 원칙에서 비롯된 행동임</li>\n<li>NPM이 Kik Messenger의 요구에 굴복하며 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21412",
+      "guid": "https://news.hada.io/topic?id=21412",
+      "pubDate": "2025-06-12T10:11:40+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "생리 추적 앱 데이터는 광고주에게 금광이며 여성 안전에 위협이 됨",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>생리 주기 추적 앱</strong>이 사용자 <strong>개인 정보</strong>를 대규모로 수집하며, 상업적인 <strong>소비자 프로파일링</strong>에 적극적으로 활용됨</li>\n<li>이 데이터는 <strong>법적 보호</strong>가 미비한 상황에서 보험 차별, 직장 감시, 사이버 스토킹, 임신 중단 권리 제한 등 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21411",
+      "guid": "https://news.hada.io/topic?id=21411",
+      "pubDate": "2025-06-12T10:08:39+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GitHub에서 10억 번째 저장소 생성 축하",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>GitHub</strong>에서 10억 번째 저장소가 생성됨</li>\n<li>오픈소스 생태계의 <strong>폭발적 성장</strong>을 보여주는 이정표임</li>\n<li>수많은 개발자와 프로젝트가 <strong>협업</strong>과 혁신의 핵심으로 GitHub를 사용함</li>\n<li>지금까지의 <strong>성장 속도</strong>와 앞으로의 기술 발...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21410",
+      "guid": "https://news.hada.io/topic?id=21410",
+      "pubDate": "2025-06-12T10:05:37+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "대폭발이 블랙홀 내부에서 일어났을 수 있다는 연구 결과",
+      "description": {
+        "$text": "<ul>\n<li>최근 연구에서 <strong>대폭발(Big Bang)이 사실 블랙홀 내부에서 발생했을 가능성</strong> 제기</li>\n<li>이 가설은 <strong>우주 기원에 대한 기존 표준이론</strong>을 보완 또는 변화시킬 수 있음</li>\n<li>블랙홀 내부의 <strong>특이점과 양자 중력 현상</strong>이 중요한 핵심 주제임</li>\n<li>\n<stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21409",
+      "guid": "https://news.hada.io/topic?id=21409",
+      "pubDate": "2025-06-12T10:02:36+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: Raw Pixels Viewer",
+      "description": {
+        "$text": "<p>기존 Raw Pixels Viewer 사이트가 사라져서 개발하였습니다.</p>\n<p>RAW한 이미지 파일을 디버깅하거나 분석할 때 유용하게 사용할 수 있습니다.</p>\n",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21408",
+      "guid": "https://news.hada.io/topic?id=21408",
+      "pubDate": "2025-06-12T10:01:08+09:00",
+      "author": "outcast1542",
+      "category": ""
+    },
+    {
+      "title": "Mikeal Rogers가 세상을 떠남",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Mikeal Rogers</strong>는 저자의 오랜 친구이자 동료, 그리고 독특한 파트너였음</li>\n<li>Mikeal은 <strong>급성 암</strong>으로 인해 세상을 떠남</li>\n<li>그는 <strong>Node.js 커뮤니티</strong>와 오픈 소스 세계에서 중추적 역할을 맡았음</li>\n<li>\n<strong>기술적 명석함</strong>과 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21407",
+      "guid": "https://news.hada.io/topic?id=21407",
+      "pubDate": "2025-06-12T09:59:34+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Android 16 출시",
+      "description": {
+        "$text": "<ul>\n<li>Android 16이 공식 공개되어 Pixel 기기부터 정식 배포되며, 올해 내 다양한 브랜드로 확장될 예정임</li>\n<li>\n<strong>실시간 알림 업데이트, 앱별 알림 자동 그룹화</strong> 등으로 정보 과부하를 줄이고, 사용자 경험을 대폭 향상함</li>\n<li>\n<strong>Material 3 Expressive 디자인</strong>을 위한 토대...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21406",
+      "guid": "https://news.hada.io/topic?id=21406",
+      "pubDate": "2025-06-12T09:56:32+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "브라이언 윌슨 사망",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Beach Boys의 공동 창립자</strong>인 브라이언 윌슨이 향년 82세로 <strong>별세</strong> 소식 공개됨</li>\n<li>\n<strong>공식 사인</strong>은 밝혀지지 않았으며, 2024년 초 신경 인지 장애를 겪고 있다는 사실이 전해짐</li>\n<li>10대 시절 형제들과 친구, 친척과 함께 처음 밴드를 결성해 <stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21405",
+      "guid": "https://news.hada.io/topic?id=21405",
+      "pubDate": "2025-06-12T09:53:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Chili3d – 오픈소스, 브라우저 기반 3D CAD 애플리케이션",
+      "description": {
+        "$text": "<ul>\n<li>OpenCascade를 WebAssembly로 컴파일하고 Three.js와 연동해, 브라우저에서 거의 네이티브 수준의 3D CAD 모델링·편집·렌더링을 구현한 오픈소스 프로젝트</li>\n<li>박스, 원기둥, 회전체 등 3D 형상 생성, 2D 스케치, 부울 연산, 익스트루드·로프트·스윕, 오프셋 등 다양한 CAD 모델링 기능을 지원</li>\n<li>오...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21404",
+      "guid": "https://news.hada.io/topic?id=21404",
+      "pubDate": "2025-06-12T09:50:30+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
