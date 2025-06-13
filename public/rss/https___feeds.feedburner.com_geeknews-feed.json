@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-13T14:45:46+09:00",
+  "lastBuildDate": "2025-06-13T23:33:23+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43888,6 +43888,32 @@
       "guid": "https://news.hada.io/topic?id=21429",
       "pubDate": "2025-06-13T10:57:29+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "iPhone 11 QEMU 에뮬레이션 구현",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>QEMU</strong>는 다양한 아키텍처 머신과 유저스페이스를 소프트웨어적으로 에뮬레이션함</li>\n<li>최근, QEMU 기반으로 <strong>Apple Silicon 및 iPhone 11</strong> 에뮬레이션 프로젝트가 공개됨</li>\n<li>QEMU는 동적 변환을 이용한 <strong>우수한 성능</strong>과 KVM, Xen 등 <strong>하이퍼바...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21433",
+      "guid": "https://news.hada.io/topic?id=21433",
+      "pubDate": "2025-06-13T23:33:23+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: AI 다국어 더빙 STRA AI",
+      "description": {
+        "$text": "<p>긱뉴스 매일같이 보는 사용자 중 1명입니다. 처음으로 저희 회사에서<br />\n만드는 제품 올려 보네요 :)</p>\n<p>스트라 AI는 영상의 언어를 32개 다국어로 만들어주는 솔루션입니다.<br />\n원본 화자의 목소리 특징은 그대로 두고 언어만 바꿔주는 거라서<br />\n감정 표현이나 톤이 그대로 유지되는 것이 특징입니다.",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21432",
+      "guid": "https://news.hada.io/topic?id=21432",
+      "pubDate": "2025-06-13T22:58:18+09:00",
+      "author": "kyhwin2000",
       "category": ""
     }
   ]
