@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-13T10:33:17+09:00",
+  "lastBuildDate": "2025-06-13T10:59:50+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43861,6 +43861,32 @@
       "link": "https://news.hada.io/topic?id=21419",
       "guid": "https://news.hada.io/topic?id=21419",
       "pubDate": "2025-06-13T09:37:22+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Next.js 15.1+는 Vercel 외 환경에서 사실상 쓸 수 없다",
+      "description": {
+        "$text": "<ul>\n<li>Next.js 15.1.8부터 <strong>메타데이터 처리 방식이 변경</strong>되어 Vercel 이외의 배포 환경에서 심각한 문제 발생\n<ul>\n<li>메타데이터가 HTML head에 직접 렌더링되지 않고 &quot;메타데이터 스트리밍&quot;이라는 방식으로 따로 전송됨</li>\n</ul>\n</li>\n<li>\n<strong>검색 엔진이 자바스크립트를 실행...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21430",
+      "guid": "https://news.hada.io/topic?id=21430",
+      "pubDate": "2025-06-13T10:59:50+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "구글 픽셀은 더 이상 AOSP 레퍼런스 디바이스가 아님",
+      "description": {
+        "$text": "<ul>\n<li>구글이 <strong>Android 16</strong>의 소스 코드를 AOSP에 공개했지만, <strong>Pixel 하드웨어 저장소</strong>는 공개하지 않음</li>\n<li>Pixel 기기 트리 및 관련 코드 미공개로 인해 커뮤니티 일각에서는 “<strong>AOSP 폐지</strong>” 의혹이 나왔음</li>\n<li>Google은 <strong>&quot;AOSP는 중단되지 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21429",
+      "guid": "https://news.hada.io/topic?id=21429",
+      "pubDate": "2025-06-13T10:57:29+09:00",
       "author": "xguru",
       "category": ""
     }
