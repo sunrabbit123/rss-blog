@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-15T00:31:56+09:00",
+  "lastBuildDate": "2025-06-15T03:00:39+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -44070,6 +44070,19 @@
       "guid": "https://news.hada.io/topic?id=21446",
       "pubDate": "2025-06-15T00:31:56+09:00",
       "author": "gogokow27",
+      "category": ""
+    },
+    {
+      "title": "2025-06-12 GCP 장애 보고서",
+      "description": {
+        "$text": "<ul>\n<li>Service Control: Google 및 Google Cloud API 가 사용하는 핵심 모듈 중 하나\n<ul>\n<li>2025-05-29 Service Control 에 새 기능 배포. 새로운 정책을 검사하는 기능이었음</li>\n<li>2025-06-12 새로운 정책이 추가되면서 문제 시작:\n<ul>\n<li>null pointer 로 인한 크래시 루프* 발생</li>\n<li>feature flag 가...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21447",
+      "guid": "https://news.hada.io/topic?id=21447",
+      "pubDate": "2025-06-15T03:00:39+09:00",
+      "author": "roxie",
       "category": ""
     }
   ]
