@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-14T01:28:00+09:00",
+  "lastBuildDate": "2025-06-14T09:58:33+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -43927,6 +43927,123 @@
       "guid": "https://news.hada.io/topic?id=21434",
       "pubDate": "2025-06-14T01:28:00+09:00",
       "author": "kunggom",
+      "category": ""
+    },
+    {
+      "title": "메타, 슈퍼인텔리전스 연구소 출범 위해 Scale AI에 143억 달러 투자",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Meta</strong>가 <strong>Scale AI</strong>에 143억 달러를 투자하며 자체 인공지능 부문을 강화할 계획임</li>\n<li>이번 거래로 <strong>Scale AI의 CEO Alexandr Wang</strong>은 Meta 내 신설된 <strong>슈퍼인텔리전스 연구소</strong>에서 주요 리더십을 맡게 됨</li>\n<li>Scale AI 팀 일부도 M...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21443",
+      "guid": "https://news.hada.io/topic?id=21443",
+      "pubDate": "2025-06-14T09:58:33+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "GPU에서 선명한 텍스트 렌더링하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>텍스트 렌더링</strong>의 품질 문제, 특히 <strong>SDF(거리장) 기반 방식</strong>의 한계를 해결하기 위해 새로운 실시간 벡터 렌더링 기법을 제안함</li>\n<li>글리프(문자)를 벡터 곡선 형태로 GPU에 직접 전송하여 <strong>실시간 래스터라이즈</strong>를 수행함으로써 무제한 해상도 및 적은 메...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21442",
+      "guid": "https://news.hada.io/topic?id=21442",
+      "pubDate": "2025-06-14T09:55:31+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HP 이사회에서 Palm 인수 설득 후, 짧은 기간 내 파괴되는 것을 목격한 경험",
+      "description": {
+        "$text": "<ul>\n<li>HP의 <strong>최고기술책임자(CTO)</strong> 가 Palm 인수를 적극적으로 추진했으나, 새 경영진의 전략 변화로 <strong>WebOS 플랫폼</strong>이 단 49일 만에 중단됨</li>\n<li>인수 당시 Palm의 <strong>WebOS</strong>는 기술적으로 우수하고 차별화된 모바일 플랫폼으로 평가받았음</li>\n<li>인수 직후 <str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21441",
+      "guid": "https://news.hada.io/topic?id=21441",
+      "pubDate": "2025-06-14T09:52:30+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "만약 달이 1픽셀이라면: 지루할 정도로 정확한 태양계 모델 (2014)",
+      "description": {
+        "$text": "<ul>\n<li>이 콘텐츠는 <strong>달의 크기를 1픽셀</strong>로 설정해, <strong>태양계의 실제 간격</strong>을 시각적으로 표현함</li>\n<li>\n<strong>행성과 위성</strong>들은 무척 작은 크기로, <strong>이들 사이의 방대한 공간</strong>이 강조됨</li>\n<li>\n<strong>우주 대부분이 공허 그 자체</strong>임을 직접적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21440",
+      "guid": "https://news.hada.io/topic?id=21440",
+      "pubDate": "2025-06-14T09:49:29+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "jemalloc 사후 회고문",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>jemalloc</strong>는 2004년에 시작되어 약 20년 동안 널리 사용된 <strong>메모리 할당기</strong>임</li>\n<li>\n<strong>FreeBSD</strong>와 <strong>Mozilla Firefox</strong>, <strong>Facebook</strong> 인프라에서 중요한 역할을 하였으나, 최근 <strong>Meta</strong>의 내부 변화로 인해 공식적...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21439",
+      "guid": "https://news.hada.io/topic?id=21439",
+      "pubDate": "2025-06-14T09:46:28+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Apple 최신 플랫폼 업데이트의 좋은 점, 나쁜 점, 그리고 이상한 점",
+      "description": {
+        "$text": "<h2>macOS</h2>\n<ul>\n<li>\n<strong>가장 좋은 점:</strong> Spotlight 기능 강화\n<ul>\n<li>파워유저를 위한 <strong>강력한 검색 기능</strong> 확장에 긍정적 평가</li>\n<li>\n<strong>서드파티 런처</strong>를 대체할 만한 도구로 발전하는 점이 고무적임</li>\n</ul>\n</li>\n<li>\n<strong>가장 아쉬운 점:</strong> 사라...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21438",
+      "guid": "https://news.hada.io/topic?id=21438",
+      "pubDate": "2025-06-14T09:31:01+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Seedance 1.0 - Bytedance의 멀티샷 비디오 생성모델",
+      "description": {
+        "$text": "<ul>\n<li>텍스트와 이미지 기반의 멀티샷 <strong>비디오 생성 모델</strong>로, 의미 파악과 프롬프트 해석 능력에서 기존 모델보다 <strong>더 정확하고 유연한 성능</strong>을 보임</li>\n<li>1080p의 높은 해상도와 더불어 <strong>부드러운 장면 전환, 풍부한 디테일, 영화적 느낌</strong>의 결과물을 제공</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21437",
+      "guid": "https://news.hada.io/topic?id=21437",
+      "pubDate": "2025-06-14T08:32:19+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "첫 번째 대형 AI 재앙은 아직 오지 않음",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>AI 언어 모델</strong>이 사회적 또는 생명과 관련된 대규모 재앙을 일으킨 사례는 아직 발생하지 않음</li>\n<li>기존에도 <strong>AI 챗봇</strong>이 자살 권장 등으로 개별적 죽음에 연루된 사례가 있었으나, 아직 <strong>대량 인명 피해</strong>로 이어진 적은 없음</li>\n<li>\n<strong>AI 에이전...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21436",
+      "guid": "https://news.hada.io/topic?id=21436",
+      "pubDate": "2025-06-14T08:30:29+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "에이전틱 코딩 추천사항",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>Agentic coding</strong>에 대한 실사용 사례 공유</li>\n<li>\n<strong>Claude Code Sonnet 모델</strong>을 주로 사용하며, IDE 통합보다는 전체 작업을 AI에게 위임하는 방식을 선호함</li>\n<li>\n<strong>Go 언어</strong>는 에이전트 친화적인 구조와 생태계 안정성 덕분에 새로운 백엔드 프로젝트에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21435",
+      "guid": "https://news.hada.io/topic?id=21435",
+      "pubDate": "2025-06-14T08:27:50+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
