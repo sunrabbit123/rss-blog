@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-14T15:33:32+09:00",
+  "lastBuildDate": "2025-06-15T00:31:56+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -44057,6 +44057,19 @@
       "guid": "https://news.hada.io/topic?id=21444",
       "pubDate": "2025-06-14T15:33:32+09:00",
       "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "TDD, AI Agents and Coding - 켄트백",
+      "description": {
+        "$text": "<h3>Kent Beck 소개</h3>\n<ul>\n<li>\n<strong>익스트림 프로그래밍(XP) 창시자</strong>\n</li>\n<li>\n<strong>애자일 선언문 공동 저자</strong> (알파벳 순 첫 번째 서명자)</li>\n<li>\n<strong>TDD(테스트 주도 개발) 선구자</strong>\n</li>\n<li>\n<strong>52년 코딩 경력</strong>의 업계 전설</li>\n<li>현재 &quot;Tidy ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21446",
+      "guid": "https://news.hada.io/topic?id=21446",
+      "pubDate": "2025-06-15T00:31:56+09:00",
+      "author": "gogokow27",
       "category": ""
     }
   ]
