@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-15T03:00:39+09:00",
+  "lastBuildDate": "2025-06-15T10:34:01+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -44083,6 +44083,136 @@
       "guid": "https://news.hada.io/topic?id=21447",
       "pubDate": "2025-06-15T03:00:39+09:00",
       "author": "roxie",
+      "category": ""
+    },
+    {
+      "title": "애플의 \"이성적 사고\" 바이럴 논문에 대한 7가지 반박과 그 한계",
+      "description": {
+        "$text": "<ul>\n<li>애플의 <strong>대형 추론 모델 한계 논문</strong>이 전 세계적으로 큰 반향을 불러일으키며, 여러 전문가들이 다양한 반박을 제기함</li>\n<li>주요 <strong>7가지 반박 논거</strong>가 소개되며, 한계와 문제점을 짚어 실제로 얼마나 설득력이 있는지 분석함</li>\n<li>일부 반박에서 <strong>딥러닝 모델의 ...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21458",
+      "guid": "https://news.hada.io/topic?id=21458",
+      "pubDate": "2025-06-15T10:34:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "SIMD에 적합한 부분 문자열 탐색 알고리듬 (2018)",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>SIMD 친화적</strong>인 <strong>부분 문자열 탐색 알고리듬</strong>에 관한 주제임</li>\n<li>\n<strong>빠른 문자열 검색</strong>을 위한 기술적 접근법 제시 내용임</li>\n<li>\n<strong>병렬 처리</strong>를 활용해 기존 방식 대비 효율성 <strong>향상</strong> 방향임</li>\n<li>개발자 및 IT 전문...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21457",
+      "guid": "https://news.hada.io/topic?id=21457",
+      "pubDate": "2025-06-15T10:03:17+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "스크래치에서 직접 구현한 BitTorrent 클라이언트",
+      "description": {
+        "$text": "<ul>\n<li>이 오픈소스 프로젝트는 <strong>Go 언어로 구현된 BitTorrent 클라이언트</strong>로, 파일 다운로드 기본 로직을 자체 구현함</li>\n<li>\n<strong>Bencode 인코딩/디코딩</strong>을 직접 처리하며, 강력한 오류 검증 기능을 포함함</li>\n<li>\n<strong>.torrent 파일 파싱, 정보 해시 계산, 피어 간 통신</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21456",
+      "guid": "https://news.hada.io/topic?id=21456",
+      "pubDate": "2025-06-15T10:00:16+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자가 적응 대형 언어 모델",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>기존의 대형 언어 모델(LLM)</strong> 은 새로운 작업이나 지식에 맞게 즉각적으로 적응 능력이 부족함</li>\n<li>새로운 <strong>SEAL 프레임워크</strong>는 LLM이 직접 자신의 미세조정 데이터와 업데이트 지침을 생성하여 자가 적응 기능을 가짐</li>\n<li>이 과정은 <strong>자가 편집(self-edit)...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21455",
+      "guid": "https://news.hada.io/topic?id=21455",
+      "pubDate": "2025-06-15T09:57:15+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "페아노 산술은 충분하다, 왜냐하면 페아노 산술은 계산을 인코딩할 수 있기 때문임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>페아노 산술(PA)</strong> 은 <strong>기계적인 계산 과정</strong>을 표현할 수 있으므로, 모든 단일 Goodstein 수열의 소멸을 PA에서 증명 가능함</li>\n<li>\n<strong>Cantor 표준형과 유전적 기수 표기법</strong>을 통해 Goodstein 수열과 그 하강성 등을 표현하며, 이로 인해 <strong>유한한 길이...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21454",
+      "guid": "https://news.hada.io/topic?id=21454",
+      "pubDate": "2025-06-15T09:54:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "OxCaml - OCaml 프로그래밍 언어를 위한 확장 셋",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OxCaml</strong>은 <strong>OCaml에 성능 지향적인 기능을 추가</strong>하는 확장 셋임</li>\n<li>\n<strong>Jane Street의 프로덕션 컴파일러</strong>이자 OCaml의 <strong>미래 기능 실험실 역할</strong>을 함</li>\n<li>\n<strong>안전성, 편의성, 예측 가능성</strong>을 중시하여 성능 제어 확대를...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21453",
+      "guid": "https://news.hada.io/topic?id=21453",
+      "pubDate": "2025-06-15T09:51:12+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "자궁내막증은 흥미로운 질병임",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>자궁내막증</strong>은 전세계적으로 널리 퍼져 있으나 <strong>진단 및 연구가 극히 부족</strong>한 만성 질병임</li>\n<li>그 원인에 대한 <strong>지배적 가설인 역행성 월경설</strong>조차 일부 사례만 설명하며, 다양한 이론들이 혼재함</li>\n<li>\n<strong>암과 유사하게</strong> 유전적·후천�...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21452",
+      "guid": "https://news.hada.io/topic?id=21452",
+      "pubDate": "2025-06-15T09:48:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Stable Diffusion 3.5을 순수 PyTorch로 처음부터 다시 구현함",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>miniDiffusion</strong> 프로젝트는 <strong>Stable Diffusion 3.5</strong> 모델을 <strong>PyTorch</strong>만을 사용하여 처음부터 재구현한 오픈소스임</li>\n<li>이 프로젝트의 구조는 <strong>교육 목적</strong>과 <strong>실험, 해킹</strong> 용도에 초점을 둔 것이 특징임</li>\n<li>전체 코드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21451",
+      "guid": "https://news.hada.io/topic?id=21451",
+      "pubDate": "2025-06-15T09:45:09+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "somo - 인간 친화적인 리눅스 소켓 및 포트 모니터링 도구",
+      "description": {
+        "$text": "<ul>\n<li>기존 netstat의 불편함을 해결, 리눅스에서 <strong>소켓 및 포트 모니터링</strong>을 더욱 직관적인 <strong>테이블 뷰</strong> 형태로 보여줌</li>\n<li>가독성이 높고, 다양한 <strong>필터링 옵션</strong>과 <strong>프로세스 인터랙티브 종료 기능</strong>까지 제공</li>\n<li>\n<code>netstat -tulpn</c...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21450",
+      "guid": "https://news.hada.io/topic?id=21450",
+      "pubDate": "2025-06-15T09:31:02+09:00",
+      "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "Meta·OpenAI·Palantir CTO 등 실리콘 밸리 테크 임원들, 미 육군 내 새로운 혁신 자문단 합류",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>OpenAI·Meta·Palantir CTO 등 실리콘밸리 임원들이</strong> 미 육군의 <strong>최초 기술 예비군(Detachment 201) 프로그램에 합류</strong>함</li>\n<li>\n<strong>AI·데이터·첨단 기술을 보유한</strong> 이들 임원들은 <strong>육군 혁신 프로젝트와 AI 교육, 상용기술 도입 자문</strong> 등 임무에...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21449",
+      "guid": "https://news.hada.io/topic?id=21449",
+      "pubDate": "2025-06-15T08:56:36+09:00",
+      "author": "xguru",
       "category": ""
     }
   ]
