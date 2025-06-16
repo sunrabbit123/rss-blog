@@ -13,7 +13,7 @@
       "href": "https://news.hada.io/rss/news"
     }
   ],
-  "lastBuildDate": "2025-06-16T01:04:33+09:00",
+  "lastBuildDate": "2025-06-16T10:30:13+09:00",
   "items": [
     {
       "title": "Show GN: 이것은 데이팅 앱이 아닙니다.",
@@ -44213,6 +44213,136 @@
       "guid": "https://news.hada.io/topic?id=21449",
       "pubDate": "2025-06-15T08:56:36+09:00",
       "author": "xguru",
+      "category": ""
+    },
+    {
+      "title": "아폴로 \"8-볼\" FDAI(비행 지시 및 자세 표시계) 내부",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>아폴로 임무에서 중요하게 사용된 'FDAI'</strong> 는 우주선의 <strong>자세와 방향</strong>을 시각적으로 표시하는 핵심 기기임</li>\n<li>이 기기는 <strong>3축 회전(롤, 피치, 요)</strong> 을 모두 표현하며, 본체 내부의 메커니즘과 <strong>겉의 반구형 셸</strong>이 결합되어 작동함</li>\n...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21478",
+      "guid": "https://news.hada.io/topic?id=21478",
+      "pubDate": "2025-06-16T10:30:13+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "사회불안장애 연관 장내미생물이 사회적 두려움을 증가시킴",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>사회불안장애</strong>와 연관된 <strong>장내미생물</strong>이 사회적 두려움 형성에 중요한 역할을 함</li>\n<li>실험에서 사회불안장애 환자의 장내미생물을 이식받은 쥐에서 <strong>사회적 회피, 불안 반응</strong> 증가 현상 확인</li>\n<li>해당 연구는 <strong>장-뇌 축</strong>이 사회적 행...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21477",
+      "guid": "https://news.hada.io/topic?id=21477",
+      "pubDate": "2025-06-16T10:27:11+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "HDMI 더미 플러그의 EDID를 Raspberry Pi로 수정하기",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>HDMI 더미 플러그</strong>의 EDID를 <strong>Raspberry Pi</strong>를 활용해 쉽게 변경할 수 있는 방법 소개</li>\n<li>더미 플러그는 실제 출력 장치 없이 기기에 모니터가 연결된 것처럼 인식시키는 용도임</li>\n<li>\n<strong>EDID 정보</strong>를 1080p 캡처 장치의 것과 동일하게 복사해, 플러그...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21476",
+      "guid": "https://news.hada.io/topic?id=21476",
+      "pubDate": "2025-06-16T10:24:10+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Show GN: 한국 미세먼지 크롬 익스텐션",
+      "description": {
+        "$text": "<p>안녕하세요.</p>\n<p>제가 두어달 쯤 전에 미세먼지 크롬 익스텐션을 만들었는데, 가족과 친구들이 매우 잘 쓰고 있어 소개해드리려 합니다. (저도 틈만 나면 봐요...API 제대로 돌아가나 체크할 겸ㅎㅎ)</p>\n<p>주소는 카카오 API를, 미세먼지 정보는 공공데이터포털의 Open API를 사용했습니다.</p>\n<p>다운로드 링크",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21475",
+      "guid": "https://news.hada.io/topic?id=21475",
+      "pubDate": "2025-06-16T10:23:26+09:00",
+      "author": "ydh0110",
+      "category": ""
+    },
+    {
+      "title": "Andrew Ng: AI 에이전트의 현황 [유튜브]",
+      "description": {
+        "$text": "<ul>\n<li>앤드류 응은 <strong>AI 에이전트와 에이전틱(agentic) 시스템</strong> 개념을 중심으로, 에이전트 정의 논쟁보다 <strong>자율성의 스펙트럼</strong>에 집중할 것을 제안</li>\n<li>현재 실제 비즈니스 기회는 복잡한 완전 자율 에이전트보다, <strong>단순하고 선형적이거나 작은 분기만 있는 워크플로우</s...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21474",
+      "guid": "https://news.hada.io/topic?id=21474",
+      "pubDate": "2025-06-16T10:22:01+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Google Cloud 장애 보고서 – 2025-06-13",
+      "description": {
+        "$text": "<ul>\n<li>2025년 6월 12일, <strong>Google Cloud</strong>와 <strong>Google Workspace</strong> 서비스에서 외부 API 요청 중 <strong>503 오류</strong>가 전 세계적으로 증가함</li>\n<li>오류 원인은 <strong>Service Control</strong> 시스템의 코드 변경과 정책 데이터에 빈 필드가 포함된 잘못된 정책 반영임</li...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21473",
+      "guid": "https://news.hada.io/topic?id=21473",
+      "pubDate": "2025-06-16T10:21:08+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "미국 팔란티어 감시에 언론인들이 미국 방문을 꺼리는 현상",
+      "description": {
+        "$text": "<ul>\n<li>한 언론인이 <strong>미국 입국 거부</strong>, <strong>구금</strong>, <strong>추방</strong> 경험 공유</li>\n<li>본인 보도 활동이 <strong>Columbia 대학 시위</strong>와 관련있음 강조</li>\n<li>미국 당국에서 <strong>전화기 압수 및 반환</strong> 조치 경험 언급</li>\n<li>\n<strong>국제 언론인</stro...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21472",
+      "guid": "https://news.hada.io/topic?id=21472",
+      "pubDate": "2025-06-16T10:18:07+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "무한 저항기 그리드",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>무한한 저항기 그리드</strong>에 대한 고전적인 수수께끼는 무한 사각 격자에 있는 인접 노드 사이의 유효 저항을 구하는 문제임</li>\n<li>인접 노드 사이의 <strong>유효 저항</strong>은 격자 대칭성과 <strong>Laplace 방정식</strong>의 해법을 이용해 R/2로 나타낼 수 있음</li>\n<li>무한 그리드...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21471",
+      "guid": "https://news.hada.io/topic?id=21471",
+      "pubDate": "2025-06-16T10:15:05+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "Q-learning은 아직 확장 불가능함",
+      "description": {
+        "$text": "<ul>\n<li>최근 대형 언어 모델(LLM) 등에서처럼 <strong>강화학습(RL)의 확장성</strong>이 주목받고 있음</li>\n<li>실제로 AlphaGo, LLM 등은 강력한 성능을 보이나 <strong>주로 on-policy RL 알고리듬</strong>이 사용되고 있음</li>\n<li>\n<strong>Off-policy RL</strong>의 대표 알고리듬인 <strong>Q-learning</str...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21470",
+      "guid": "https://news.hada.io/topic?id=21470",
+      "pubDate": "2025-06-16T10:12:04+09:00",
+      "author": "neo",
+      "category": ""
+    },
+    {
+      "title": "지난 50년간의 정수 선형 프로그래밍: 최근 실용적 진보",
+      "description": {
+        "$text": "<ul>\n<li>\n<strong>정수 선형 프로그래밍(MILP)</strong> 은 여러 산업 분야에서 핵심 도구로 자리잡음</li>\n<li>최신 <strong>솔버의 계산 효율성</strong> 향상 덕분에 과거에는 풀기 어려웠던 문제도 빠르게 최적해를 찾을 수 있음</li>\n<li>이 기사에서는 <strong>MILP 해법의 최근 실용적 발전</strong>과 컴퓨팅 성...</p>",
+        "type": "html",
+        "xml:lang": "ko"
+      },
+      "link": "https://news.hada.io/topic?id=21469",
+      "guid": "https://news.hada.io/topic?id=21469",
+      "pubDate": "2025-06-16T10:09:02+09:00",
+      "author": "neo",
       "category": ""
     }
   ]
